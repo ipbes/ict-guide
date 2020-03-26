@@ -43,5 +43,4 @@
 * [Microsoft Teams](collaboration/ms-teams.md)
 * [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
 * [Confluence](collaboration/confluence.md)
-* [Slack](slack.md)
 
