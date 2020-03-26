@@ -7,8 +7,8 @@
 * [Welcome](introduction/welcome.md)
 * [Data Management Policy](introduction/data-management-policy.md)
 * [Best practices](introduction/best-practices.md)
-* [Getting help](introduction/contact/README.md)
-* [Technical support units](introduction/contact/technical-support-units.md)
+* [Getting help](introduction/contact.md)
+* [Technical support units](introduction/technical-support-units.md)
 * [Contributing to the IPBES user documentation](introduction/contributing-to-the-ipbes-user-documentation.md)
 
 ## Terms of use
@@ -29,8 +29,8 @@
 
 ## Reference Manager <a id="bibliography"></a>
 
-* [Zotero](bibliography/zotero/README.md)
-* [Reference collection](bibliography/zotero/reference-collection.md)
+* [Zotero](bibliography/zotero.md)
+* [Reference collection](bibliography/reference-collection.md)
 
 ## Video/teleconferencing
 

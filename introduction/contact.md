@@ -4,5 +4,3 @@ If you're facing any issue with IPBES IT services and tools, you can submit a su
 
 You can also reach us by getting in touch with the secretariat or through the relevant technical support units of assessments or task forces.
 
-## 
-

@@ -30,19 +30,19 @@ Headquarters in Bonn, Germany
 
 IGES, Tokyo, Japan
 
-## Technical support unit for the assessment of the sustainable use of wild species 
+## Technical support unit for the assessment of the sustainable use of wild species
 
 FRB, Paris and Montpellier, France
 
-## Technical support unit on scenarios and models 
+## Technical support unit on scenarios and models
 
 PBL, Bilthoven, The Netherlands
 
-## Technical support unit for the assessment on values 
+## Technical support unit for the assessment on values
 
 UNAM, Mexico City, Mexico
 
-## Technical support unit on policy support 
+## Technical support unit on policy support
 
 UNEP-WCMC, United Kingdom
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Almost all text on GitHub is processed through a markup language called Markdown — it's an easy way to include simple formatting \(like italics, bold words, lists, and[ links](https://guides.github.com/features/mastering-markdown)\). This guide will show you the ins-and-outs of Markdown on GitHub. \(More on Markdown here [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)\) 
+Almost all text on GitHub is processed through a markup language called Markdown — it's an easy way to include simple formatting \(like italics, bold words, lists, and[ links](https://guides.github.com/features/mastering-markdown)\). This guide will show you the ins-and-outs of Markdown on GitHub. \(More on Markdown here [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)\)
 
 ## Getting started
 
@@ -12,7 +12,7 @@ Almost all text on GitHub is processed through a markup language called Markdown
 
 ### Request creation of a repository
 
-Please fill in [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Xtvls0QpN0iZ9XSIrOVDGRjPVLkvpFxHt2K19TYogsBUNVJXQUpQWVFUQ0M0RzNGN0c0U1cxQjBXVi4u) to request a repository to be created for you under the IPBES community. 
+Please fill in [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Xtvls0QpN0iZ9XSIrOVDGRjPVLkvpFxHt2K19TYogsBUNVJXQUpQWVFUQ0M0RzNGN0c0U1cxQjBXVi4u) to request a repository to be created for you under the IPBES community.
 
 ## Public vs Private repositories
 
@@ -35,17 +35,17 @@ Two common ways to document a project are README files and wikis:
 
 It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
 
-More information here: [https://guides.github.com/features/wikis/](https://guides.github.com/features/wikis/) 
+More information here: [https://guides.github.com/features/wikis/](https://guides.github.com/features/wikis/)
 
 ## Formatting text in GitHub
 
 Almost all text on GitHub is processed through a markup language called Markdown. Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like \# or \*.
 
-More information here: https://guides.github.com/features/mastering-markdown/
+More information here: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ## Resources
 
-[https://guides.github.com/](https://guides.github.com/) 
+[https://guides.github.com/](https://guides.github.com/)
 
 ## Contact
 

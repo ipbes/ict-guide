@@ -2,14 +2,13 @@
 
 ## Introduction
 
-Zotero is, at the most basic level, a reference manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. More broadly, Zotero is a powerful tool for collecting and organizing research information and sources. 
+Zotero is, at the most basic level, a reference manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. More broadly, Zotero is a powerful tool for collecting and organizing research information and sources.
 
 ## Getting started
 
 ### How do I install Zotero
 
- [https://www.zotero.org/support/quick\_start\_guide\#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick_start_guide#how_do_i_install_zotero)  
-
+[https://www.zotero.org/support/quick\_start\_guide\#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick_start_guide#how_do_i_install_zotero)
 
 ### How do I open Zotero
 
@@ -35,7 +34,7 @@ Zotero can[ add items automatically](https://www.zotero.org/support/getting_stuf
 
 ![](https://lh4.googleusercontent.com/gaXjM4-jeVHJzunEcBgr0gS1_t15sIi009yafOyZSRQGGoOnvHeNL98OwnLJH9FXbe7sedxyq93BKYJQNtm9sNYnHJwjOGKLf5P_NYV7kXN2jHj7m-v9eOZ4Y7qQcuJsJQPtRkxk)
 
-Items can be[ added manually](https://www.zotero.org/support/getting_stuff_into_your_library#manually_adding_and_editing_items) by clicking the green New Item \(![](https://lh6.googleusercontent.com/WugT6Z9drtU8od8O4Nh0OhHmbtTxPieHCklTy79VyANybBmhFsPzjN7wVkZbTd347Ebe_byeyshnStUwMZmdLx1R6y_1hY1hoa13Wn4Nsim_FhI5Gl3GNYBHEWojIKZgbje2BL4d)\) button in the Zotero toolbar, then selecting the appropriate item type. Metadata can then be added by hand in the right-hand pane. Apart from the versatility this provides, it is important for adding primary documents. 
+Items can be[ added manually](https://www.zotero.org/support/getting_stuff_into_your_library#manually_adding_and_editing_items) by clicking the green New Item \(![](https://lh6.googleusercontent.com/WugT6Z9drtU8od8O4Nh0OhHmbtTxPieHCklTy79VyANybBmhFsPzjN7wVkZbTd347Ebe_byeyshnStUwMZmdLx1R6y_1hY1hoa13Wn4Nsim_FhI5Gl3GNYBHEWojIKZgbje2BL4d)\) button in the Zotero toolbar, then selecting the appropriate item type. Metadata can then be added by hand in the right-hand pane. Apart from the versatility this provides, it is important for adding primary documents.
 
 ## Citing
 
@@ -51,6 +50,5 @@ If the IPBES citation style.csl style doesn’t give the expected output, first 
 
 ## Contact
 
-Please contact the assessment technical support unit if you have questions regarding getting files into the assessment/chapter library, organizing the assessment/chapter Library and taking notes, generating bibliographies,citations, and reports.  
-
+Please contact the assessment technical support unit if you have questions regarding getting files into the assessment/chapter library, organizing the assessment/chapter Library and taking notes, generating bibliographies,citations, and reports.
 

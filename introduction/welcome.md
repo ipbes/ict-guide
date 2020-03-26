@@ -24,7 +24,7 @@ Fax: +49 \(0\) 228 815 0575
 
 ## LinkedIn
 
-https://linkedin.com/company/ipbes
+[https://linkedin.com/company/ipbes](https://linkedin.com/company/ipbes)
 
 ## Zenodo
 

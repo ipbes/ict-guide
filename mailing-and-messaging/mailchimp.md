@@ -2,8 +2,6 @@
 
 ## Subscribe
 
-
-
 ## Check subscription status
 
 ## Unsubscribe

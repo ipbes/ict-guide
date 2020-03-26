@@ -1,6 +1,6 @@
 # Zenodo
 
-[https://zenodo.org/communities/?p=ipbes](https://zenodo.org/communities/?p=ipbes) 
+[https://zenodo.org/communities/?p=ipbes](https://zenodo.org/communities/?p=ipbes)
 
 ## Contributing
 
@@ -11,6 +11,4 @@
 ## Contact
 
 Need support? Contact support.ipbes@ipbes.net
-
-##  
 

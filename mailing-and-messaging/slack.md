@@ -2,8 +2,6 @@
 
 ## Introduction
 
-
-
 ### Your Slack workspace
 
 ### Conversations

@@ -8,23 +8,17 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 &lt;Placeholder&gt;
 
+{% file src="../.gitbook/assets/ms-teams-qs.pdf" caption="Microsoft Team Quick Start Guide" %}
+
 ### Important links
 
 {% tabs %}
-{% tab title="Quick Start Guide \(pdf\)" %}
+
 Click the link below to download the pdf
 
-{% file src="../.gitbook/assets/teams-qs \(2\).pdf" caption="MS teams quick Start Guide" %}
-{% endtab %}
-
-{% tab title="Welcome to Microsoft Teams \(video\)" %}
 Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
-{% endtab %}
 
-{% tab title="Microsoft Teams video training \(videos\)" %}
 [Microsoft Teams video training](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7)
-{% endtab %}
-{% endtabs %}
 
 ## Sign in to Teams
 
@@ -105,7 +99,7 @@ You start one-on-one and group chats the same way: by selecting **New chat** ![N
 
 #### Start a one-on-one chat
 
-Once you've selected **New chat** ![New chat icon in Teams](https://support.content.office.net/en-us/media/d7854e6f-cba6-4045-8820-2a07130394d0.png) and entered the person’s name, compose your message in the box at the bottom of the chat. To open your [formatting options](https://support.office.com/en-gb/article/format-a-message-in-teams-9f7c64e4-0316-472f-b1e8-430cebcfc1e5), select **Format**  ![Expand button](https://support.content.office.net/en-us/media/39818b5e-d559-4213-968c-2f6ac0180f16.png) beneath the box where you type your message.
+Once you've selected **New chat** ![New chat icon in Teams](https://support.content.office.net/en-us/media/d7854e6f-cba6-4045-8820-2a07130394d0.png) and entered the person’s name, compose your message in the box at the bottom of the chat. To open your [formatting options](https://support.office.com/en-gb/article/format-a-message-in-teams-9f7c64e4-0316-472f-b1e8-430cebcfc1e5), select **Format** ![Expand button](https://support.content.office.net/en-us/media/39818b5e-d559-4213-968c-2f6ac0180f16.png) beneath the box where you type your message.
 
 ![Select Format to expand the box.](https://support.content.office.net/en-us/media/4061a793-312b-44be-8565-2d7f68baaf49.png)
 
@@ -121,13 +115,13 @@ Start one the same way you start a one-on-one chat: select **New chat** ![New ch
 
 This starts a new conversation. Everyone who has access to the group chat can [send messages](https://support.office.com/en-gb/article/send-and-read-messages-in-teams-b29e60ec-76af-4d97-8c3c-a4e36f2b64aa).
 
-You can include up to 100 people in a group chat. 
+You can include up to 100 people in a group chat.
 
 #### Add people to the conversation
 
-To loop more people into the conversation, just click **Add people** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) \(or **View and add participants** in group chat\) in the top right corner of Teams. Then, type the names of the people you'd like to chat with, select how much of the chat history to include, and click **Add**. 
+To loop more people into the conversation, just click **Add people** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) \(or **View and add participants** in group chat\) in the top right corner of Teams. Then, type the names of the people you'd like to chat with, select how much of the chat history to include, and click **Add**.
 
-**Note:** When adding someone to a group chat \(not a one-on-one\), you can include the chat history. 
+**Note:** When adding someone to a group chat \(not a one-on-one\), you can include the chat history.
 
 ![Chat history in Teams](https://support.content.office.net/en-us/media/2f0b0e65-1e64-4a9e-89cd-39e4f691ea2b.png)
 
@@ -145,19 +139,5 @@ To see who’s in a group chat, hover over the number of participants in the cha
 
 ### Find and filter
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## OneNote
-
-
 

@@ -17,17 +17,17 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 
 ## Getting started
 
-### Sign in and join a meeting 
+### Sign in and join a meeting
 
-Participants can join a meeting by clicking the provided meeting link or by going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID provided in the invitation email. 
+Participants can join a meeting by clicking the provided meeting link or by going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID provided in the invitation email.
 
-Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\). 
+Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\).
 
 ### Navigation
 
 #### The Zoom Menu bar
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](https://github.com/ipbes/ict-guide/tree/24e24e6ece07483d67c7ceffe7c9e12ceacb1beb/.gitbook/assets/image%20%282%29.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 

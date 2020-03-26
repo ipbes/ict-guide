@@ -4,7 +4,7 @@ Thank you for helping make our documentation better!
 
 In order to maintain a consistent style and voice throughout our documentation please try to follow these standards and conventions when filing Pull Requests against our documentation.
 
-### Markdown
+## Markdown
 
 GitBook \(which we use for documentation\) uses Markdown as its file format.
 
@@ -17,11 +17,11 @@ GitBook \(which we use for documentation\) uses Markdown as its file format.
 * Do not hard-wrap prose text. Set your text editor to soft wrapping.
 * Internal links should be absolute \(starting with `/`\) and link to a file ending in `.md`, not `.html`. That makes them easier to find when needed to update.
 
-### Language usage
+## Language usage
 
 * All documentation should be written in English.
 
-### Process
+## Process
 
 * Favor many small Pull Requests \(PR\) over larger ones.
 * Never push directly to the master branch.
