@@ -156,6 +156,51 @@ Your digital hand is now raised. Lower it by clicking the same button, now label
 
 The same method can be used to raise your hand in a Zoom meeting on a mobile device, simply tap "Raise Hand" at the bottom left corner of the screen. The hand icon will turn blue and the text below it will switch to say "Lower Hand" while your hand is raised.
 
+## Share content
+
+### Zoom client
+
+1. From the Zoom client, choose **Share Screen**.
+2. Choose to share any open application or one of the following:
+   1. Desktop Screen 1
+   2. Desktop Screen 2 \(if a second monitor is connected\)
+   3. Whiteboard
+   4. iPhone/ iPad
+3. Enable or disable your computer’s sound.
+4. Enable or disable full screen optimization.
+5. Choose **Share Screen**.
+
+### iphone/iPad
+
+1. From the Apple application, choose **Share Content**.
+2. Choose one of the following:
+   1. Photos
+   2. iCloud Drive
+   3. Box
+   4. Dropbox
+   5. Google Drive
+   6. Microsoft OneDrive for Business
+   7. Microsoft OneDrive
+   8. Website URL
+   9. Bookmark
+3. Enter applicable details for sharing the specific content.
+
+### Android
+
+1. From the Android application, choose **Share Content**.
+2. Choose one of the following:
+   1. Photos
+   2. iCloud Drive
+   3. Box
+   4. Dropbox
+   5. Google Drive
+   6. Microsoft OneDrive for Business
+   7. Microsoft OneDrive
+   8. Website URL
+   9. Bookmark
+   10. Enter applicable details for sharing the specific content.
+3. Enter applicable details for sharing the specific content.
+
 ## Keyboard shortcuts for common actions
 
 ### **Participant shortcuts**
