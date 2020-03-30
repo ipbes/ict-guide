@@ -66,29 +66,31 @@ You will then be prompted how you wish to join your audio. If you wish to join a
 
 [![Join Audio by Computer](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Computer-300x167.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Computer.png)
 
-#### Join via Telephone
+### Join via Telephone
 
-If you are unable to join from Zoom on a computer or mobile device, then you can join on the telephone instead.
+You can join a Zoom meeting via teleconferencing/ audio conferencing on telephone. This is useful in occasions where:
 
-If you would like to attend a Zoom meeting via telephone within NZ please call the NZ number \(check this link for up to date numbers [https://zoom.us/zoomconference](https://zoom.us/zoomconference)\). Then enter the Meeting ID and PIN \(if required\) when prompted.
+* you do not have a microphone or speaker on your computer,
+* you do not have a smartphone \(iOS or Android\) while on the road, or
+* you could not connect to a network for video and VoIP/ computer audio.
+
+If you would like to attend a Zoom meeting via telephone you will need to get check if the country you would like to dial from is available here  [https://zoom.us/zoomconference](https://zoom.us/zoomconference). Then enter the Meeting ID and PIN \(if required\) when prompted.
 
 _Please note calls will be charged at standard national rates._
 
-There are also many “local” dial-in numbers from many international locations. You can find more details on these [here](https://blogs.otago.ac.nz/zoom/ways-to-join-or-host-a-meeting/phone/).
-
-#### Join via Computer & Audio via Telephone
+### Join via Computer & Audio via Telephone
 
 It is possible to use a combination of computer for video and phone for audio.
 
-If you use this option, then enter by computer first and select the **Join By Phone** tab when the audio pop-up window appears \(see example below\). This will display the NZ dial in number for you \(or you can change it to display one of the many other countries which have a “local” dial in number by clicking on the flag icon\), as well as the Meeting ID to enter and your Participant ID.
+If you use this option, then enter by computer first and select the **Join By Phone** tab when the audio pop-up window appears \(see example below\). This will display countries which have a “local” dial in number by clicking on the flag icon\), as well as the Meeting ID to enter and your Participant ID.
 
-Dial in as noted above, however after entering the Meeting ID, you will be prompted to enter your Participant ID. Simply enter this number followed by \# and your video and audio will then be synchronised.
+Dial in as noted above, however after entering the Meeting ID, you will be prompted to enter your Participant ID. Simply enter this number followed by \# and your video and audio will then be synchronized.
 
 [![Join Audio by Telephone](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone-300x151.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone.png)
 
 ## Navigating Zoom
 
-#### The Zoom Menu bar
+### The Zoom Menu bar
 
 ![Zoom navigation](../.gitbook/assets/image.png)
 
