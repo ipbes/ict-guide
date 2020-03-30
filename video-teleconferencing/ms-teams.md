@@ -1,6 +1,11 @@
-# Microsoft Teams Meetings and Calls
+---
+description: >-
+  Use MS Teams for setting up meetings and calls within the secretariat (with
+  @ipbes.net or @un.org accounts). It is recommended to use Zoom or GoTo Meeting
+  when organising meetings with
+---
 
-## 
+# Microsoft Teams Meetings and Calls
 
 ## Introduction
 
