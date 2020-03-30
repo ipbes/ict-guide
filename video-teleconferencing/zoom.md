@@ -156,3 +156,31 @@ Your digital hand is now raised. Lower it by clicking the same button, now label
 
 The same method can be used to raise your hand in a Zoom meeting on a mobile device, simply tap "Raise Hand" at the bottom left corner of the screen. The hand icon will turn blue and the text below it will switch to say "Lower Hand" while your hand is raised.
 
+## Keyboard shortcuts for common actions
+
+### **Participant shortcuts**
+
+* **Alt**+**V**: Start/Stop your Video
+* **Alt**+**A**: Mute/unmute your Audio
+* **Alt**+**F**: Enter or exit full screen
+* **Alt**+**Y**: Raise/lower hand
+
+### **Meeting organiser/presenter shortcuts**
+
+* **Ctrl+Alt+Shift**: Move focus to Zoom's meeting controls
+* **Ctrl**+**2**: Read active speaker name 
+* **Alt**: Turn on/off the option “Always show meeting control toolbar” in Accessibility Settings
+* **Alt**+**M**: Mute/unmute everyone except host Note: For the meeting host only
+* **Alt**+**S**: Launch share screen window and stop screen share Note: Will only work when meeting control toolbar has focus
+* **Alt**+**T**: Pause or resume screen share Note: Will only work when meeting control toolbar has focus
+* **Alt**+**R**: Start/stop local recording
+* **Alt**+**C**: Start/stop cloud recording
+* **Alt**+**P**: Pause or resume recording
+* **Alt**+**N**: Switch camera
+* **Alt**+**H**: Display/hide In-Meeting Chat panel
+* **Alt**+**U**:Display/hide Participants panel
+* **Alt**+**I**: Open Invite window
+* **Alt**+**Shift**+**T**: Screenshot
+
+\*\*\*\*
+
