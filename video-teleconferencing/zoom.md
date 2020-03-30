@@ -15,28 +15,30 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
-## How to join a Zoom meeting
+## Join a Zoom meeting
 
-Participants can join a meeting by clicking the provided meeting link or by going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID provided in the invitation email.
+Participants can join a meeting by clicking the provided **meeting link** or by going to [join.zoom.us](https://zoom.us/join) and entering the **meeting ID** provided in the invitation email.
 
 Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\).
-
-### Connection details
-
-You can join the call by clicking on the link that may have been sent to your email or on an event page on this website
 
 1. click on the Zoom link \(it will look something like this: [https://ipbes.zoom.us/j/123456789](https://ipbes.zoom.us/j/123456789)\) OR
 2. Go to [https://ipbes.zoom.us/join](https://ipbes.zoom.us/join) and Enter the Meeting ID that you have been provided with in the appropriate field and click ‘Join’ \(the Meeting ID will be a 9 or 10 digit number\)
 
 [![Join a Meeting](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-a-Meeting-300x150.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-a-Meeting.jpg)
 
-#### Joining from a mobile Device
+### Join from a mobile Device
 
-If you are joining from a mobile device you will be prompted to download the Zoom Cloud Meetings app from the applications store. See [here](https://support.zoom.us/hc/en-us/sections/200305413-Mobile) for more details
+If you are joining from a mobile device you will be prompted to download the Zoom Cloud Meetings app from the applications store. See [here](https://support.zoom.us/hc/en-us/sections/200305413-Mobile) for more platform specific details.
+
+1. Open the app and login with your credentials.
+2. Choose **Join a Meeting**.
+3. Enter the “Meeting ID.”
+
+### Join from Zoom desktop client
 
 #### Joining from a computer: install required software
 
-When entering a Zoom meeting for the first time from a computer you will need to download a small application file.mThis process is easy to complete on all commonly used browsers. See examples below:
+When entering a Zoom meeting for the first time from a computer you will need to download a small application file. This process is easy to complete on all commonly used browsers. See examples below:
 
 **Mozilla Firefox**
 
@@ -84,9 +86,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 [![Join Audio by Telephone](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone-300x151.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone.png)
 
-### 
-
-## Navigation
+## Navigating Zoom
 
 #### The Zoom Menu bar
 
@@ -102,9 +102,9 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 6. Leave or end the meeting
 7. QA \(Webinar\)
 
-## Participating in the call
+## Participating in a Zoom meeting
 
-#### Raising Your Hand
+### Raising Your Hand
 
 As the non-speaker if you wish to ask a question or make a point during a meeting it is good protocol to use the ‘Raise Hand’ facility.
 
@@ -120,7 +120,7 @@ If you wish to lower your hand, click the ‘Lower hand’ icon that will have r
 
 [![Lower Hand](https://blogs.otago.ac.nz/zoom/files/2016/04/Lower-Hand.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Lower-Hand.jpg)
 
-#### Using Chat
+### Using Chat
 
 You can use the ‘Chat’ facility to send text chat to all participants or privately to specific participants.
 
@@ -132,7 +132,7 @@ A chat window will then open. Select ‘Everyone’ or the name of the person yo
 
 ![Zoom chat with file upload](https://ipbes.net/sites/default/files/inline-images/chat.jpg)
 
-#### Disabling video
+### Disabling video
 
 It is possible that during the conference participants will be ask to turn off their cameras and move to audio only, particularly if there are problems with the available bandwidth.
 
@@ -140,7 +140,7 @@ To do this simply click on the camera icon at the bottom of the Zoom window.
 
 [![Stop Video](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)
 
-#### Disabling microphone \(mute function\)
+### Disabling microphone \(mute function\)
 
 It is recommended to mute your microphone when you are not speaking to reduce background noise and improve audio quality.
 
@@ -148,17 +148,9 @@ To do this simply click on the Mute icon at the bottom of the Zoom window.
 
 [![Stop Video](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)
 
-#### Getting attention: Raise hand
+## Sharing content
 
-At the bottom of the window on the right side of the screen, click the button labeled "Raise Hand." Click "Raise Hand" if you want to say something in the meeting.[![Screen Shot 2020 03 16 at 5.39.26 PM](https://i.insider.com/5e6ff268c485406c7f3d6aa2?width=700&format=jpeg&auto=webp)](https://i.insider.com/5e6ff268c485406c7f3d6aa2) 
-
-Your digital hand is now raised. Lower it by clicking the same button, now labeled "Lower Hand."
-
-The same method can be used to raise your hand in a Zoom meeting on a mobile device, simply tap "Raise Hand" at the bottom left corner of the screen. The hand icon will turn blue and the text below it will switch to say "Lower Hand" while your hand is raised.
-
-## Share content
-
-### Zoom client
+### Sharing content from Zoom desktop client
 
 1. From the Zoom client, choose **Share Screen**.
 2. Choose to share any open application or one of the following:
@@ -170,7 +162,7 @@ The same method can be used to raise your hand in a Zoom meeting on a mobile dev
 4. Enable or disable full screen optimization.
 5. Choose **Share Screen**.
 
-### iphone/iPad
+### Sharing content from iphone/iPad
 
 1. From the Apple application, choose **Share Content**.
 2. Choose one of the following:
@@ -185,7 +177,7 @@ The same method can be used to raise your hand in a Zoom meeting on a mobile dev
    9. Bookmark
 3. Enter applicable details for sharing the specific content.
 
-### Android
+### Sharing content from Android
 
 1. From the Android application, choose **Share Content**.
 2. Choose one of the following:
