@@ -8,6 +8,21 @@
 
 Cloud-based meeting recording, support for larger meetings of up to 250 participants; **teams** meetings, which provides the ability to host meetings across multiple organisations. Meetings in Teams include audio, video, and sharing.
 
+## Meet Now
+
+You can launch an instant meeting with a colleague using the Meet Now service of MS Teams.  You can start a Meet Now as follows meeting, do one of the following:
+
+1. Click on the Meet Now icon from a channel or conversation.
+
+![Meet Now icon](../.gitbook/assets/image%20%281%29.png)
+
+1. In your video preview, enter a name for the meeting, and select Meet Now
+2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.
+
+{% hint style="info" %}
+You can watch these instructions in this [Video Tutorial](https://www.microsoft.com/en-us/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
+{% endhint %}
+
 ## Schedule a meeting
 
 Meetings can either be set up through the Microsoft Teams App or Outlook. There are several ways to schedule a meeting:
@@ -108,5 +123,27 @@ Meeting notes are a great place to capture and share notes before, during, and a
 
 ## Blur your background in a Teams meeting
 
-\*\*\*\*
+{% hint style="info" %}
+If you want to avoid embarrassing moments during video calls, don't forget to blur your background.
+{% endhint %}
+
+{% hint style="warning" %}
+Blurring is only possible for scheduled meetings.
+{% endhint %}
+
+* Press the **Join** button
+
+![](../.gitbook/assets/ms_teams_blur.jpg)
+
+* Enable video, toggle the middle slider option to activate background blur and then click on **Join now**.
+
+![](../.gitbook/assets/ms_teams_blur_2%20%281%29.jpg)
+
+To blur the video after joining the meeting:
+
+* Click the **…** dots button to open a menu as in the snapshot directly below.
+* Click the **Blur my background** option.
+* You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
+
+![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur_3.jpg)
 
