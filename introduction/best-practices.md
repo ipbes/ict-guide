@@ -1,4 +1,0 @@
-# Best practices
-
-Be nice
-

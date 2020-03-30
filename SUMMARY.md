@@ -6,15 +6,9 @@
 
 * [Welcome](introduction/welcome.md)
 * [Data Management Policy](introduction/data-management-policy.md)
-* [Best practices](introduction/best-practices.md)
 * [Getting help](introduction/contact.md)
 * [Technical support units](introduction/technical-support-units.md)
 * [Contributing to the IPBES user documentation](introduction/contributing-to-the-ipbes-user-documentation.md)
-
-## Terms of use
-
-* [Data retention](terms-of-use/data-retention.md)
-* [General terms of use](terms-of-use/general-terms-of-use.md)
 
 ## Repositories
 
