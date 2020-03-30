@@ -90,7 +90,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 #### The Zoom Menu bar
 
-![](https://github.com/ipbes/ict-guide/tree/24e24e6ece07483d67c7ceffe7c9e12ceacb1beb/.gitbook/assets/image%20%282%29.png)
+![Zoom navigation](../.gitbook/assets/image.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 
