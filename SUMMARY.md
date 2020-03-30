@@ -8,7 +8,7 @@
 * [Data Management Policy](introduction/data-management-policy.md)
 * [Getting help](introduction/contact.md)
 * [Technical support units](introduction/technical-support-units.md)
-* [Contributing to the IPBES user documentation](introduction/contributing-to-the-ipbes-user-documentation.md)
+* [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-user-documentation.md)
 
 ## Repositories
 

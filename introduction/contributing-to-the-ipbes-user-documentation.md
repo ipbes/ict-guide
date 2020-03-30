@@ -1,4 +1,4 @@
-# Contributing to the IPBES user documentation
+# Contributing to the IPBES ICT user guide
 
 Thank you for helping make our documentation better!
 
@@ -24,5 +24,4 @@ GitBook \(which we use for documentation\) uses Markdown as its file format.
 ## Process
 
 * Favor many small Pull Requests \(PR\) over larger ones.
-* Never push directly to the master branch.
 
