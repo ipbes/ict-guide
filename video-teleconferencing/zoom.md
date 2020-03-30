@@ -122,6 +122,10 @@ If you wish to lower your hand, click the ‘Lower hand’ icon that will have r
 
 [![Lower Hand](https://blogs.otago.ac.nz/zoom/files/2016/04/Lower-Hand.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Lower-Hand.jpg)
 
+The following command can be entered via DTMF tones using your phone's dialpad while in a Zoom Meeting:
+
+* **Star \(\*\) 9** - Toggle raise/ lower hand
+
 ### Using Chat
 
 You can use the ‘Chat’ facility to send text chat to all participants or privately to specific participants.
@@ -149,6 +153,10 @@ It is recommended to mute your microphone when you are not speaking to reduce ba
 To do this simply click on the Mute icon at the bottom of the Zoom window.
 
 [![Stop Video](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)
+
+The following command can be entered via DTMF tones using your phone's dialpad while in a Zoom Meeting:
+
+* **Star \(\*\) 6** - Toggle mute/ un-mute
 
 ## Sharing content
 
