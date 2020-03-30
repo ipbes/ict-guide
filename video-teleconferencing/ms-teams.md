@@ -1,11 +1,8 @@
----
-description: >-
-  Use MS Teams for setting up meetings and calls within the secretariat (with
-  @ipbes.net or @un.org accounts). It is recommended to use Zoom or GoTo Meeting
-  when organising meetings with
----
-
 # Microsoft Teams Meetings and Calls
+
+{% hint style="warning" %}
+**Note:** To avoid frustrations use MS Teams for up meetings and calls within the secretariat \(users with @ipbes.net or @un.org accounts\). It is recommended to use Zoom or GoTo Meeting when organising meetings with
+{% endhint %}
 
 ## Introduction
 
@@ -69,6 +66,8 @@ You can join a Teams meeting anytime, from any device, whether or not you have a
 {% hint style="warning" %}
 **Note:** Some meetings don't allow people to join as guests.
 {% endhint %}
+
+
 
 Go to the meeting invite and select **Join Microsoft Teams Meeting**.
 
