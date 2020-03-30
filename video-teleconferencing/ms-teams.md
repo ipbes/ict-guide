@@ -1,5 +1,7 @@
 # Microsoft Teams Meetings and Calls
 
+## 
+
 ## Introduction
 
 Cloud-based meeting recording, support for larger meetings of up to 250 participants; **teams** meetings, which provides the ability to host meetings across multiple organisations. Meetings in Teams include audio, video, and sharing.
@@ -17,13 +19,11 @@ Meetings can either be set up through the Microsoft Teams App or Outlook
 
    On the right side of the scheduling form you will have the option to add a channel, individual people, or leave both blank to book yourself an appointment.
 
-## **Participate in a meeting**
-
-### Join a meeting
+## Join a MS Teams meeting
 
 You can join Teams meetings anytime, anywhere, from any device.
 
-#### Join by link
+### Join by link
 
 All you need to join a Teams meeting is a link.
 
@@ -31,7 +31,7 @@ When you open the link or select **Join Microsoft Teams Meeting** in your meetin
 
 If you don’t have a Teams account and the organizer has allowed it, you may have the option to enter your name to join the meeting as a guest. If you do have a Teams account, select **Sign in** to join with access to the meeting chat and more. Then, depending on the organizer’s settings, you may join the meeting right away or go to the lobby where people in the meeting can admit you.
 
-#### Join by phone
+### Join by phone
 
 Even if you don’t have internet access or the Teams app, you can join some meetings by phone. If it has a phone number and conference ID in the meeting invite, just dial to join.
 
@@ -39,7 +39,7 @@ Even if you don’t have internet access or the Teams app, you can join some mee
 
 If you see a phone number in your invitation, but it’s not local to you, select **Local numbers** and find one that works for you.
 
-#### Join from calendar
+### Join from calendar
 
 Select **Calendar** ![Meetings button](https://support.content.office.net/en-us/media/f788fe72-7168-45df-98c8-58ceac0a9aac.png) on the left side of the app to see your meetings. Find the meeting you want, and then select **Join**.
 
@@ -47,11 +47,11 @@ Select **Calendar** ![Meetings button](https://support.content.office.net/en-us/
 
 Or, if someone starts the meeting, you'll get a notification you can use to join.
 
-#### Join in a channel
+### Join in a channel
 
 If a meeting takes place in a channel, you’ll see an invitation to join, relevant content, and who’s in the meeting right in the channel. Just select **Join**.
 
-#### Join from chat
+### Join from chat
 
 If the meeting has already begun, it appears in your recent chat list. Select the meeting in your chat list and then select **Join** at the top of the chat.
 
@@ -72,13 +72,13 @@ Go to the meeting invite and select **Join Microsoft Teams Meeting**.
 3. When you're ready, hit **Join now**.
 4. This will bring you into the lobby. We'll notify the meeting organizer that you're there, and someone in the meeting can then admit you.
 
-### Invite people to a meeting in Teams
+## Invite people to a meeting in Teams
 
-#### Before a meeting
+### Before a meeting
 
 To invite someone to join a meeting, use the **Invite people** box to search for and invite people when you schedule or edit a meeting. Then, you can use the scheduling assistant to see times when everyone is free.
 
-#### In a meeting
+### In a meeting
 
 When you're in a meeting, select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) in your meeting controls to see the people who were invited but haven't joined yet.
 
@@ -86,7 +86,7 @@ To ask someone who was invited to join the meeting, select their name &gt; **Mor
 
 You can also type a person's name or phone number in the search box to add someone who was not previously invited.
 
-### **Share Screen**
+## **Share Screen**
 
 To share your screen in a meeting, select **Share** ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls. Then, choose to present your entire desktop, a window, a PowerPoint file, or a whiteboard.
 
@@ -102,11 +102,11 @@ Sharing your system audio lets you stream your computer audio to meeting partici
 
 To share your system audio, select Share ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls and then **Include system audio**. When you share, all your system audio, including notifications, will be included in the meeting. For more on sharing system audio, check out [Share system audio in a Teams meeting](https://support.office.com/en-gb/article/share-system-audio-in-a-teams-meeting-dddede9f-e3d0-4330-873a-fa061a0d8e3b).
 
-### **Take Notes**
+## **Take Notes**
 
 Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting. More information can be found [here](https://support.office.com/en-gb/article/take-meeting-notes-in-teams-3eadf032-0ef8-4d60-9e21-0691d317d103)
 
-### Blur your background in a Teams meeting
+## Blur your background in a Teams meeting
 
 \*\*\*\*
 
