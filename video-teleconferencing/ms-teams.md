@@ -127,10 +127,6 @@ Meeting notes are a great place to capture and share notes before, during, and a
 If you want to avoid embarrassing moments during video calls, don't forget to blur your background.
 {% endhint %}
 
-{% hint style="warning" %}
-Blurring is only possible for scheduled meetings.
-{% endhint %}
-
 * Press the **Join** button
 
 ![](../.gitbook/assets/ms_teams_blur.jpg)
