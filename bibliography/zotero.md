@@ -48,6 +48,14 @@ Zotero uses Citation Style Language \(CSL\) to properly format citations in many
 
 If the IPBES citation style.csl style doesn’t give the expected output, first make sure that you are running the latest \(stable\) version of Zotero, and have the most recent version of the style installed from the [IPBES Bibliography Style Repository](https://gist.github.com/ipbes/e0cbd8aacb25bf1fb2153e04daba0327/archive/371ca8ec849a578469df03e4b920c14d62a0d5f9.zip). Once you have made sure that the style deviates from the style guide, instructions for authors, or published examples, report the error by raising a ticket
 
+## Reference workflow
+
+![Reference workflow](../.gitbook/assets/references-flow_zotero.jpg)
+
+1. The technical support units will be required to clean references stored in Zotero periodically. Experts will only have read only access when this is taking place
+2. Experts are strongly encouraged to import references into Zotero using the Zotero web tool or by importing .ris and .bib files. Dragging of PDF files is discourgaged
+3. File sharing through Zotero is possible. Preference should be on grey literature. DOI of other files will suffice.
+
 ## Contact
 
 Please contact the assessment technical support unit if you have questions regarding getting files into the assessment/chapter library, organizing the assessment/chapter Library and taking notes, generating bibliographies,citations, and reports.
