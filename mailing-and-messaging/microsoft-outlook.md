@@ -1,25 +1,16 @@
 # Microsoft Outlook
 
-## Getting Super Powers
+## How to add a new account quickly
 
-Becoming a super hero is a fairly straight forward process:
+1. Select **File** &gt; **Add Account**.
 
-```
-$ give me super-powers
-```
+![](../.gitbook/assets/image.png)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+2. Enter your email address and click **connect**
 
-Once you're strong enough, save the world:
+![](../.gitbook/assets/image%20%284%29.png)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+3. ****Enter your email address and click **Connect**
 
 
 
