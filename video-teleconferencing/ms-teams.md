@@ -14,7 +14,7 @@ You can launch an instant meeting with a colleague using the Meet Now service of
 
 1. Click on the Meet Now icon from a channel or conversation.
 
-![Meet Now icon](../.gitbook/assets/image%20%283%29.png)
+![Meet Now icon](../.gitbook/assets/image%20%284%29.png)
 
 1. In your video preview, enter a name for the meeting, and select Meet Now
 2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.
@@ -25,6 +25,8 @@ You can watch these instructions in this [Video Tutorial](https://www.microsoft.
 
 ## Schedule a meeting
 
+### Schedule a meeting from MS Teams
+
 Meetings can either be set up through the Microsoft Teams App or Outlook. There are several ways to schedule a meeting:
 
 1. Select **Schedule a meeting** ![Schedule a meeting button](https://support.content.office.net/en-us/media/fd1b3652-61b7-4822-b631-cf71577a241a.png)in a chat \(this is below the compose box\) to book a meeting with the people in the chat.
@@ -33,6 +35,14 @@ Meetings can either be set up through the Microsoft Teams App or Outlook. There 
 Similar to Outlook, in the scheduling form is where you'll give a title to your meeting, invite people, and add meetings details.
 
 On the right side of the scheduling form you will have the option to add a channel, individual people, or leave both blank to book yourself an appointment.
+
+### Schedule a meeting from your calendar
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+1. Open Outlook and switch to the calendar view. Click **New Teams Meeting** at the top of the view
+2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.
+3. You can also invite people from outside your organization from Outlook. Just be sure to [add them as guests](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f) before the meeting starts or they will have to join anonymously.
 
 Find out more: [https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f\#ID0EAABAAA=iOS](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS)
 

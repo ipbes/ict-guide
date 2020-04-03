@@ -10,7 +10,7 @@
 
 2. Enter your email address and click **connect**
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 3. ****Enter your email address and click **Connect**
 
