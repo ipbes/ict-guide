@@ -16,7 +16,7 @@ This guide provides a quick reference to virtual meeting tools being used and su
 ## Types of virtual events
 
 1. Conferences/workshops: inform, engage in discussions, exchange ideas, brainstorm. Format: presentations, facilitated discussion/brainstorming. Duration: often stretch over several days. Time zones: multiple.
-2. Trainings: provide instructions and subject specific guidance, lead exercises. Format: mainly online presentations with little discussion, but may include exercises and other forms of participant engagement. Duration: typically not longer than half a day, although subjectdependent. Time zones: multiple.
+2. Trainings: provide instructions and subject specific guidance, lead exercises. Format: mainly online presentations with little discussion, but may include exercises and other forms of participant engagement. Duration: typically not longer than half a day, although subject dependent. Time zones: multiple.
 3. Meetings: Purpose: sharing information, engage in dialogue, working together on a deliverable. Format: conversation between two parties or more. Typically no visual aids necessary. May include group editing of a document/deliverable. Duration: up to a few hours. Time zones: typically 2.
 4. Webinars: 
 
