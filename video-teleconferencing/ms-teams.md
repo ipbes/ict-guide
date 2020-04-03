@@ -44,7 +44,7 @@ On the right side of the scheduling form you will have the option to add a chann
 2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.
 3. You can also invite people from outside your organization from Outlook. Just be sure to [add them as guests](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f) before the meeting starts or they will have to join anonymously.
 
-Find out more: [https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f\#ID0EAABAAA=iOS](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS)
+[ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS) 
 
 ## Join a MS Teams meeting
 
