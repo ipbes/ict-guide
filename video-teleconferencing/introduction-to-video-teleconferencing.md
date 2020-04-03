@@ -15,10 +15,31 @@ This guide provides a quick reference to virtual meeting tools being used and su
 
 ## Types of virtual events
 
-1. Conferences/workshops: inform, engage in discussions, exchange ideas, brainstorm. Format: presentations, facilitated discussion/brainstorming. Duration: often stretch over several days. Time zones: multiple.
-2. Trainings: provide instructions and subject specific guidance, lead exercises. Format: mainly online presentations with little discussion, but may include exercises and other forms of participant engagement. Duration: typically not longer than half a day, although subject dependent. Time zones: multiple.
-3. Meetings: Purpose: sharing information, engage in dialogue, working together on a deliverable. Format: conversation between two parties or more. Typically no visual aids necessary. May include group editing of a document/deliverable. Duration: up to a few hours. Time zones: typically 2.
-4. Webinars: 
+### Webinars
+
+1. Purpose: inform, engage in discussions, exchange ideas, brainstorm. 
+2. Format: presentations, facilitated discussion/brainstorming. 
+3. Duration: often stretch over several days. 
+4. Time zones: multiple.
+
+### Conferences/workshops
+
+1. Purpose: inform, engage in discussions, exchange ideas, brainstorm. 
+2. Format: presentations, facilitated discussion/brainstorming. 
+3. Duration: often stretch over several days. 
+4. Time zones: multiple.
+
+### Meetings
+
+1. Purpose: sharing information, engage in dialogue, working together on a deliverable. 
+2. Format: conversation between two parties or more. Typically no visual aids necessary. May include group editing of a document/deliverable. 
+3. Duration: up to a few hours. Time zones: typically 2.
+
+### Trainings
+
+1. Purpose: provide instructions and subject specific guidance, lead exercises. 
+2. Format: mainly online presentations with little discussion, but may include exercises and other forms of participant engagement. 
+3. Duration: typically not longer than half a day, although subject dependent. Time zones: multiple.
 
 ## Planning a virtual event
 
