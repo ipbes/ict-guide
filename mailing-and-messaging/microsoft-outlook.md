@@ -12,5 +12,7 @@
 
 3. ****Enter your email address and click **Connect**
 
+4. ****If prompted, enter your password again, then select **OK** &gt; **Finish** to start using your email account in Outlook
+
 
 
