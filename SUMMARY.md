@@ -18,6 +18,7 @@
 
 ## Mailing and messaging
 
+* [Microsoft Outlook](mailing-and-messaging/microsoft-outlook.md)
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
