@@ -251,7 +251,8 @@ Mute participants that are not speaking. You can use **Alt+M** to mute everyone 
 1. Do not share meeting ID on social media or on public sites
 2. Ensure that each meeting has a password
 3. Enable waiting room to check who is attending the meeting
-4. Enable meeting registration
+4. Enable [meeting registration](https://support.zoom.us/hc/en-us/articles/211579443-Registration-for-Meetings)
+5. [**Remove unwanted or disruptive participants:**](https://support.zoom.us/hc/en-us/articles/115005759423-Managing-participants-in-a-meeting?zcid=1231) from that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in Waiting Room**. Click "Remove" to kick someone out of the meeting. If this is not responding use the Put in Waiting Room option
 
 ### Registration
 
