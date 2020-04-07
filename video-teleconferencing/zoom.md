@@ -253,7 +253,7 @@ Encourage meeting participants to switch on their videos especially when they ar
 
 ### Registration
 
-1. Enable meeting registration
+Enable meeting registration. This will allow you to restrict participation to people who have registered for the meeting.
 
 {% hint style="warning" %}
 You will not be able to export the list of participants if meeting registration is disabled
