@@ -6,11 +6,11 @@
 
 1. Select **File** &gt; **Add Account**.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 2. Enter your email address and click **connect**
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 3. ****Enter your email address and click **Connect**
 

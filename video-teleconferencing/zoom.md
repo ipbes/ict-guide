@@ -98,7 +98,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 ### The Zoom Menu bar
 
-![Zoom navigation](../.gitbook/assets/image%20%284%29.png)
+![Zoom navigation](../.gitbook/assets/image%20%288%29.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 
@@ -258,6 +258,24 @@ Enable meeting registration. This will allow you to restrict participation to pe
 
 {% hint style="warning" %}
 You will not be able to export the list of participants if meeting registration is disabled
+{% endhint %}
+
+### Recordings
+
+1. Consider setting up audio transcripts. The quality of the transcripts is fairly good and can ease the report writing work. The transcript will be exported in .vtt format which can be opened with a text editor like notepad. [Find out more](https://support.zoom.us/hc/en-us/articles/115004794983-Automatically-Transcribe-Cloud-Recordings-)
+2. Consider enabling automatic recording if you are planning to record the meeting. Meetinghosts often forget to initiate the recording after the meeting has started.
+
+### Meeting templates
+
+Create and save meeting templates to ensure that you have all the required settings for each type of meeting
+
+### In meeting file transfer
+
+1. Enable file transfer via the chat area to allow participants to share files and resources during the meeting. [Find out more](https://support.zoom.us/hc/en-us/articles/209605493-In-Meeting-File-Transfer)
+2. Limit the types of files that participants can share.  See the hint below for the recommended file extensions
+
+{% hint style="info" %}
+.pdf,.doc,.docx,.jpeg,.jpg,.ppt,.pptx,.png
 {% endhint %}
 
 
