@@ -268,7 +268,7 @@ You will not be able to export the list of participants if meeting registration 
 
 ### Meeting templates
 
-Create and save meeting templates to ensure that you have all the required settings for each type of meeting
+Create and save meeting templates to ensure that you have all the required settings for each type of meeting. [Find out more](https://support.zoom.us/hc/en-us/articles/360036559151-Meeting-templates)
 
 ### In meeting file transfer
 
