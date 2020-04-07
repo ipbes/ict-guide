@@ -235,11 +235,11 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 * **Alt**+**I**: Open Invite window
 * **Alt**+**Shift**+**T**: Screenshot
 
-### Tips for meeting organizers
+## Tips for meeting organizers
 
 ### Audio quality
 
-Mute participants that are not speaking. You can use Alt+M to mute everyone except the host
+Mute participants that are not speaking. You can use **Alt+M** to mute everyone except the host
 
 ### Engagement
 
