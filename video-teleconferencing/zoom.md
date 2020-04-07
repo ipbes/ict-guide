@@ -15,6 +15,12 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
+## Zoom test call
+
+You can test how Zoom work ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
+
+![Zoom Test Service available on https://zoom.us/test](../.gitbook/assets/zoom_testing_service.jpg)
+
 ## Join a Zoom meeting
 
 Participants can join a meeting by clicking the provided **meeting link** or by going to [join.zoom.us](https://zoom.us/join) and entering the **meeting ID** provided in the invitation email.
