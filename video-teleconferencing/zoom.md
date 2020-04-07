@@ -235,5 +235,29 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 * **Alt**+**I**: Open Invite window
 * **Alt**+**Shift**+**T**: Screenshot
 
-\*\*\*\*
+### Tips for meeting organizers
+
+### Audio quality
+
+Mute participants that are not speaking. You can use Alt+M to mute everyone except the host
+
+### Engagement
+
+Encourage meeting participants to switch on their videos especially when they are speaking
+
+### Security
+
+1. Do not share meeting ID on social media or on public sites
+2. Ensure that each meeting has a password
+3. Enable waiting room to check who is attending the meeting
+
+### Registration
+
+1. Enable meeting registration
+
+{% hint style="warning" %}
+You will not be able to export the list of participants if meeting registration is disabled
+{% endhint %}
+
+
 
