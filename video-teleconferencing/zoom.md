@@ -239,11 +239,11 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 
 ### Audio quality
 
-Mute participants that are not speaking. You can use **Alt+M** to mute everyone except the host
+Mute participants that are not speaking. You can use **Alt+M** to mute everyone except the host. [Disable video](https://support.zoom.us/hc/en-us/articles/115005759423?zcid=1231) of participants who have poor audio quality.
 
 ### Engagement
 
-1. Encourage meeting participants to switch on their videos especially when they are speaking
+1. Encourage meeting participants to switch on their videos especially when they are speaking. The host can prompt a participant to start video sharing. [Disable video](https://support.zoom.us/hc/en-us/articles/115005759423?zcid=1231) to block unwanted, distracting, or inappropriate gestures on video.
 2. Encourage participants to use the [Raise hand](https://app.gitbook.com/@ipbes/s/ipbes-ict-guide/~/drafts/-M4JP7X0qRJxDmcM1PrW/video-teleconferencing/zoom#raising-your-hand) feature when they want to make interventions
 
 ### Security
@@ -252,7 +252,7 @@ Mute participants that are not speaking. You can use **Alt+M** to mute everyone 
 2. Ensure that each meeting has a password
 3. Enable waiting room to check who is attending the meeting
 4. Enable [meeting registration](https://support.zoom.us/hc/en-us/articles/211579443-Registration-for-Meetings)
-5. [**Remove unwanted or disruptive participants:**](https://support.zoom.us/hc/en-us/articles/115005759423-Managing-participants-in-a-meeting?zcid=1231) from that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in Waiting Room**. Click "Remove" to kick someone out of the meeting. If this is not responding use the Put in Waiting Room option
+5. [**Remove unwanted or disruptive participants:**](https://support.zoom.us/hc/en-us/articles/115005759423-Managing-participants-in-a-meeting?zcid=1231) from that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in Waiting Room**. Click "Remove" to kick someone out of the meeting. If this is not responding use the Put in Waiting Room option.
 
 ### Registration
 
