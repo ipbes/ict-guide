@@ -1,6 +1,8 @@
-# Introduction to video/teleconferencing
+---
+description: Quick reference guide for using supported virtual meeting tools
+---
 
-### description: Quick reference guide for using supported virtual meeting tools
+# Introduction to video/teleconferencing
 
 ## Introduction to video/teleconferencing
 
@@ -73,9 +75,10 @@ Ensure IT support is available during the event in case of any disruptions. Shar
 | Capacity | 500 | 250 | 250/1000/3000 |
 | License | Individual  project managed licenses. Has own access credentials. | Included in the Unite Workspace license. All UNEP personnel with @un.org can access to run meetings. | UNEP corporate license. [http://unep.webex.com](http://unep.webex.com) Access is integrated with the @un.org account. |
 | Meeting creation | TSU can create and start meetings directly with license. | Staff can create and start meetings directly through the Teams app or Outlook calendar. | Staff can create and start meetings directly through the Webex app or web browser. |
-| External \(non-UN\) participants | `<Icon id="check" />` | X | X |
+| External \(non-UN\) participants | X | X | X |
 | Participants registration | X |  | X |
 | Toll free dial in | X \(limited list\) |  | X |
+| Waiting room | X | X |  |
 | Screen sharing | X | X | X |
 | File sharing | X \(you need to enable feature\) | X | X |
 | Chat function | X | X | X |
@@ -86,7 +89,8 @@ Ensure IT support is available during the event in case of any disruptions. Shar
 | In session polls and surveys | X |  | X |
 | Tracking audience engagement | X |  | X |
 | Integrated Q&A | X \(Only for webinars\) |  | X |
-| Encryyption |  | X |  |
+| Transcription | X | X | X |
+| Encryption |  | X |  |
 | Link to tutorial |  |  |  |
 
 Source
