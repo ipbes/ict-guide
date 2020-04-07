@@ -32,7 +32,6 @@
 * [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
 * [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
 * [Zoom](video-teleconferencing/zoom.md)
-* [GoTo Meeting](video-teleconferencing/goto-meeting.md)
 * [Webex](video-teleconferencing/webex.md)
 
 ## Collaboration
