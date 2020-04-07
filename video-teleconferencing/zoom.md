@@ -251,10 +251,11 @@ Mute participants that are not speaking. You can use **Alt+M** to mute everyone 
 1. Do not share meeting ID on social media or on public sites
 2. Ensure that each meeting has a password
 3. Enable waiting room to check who is attending the meeting
+4. Enable meeting registration
 
 ### Registration
 
-Enable meeting registration. This will allow you to restrict participation to people who have registered for the meeting.
+Enable meeting registration. This will allow you to restrict participation to people who have registered for the meeting. [Find out more](https://support.zoom.us/hc/en-us/articles/211579443-Registration-for-Meetings)
 
 {% hint style="warning" %}
 You will not be able to export the list of participants if meeting registration is disabled
