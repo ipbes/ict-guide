@@ -1,3 +1,4 @@
+const Icon = require('gitbook-styleguide/icons/Icon');
 ---
 description: Quick reference guide for using supported virtual meeting tools
 ---
