@@ -6,7 +6,19 @@ Log in to webex [http://unep.webex.com/](http://unep.webex.com/)
 
 ## Join a Webex meeting
 
+bonn 
+
+bonn
+
+{% hint style="info" %}
+
+{% endhint %}
+
 ## Navigating Webex
+
+![How to join ](../.gitbook/assets/image.png)
+
+
 
 ## Participating in a Webex meeting
 
