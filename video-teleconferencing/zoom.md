@@ -243,7 +243,8 @@ Mute participants that are not speaking. You can use Alt+M to mute everyone exce
 
 ### Engagement
 
-Encourage meeting participants to switch on their videos especially when they are speaking
+1. Encourage meeting participants to switch on their videos especially when they are speaking
+2. Encourage participants to use the [Raise hand](https://app.gitbook.com/@ipbes/s/ipbes-ict-guide/~/drafts/-M4JP7X0qRJxDmcM1PrW/video-teleconferencing/zoom#raising-your-hand) feature when they want to make interventions
 
 ### Security
 
