@@ -17,7 +17,7 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 
 ## Zoom test call
 
-You can test how Zoom work ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
+You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
 
 ![Zoom Test Service available on https://zoom.us/test](../.gitbook/assets/zoom_testing_service.jpg)
 
