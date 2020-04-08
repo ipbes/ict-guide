@@ -1,16 +1,21 @@
+---
+description: FintTime is used to schedule
+---
+
 # Microsoft FindTime
 
 ## How to install
 
-Step: 1 • Please visit [https://findtime.microsoft.com/](https://findtime.microsoft.com/) • Click on “Install for free” button
+* Visit [https://findtime.microsoft.com/](https://findtime.microsoft.com/) 
+* Click on **Install for free** button
 
 ![Click on install for free](../.gitbook/assets/image%20%2812%29.png)
 
-Step : 2 • Enter your email address and follow the prompts
+* Enter your email address and follow the prompts
 
 ![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2811%29.png)
 
-Step: 3 • Restart your Outlook
+* Restart your Outlook
 
 ## How to Use Microsoft FindTime
 
