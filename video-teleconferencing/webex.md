@@ -56,6 +56,13 @@ When you are connected, you will see the following interface. Some of the contro
 2. Click on the name of the person you would like to privately chat with;
 3. Type your message and press send.
 
+_Private chats are displayed in the same box as public chats, but only those involved with the private chat will see your message._ 
+
+**How to use video chat:**
+
+1. Click **&lt;Video&gt;** on the Options toolbar. A **&lt;Video&gt;** window will then pop up.
+2. If your webcam/external camera is working, you should see yourself in a video box at the bottom with an option to &lt;Send Video&gt;.  
+
 
 
 ### Raising your hand Using chat
