@@ -22,8 +22,8 @@ Prerequisites:
 ## Join a Webex meeting
 
 * You will be sent an email with meeting information such as date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
-* Click the link in the mail to go to the webex website.
-* On the right-hand side of the screen, you will see an area to log in. Type your name and your email address and press **&lt;Join&gt;**
+* Click the link in the mail to go to the webex website;
+* On the right-hand side of the screen, you will see an area to log in. Type your name and your email address and press **&lt;Join&gt;**;
 * A separate window will pop up and prompt you for your choice of audio. You may either use your phone or your computer for audio.
 
 {% hint style="info" %}
@@ -46,6 +46,14 @@ When you are connected, you will see the following interface. Some of the contro
  
 
 ## Participating in a Webex meeting
+
+**Private chat with the host or presenter:**
+
+1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
+2. Click on the name of the person you would like to privately chat with;
+3. Type your message and press send.
+
+
 
 ### Raising your hand Using chat
 
