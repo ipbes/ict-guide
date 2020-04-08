@@ -37,7 +37,13 @@ Prerequisites:
 
 ## Navigating Webex
 
+When you are connected, you will see the following interface. Some of the controls and options are available only to the presenter.
 
+![Webex Interface](../.gitbook/assets/webex.png)
+
+
+
+ 
 
 ## Participating in a Webex meeting
 
