@@ -21,6 +21,9 @@ Prerequisites:
 
 ## Join a Webex meeting
 
+* You will be sent an email with meeting information such as date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
+* Click the link in the mail to go to the webex website.
+* 
  
 
 
