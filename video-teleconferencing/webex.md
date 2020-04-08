@@ -24,7 +24,13 @@ Prerequisites:
 * You will be sent an email with meeting information such as date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
 * Click the link in the mail to go to the webex website.
 * On the right-hand side of the screen, you will see an area to log in. Type your name and your email address and press **&lt;Join&gt;**
-* 
+* A separate window will pop up and prompt you for your choice of audio. You may either use your phone or your computer for audio.
+
+{% hint style="info" %}
+1. If you choose to join the conference using a phone, you will need to call into the meeting. Dial the number provided in the mail and then use the access code and Attendee ID to connect when prompted.
+2. If you choose to use your computer for audio, click &lt;**Call using computer&gt;**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
+{% endhint %}
+
  
 
 
