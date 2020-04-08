@@ -46,4 +46,5 @@ FindTime will check your calendar and will not suggest time slots if you have ot
 
 * You will be notified vie email once an attendee has voted 
 * Once the voting has been completed, Microsoft FindTime will finalize the poll.
+* You can [check the status of your polls](https://outlook.office.com/findtime/dashboard)  
 
