@@ -47,7 +47,11 @@ FindTime will check your calendar and will not suggest time slots if you have ot
 * Now enter meeting location or click on check-box for Skype Meeting link
 * Click on Insert to email button
 
-![](../.gitbook/assets/findtime_poll_find_confirmchoices.jpg)
+{% hint style="danger" %}
+Make sure you disable **Auto schedule** or the system will send an automatic meeting based on the poll results
+{% endhint %}
+
+![Confirm poll and meeting location and configure notifications](../.gitbook/assets/findtime_poll_find_confirmchoices%20%281%29.jpg)
 
 * You're done! Send the email to let the voting begin.
 
