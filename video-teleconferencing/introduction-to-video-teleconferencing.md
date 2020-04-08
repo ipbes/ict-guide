@@ -69,29 +69,29 @@ Ensure IT support is available during the event in case of any disruptions. Shar
 
 ### Comparison of virtual event tools
 
-|  | Zoom | MS Teams | Webex |
+|  | MS Teams | Zoom | Webex |
 | :--- | :--- | :--- | :--- |
-| Use case | Suitable for small to large highly interactive meetings, including webinar type sessions. | Suitable for small meetings requiring basic interactivity with mostly internal participants such as for team meetings. | Suitable for small to large highly interactive meetings, including webinar type sessions. Comprises 4 modules: Meetings, Events, Training, and Support. |
-| Capacity | 500 | 250 | 250/1000/3000 |
-| License | Individual  project managed licenses. Has own access credentials. | Included in the Unite Workspace license. All UNEP personnel with @un.org can access to run meetings. | UNEP corporate license. [http://unep.webex.com](http://unep.webex.com) Access is integrated with the @un.org account. |
-| Meeting creation | TSU can create and start meetings directly with license. | Staff can create and start meetings directly through the Teams app or Outlook calendar. | Staff can create and start meetings directly through the Webex app or web browser. |
-| External \(non-UN\) participants | ✅  | ✅  | ✅  |
-| Participants registration | ✅  | ❌  | ✅  |
-| Toll free dial in | ✅  | ❌ | ✅  |
-| Waiting room | ✅  | ✅  | ❌ |
-| Screen sharing | ✅  | ✅  | ✅  |
-| File sharing | ✅ | ✅  | ✅  |
-| Chat function | ✅  | ✅  | ✅  |
-| Private chat | ✅  | ❌ | ✅  |
-| Hand raise | ✅  | ❌ | ✅  |
-| Break-out rooms | ✅  | ❌ | ✅  |
-| Recording | ✅  | ✅  | ✅  |
-| In session polls and surveys | ✅  | ❌ | ✅  |
-| Tracking audience engagement | ✅  | ❌ | ✅  |
-| Integrated Q&A | ✅ | ❌ | ✅  |
-| Transcription | ✅  | ✅  | ✅  |
-| Encryption | ❌ | ✅  | ✅ |
-| Link to tutorial | [Zoom](zoom.md) | [MS Teams](ms-teams.md) | [Webex](webex.md) |
+| Use case | Suitable for small meetings requiring basic interactivity with mostly internal participants such as for team meetings. | Suitable for small to large highly interactive meetings, including webinar type sessions. | Suitable for small to large highly interactive meetings, including webinar type sessions. Comprises 4 modules: Meetings, Events, Training, and Support. |
+| Capacity | 250 | 500 | 250/1000/3000 |
+| License | Included in the Unite Workspace license. All UNEP personnel with @un.org can access to run meetings. | Individual  project managed licenses. Has own access credentials. | UNEP corporate license. [http://unep.webex.com](http://unep.webex.com) Access is integrated with the @un.org account. |
+| Meeting creation | Staff can create and start meetings directly through the Teams app or Outlook calendar. | TSU can create and start meetings directly with license. | Staff can create and start meetings directly through the Webex app or web browser. |
+| External \(non-UN\) participants | ✅  |  ✅ | ✅  |
+| Participants registration | ❌  | ✅ | ✅  |
+| Toll free dial in | ❌ | ✅ | ✅  |
+| Waiting room | ✅  | ✅ | ✅ |
+| Screen sharing | ✅  | ✅ | ✅  |
+| File sharing | ✅  | ✅ | ✅  |
+| Chat function | ✅  | ✅ | ✅  |
+| Private chat | ❌ | ✅ | ✅  |
+| Hand raise | ❌ | ✅ | ✅  |
+| Break-out rooms | ❌ | ✅ | ✅  |
+| Recording | ✅  | ✅ | ✅  |
+| In session polls and surveys | ❌ | ✅ | ✅  |
+| Tracking audience engagement | ❌ | ✅ | ✅  |
+| Integrated Q&A | ❌ | ✅ | ✅  |
+| Transcription | ✅  | ✅ | ✅  |
+| Encryption | ✅  | ❌ | ✅ |
+| Link to tutorial | [MS Teams](ms-teams.md) | [Zoom](zoom.md) | [Webex](webex.md) |
 
 Source
 
