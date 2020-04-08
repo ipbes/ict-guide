@@ -39,4 +39,5 @@
 * [Microsoft Teams](collaboration/ms-teams.md)
 * [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
 * [Confluence](collaboration/confluence.md)
+* [Microsoft FindTime](collaboration/microsoft-findtime.md)
 
