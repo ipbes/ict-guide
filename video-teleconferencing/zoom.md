@@ -6,9 +6,11 @@ description: 'https://zoom.us/'
 
 ## Introduction
 
+{% file src="../.gitbook/assets/join-from-zoom-desktop-client.url" %}
+
 Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Prerequisites:**
 
 1. Have internet connection, laptop, or device
