@@ -42,13 +42,13 @@ You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your f
 FindTime will check your calendar and will not suggest time slots if you have other scheduled meetings
 {% endhint %}
 
-### 3. Confirm poll and meeting location  
+### 3. Confirm poll, meeting location and notifications 
 
 * Now enter meeting location or click on check-box for Skype Meeting link
 * Click on Insert to email button
 
 {% hint style="danger" %}
-Make sure you disable **Auto schedule** or the system will send an automatic meeting based on the poll results
+Make sure you disable **Auto schedule** and **Holds** or the system will send an automatic meeting based on the poll results
 {% endhint %}
 
 ![Confirm poll and meeting location and configure notifications](../.gitbook/assets/findtime_poll_find_confirmchoices%20%281%29.jpg)
