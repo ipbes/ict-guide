@@ -12,7 +12,8 @@ Webex is the leading enterprise solution for video conferencing, online meetings
 Prerequisites:
 
 1. Computer/laptop with Internet access;
-2. Separate phone line
+2. Separate phone line;
+3.  Webex meeting center conveniently works inside your web browser with no programme to download, install or configure. 
 {% endhint %}
 
 
@@ -27,8 +28,9 @@ Prerequisites:
 * A separate window will pop up and prompt you for your choice of audio. You may either use your phone or your computer for audio.
 
 {% hint style="info" %}
-1. If you choose to join the conference using a phone, you will need to call into the meeting. Dial the number provided in the mail and then use the access code and Attendee ID to connect when prompted.
-2. If you choose to use your computer for audio, click &lt;**Call using computer&gt;**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
+1. You can join the meeting in different ways, like from your computer, mobile device, phone or video system. Your invite includes the options available to you for that particular meeting.   
+2. If you choose to join the conference using a phone, you will need to call into the meeting. Dial the number provided in the mail and then use the access code and Attendee ID to connect when prompted.
+3. If you choose to use your computer for audio, click &lt;**Call using computer&gt;**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
 {% endhint %}
 
  
