@@ -19,14 +19,14 @@ description: FintTime is used to schedule
 
 ## How to Use Microsoft FindTime
 
-### Step 1:  
+### 1. Launch new email
 
 * Create a new email or select an email to reply to.
 * List people required for the meeting in To and optional participants in Cc.
 
 ![](../.gitbook/assets/findtime_poll.jpg)
 
-### Step 2  
+### 2. Create a new poll 
 
 * Click on New Meeting Poll icon
 * Select meeting duration from the **Duration** drop down and check the Time Zone.
@@ -38,7 +38,7 @@ description: FintTime is used to schedule
 FindTime will check your calendar and will not suggest time slots if you have other scheduled meetings
 {% endhint %}
 
-### Step 3 
+### 3. Confirm poll and meeting location  
 
 * Now enter meeting location or click on check-box for Skype Meeting link
 * Click on Insert to email button
