@@ -1,8 +1,12 @@
 ---
-description: FintTime is used to schedule
+description: FindTime is used to schedule
 ---
 
 # Microsoft FindTime
+
+{% hint style="info" %}
+You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your friends and colleagues\) only need an email address and internet access to participate in the poll.
+{% endhint %}
 
 ## How to install
 
