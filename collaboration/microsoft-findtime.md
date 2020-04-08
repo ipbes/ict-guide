@@ -41,6 +41,9 @@ FindTime will check your calendar and will not suggest time slots if you have ot
 ![](../.gitbook/assets/findtime_poll_find_confirmchoices.jpg)
 
 * You're done! Send the email to let the voting begin.
+
+![Add recipients, send out poll, go back to to edit poll and check voting status](../.gitbook/assets/findtime_poll_sendout.jpg)
+
 * You will be notified vie email once an attendee has voted 
 * Once the voting has been completed, Microsoft FindTime will finalize the poll.
 
