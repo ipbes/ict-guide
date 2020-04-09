@@ -31,12 +31,12 @@
 
 * [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
 * [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
+* [Teams Live Event](video-teleconferencing/teams-live-event.md)
 * [Zoom](video-teleconferencing/zoom.md)
 * [Webex](video-teleconferencing/webex.md)
 
 ## Collaboration
 
-* [Teams Live Event](collaboration/teams-live-event.md)
 * [Microsoft Teams](collaboration/ms-teams.md)
 * [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
 * [OneDrive for Business](collaboration/onedrive-for-business.md)
