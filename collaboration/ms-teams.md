@@ -4,9 +4,9 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 # Microsoft Teams
 
-## Introduction
+## **What is Microsoft Teams?**
 
-&lt;Placeholder&gt;
+\*\*\*\*
 
 {% file src="../.gitbook/assets/ms-teams-qs.pdf" caption="Microsoft Team Quick Start Guide" %}
 

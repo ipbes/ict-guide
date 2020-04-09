@@ -1,12 +1,6 @@
 # Microsoft SharePoint
 
-{% tabs %}
+## **What is SharePoint Online?**
 
-
-
-## Collaborative working
-
-### \*\*\*\*
-
-### **Sharing files**
+### SharePoint enables you to
 
