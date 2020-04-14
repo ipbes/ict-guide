@@ -1,5 +1,5 @@
 ---
-description: 'https://unep.webex.com/'
+description: 'https://unep.webex.com'
 ---
 
 # Webex
@@ -14,7 +14,7 @@ Prerequisites:
 1. Computer/laptop with Internet access.
 2. Separate phone line.
 3.  Webex meeting center conveniently works inside your **web browser** with no programme to download, install or configure.
-4. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient for you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
+4. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
 {% endhint %}
 
 
@@ -24,8 +24,11 @@ Prerequisites:
 ## Join a Webex Meeting from an Email Invitation 
 
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
-* Click &lt;**Join meeting**&gt; in the body of the email;
-* A separate window will pop up and prompt you for your choice of audio. You may either use your phone or your computer for audio.
+* Click &lt;**Join meeting**&gt; in the body of the email.
+
+![Joining Webex Meeting from Email](../.gitbook/assets/join-meeting.PNG)
+
+
 
 {% hint style="info" %}
 1. You can join the meeting in different ways, like from your computer, mobile device, phone or video system. Your invite includes the options available to you for that particular meeting.   
@@ -41,7 +44,7 @@ Prerequisites:
 
 When you are connected, you will see the following interface. Some of the controls and options are available only to the presenter.
 
-![Webex Interface](../.gitbook/assets/webex.png)
+![](../.gitbook/assets/interface.jpg)
 
 
 
@@ -73,4 +76,16 @@ _Private chats are displayed in the same box as public chats, but only those inv
 ### Sharing content
 
 ## Tips for managers
+
+Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
+
+![](../.gitbook/assets/sign-in.PNG)
+
+If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on the left side 
+
+![](../.gitbook/assets/meeting.png)
+
+After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the left side
+
+![](../.gitbook/assets/schedule-a-meeting-1.PNG)
 
