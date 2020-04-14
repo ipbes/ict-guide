@@ -55,15 +55,14 @@ When you are connected, you will see the following window. Some of the controls 
 **Private chat with the host or presenter:**
 
 1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
+
+![](../.gitbook/assets/chat.png)
+
 2. Click on the name of the person you would like to privately chat with;
+
 3. Type your message and press send.
 
 _Private chats are displayed in the same box as public chats, but only those involved with the private chat will see your message._ 
-
-**How to use video chat:**
-
-1. Click **&lt;Video&gt;** on the Options toolbar. A **&lt;Video&gt;** window will then pop up.
-2. If your webcam/external camera is working, you should see yourself in a video box at the bottom with an option to &lt;Send Video&gt;.  
 
 
 
@@ -71,7 +70,7 @@ _Private chats are displayed in the same box as public chats, but only those inv
 
 You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
-![](../.gitbook/assets/raise-your-hand.png)
+![](../.gitbook/assets/participants.png)
 
 ### Disabling video
 
@@ -111,6 +110,10 @@ Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of
 
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
-2. 3. The order in which the attendees click on the Raise hand icon appears when you are a presenter. 
+2. When scheduling a meeting you can also save it as template.
+3. You can also make notes during the meeting selecting &lt;Notes&gt; under &lt;More Options&gt; icon.
+4. You can also use a poll to create and share questionnaires. More detailed information can be found [here ](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings) 
+5. Breakout sessions can be used to place your attendees into smaller groups. Detailed information on this can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
+6. The order in which the attendees click on the Raise hand icon appears when you are a presenter. 
 {% endhint %}
 
