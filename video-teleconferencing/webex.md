@@ -75,9 +75,21 @@ You can raise your hand by first clicking on &lt;Participants&gt; button at the 
 
 ### Disabling video
 
+You can disable/enable video by clicking on the Camera icon
+
+![](../.gitbook/assets/videocamera.png)
+
 ### Disabling microphone
 
+You can mute/unmute you by clicking on microphone icon
+
+![](../.gitbook/assets/microphone.png)
+
 ### Sharing content
+
+You can also share the content by clicking on the following icon
+
+![](../.gitbook/assets/content-sharing.png)
 
 ## Tips for managers/hosts
 
