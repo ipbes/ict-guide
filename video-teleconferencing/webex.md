@@ -42,7 +42,7 @@ Prerequisites:
 
 ## Navigating Webex
 
-When you are connected, you will see the following interface. Some of the controls and options are available only to the presenter.
+When you are connected, you will see the following window. Some of the controls and options are available only to the presenter.
 
 ![](../.gitbook/assets/interface.jpg)
 
@@ -69,13 +69,17 @@ _Private chats are displayed in the same box as public chats, but only those inv
 
 ### Raising your hand Using chat
 
+You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
+
+![](../.gitbook/assets/raise-your-hand.png)
+
 ### Disabling video
 
 ### Disabling microphone
 
 ### Sharing content
 
-## Tips for managers
+## Tips for managers/hosts
 
 Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
 
@@ -85,7 +89,16 @@ If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on
 
 ![](../.gitbook/assets/meeting.png)
 
-After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the left side
+After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the right side
 
 ![](../.gitbook/assets/schedule-a-meeting-1.PNG)
+
+Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of the form. You will receive confirmation per mail that the meeting has been scheduled.
+
+![](../.gitbook/assets/schedule-a-meeting2.PNG)
+
+{% hint style="info" %}
+1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
+2. 3. The order in which the attendees click on the Raise hand icon appears when you are a presenter. 
+{% endhint %}
 
