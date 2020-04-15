@@ -118,6 +118,10 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 
 As the non-speaker if you wish to ask a question or make a point during a meeting it is good protocol to use the ‘Raise Hand’ facility.
 
+{% hint style="info" %}
+Press the spacebar to 'Raise hand'
+{% endhint %}
+
 If the tool bar is not showing at the bottom of the Zoom window, place your cursor over the Zoom window so it appears and select the ‘Participants’ icon.
 
 [![Participants Icon](https://blogs.otago.ac.nz/zoom/files/2016/04/Participants-Icon.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Participants-Icon.jpg)
