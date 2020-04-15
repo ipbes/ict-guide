@@ -56,7 +56,9 @@ When you are connected, you will see the following window. Some of the controls 
 
 1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
 
-![](../.gitbook/assets/chat.png)
+![Chat function](../.gitbook/assets/chat.png)
+
+
 
 2. Click on the name of the person you would like to privately chat with;
 
@@ -68,31 +70,31 @@ _Private chats are displayed in the same box as public chats, but only those inv
 
 You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
-![](../.gitbook/assets/participants.png)
+![Raise hand function](../.gitbook/assets/participants.png)
 
 ### Disabling video
 
 You can disable/enable video by clicking on the Camera icon
 
-![](../.gitbook/assets/videocamera.png)
+![Disable video](../.gitbook/assets/videocamera.png)
 
 ### Disabling microphone
 
 You can mute/unmute you by clicking on microphone icon
 
-![](../.gitbook/assets/microphone.png)
+![Disable microphone](../.gitbook/assets/microphone.png)
 
 ### Sharing content
 
 You can also share the content by clicking on the following icon
 
-![](../.gitbook/assets/content-sharing.png)
+![Share content](../.gitbook/assets/content-sharing.png)
 
 ## Tips for managers/hosts
 
 Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
 
-![](../.gitbook/assets/sign-in.PNG)
+![](../.gitbook/assets/sign-in-hosts.png)
 
 If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on the left side 
 
@@ -100,11 +102,11 @@ If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on
 
 After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the right side
 
-![](../.gitbook/assets/schedule-a-meeting-1.PNG)
+![](../.gitbook/assets/schedule.png)
 
 Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of the form. You will receive confirmation per mail that the meeting has been scheduled.
 
-![](../.gitbook/assets/schedule-a-meeting2.PNG)
+![](../.gitbook/assets/schedule-at-the-bottom.png)
 
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
