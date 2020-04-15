@@ -26,7 +26,7 @@ Prerequisites:
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
 * Click &lt;**Join meeting**&gt; in the body of the email.
 
-![](../.gitbook/assets/join-meeting-corrected.png)
+![Email sample](../.gitbook/assets/join-meeting-corrected.png)
 
 
 
@@ -36,19 +36,9 @@ Prerequisites:
 3. If you choose to use your computer for audio, click &lt;**Call using computer&gt;**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
 {% endhint %}
 
- 
-
-
-
 ## Navigating Webex
 
-When you are connected, you will see the following window. Some of the controls and options are available only to the presenter.
-
-![](../.gitbook/assets/interface.jpg)
-
-
-
- 
+When you are connected, you will see the following window. Some of the controls and options are available only to the presenter. 
 
 ## Participating in a Webex meeting
 
