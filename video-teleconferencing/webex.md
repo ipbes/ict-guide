@@ -26,7 +26,7 @@ Prerequisites:
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
 * Click &lt;**Join meeting**&gt; in the body of the email.
 
-![Joining Webex Meeting from Email](../.gitbook/assets/join-meeting.PNG)
+![](../.gitbook/assets/join-meeting-corrected.png)
 
 
 
