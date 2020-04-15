@@ -31,7 +31,7 @@
 
 * [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
 * [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
-* [Teams Live Event](video-teleconferencing/teams-live-event.md)
+* [MS Teams Live Event](video-teleconferencing/teams-live-event.md)
 * [Zoom](video-teleconferencing/zoom.md)
 * [Webex](video-teleconferencing/webex.md)
 

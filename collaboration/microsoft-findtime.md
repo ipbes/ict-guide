@@ -13,11 +13,11 @@ You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your f
 * Visit [https://findtime.microsoft.com/](https://findtime.microsoft.com/) 
 * Click on **Install for free** button
 
-![Click on install for free](../.gitbook/assets/image%20%2815%29.png)
+![Click on install for free](../.gitbook/assets/image%20%2818%29.png)
 
 * Enter your email address and follow the prompts
 
-![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2814%29.png)
+![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2817%29.png)
 
 * Restart your Outlook
 
