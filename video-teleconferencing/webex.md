@@ -108,12 +108,15 @@ Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of
 
 ![](../.gitbook/assets/schedule-at-the-bottom.png)
 
+### Breakout sessions
+
+Breakout sessions can be used to place your attendees into smaller groups. Detailed information can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
+
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
 2. When scheduling a meeting you can also save it as template.
 3. You can make notes during the meeting selecting &lt;Notes&gt; under &lt;More Options&gt; icon.
 4. Polling option can be used to create and share questionnaires. More detailed information can be found [here ](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings) 
-5. Breakout sessions can be used to place your attendees into smaller groups. Detailed information on this can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
-6. The order in which the attendees click on the Raise hand icon appears when you are a presenter. 
+5. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
 {% endhint %}
 
