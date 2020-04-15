@@ -1,5 +1,7 @@
 # MS Teams meetings and calls
 
+
+
 {% hint style="warning" %}
 **Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat \(users with @ipbes.net or @un.org accounts\). It is recommended to use Zoom or GoTo Meeting for external meetings.
 {% endhint %}
