@@ -91,6 +91,55 @@ By default, every team gets a **General** channel, which is a good channel to us
 
 More information [here](https://support.office.com/en-gb/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
 
+## Collaborate on files in Microsoft Teams
+
+### Your files library
+
+Each channel has its own file folder where you can share files for that specific channel. To access that folder go to the channel and select the **Files** tab above the conversation window.![The files library lets you collaborate on files with your team](https://support.content.office.net/en-us/media/e7f0cb8f-46f7-4917-a652-cb4a7b92ca13.png)
+
+\*\*\*\*
+
+{% hint style="info" %}
+**Note:** Make sure to use the **Files** tab at the top of the channel conversation window instead of the **Files** button on the left side of the app. That button gives you access to ALL of your cloud files, rather than just the files for a specific channel.
+{% endhint %}
+
+In the library you can upload existing files or create new ones. When you upload a file, it creates a copy in Teams.
+
+### Upload existing files
+
+There are two primary ways to upload existing files into your library. Both methods start by going to the files folder for your channel and both methods, by default, upload copies of your files to the channel file folder.
+
+* **Drag and drop** - Using your mouse, drag the file from where it's currently located and drop it on the Teams window among the files. 
+* **Upload** - Select **Upload**, ****then select the file \(or files\) you'd like to upload, and select **Open**.
+
+![Create or upload a new file to your channel&apos;s files library](https://support.content.office.net/en-us/media/950207d4-6fca-4c7e-91f9-6cae2575088f.png)
+
+{% hint style="warning" %}
+Any files you upload will be accessible by any member of your team. And just like in SharePoint, you can pin specific files to the top of your list for easy access.
+{% endhint %}
+
+### Create a file
+
+To create a Word, PowerPoint, or Excel document in Teams, select **New**, then select the kind of file you'd like to create. The new file will open in Teams so you can begin editing it, and if you'd prefer to work in the desktop version of the app, select **Open in Desktop App** at the top of the app, in the middle of the ribbon.
+
+As soon as it's created your new file will be available for your team members to edit as well.
+
+### Co-edit a file
+
+Files uploaded and shared to a team are accessible to every member of the Team. In Office for the web, Office for Android or iOS, or the latest applications from Office 365, you and your team members can co-edit Word, PowerPoint, or Excel documents, or comment on Visio files. No need to check files out or worry about if one of your colleagues has the document open. Just open the file you need to edit and if other team members are editing it to your changes will be seamlessly merged as you work.
+
+### Share with people outside your team
+
+If the file is a Word, Excel, PowerPoint or Visio file, the easiest way to share it is to open the file in its corresponding Office for the web or desktop app. Select **Share** at the top right corner of the window. From there enter the aliases or email addresses of people you want to email the file link, or select **Copy Link** to choose where you share the link.
+
+![Share icon and dialog box in Excel](https://support.content.office.net/en-us/media/d442e1e0-ff37-4214-8352-e7c56decc3c8.png)
+
+{% hint style="warning" %}
+**Important:** To share with someone outside your team you'll have to open the file in Office for the web or Office desktop app.
+{% endhint %}
+
+If you want to share with people outside your organization you may have to select the permissions drop-down \(right above where you add the people you want to share with\) and select that **Specific People** can access the file.![Use the link settings dialog to specify permissions for a sharing link](https://support.content.office.net/en-us/media/5b10de12-a7ad-424c-b3ad-3c99d5890e4c.png)
+
 ## Chat
 
 ### Start Chat
