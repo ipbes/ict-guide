@@ -113,5 +113,6 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 3. You can make notes during the meeting selecting &lt;Notes&gt; under &lt;More Options&gt; icon.
 4. Polling option can be used to create and share questionnaires. More detailed information can be found [here ](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings) 
 5. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+6. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
 {% endhint %}
 
