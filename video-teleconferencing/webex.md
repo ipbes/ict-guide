@@ -26,7 +26,7 @@ Prerequisites:
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
 * Click &lt;**Join meeting**&gt; in the body of the email.
 
-![Email sample](../.gitbook/assets/join-meeting-corrected.png)
+![Email Sample](../.gitbook/assets/join-meeting-corrected.png)
 
 
 
@@ -46,7 +46,7 @@ When you are connected, you will see the following window. Some of the controls 
 
 1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
 
-![Chat function](../.gitbook/assets/chat.png)
+![Chat Function](../.gitbook/assets/chat.png)
 
 
 
@@ -60,31 +60,31 @@ _Private chats are displayed in the same box as public chats, but only those inv
 
 You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
-![Raise hand function](../.gitbook/assets/participants.png)
+![Raise Hand Function](../.gitbook/assets/participants.png)
 
 ### Disabling video
 
 You can disable/enable video by clicking on the Camera icon
 
-![Disable video](../.gitbook/assets/videocamera.png)
+![Disable Video](../.gitbook/assets/videocamera.png)
 
 ### Disabling microphone
 
 You can mute/unmute you by clicking on microphone icon
 
-![Disable microphone](../.gitbook/assets/microphone.png)
+![Disable Microphone](../.gitbook/assets/microphone.png)
 
 ### Sharing content
 
 You can also share the content by clicking on the following icon
 
-![Share content](../.gitbook/assets/content-sharing.png)
+![Share Content](../.gitbook/assets/content-sharing.png)
 
 ## Tips for managers/hosts
 
 Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
 
-![](../.gitbook/assets/sign-in-hosts.png)
+![Sign-in ](../.gitbook/assets/sign-in-hosts.png)
 
 If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on the left side 
 
@@ -92,11 +92,11 @@ If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on
 
 After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the right side
 
-![](../.gitbook/assets/schedule.png)
+![](../.gitbook/assets/scheduleameeting-last.png)
 
 Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of the form. You will receive confirmation per mail that the meeting has been scheduled.
 
-![](../.gitbook/assets/schedule-at-the-bottom.png)
+![](../.gitbook/assets/schdule-meeting-registration-form.png)
 
 ### Breakout sessions
 
