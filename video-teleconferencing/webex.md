@@ -100,7 +100,11 @@ Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of
 
 ### Breakout sessions
 
-Breakout sessions can be used to place your attendees into smaller groups. Detailed information can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
+Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendee to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
+
+* If you create breakout sessions automatically, after you start it, an attendee is assigned randomly as the presenter. if you want to select the participant that you want to be a presenter, you should create the session manually.
+* 
+ 
 
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
