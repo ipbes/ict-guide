@@ -17,10 +17,6 @@ Prerequisites:
 4. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
 {% endhint %}
 
-
-
-
-
 ## Join a Webex Meeting from an Email Invitation 
 
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
@@ -82,6 +78,8 @@ You can also share the content by clicking on the following icon
 
 ## Tips for managers/hosts
 
+### Scheduling the meeting
+
 Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
 
 ![Sign-in ](../.gitbook/assets/sign-in-hosts.png)
@@ -100,11 +98,14 @@ Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of
 
 ### Breakout sessions
 
-Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendee to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
+Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training)
 
 * If you create breakout sessions automatically, after you start it, an attendee is assigned randomly as the presenter. if you want to select the participant that you want to be a presenter, you should create the session manually.
-* 
- 
+* At any time during a training session you can specify that attendees can start breakout sessions with all **attendees/participants**, **only the session host, only the presenter** or **any other attendee privately.** You can remove breakout session privileges at any time.
+* There are _four breakout session privileges_ that can be granted to all attendees: **host**, **presenter**, **panelists**, **all attendees**.
+* The training session host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
+
+
 
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
