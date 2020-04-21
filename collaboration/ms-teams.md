@@ -6,8 +6,6 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 ## **What is Microsoft Teams?**
 
-\*\*\*\*
-
 {% file src="../.gitbook/assets/ms-teams-qs.pdf" caption="Microsoft Team Quick Start Guide" %}
 
 ### Important links
