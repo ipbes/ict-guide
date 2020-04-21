@@ -50,7 +50,7 @@ On the right side of the scheduling form you will have the option to add a chann
 
 
 
-### Set up Virtual Breakout Rooms
+## Set up Virtual Breakout Rooms
 
 ## Join a MS Teams meeting
 
