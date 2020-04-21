@@ -48,6 +48,10 @@ On the right side of the scheduling form you will have the option to add a chann
 
 [ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS) 
 
+
+
+### Set up Virtual Breakout Rooms
+
 ## Join a MS Teams meeting
 
 You can join Teams meetings anytime, anywhere, from any device.
