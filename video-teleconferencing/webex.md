@@ -110,19 +110,39 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 
 ### Audio quality
 
+Mute participants that are not speaking. Disable video of participants who have poor audio quality.
+
 ### Engagement
 
-The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+1. Encourage meeting participants to switch on their videos especially when they are speaking. The host can prompt a participant to start video sharing. Disable video to block unwanted, distracting, or inappropriate gestures on video.
+2. Encourage participants to use the Raise hand feature when they want to make interventions
 
 ### Security
 
+1. Do not share meeting ID on social media or on public sites
+2. Ensure that each meeting has a password
+3. Enable waiting room to check who is attending the meeting
+4. Enable meeting registration
+5. Remove unwanted or disruptive participants. From that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in lobby**. Click **Remove** to kick someone out of the meeting. If this is not responding use the **Put in Waiting Room** option.
+
 ### Registration
+
+Enable meeting registration. This will allow you to restrict participation to people who have registered for the meeting. Find out more
 
 ### Recordings
 
 ### Meeting templates
 
+Create and save meeting templates to ensure that you have all the required settings for each type of meeting. Find out more
+
 ### In meeting file transfer
+
+1. Enable file transfer via the chat area to allow participants to share files and resources during the meeting. Find out more
+2. Limit the types of files that participants can share.  See the hint below for the recommended file extensions
+
+{% hint style="info" %}
+.pdf,.doc,.docx,.jpeg,.jpg,.ppt,.pptx,.png
+{% endhint %}
 
 ### Polls
 
