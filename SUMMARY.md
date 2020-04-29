@@ -1,6 +1,6 @@
 # Table of contents
 
-* [IPBES user documentation](README.md)
+* [IPBES ICT documentation](README.md)
 
 ## Introduction
 
