@@ -112,6 +112,10 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 
 Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
 
+### Manage participants
+
+The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+
 ### Q&A
 
 sds
@@ -127,9 +131,4 @@ sds
 ### Enabling file sharing
 
 sds
-
-{% hint style="info" %}
-1. 2. 3. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
-4. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
-{% endhint %}
 
