@@ -271,7 +271,7 @@ You will not be able to export the list of participants if meeting registration 
 ### Recordings
 
 1. Consider setting up audio transcripts. The quality of the transcripts is fairly good and can ease the report writing work. The transcript will be exported in .vtt format which can be opened with a text editor like notepad. [Find out more](https://support.zoom.us/hc/en-us/articles/115004794983-Automatically-Transcribe-Cloud-Recordings-)
-2. Consider enabling automatic recording if you are planning to record the meeting. Meetinghosts often forget to initiate the recording after the meeting has started.
+2. Consider enabling automatic recording if you are planning to record the meeting. Meeting hosts often forget to initiate the recording after the meeting has started.
 
 ### Meeting templates
 
