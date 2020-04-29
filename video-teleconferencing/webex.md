@@ -19,14 +19,14 @@ You can [join a test meeting](https://www.webex.com/test-meeting.html/) to famil
 ## Join a Webex Meeting from an Email Invitation 
 
 * You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
-* Click &lt;**Join meeting**&gt; in the body of the email.
+* Click **Join meeting** in the body of the email.
 
 ![Email Sample](../.gitbook/assets/join-meeting-corrected.png)
 
 {% hint style="info" %}
 1. You can join the meeting in different ways, like from your computer, mobile device, phone or video system. Your invite includes the options available to you for that particular meeting.   
 2. If you choose to join the conference using a phone, you will need to call into the meeting. Dial the number provided in the mail and then use the access code and Attendee ID to connect when prompted.
-3. If you choose to use your computer for audio, click &lt;**Call using computer&gt;**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
+3. If you choose to use your computer for audio, click **Call using computer**. You will have the opportunity to test your microphone and headset/speakers before connecting to the conference.
 {% endhint %}
 
 ## Navigating Webex
@@ -49,13 +49,13 @@ Private chats are displayed in the same box as public chats, but only those invo
 
 ### Raising your hand
 
-You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
+You can raise your hand by first clicking on **Participants** button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
 ![Raise Hand Function](../.gitbook/assets/participants.png)
 
 ### Enabling or disabling video
 
-You can disable/enable video by clicking on the video icon
+You can disable or enable video by clicking on the video icon
 
 ![Disable Video](../.gitbook/assets/videocamera.png)
 
@@ -104,8 +104,8 @@ You can start the meeting either from the email you have received or signing in 
 Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training).
 
 * If you create breakout sessions automatically, attendees will be assigned randomly. You need to create session's manually and identify presenters and participants for each breakout sessions.
-* At any time during a session you can specify that attendees can start breakout sessions with all **attendees/participants**, **only the session host, only the presenter** or **any other attendee privately.** You can remove breakout session privileges at any time.
-* There are _four breakout session privileges_ that can be granted to all attendees: **host**, **presenter**, **panelists**, **all attendees**.
+* At any time during a session you can specify that attendees can start breakout sessions with all _attendees/participants, only the session host, only the presenter_ or ****_any other attendee privately_**.** You can remove breakout session privileges at any time.
+* There are four breakout session privileges that can be granted to all attendees: _host, presenter, panelists, all attendees._
 * The host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
 
 ### Audio quality
@@ -121,8 +121,8 @@ Mute participants that are not speaking. Disable video of participants who have 
 
 1. Do not share meeting ID on social media or on public sites
 2. Ensure that each meeting has a password
-3. Enable waiting room to check who is attending the meeting
-4. Enable meeting registration
+3. Enable waiting room to control who is allowed into the meeting
+4. Enable meeting [registration](https://ict.ipbes.net/video-teleconferencing/webex#registration)
 5. Remove unwanted or disruptive participants. From that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in lobby**. Click **Remove** to kick someone out of the meeting. If this is not responding use the **Put in Waiting Room** option.
 
 ### Registration
@@ -131,9 +131,11 @@ Enable meeting registration. This will allow you to restrict participation to pe
 
 ### Recordings
 
+sds
+
 ### Meeting templates
 
-Create and save meeting templates to ensure that you have all the required settings for each type of meeting. Find out more
+Create and save meeting templates to ensure that you have all the required settings for each type of meeting. [Find out more](https://ict.ipbes.net/video-teleconferencing/webex#scheduling-the-meeting)
 
 ### In meeting file transfer
 
@@ -146,7 +148,7 @@ Create and save meeting templates to ensure that you have all the required setti
 
 ### Polls
 
-Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
+Polling option can be used to create and share questionnaires. More detailed information can be found here
 
 ### Q&A
 
