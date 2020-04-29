@@ -9,11 +9,7 @@ description: 'https://unep.webex.com'
 Webex is a software solution for video conferencing, online meetings and webinars. 
 
 {% hint style="info" %}
-Prerequisites:
-
-1. Computer/laptop with Internet access or telephone.
-2.  Webex meeting center conveniently works inside your **web browser** with no programme to download, install or configure.
-3. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
+You require a computer/laptop with internet access or telephone connectivity to participate in a Webex call.
 {% endhint %}
 
 ## Webex test call
@@ -26,8 +22,6 @@ You can [join a test meeting](https://www.webex.com/test-meeting.html/) to famil
 * Click &lt;**Join meeting**&gt; in the body of the email.
 
 ![Email Sample](../.gitbook/assets/join-meeting-corrected.png)
-
-
 
 {% hint style="info" %}
 1. You can join the meeting in different ways, like from your computer, mobile device, phone or video system. Your invite includes the options available to you for that particular meeting.   
@@ -109,6 +103,18 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 ### Polls
 
 Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
+
+### Q&A
+
+sds
+
+### Whiteboard
+
+sds
+
+### Enabling file sharing
+
+sds
 
 {% hint style="info" %}
 1. You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under **Meetings**.
