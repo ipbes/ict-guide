@@ -39,37 +39,35 @@ You can [join a test meeting](https://www.webex.com/test-meeting.html/) to famil
 
 When you are connected, you will see the following window. Some of the controls and options are available only to the presenter. 
 
-## Participating in a Webex meeting
-
-**Private chat with the host or presenter:**
+### **Private chat with the host or presenter**
 
 1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
 
 ![Chat Function](../.gitbook/assets/chat.png)
 
-
-
 2. Click on the name of the person you would like to privately chat with;
 
 3. Type your message and press send.
 
-_Private chats are displayed in the same box as public chats, but only those involved with the private chat will see your message._ 
+{% hint style="info" %}
+Private chats are displayed in the same box as public chats, but only those involved with the private chat will see your message. 
+{% endhint %}
 
-### Raising your hand using chat
+### Raising your hand
 
 You can raise your hand by first clicking on &lt;Participants&gt; button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
 ![Raise Hand Function](../.gitbook/assets/participants.png)
 
-### Disabling video
+### Enabling or disabling video
 
-You can disable/enable video by clicking on the Camera icon
+You can disable/enable video by clicking on the video icon
 
 ![Disable Video](../.gitbook/assets/videocamera.png)
 
-### Disabling microphone
+### Mute or unmute microphone
 
-You can mute/unmute you by clicking on microphone icon
+You can mute or unmute you by clicking on microphone icon
 
 ![Disable Microphone](../.gitbook/assets/microphone.png)
 
@@ -87,15 +85,15 @@ Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite 
 
 ![Sign-in ](../.gitbook/assets/sign-in-hosts.png)
 
-If you want to schedule a meeting, please select &lt;Meetings&gt; in the menu on the left side 
+If you want to schedule a meeting, please select **Meetings** in the menu on the left side 
 
 ![](../.gitbook/assets/meeting.png)
 
-After going to &lt;Meetings&gt; click on &lt;Schedule&gt; on the right side
+After going to **Meetings** click on **Schedule** on the right side
 
 ![](../.gitbook/assets/scheduleameeting-last.png)
 
-Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of the form. You will receive confirmation per mail that the meeting has been scheduled.
+Complete all the necessary fields and click on **Schedule** at the bottom of the form. You will receive an email confirmation by email.
 
 ![](../.gitbook/assets/schdule-meeting-registration-form.png)
 
@@ -103,19 +101,20 @@ Complete all the necessary fields and click on &lt;Schedule&gt; at the bottom of
 
 Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training).
 
-* If you create breakout sessions automatically, after you start it, an attendee is assigned randomly as the presenter. if you want to select the participant that you want to be a presenter, you should create the session manually.
-* At any time during a training session you can specify that attendees can start breakout sessions with all **attendees/participants**, **only the session host, only the presenter** or **any other attendee privately.** You can remove breakout session privileges at any time.
+* If you create breakout sessions automatically, attendees will be assigned randomly. You need to create session's manually and identify presenters and participants for each breakout sessions.
+* At any time during a session you can specify that attendees can start breakout sessions with all **attendees/participants**, **only the session host, only the presenter** or **any other attendee privately.** You can remove breakout session privileges at any time.
 * There are _four breakout session privileges_ that can be granted to all attendees: **host**, **presenter**, **panelists**, **all attendees**.
-* The training session host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
+* The host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
 
+### Polls
 
+Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
 
 {% hint style="info" %}
-1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under &lt;Meetings&gt;.
+1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under **Meetings**.
 2. When scheduling a meeting you can also save it as template.
-3. You can make notes during the meeting selecting &lt;Notes&gt; under &lt;More Options&gt; icon.
-4. Polling option can be used to create and share questionnaires. More detailed information can be found [here ](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings) 
-5. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+3. You can make notes during the meeting selecting **Notes** under **More Options** icon.
+4. 5. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
 6. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
 {% endhint %}
 
