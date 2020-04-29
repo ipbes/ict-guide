@@ -11,10 +11,9 @@ Webex is a software solution for video conferencing, online meetings and webinar
 {% hint style="info" %}
 Prerequisites:
 
-1. Computer/laptop with Internet access.
-2. Separate phone line.
-3.  Webex meeting center conveniently works inside your **web browser** with no programme to download, install or configure.
-4. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
+1. Computer/laptop with Internet access or telephone.
+2.  Webex meeting center conveniently works inside your **web browser** with no programme to download, install or configure.
+3. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
 {% endhint %}
 
 ## Webex test call
