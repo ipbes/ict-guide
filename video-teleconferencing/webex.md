@@ -89,11 +89,15 @@ After going to **Meetings** click on **Schedule** on the right side
 
 Complete all the necessary fields and click on **Schedule** at the bottom of the form. You will receive an email confirmation by email.
 
-![](../.gitbook/assets/schdule-meeting-registration-form.png)
+![Scheduling an event](../.gitbook/assets/schdule-meeting-registration-form.png)
 
 {% hint style="info" %}
-You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under **Meetings**.
+You should consider saving your meeting as a template so that you can replicate desired preferences for future meetings.
 {% endhint %}
+
+### Start a meeting
+
+You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under Meetings.
 
 ### Breakout sessions
 
@@ -125,8 +129,7 @@ sds
 sds
 
 {% hint style="info" %}
-1. 2. When scheduling a meeting you can also save it as template.
-3. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+1. 2. 3. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
 4. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
 {% endhint %}
 
