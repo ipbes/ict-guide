@@ -108,13 +108,25 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 * There are _four breakout session privileges_ that can be granted to all attendees: **host**, **presenter**, **panelists**, **all attendees**.
 * The host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
 
+### Audio quality
+
+### Engagement
+
+The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+
+### Security
+
+### Registration
+
+### Recordings
+
+### Meeting templates
+
+### In meeting file transfer
+
 ### Polls
 
 Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
-
-### Manage participants
-
-The order in which the attendees click on the Raise hand icon appears when you are a presenter.
 
 ### Q&A
 
@@ -125,10 +137,6 @@ sds
 You can make notes during the meeting selecting **Notes** under **More Options** icon.
 
 ### Whiteboard
-
-sds
-
-### Enabling file sharing
 
 sds
 
