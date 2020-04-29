@@ -6,7 +6,7 @@ description: 'https://unep.webex.com'
 
 ## Introduction
 
-Webex is a software solution for video conferencing, online meetings and webinars. You can [join a test meeting](https://www.webex.com/test-meeting.html/) to familiarize yourself with webex. 
+Webex is a software solution for video conferencing, online meetings and webinars. 
 
 {% hint style="info" %}
 Prerequisites:
@@ -16,6 +16,10 @@ Prerequisites:
 3.  Webex meeting center conveniently works inside your **web browser** with no programme to download, install or configure.
 4. You can also join the meeting from the **desktop app** or the **mobile app** if it is more convenient to you. More detailed information on this can be found [here](https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting)  
 {% endhint %}
+
+## Webex test call
+
+You can [join a test meeting](https://www.webex.com/test-meeting.html/) to familiarize yourself with Webex. 
 
 ## Join a Webex Meeting from an Email Invitation 
 
