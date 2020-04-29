@@ -6,7 +6,7 @@ description: 'https://unep.webex.com'
 
 ## Introduction
 
-Webex is the leading enterprise solution for video conferencing, online meetings, screen share and webinars. You can [join a test meeting](https://www.webex.com/test-meeting.html/) to familiarize yourself with webex. 
+Webex is a software solution for video conferencing, online meetings and webinars. You can [join a test meeting](https://www.webex.com/test-meeting.html/) to familiarize yourself with webex. 
 
 {% hint style="info" %}
 Prerequisites:
