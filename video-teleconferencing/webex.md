@@ -111,10 +111,10 @@ Breakout sessions can be used to place your attendees into smaller groups. Detai
 Polling option can be used to create and share questionnaires. More detailed information can be found [here](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Cisco-Webex-Meetings)
 
 {% hint style="info" %}
-1. You can start the meeting either from the email you have received or signing in your webex account and selecting the scheduled meeting under **Meetings**.
+1. You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under **Meetings**.
 2. When scheduling a meeting you can also save it as template.
 3. You can make notes during the meeting selecting **Notes** under **More Options** icon.
-4. 5. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
-6. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
+4. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+5. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
 {% endhint %}
 
