@@ -91,6 +91,10 @@ Complete all the necessary fields and click on **Schedule** at the bottom of the
 
 ![](../.gitbook/assets/schdule-meeting-registration-form.png)
 
+{% hint style="info" %}
+You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under **Meetings**.
+{% endhint %}
+
 ### Breakout sessions
 
 Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training).
@@ -108,6 +112,10 @@ Polling option can be used to create and share questionnaires. More detailed inf
 
 sds
 
+### Notes
+
+You can make notes during the meeting selecting **Notes** under **More Options** icon.
+
 ### Whiteboard
 
 sds
@@ -117,10 +125,8 @@ sds
 sds
 
 {% hint style="info" %}
-1. You can start the meeting either from the email you have received or signing in your Webex account and selecting the scheduled meeting under **Meetings**.
-2. When scheduling a meeting you can also save it as template.
-3. You can make notes during the meeting selecting **Notes** under **More Options** icon.
-4. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
-5. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
+1. 2. When scheduling a meeting you can also save it as template.
+3. The order in which the attendees click on the Raise hand icon appears when you are a presenter.
+4. Best practices for communicating with participants: using polls, sharing content, files, applications, how to open a new whiteboard, use the Q&A panel, etc.  can be found [here. ](https://help.webex.com/en-us/n1i89j0/Best-Practices-for-Communicating-with-Participants-in-Cisco-Webex-Training)
 {% endhint %}
 
