@@ -273,6 +273,18 @@ You will not be able to export the list of participants if meeting registration 
 1. Consider setting up audio transcripts. The quality of the transcripts is fairly good and can ease the report writing work. The transcript will be exported in .vtt format which can be opened with a text editor like notepad. [Find out more](https://support.zoom.us/hc/en-us/articles/115004794983-Automatically-Transcribe-Cloud-Recordings-)
 2. Consider enabling automatic recording if you are planning to record the meeting. Meeting hosts often forget to initiate the recording after the meeting has started.
 
+### In meeting chat recording
+
+You can save chats manually but there is a risk of forgetting to do this. It is recommended to enable auto-saving of chat messages which is off by default.
+
+To enable in meeting chat recording see the guidelines under **Auto-saving chat** [here](https://support.zoom.us/hc/en-us/articles/115004792763-Saving-In-Meeting-Chat)
+
+![Auto saving chat](../.gitbook/assets/autosavechat.jpg)
+
+{% hint style="warning" %}
+If you forget to enable autosaving chat or if you fail to manually download recording at the end of the meeting you will not be able to recover the chat history
+{% endhint %}
+
 ### Meeting templates
 
 Create and save meeting templates to ensure that you have all the required settings for each type of meeting. [Find out more](https://support.zoom.us/hc/en-us/articles/360036559151-Meeting-templates)
