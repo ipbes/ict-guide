@@ -7,7 +7,6 @@
 * [Welcome](introduction/welcome.md)
 * [Data Management Policy](introduction/data-management-policy.md)
 * [Getting help](introduction/contact.md)
-* [Technical support units](introduction/technical-support-units.md)
 * [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-user-documentation.md)
 
 ## Repositories
@@ -16,16 +15,16 @@
 * [Bitbucket](repositories/bitbucket.md)
 * [Zenodo](repositories/zenodo.md)
 
+## Reference Manager <a id="bibliography"></a>
+
+* [Zotero](bibliography/zotero.md)
+* [Reference collection](bibliography/reference-collection.md)
+
 ## Mailing and messaging
 
 * [Microsoft Outlook](mailing-and-messaging/microsoft-outlook.md)
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
-
-## Reference Manager <a id="bibliography"></a>
-
-* [Zotero](bibliography/zotero.md)
-* [Reference collection](bibliography/reference-collection.md)
 
 ## Video/teleconferencing
 
