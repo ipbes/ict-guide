@@ -2,11 +2,7 @@
 
 ## Introduction
 
-This repository holds the public user documentation for IPBES IT services and tools which is hosted on [docs.ipbes.net](https://docs.ipbes.net)
-
-## Tools
-
-Our documentation site is built using [GitBook](https://github.com/GitbookIO/gitbook/), a Node.js static site generator especially focused on documentation.
+This repository holds the public user documentation for IPBES IT services and tools which is hosted on [ict.ipbes.net](https://ict.ipbes.net)
 
 ## Contributing
 
@@ -14,15 +10,11 @@ Our documentation is public because we want your help in improving and maintaini
 
 If you spot a problem, send us a pull request to fix it! If you're not sure how, you can also file an issue and we'll try to get to it ourselves.
 
-# Contributing to the IPBES ICT user guide
-
-Thank you for helping make our documentation better!
-
 In order to maintain a consistent style and voice throughout our documentation please try to follow these standards and conventions when filing Pull Requests against our documentation.
 
-## Markdown
+### Markdown
 
-GitBook \(which we use for documentation\) uses Markdown as its file format.
+Our documentation site is built using [GitBook](https://github.com/GitbookIO/gitbook/). GitBook uses Markdown as its file format.
 
 * All files should end in `.md`. They should be all-lower-case and match the title of the page, or in some cases an abbridged version of it.
 * All pages should start with a title, denoted with \# \(first level header\).
@@ -32,10 +24,10 @@ GitBook \(which we use for documentation\) uses Markdown as its file format.
 * Do not hard-wrap prose text. Set your text editor to soft wrapping.
 * Internal links should be absolute \(starting with `/`\) and link to a file ending in `.md`, not `.html`. That makes them easier to find when needed to update.
 
-## Language usage
+### Language usage
 
 * All documentation should be written in English.
 
-## Process
+### Process
 
 * Favor many small Pull Requests \(PR\) over larger ones.
