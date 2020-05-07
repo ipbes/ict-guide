@@ -28,6 +28,3 @@ Our documentation site is built using [GitBook](https://github.com/GitbookIO/git
 
 * All documentation should be written in English.
 
-### Process
-
-* Favor many small Pull Requests \(PR\) over larger ones.

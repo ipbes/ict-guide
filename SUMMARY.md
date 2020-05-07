@@ -7,7 +7,7 @@
 * [Welcome](introduction/welcome.md)
 * [Data Management Policy](introduction/data-management-policy.md)
 * [Getting help](introduction/contact.md)
-* [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-user-documentation.md)
+* [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-ict-user-guide.md)
 
 ## Repositories
 
@@ -30,7 +30,6 @@
 
 * [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
 * [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
-* [MS Teams Live Event](video-teleconferencing/teams-live-event.md)
 * [Zoom](video-teleconferencing/zoom.md)
 * [Webex](video-teleconferencing/webex.md)
 
