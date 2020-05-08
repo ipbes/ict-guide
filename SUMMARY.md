@@ -23,7 +23,7 @@
 ## Literature access
 
 * [Research4Life](literature-access/research4life.md)
-* [Open access](literature-access/open-access.md)
+* [Open access literature](literature-access/open-access.md)
 
 ## Mailing and messaging
 
