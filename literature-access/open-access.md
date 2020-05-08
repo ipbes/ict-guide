@@ -1,16 +1,16 @@
 # Open access literature
 
-## MIT catalogue
+Examples of repositories to search directly
 
-Data from the Unpaywall \([https://unpaywall.org/](https://unpaywall.org/)\) database of open access journals and repositories is integrated into the MIT Libraries catalog \([https://libraries.mit.edu/](https://libraries.mit.edu/)\), which means an OA version of an article will appear as an option in search results if one is available. Unpaywall is also integrated into Web of Science \([https://libraries.mit.edu/get/webofsci](https://libraries.mit.edu/get/webofsci)\).
-
-## Open repositories
-
-Examples of repositories to search directly:
+## Journals
 
 ### [Google scholar](https://scholar.google.com/)
 
 Searching for articles through Google Scholar will find them in well-indexed repositories. The repository versions are usually those deposited by the authors and may include versions prior to peer review. More information on Google Scholar & article searches.
+
+### [MIT catalogue](https://libraries.mit.edu/)
+
+Data from the Unpaywall \([https://unpaywall.org/](https://unpaywall.org/)\) database of open access journals and repositories is integrated into the MIT Libraries catalog \(\), which means an open accessversion of an article will appear as an option in search results if one is available. 
 
 ### [Directory of Open Access Journals ](https://doaj.org/)
 
@@ -40,7 +40,7 @@ Enter an article’s URL, DOI, title, or other information on the OA Button webs
 
 ### [Unpaywall](https://unpaywall.org)
 
-Directly search an open, legal database of millions of open access scholarly articles. Or install the Chrome or Firefox extension to connect to open access versions of paywalled articles. As noted above, Unpaywall data is integrated into the MIT Libraries catalog, as well as Web of Science.
+Directly search an open, legal database of millions of open access scholarly articles. Or install the Chrome or Firefox extension to connect to open access versions of paywalled articles. Unpaywall data is integrated into the MIT Libraries catalog, as well as Web of Science.
 
 ## References
 
