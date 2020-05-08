@@ -8,7 +8,7 @@ Data from the Unpaywall \([https://unpaywall.org/](https://unpaywall.org/)\) dat
 
 Examples of repositories to search directly:
 
-### Google scholar \([https://scholar.google.com/](https://scholar.google.com/)\)
+### [Google scholar](https://scholar.google.com/)
 
 Searching for articles through Google Scholar will find them in well-indexed repositories. The repository versions are usually those deposited by the authors and may include versions prior to peer review. More information on Google Scholar & article searches.
 
@@ -16,7 +16,7 @@ Searching for articles through Google Scholar will find them in well-indexed rep
 
 ### [DSpace@MIT ](https://dspace.mit.edu/)
 
-### [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) 
+### [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/)
 
 ### [arXiv](http://arxiv.org/)
 
@@ -24,13 +24,11 @@ Searching for articles through Google Scholar will find them in well-indexed rep
 
 ### [CORE](https://core.ac.uk/)
 
-
-## List of other disciplinary repositories 
+## List of other disciplinary repositories
 
 ### [http://oad.simmons.edu/oadwiki/Disciplinary\_repositories](http://oad.simmons.edu/oadwiki/Disciplinary_repositories)
 
 ### [OpenStax](https://openstax.org/subjects)
-
 
 ## Browser extensions
 
