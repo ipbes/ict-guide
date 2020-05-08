@@ -20,7 +20,7 @@
 * [Zotero](bibliography/zotero.md)
 * [Reference collection](bibliography/reference-collection.md)
 
-## Literature access 
+## Literature access
 
 * [Research4Life](literature-access/research4life.md)
 * [Open access](literature-access/open-access.md)
