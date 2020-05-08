@@ -20,6 +20,11 @@
 * [Zotero](bibliography/zotero.md)
 * [Reference collection](bibliography/reference-collection.md)
 
+## Literature access 
+
+* [Research4Life](literature-access/research4life.md)
+* [Open access](literature-access/open-access.md)
+
 ## Mailing and messaging
 
 * [Microsoft Outlook](mailing-and-messaging/microsoft-outlook.md)
