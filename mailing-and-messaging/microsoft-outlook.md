@@ -6,8 +6,6 @@
 
 1. Select **File** &gt; **Add Account**.
 
-![](../.gitbook/assets/image%20%286%29.png)
-
 2. Enter your email address and click **connect**
 
 ![](../.gitbook/assets/image%20%2816%29.png)
