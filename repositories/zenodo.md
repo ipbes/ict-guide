@@ -42,7 +42,7 @@ Zenodo supports various data and license types.
 
 ## How should embargoed or restricted data be handled?
 
-Submissions can be open or restricted as in the case of anonymized sensitive data. Refer to the section on Licenses.
+Submissions can be open or restricted as in the case of anonymized sensitive data. Refer to the section on [Licenses](https://ict.ipbes.net/repositories/zenodo#license).
 
 ## Submitting a dataset to Zenodo
 
