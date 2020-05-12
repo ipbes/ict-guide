@@ -1,26 +1,14 @@
 # Zenodo
 
-[https://zenodo.org/communities/?p=ipbes](https://zenodo.org/communities/?p=ipbes)
-
-## Contributing
-
-## Reserve DOI
-
-
-
-
-
 Zenodo (https://zenodo.org/) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN) and funded by the European Union. It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts.
 
+The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services is using Zenodo to share its products and to ensure:
+* open access to IPBES products
+* digital object identifiers (DOI) to enable citation of IPBES products.
+* search functionality in CrossRef, DataCite, PubMed, RefBank, GNUB and Mendeley.
 
-A community to share publications related to assessments of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. The goal is to provide:
-
-    open access to publications cited in publications or in combination with scientific names
-    a digital object identifier (DOI) to enable citation of the publications including direct access to its digital representation.
-    search functionality in CrossRef, DataCite, PubMed, RefBank, GNUB and Mendeley.
-
-## Curation policy
-Uploads (supporting material) must be material that has been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; Guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
+# Curation policy
+Uploads (supporting material) must be material that have been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; Guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
 
 # Community URLs
 
@@ -35,7 +23,7 @@ https://zenodo.org/oai2d?verb=ListRecords&set=user-ipbes&metadataPrefix=oai_dc
 
 
 # What does Zenodo provide/Why Zenodo?
-* A persistent Digital Object identifier (DOI) is assigned for each upload to make it citable and trackable and findable. The assignment of the DOI is instantaneous when the researcher is submitting the file. Researcher can pre-assign
+* A persistent Digital Object identifier (DOI) is assigned for each upload to make it citable and trackable and findable. The assignment of the DOI is instantaneous when the expert is submitting the file. It is possible to reserve DOI.
 * Metadata of each record is sent to DataCite servers during DOI registration and indexed there.
 * Data and metadata will be retained for the lifetime of the repository. This is currently the lifetime of the host laboratory CERN, which currently has an experimental programme defined for the next 20 years.
 * Large file sizes of up to 50 GB
@@ -56,57 +44,57 @@ Metadata means ”data about data”. Metadata provide the context and informati
 #	How to link a GitHub repository to Zenodo
 
 #	What license should be used when uploading data?
-a)	Zenodo supports various data and license types. 
+Zenodo supports various data and license types. 
 
 #	How should embargoed or restricted data be handled?
-a)	Submissions can be open or restricted as in the case of anonymized sensitive data. 
+Submissions can be open or restricted as in the case of anonymized sensitive data. 
 
-# Submitting a file to Zenodo
+# Submitting a dataset to Zenodo
 
 ## Files
 A minimum of 1 file is required. The maximum file(s) size per dataset is 50 GB. You can contact Zenodo if you have a larger dataset.
- 
+
 ## Communities*
-- IPBES secretariat
+Search for 'IPBES secretariat'
 
 ## Upload type: publication type*
 
-- Publication
-- Poster
-- Presentation
-- Dataset
-- Image
-- Video/Audio
-- Software
-- Lesson
-- Other
+* Publication
+* Poster
+* Presentation
+* Dataset
+* Image
+* Video/Audio
+* Software
+* Lesson
+* Other
 
 ## Basic information
 * Digital Object Identifier: Ro be assigned by Zenodo. It is possible to Reserve a DOI
 * Publication data
 * Title
 * Authors: 
-** requires First name, last name of author abd affiliation
-** ORCID ID should pe provided whenever possible. All authors should be encouraged to create ORCID IDs
+* * requires First name, last name of author abd affiliation
+* * ORCID ID should pe provided whenever possible. All authors should be encouraged to create ORCID IDs
 * Description
 * Version
 * Language
 * Keywords
-** Some guidance is needed here
+* * Some guidance is needed here
 * Additional notes
 
 
 ## License
 * Access right
-** Open access
-** Embargoed access
-** Restricted access: If you select this you will need to specify the conditions under which you grant users access to the files in your upload. User requesting access will be asked to justify how they fulfil the conditions. Based on the justification, you decide who to grant/deny access. You are not allowed to charge users for granting access to data hosted on Zenodo.
-** Closed access
+* * Open access
+* * Embargoed access
+* * Restricted access: If you select this you will need to specify the conditions under which you grant users access to the files in your upload. User requesting access will be asked to justify how they fulfil the conditions. Based on the justification, you decide who to grant/deny access. You are not allowed to charge users for granting access to data hosted on Zenodo.
+* * Closed access
 * License
-** creative commons attribution 4.0 International
-** creative commons attribution 1.0 Generic
-** creative commons attribution 2.0 Generic
-** creative commons attribution 3.0 Unported
+* * Creative Commons Attribution 4.0 International
+* * Creative Commons Attribution 1.0 Generic
+* * Creative Commons Attribution 2.0 Generic
+* * Creative Commons Attribution 3.0 Unported
 
 ## Funding
 Specify grants which have funded your research,
@@ -115,10 +103,10 @@ Specify grants which have funded your research,
 Specify identifiers of related publications and datasets. Supported identifiers include: DOI, Handle, ARK, PURL, ISSN, ISBN, PubMed ID, PubMed Central ID, ADS Bibliographic Code, arXiv, Life Science Identifiers (LSID), EAN-13, ISTC, URNs and URLs.
 
 ## Contributors
-** Last name, First name of author 
-** Affiliation
-** ORCID ID.  Should pe provided whenever possible. All authors should be encouraged to create ORCID IDs
-** Role
+* * Last name, First name of author 
+* * Affiliation
+* * ORCID ID.  Should pe provided whenever possible. All authors should be encouraged to create ORCID IDs
+* * Role
 Contact person, data collector, data curator, data manager, distributor, Editor, hosting institution, other, producer, project leader, project manager, project member, registration agency, registration authority, related person, research group, researcher, rights holder, sponsor, supervisor, work package leader
 
 ## References
