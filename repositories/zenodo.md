@@ -30,9 +30,9 @@ Uploads \(supporting material\) must be material that have been prepared for Int
 
 Metadata means ”data about data”. Metadata provide the context and information required to interpret and understand the data.
 
-* **Structural metadata**: e.g. the file and directory structure, record trail of steps taken during collection and analysis, information about data formats.
-* **Administrative metadata**: e.g. licenses, access rights.
-* **Descriptive metadata**: the context and information about the data, e.g. the name of dataset, research discipline, persistent identifier, the time and place of collection and publishing of the dataset, authorship and ownership, content description \(keywords, variables, etc.\).
+* **Structural metadata**: e.g. the file and directory structure, record trail of steps taken during collection and analysis, information about data formats. The related sections in Zenodo are Files, Communities and Upload type
+* **Descriptive metadata**: the context and information about the data, e.g. the name of dataset, research discipline, persistent identifier, the time and place of collection and publishing of the dataset, authorship and ownership, content description \(keywords, variables, etc.\). The related sections in Zenodo are Basic information, Related/alternate identifiers, Contributors, References, Journal, Conference, Book/Report/Chapter, Thesis, and Subjects
+* **Administrative metadata**: e.g. licenses, access rights and funding.
 
 ## How to link a GitHub repository to Zenodo
 
