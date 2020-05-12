@@ -5,9 +5,14 @@
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
-* [Data Management Policy](introduction/data-management-policy.md)
 * [Getting help](introduction/contact.md)
 * [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-ict-user-guide.md)
+
+## Data Management
+
+* [Data Management Policy](data-management/data-management-policy.md)
+* [Data Management Plan](data-management/data-management-plan.md)
+* [Data Management of Active Research Data](data-management/data-management-activedata.md)
 
 ## Repositories
 

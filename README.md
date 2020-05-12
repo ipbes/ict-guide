@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository holds the public user documentation for IPBES IT services and tools which is hosted on [ict.ipbes.net](https://ict.ipbes.net)
+This repository holds the public user documentation for IPBES data management and IT services and tools. It is hosted on [ict.ipbes.net](https://ict.ipbes.net)
 
 ## Contributing
 
@@ -27,4 +27,3 @@ Our documentation site is built using [GitBook](https://github.com/GitbookIO/git
 ### Language usage
 
 * All documentation should be written in English.
-
