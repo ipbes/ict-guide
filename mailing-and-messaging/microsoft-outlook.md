@@ -1,8 +1,10 @@
 # Microsoft Outlook
 
-## Useful Tips
+{% hint style="info" %}
+This guidance is for the IPBES secretariat
+{% endhint %}
 
-### How to add a new account quickly
+## How to add a new account quickly
 
 1. Select **File** &gt; **Add Account**.
 
