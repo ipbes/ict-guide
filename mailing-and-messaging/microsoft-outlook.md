@@ -18,16 +18,12 @@
 
 ### How to turn on Focused Inbox
 
-**To turn on your Unite Mail Focused inbox:**
+**To turn on your Focused inbox:**
 
 1. In Outlook, select the **View** tab.
 2. Select Show **Focused** Inbox.
 
-![](https://iseek-external.un.org/system/files/styles/large/private/focused_inbox_1.png?itok=jc7unI3I)
-
 The **Focused** and **Other** tabs will appear at the top of your mailbox. Youâ€™ll be informed about email flowing to **Other**, and you can switch between tabs any time to take a quick look.
-
-![](https://iseek-external.un.org/system/files/styles/large/private/focused_inbox_2.png?itok=qZhdKPPY)
 
 **To change how your messages get organized:**
 
@@ -36,7 +32,4 @@ The **Focused** and **Other** tabs will appear at the top of your mailbox. Youâ€
 
    If moving from **Other** to **Focused**, choose **Move to Focused** if you want only the selected message moved. Choose **Always Move to Focused** if you want all future messages from the sender to be delivered to the **Focused** tab.
 
-   ![](https://iseek-external.un.org/system/files/styles/large/private/focused_inbox_3.png?itok=sJfGcwpO)
-
-
-
+[Find out more](https://support.office.com/en-us/article/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978)
