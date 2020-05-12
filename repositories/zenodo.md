@@ -77,7 +77,7 @@ Search for **IPBES secretariat**
 * Title
 * Authors: 
   * requires First name, last name of author abd affiliation
-  * ORCID ID should pe provided whenever possible. All authors should be encouraged to create ORCID IDs
+  * ORCID ID should be provided whenever possible. All authors should be encouraged to create ORCID IDs
 * Description
 * Version
 * Language
