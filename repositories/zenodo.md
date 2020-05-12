@@ -158,7 +158,7 @@ Specify subjects from a taxonomy or controlled vocabulary. Each term must be uni
 
 ## Contact
 
-Do you need support with Zenodo? 
+Do you need support with Zenodo?
 
 {% hint style="info" %}
 Write to support.ipbes@ipbes.net
