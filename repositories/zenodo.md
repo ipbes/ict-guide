@@ -34,10 +34,6 @@ Metadata means ”data about data”. Metadata provide the context and informati
 * **Administrative metadata**: e.g. licenses, access rights.
 * **Descriptive metadata**: the context and information about the data, e.g. the name of dataset, research discipline, persistent identifier, the time and place of collection and publishing of the dataset, authorship and ownership, content description \(keywords, variables, etc.\).
 
-## How to anonymize sensitive data
-
-## What is the workflow for submitting data to IPBES?
-
 ## How to link a GitHub repository to Zenodo
 
 ## What license should be used when uploading data?
@@ -46,9 +42,12 @@ Zenodo supports various data and license types.
 
 ## How should embargoed or restricted data be handled?
 
-Submissions can be open or restricted as in the case of anonymized sensitive data.
+Submissions can be open or restricted as in the case of anonymized sensitive data. Refer to the section on Licenses.
 
 ## Submitting a dataset to Zenodo
+* Create a Zenodo account
+* Upload data to the Zenodo community through the [Upload URL](https://zenodo.org/deposit/new?c=ipbes). Detailed instructions are available below 
+* An administrator will review the upload request and add approve it if conditions are met
 
 ### Files
 
