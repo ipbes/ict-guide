@@ -45,6 +45,7 @@ Zenodo supports various data and license types.
 Submissions can be open or restricted as in the case of anonymized sensitive data. Refer to the section on Licenses.
 
 ## Submitting a dataset to Zenodo
+
 * Create a Zenodo account
 * Upload data to the Zenodo community through the [Upload URL](https://zenodo.org/deposit/new?c=ipbes). Detailed instructions are available below 
 * An administrator will review the upload request and add approve it if conditions are met
@@ -157,5 +158,9 @@ Specify subjects from a taxonomy or controlled vocabulary. Each term must be uni
 
 ## Contact
 
-Need support? Contact support.ipbes@ipbes.net
+Do you need support with Zenodo? 
+
+{% hint style="info" %}
+Write to support.ipbes@ipbes.net
+{% endhint %}
 
