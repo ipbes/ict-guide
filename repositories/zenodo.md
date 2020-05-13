@@ -109,6 +109,30 @@ Specify grants which have funded your research,
 
 Specify identifiers of related publications and datasets. Supported identifiers include: DOI, Handle, ARK, PURL, ISSN, ISBN, PubMed ID, PubMed Central ID, ADS Bibliographic Code, arXiv, Life Science Identifiers \(LSID\), EAN-13, ISTC, URNs and URLs.
 
+You have the following options to show the relationship of the upload to the related/alternate identifiers:
+
+* cites this upload
+* is cited by this upload
+* is supplemented by this upload
+* is a supplement to this upload
+* is referenced by this upload
+* references this upload
+* is previous version of this upload
+* is new version of this upload
+* continues this upload
+* has this upload as part
+* is part of this upload
+* reviews this upload
+* is reviewed by this upload
+* documents this upload
+* is documented by this upload
+* is compiled/created by this upload
+* compiled/created this upload
+* is the source this upload is derived from
+* has this upload as its source
+* is identical to this upload
+* is an alternate identifier to this upload
+
 ### Contributors
 
 * Last name, First name of author 
