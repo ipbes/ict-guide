@@ -59,8 +59,26 @@ A minimum of 1 file is required. The maximum file\(s\) size per dataset is 50 GB
 Search for **IPBES secretariat**
 
 ### Upload type: publication type\*
-
+Some guidance is needed on what to select
 * Publication
+  * Annotation collection
+  * Book
+  * Book section
+  * Conference paper
+  * Data management plan
+  * Journal article
+  * Patent
+  * Preprint
+  * Project deliverable
+  * Project milestone
+  * Proposal
+  * Report
+  * Software documentation
+  * Taxonomic treatment
+  * Technical note
+  * Thesis
+  * Working paper
+  * Other
 * Poster
 * Presentation
 * Dataset
@@ -82,7 +100,31 @@ Search for **IPBES secretariat**
 * Version
 * Language
 * Keywords
-  * Some guidance is needed here
+  * Deliverables
+    * Africa Assessment
+    * Asia and the Pacific Assessment
+    * Biodiversity and climate change
+    * Business and biodiversity assessment
+    * Capacity building
+    * Europe and Central Asia Assessment
+    * Guide on the production of assessments
+    * Indigenous and local knowledge
+    * Invasive alien species assessment
+    * Knowledge and data
+    * Land Degradation and Restoration Assessment 
+    * Nexus assessment
+    * Pollination Assessment
+    * Scenarios and Models Assessment
+    * Sustainable use of wild species assessment
+    * Transformative change assessment
+    * Values assessment   
+  * Document type
+    * Full assessment report
+    * Summary for Policymakers
+    * Supplementation material
+    * Policy
+  * Descriptive term
+    * Data policy    
 * Additional notes
 
 ### License
