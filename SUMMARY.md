@@ -19,6 +19,7 @@
 * [GitHub](repositories/github.md)
 * [Bitbucket](repositories/bitbucket.md)
 * [Zenodo](repositories/zenodo.md)
+* [ORCID](repositories/orcid.md)
 
 ## Reference Manager <a id="bibliography"></a>
 
