@@ -100,7 +100,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 ### The Zoom Menu bar
 
-![Zoom navigation](../.gitbook/assets/image%20%2813%29.png)
+![Zoom navigation](../.gitbook/assets/image%20%2814%29.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 
