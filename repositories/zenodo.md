@@ -59,7 +59,9 @@ A minimum of 1 file is required. The maximum file\(s\) size per dataset is 50 GB
 Search for **IPBES secretariat**
 
 ### Upload type: publication type\*
+
 Some guidance is needed on what to select
+
 * Publication
   * Annotation collection
   * Book
