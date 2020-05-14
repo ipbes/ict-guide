@@ -7,7 +7,7 @@
 ## Why do you need an ORCID
 
 1. An ORCID iD reliably connects you with your works, awards, and affiliations. 
-2. ORCID alleviates mistaken identity. Many researchers share the same, or a similar name, making it easy to confuse you with someone else. This is even more likely to be the case if you have changed your name, use different versions of your name, or have a name that has been transliterated into other languages. Having and using your own ORCID iD ensures that you are correctly identified.
+2. ORCID alleviates mistaken identity. Many researchers share the same, or a similar name, making it easy to confuse you with someone else. This is even more likely to be the case if you have changed your name, use different versions of your name, or have a name that has been transliterated into other languages. 
 3. You own and control your record, managing what information is connected and how it is shared. ORCID’s visibility settings are very granular, so you can make different data elements visible to different groups.
 4. More and more of the systems you already use are connected with ORCID. With over 700 members and more than 500 live integrations, ORCID is already being used in many of your existing workflows. 
 5. ORCID improves recognition for you and your research. Using your iD creates reliable connections between your iD and your research activities. 
