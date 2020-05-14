@@ -15,7 +15,7 @@
 
 ## How to register
 
-[Register](https://orcid.org/register)
+[Click here to register](https://orcid.org/register)
 
 ## Inform secretariat of your ORCID
 
