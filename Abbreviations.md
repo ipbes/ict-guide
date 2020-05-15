@@ -29,6 +29,6 @@
 * SXN - Section
 
 # Outputs
-* FIG - Figure
-
+* FIG - Figure/Image
 * TBL - Table
+* BIB - Bibliography/citation
