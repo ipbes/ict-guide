@@ -23,3 +23,12 @@
 * FAM - First authors meeting
 * SAM - Second authors meeting
 * TAM - Third authors meeting
+
+# Sections
+* CPT - Chapter
+* SXN - Section
+
+# Outputs
+* FIG - Figure
+
+* TBL - Table
