@@ -31,4 +31,4 @@
 # Outputs
 * FIG - Figure/Image
 * TBL - Table
-* BIB - Bibliography/citation
+* BIB - Bibliography/citations
