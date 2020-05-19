@@ -30,7 +30,7 @@ You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your f
 
 ![](../.gitbook/assets/findtime_poll.jpg)
 
-### 2. Create a new poll 
+### 2. Create a new poll
 
 * Click on New Meeting Poll icon
 * Select meeting duration from the **Duration** drop down and check the Time Zone.
@@ -42,7 +42,7 @@ You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your f
 FindTime will check your calendar and will not suggest time slots if you have other scheduled meetings
 {% endhint %}
 
-### 3. Confirm poll, meeting location and notifications 
+### 3. Confirm poll, meeting location and notifications
 
 * Now enter meeting location or click on check-box for Skype Meeting link
 * Click on Insert to email button

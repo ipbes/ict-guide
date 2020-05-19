@@ -50,7 +50,7 @@ When entering a Zoom meeting for the first time from a computer you will need to
 
 **Mozilla Firefox**
 
-Click ‘Save File’  and follow the instruction in the orange box.
+Click ‘Save File’ and follow the instruction in the orange box.
 
 [![Firefox Zoom Install](https://blogs.otago.ac.nz/zoom/files/2016/04/Firefox-Zoom-Install-300x170.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Firefox-Zoom-Install.jpg)
 
@@ -82,7 +82,7 @@ You can join a Zoom meeting via teleconferencing/ audio conferencing on telephon
 * you do not have a smartphone \(iOS or Android\) while on the road, or
 * you could not connect to a network for video and VoIP/ computer audio.
 
-If you would like to attend a Zoom meeting via telephone you will need to get check if the country you would like to dial from is available here  [https://zoom.us/zoomconference](https://zoom.us/zoomconference). Then enter the Meeting ID and PIN \(if required\) when prompted.
+If you would like to attend a Zoom meeting via telephone you will need to get check if the country you would like to dial from is available here [https://zoom.us/zoomconference](https://zoom.us/zoomconference). Then enter the Meeting ID and PIN \(if required\) when prompted.
 
 _Please note calls will be charged at standard national rates._
 
@@ -297,6 +297,4 @@ Create and save meeting templates to ensure that you have all the required setti
 {% hint style="info" %}
 .pdf,.doc,.docx,.jpeg,.jpg,.ppt,.pptx,.png
 {% endhint %}
-
-
 

@@ -1,7 +1,5 @@
 # MS Teams meetings and calls
 
-
-
 {% hint style="warning" %}
 **Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat \(users with @ipbes.net or @un.org accounts\). It is recommended to use Zoom or GoTo Meeting for external meetings.
 {% endhint %}
@@ -12,7 +10,7 @@ Cloud-based meeting recording, support for larger meetings of up to 250 particip
 
 ## Meet Now
 
-You can launch an instant meeting with a colleague using the Meet Now service of MS Teams.  You can start a Meet Now as follows meeting, do one of the following:
+You can launch an instant meeting with a colleague using the Meet Now service of MS Teams. You can start a Meet Now as follows meeting, do one of the following:
 
 1. Click on the Meet Now icon from a channel or conversation.
 
@@ -46,9 +44,7 @@ On the right side of the scheduling form you will have the option to add a chann
 2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.
 3. You can also invite people from outside your organization from Outlook. Just be sure to [add them as guests](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f) before the meeting starts or they will have to join anonymously.
 
-[ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS) 
-
-
+[ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS)
 
 ## Set up Virtual Breakout Rooms
 
@@ -118,6 +114,12 @@ When you're in a meeting, select **Show participants** ![Add people to team butt
 To ask someone who was invited to join the meeting, select their name &gt; **More options**![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Ask to join** ![Add people button](https://support.content.office.net/en-us/media/a315ee12-6de9-4198-ad99-524269f2dbd4.png).
 
 You can also type a person's name or phone number in the search box to add someone who was not previously invited.
+
+## **S**et a background image
+
+### On the join a meeting or call page
+
+### During a call
 
 ## **Share Screen**
 
