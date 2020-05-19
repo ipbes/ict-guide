@@ -154,6 +154,8 @@ To blur the video after joining the meeting:
 
 ## Set a custom background image
 
+You can create your own images, upload them to Teams, and then select them as a background image for your video chats. To do so: 
+
 1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\**Uploads**
 
 ![](../.gitbook/assets/image%20%288%29.png)
