@@ -115,12 +115,6 @@ To ask someone who was invited to join the meeting, select their name &gt; **Mor
 
 You can also type a person's name or phone number in the search box to add someone who was not previously invited.
 
-## **S**et a background image
-
-### On the join a meeting or call page
-
-### During a call
-
 ## **Share Screen**
 
 To share your screen in a meeting, select **Share** ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls. Then, choose to present your entire desktop, a window, a PowerPoint file, or a whiteboard.
@@ -144,10 +138,10 @@ Meeting notes are a great place to capture and share notes before, during, and a
 ## Blur your background in a Teams meeting
 
 {% hint style="info" %}
-If you want to avoid embarrassing moments during video calls, don't forget to blur your background.
+If you want to avoid embarrassing moments during video calls, don't forget to blur your background or replace it entirely.
 {% endhint %}
 
-* Press the **Join** button
+1.Press the **Join** button
 
 ![](../.gitbook/assets/ms_teams_blur.jpg)
 
@@ -162,4 +156,34 @@ To blur the video after joining the meeting:
 * You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
 
 ![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur_3.jpg)
+
+## Set a custom background image
+
+1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\**Uploads**
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+2. Copy images you want to use to the uploads folder:
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
+{% hint style="info" %}
+Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed. 
+{% endhint %}
+
+3. In your Teams app at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
+
+4. Your image will appear here. Click to add. 
+
+{% hint style="info" %}
+Note that the update background is per meeting only. You will need to update a new background for each meeting. 
+{% endhint %}
+
+
+
+
+
+
+
+
 
