@@ -1,5 +1,7 @@
 # MS Teams meetings and calls
 
+
+
 {% hint style="warning" %}
 **Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat \(users with @ipbes.net or @un.org accounts\). It is recommended to use Zoom or GoTo Meeting for external meetings.
 {% endhint %}
@@ -10,7 +12,7 @@ Cloud-based meeting recording, support for larger meetings of up to 250 particip
 
 ## Meet Now
 
-You can launch an instant meeting with a colleague using the Meet Now service of MS Teams. You can start a Meet Now as follows meeting, do one of the following:
+You can launch an instant meeting with a colleague using the Meet Now service of MS Teams.  You can start a Meet Now as follows meeting, do one of the following:
 
 1. Click on the Meet Now icon from a channel or conversation.
 
@@ -44,7 +46,9 @@ On the right side of the scheduling form you will have the option to add a chann
 2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.
 3. You can also invite people from outside your organization from Outlook. Just be sure to [add them as guests](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f) before the meeting starts or they will have to join anonymously.
 
-[ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS)
+[ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS) 
+
+
 
 ## Set up Virtual Breakout Rooms
 
@@ -138,10 +142,10 @@ Meeting notes are a great place to capture and share notes before, during, and a
 ## Blur your background in a Teams meeting
 
 {% hint style="info" %}
-If you want to avoid embarrassing moments during video calls, don't forget to blur your background or replace it entirely.
+If you want to avoid embarrassing moments during video calls, don't forget to blur your background.
 {% endhint %}
 
-1.Press the **Join** button
+* Press the **Join** button
 
 ![](../.gitbook/assets/ms_teams_blur.jpg)
 
@@ -156,34 +160,4 @@ To blur the video after joining the meeting:
 * You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
 
 ![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur_3.jpg)
-
-## Set a custom background image
-
-1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\**Uploads**
-
-![](../.gitbook/assets/image%20%288%29.png)
-
-2. Copy images you want to use to the uploads folder:
-
-![](../.gitbook/assets/image%20%2821%29.png)
-
-{% hint style="info" %}
-Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed. 
-{% endhint %}
-
-3. In your Teams app at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
-
-4. Your image will appear here. Click to add. 
-
-{% hint style="info" %}
-Note that the update background is per meeting only. You will need to update a new background for each meeting. 
-{% endhint %}
-
-
-
-
-
-
-
-
 
