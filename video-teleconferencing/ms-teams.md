@@ -144,7 +144,7 @@ All participants in the meeting will see that you've got your hand up.
 
 ![Raised hand notification](https://support.content.office.net/en-us/media/56bcc9ed-4e7e-4001-9391-2bf3e0e6e9d1.jpg)
 
-The meeting presenters will also receive a notification that your hand is raised, and they can lower your hand once you've had a chance to talk. 
+The meeting presenters will receive a notification that your hand is raised, and they can lower your hand once you've had a chance to talk. 
 
 Select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png)  to see a list of everyone in attendance. Anyone who's raised their hand will have an icon next to their name. When multiple people raise their hands, they'll be listed in the order in which they raised them. 
 
