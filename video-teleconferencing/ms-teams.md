@@ -217,11 +217,3 @@ Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files a
 Note that the update background is per meeting only. You will need to update a new background for each meeting.
 {% endhint %}
 
-
-
-
-
-
-
-
-
