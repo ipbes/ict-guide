@@ -171,7 +171,7 @@ To access notes from a channel meeting, go to the channel where the meeting occu
 
 The meeting notes open in a Wiki tab that you can read or add to. [Edit and format the tab](https://support.microsoft.com/en-us/office/edit-and-format-a-wiki-tab-in-teams-cf83edd1-6bdb-4c0e-8040-bd70b3a11222) just like you would any other Wiki tab
 
-.![Meeting notes tab](https://support.content.office.net/en-us/media/54655fb8-d442-4989-a599-a0c5005342d3.png)
+![Meeting notes tab](https://support.content.office.net/en-us/media/54655fb8-d442-4989-a599-a0c5005342d3.png)
 
 ## Blur your background in a Teams meeting
 
