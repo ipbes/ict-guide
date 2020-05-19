@@ -136,11 +136,11 @@ During a meeting, you can raise a virtual hand to let people know you want to co
 This feature is not available in one-on-one calls.
 {% endhint %}
 
-1. During an ongoing meeting, just select **Raise your hand** ![Raise your hand](https://support.content.office.net/en-us/media/68e49423-5c9e-4d94-beff-70f6da34cd74.png) in the meeting controls.
+1. During an ongoing meeting, just select **Raise your hand option** ![Raise your hand](https://support.content.office.net/en-us/media/68e49423-5c9e-4d94-beff-70f6da34cd74.png)in the meeting controls.
 
 ![Button to raise your hand](https://support.content.office.net/en-us/media/79eccc99-5ee0-4714-bd01-cf217fb92f34.png)
 
-All participants in the meeting will see that you've got your hand up. 
+All meeting participants in the meeting will see that you've got your hand up. 
 
 ![Raised hand notification](https://support.content.office.net/en-us/media/56bcc9ed-4e7e-4001-9391-2bf3e0e6e9d1.jpg)
 
