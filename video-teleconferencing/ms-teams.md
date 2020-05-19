@@ -109,15 +109,12 @@ To invite someone to join a meeting, use the **Invite people** box to search for
 
 ### In a meeting
 
-When you're in a meeting, select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) in your meeting controls to see the people who were invited but haven't joined yet.
-
-To ask someone who was invited to join the meeting, select their name &gt; **More options**![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Ask to join** ![Add people button](https://support.content.office.net/en-us/media/a315ee12-6de9-4198-ad99-524269f2dbd4.png).
-
-You can also type a person's name or phone number in the search box to add someone who was not previously invited.
+1. When you're in a meeting, select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) in your meeting controls to see the people who were invited but haven't joined yet.
+2. To ask someone who was invited to join the meeting, select their name &gt; **More options**![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Ask to join** ![Add people button](https://support.content.office.net/en-us/media/a315ee12-6de9-4198-ad99-524269f2dbd4.png). You can also type a person's name or phone number in the search box to add someone who was not previously invited.
 
 ## **Share Screen**
 
-To share your screen in a meeting, select **Share** ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls. Then, choose to present your entire desktop, a window, a PowerPoint file, or a whiteboard.
+1. Select **Share** ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls. Then, choose to present your entire desktop, a window, a PowerPoint file, or a whiteboard.
 
 When you're done sharing, go to your meeting controls and select **Stop sharing**.
 
@@ -129,7 +126,7 @@ When you're done sharing, go to your meeting controls and select **Stop sharing*
 
 Sharing your system audio lets you stream your computer audio to meeting participants through Teams. You can use it to play a video or audio clip as part of a presentation.
 
-To share your system audio, select Share ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls and then **Include system audio**. When you share, all your system audio, including notifications, will be included in the meeting. For more on sharing system audio, check out [Share system audio in a Teams meeting](https://support.office.com/en-gb/article/share-system-audio-in-a-teams-meeting-dddede9f-e3d0-4330-873a-fa061a0d8e3b).
+1. Select Share ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls and then **Include system audio**. When you share, all your system audio, including notifications, will be included in the meeting. For more on sharing system audio, check out [Share system audio in a Teams meeting](https://support.office.com/en-gb/article/share-system-audio-in-a-teams-meeting-dddede9f-e3d0-4330-873a-fa061a0d8e3b).
 
 ## **Take Notes**
 
@@ -137,9 +134,7 @@ Meeting notes are a great place to capture and share notes before, during, and a
 
 ## Blur your background in a Teams meeting
 
-{% hint style="info" %}
 If you want to avoid embarrassing moments during video calls, don't forget to blur your background or replace it entirely.
-{% endhint %}
 
 1.Press the **Join** button
 
@@ -151,9 +146,9 @@ If you want to avoid embarrassing moments during video calls, don't forget to bl
 
 To blur the video after joining the meeting:
 
-* Click the **…** dots button to open a menu as in the snapshot directly below.
-* Click the **Blur my background** option.
-* You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
+1. Click the **…** dots button to open a menu as in the snapshot directly below
+2. Click the **Blur my background** option.
+3. You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
 
 ![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur_3.jpg)
 
