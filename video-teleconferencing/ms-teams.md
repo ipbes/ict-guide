@@ -128,6 +128,26 @@ Sharing your system audio lets you stream your computer audio to meeting partici
 
 1. Select Share ![Share screen button](https://support.content.office.net/en-us/media/36dcee31-55d2-4a2c-b993-5ee9bffdb417.png) in your meeting controls and then **Include system audio**. When you share, all your system audio, including notifications, will be included in the meeting. For more on sharing system audio, check out [Share system audio in a Teams meeting](https://support.office.com/en-gb/article/share-system-audio-in-a-teams-meeting-dddede9f-e3d0-4330-873a-fa061a0d8e3b).
 
+## Raise your hand during a meeting
+
+During a meeting, you can raise a virtual hand to let people know you want to contribute without interrupting the conversation.
+
+{% hint style="warning" %}
+This feature is not available in one-on-one calls.
+{% endhint %}
+
+1. During an ongoing meeting, just select **Raise your hand** ![Raise your hand](https://support.content.office.net/en-us/media/68e49423-5c9e-4d94-beff-70f6da34cd74.png) in the meeting controls.
+
+![Button to raise your hand](https://support.content.office.net/en-us/media/79eccc99-5ee0-4714-bd01-cf217fb92f34.png)
+
+All participants in the meeting will see that you've got your hand up. 
+
+![Raised hand notification](https://support.content.office.net/en-us/media/56bcc9ed-4e7e-4001-9391-2bf3e0e6e9d1.jpg)
+
+The meeting presenters will also receive a notification that your hand is raised, and they can lower your hand once you've had a chance to talk. 
+
+Select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png)  to see a list of everyone in attendance. Anyone who's raised their hand will have an icon next to their name. When multiple people raise their hands, they'll be listed in the order in which they raised them. 
+
 ## **Take Notes**
 
 Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting. More information can be found [here](https://support.office.com/en-gb/article/take-meeting-notes-in-teams-3eadf032-0ef8-4d60-9e21-0691d317d103)
