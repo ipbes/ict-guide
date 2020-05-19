@@ -148,9 +148,28 @@ The meeting presenters will receive a notification that your hand is raised, and
 
 Select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png)  to see a list of everyone in attendance. Anyone who's raised their hand will have an icon next to their name. When multiple people raise their hands, they'll be listed in the order in which they raised them. 
 
-## **Take Notes**
+## **Take notes during a meeting**
 
-Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting. More information can be found [here](https://support.office.com/en-gb/article/take-meeting-notes-in-teams-3eadf032-0ef8-4d60-9e21-0691d317d103)
+Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting. 
+
+### During the meeting
+
+1.  Go to **More options** ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Show meeting notes** ![Meeting notes button](https://support.content.office.net/en-us/media/44a1a0a7-dee2-42e6-9a98-84bee3502f3f.png) in the meeting controls section. If you have not taken any notes yet, select **Start taking meeting notes**.
+2.  Otherwise, start typing your notes. Use the controls at the top of the panel to format and lay out the text. To add a new note, select **Add a new section here.** Use @mentions to draw someone's attention to a specific note or assign an action item.
+
+{% hint style="info" %}
+When you first add a note, a notification will be sent on your behalf in the meeting chat. 
+
+In a recurring meeting, the notes persist from meeting to meeting. Each meeting becomes a new section in the notes.
+{% endhint %}
+
+### After a meeting
+
+To access notes from a channel meeting, go to the channel where the meeting occurred and find the meeting. Beneath it, select **Show notes in fullscreen**.
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
+The meeting notes open in a Wiki tab that you can read or add to. [Edit and format the tab](https://support.microsoft.com/en-us/office/edit-and-format-a-wiki-tab-in-teams-cf83edd1-6bdb-4c0e-8040-bd70b3a11222) just like you would any other Wiki tab.![Meeting notes tab](https://support.content.office.net/en-us/media/54655fb8-d442-4989-a599-a0c5005342d3.png)
 
 ## Blur your background in a Teams meeting
 
@@ -182,7 +201,7 @@ You can create your own images, upload them to Teams, and then select them as a 
 
 2. Upload the image\(s\) you want to use to the uploads folder:
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="warning" %}
 Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed. 
