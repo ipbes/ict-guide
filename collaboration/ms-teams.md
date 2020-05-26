@@ -6,17 +6,10 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 ## **What is Microsoft Teams?**
 
-{% file src="../.gitbook/assets/ms-teams-qs.pdf" caption="Microsoft Team Quick Start Guide" %}
-
 ### Important links
 
-{% tabs %}
-
-Click the link below to download the pdf
-
-Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
-
-[Microsoft Teams video training](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7)
+1. Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
+2. Click [here](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7) to see Microsoft Teams training videos
 
 ## Sign in to Teams
 
@@ -25,7 +18,7 @@ Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVid
 1. Start Teams
    1. In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) &gt; **Microsoft Teams**.
    2. On Mac, go to the **Applications** folder and click **Microsoft Teams**.
-   3. On mobile, tap the **Teams** icon2.
+   3. On mobile, tap the **Teams** icon.
 2. Sign in with your Office 365 username and password.
 
 #### How to use a link to join a team
@@ -85,17 +78,11 @@ By default, every team gets a **General** channel, which is a good channel to us
 2. Select **Manage team** to find **Members**, **Channels**, **Settings**, and **Apps** for your team all in one place.
 3. Select **Settings** &gt; **Team picture** to add a team picture and give your team some personality.
 
-### Share content in a meeting in Teams
-
-More information [here](https://support.office.com/en-gb/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
-
 ## Collaborate on files in Microsoft Teams
 
 ### Your files library
 
 Each channel has its own file folder where you can share files for that specific channel. To access that folder go to the channel and select the **Files** tab above the conversation window.![The files library lets you collaborate on files with your team](https://support.content.office.net/en-us/media/e7f0cb8f-46f7-4917-a652-cb4a7b92ca13.png)
-
-\*\*\*\*
 
 {% hint style="info" %}
 **Note:** Make sure to use the **Files** tab at the top of the channel conversation window instead of the **Files** button on the left side of the app. That button gives you access to ALL of your cloud files, rather than just the files for a specific channel.
@@ -137,6 +124,44 @@ If the file is a Word, Excel, PowerPoint or Visio file, the easiest way to share
 {% endhint %}
 
 If you want to share with people outside your organization you may have to select the permissions drop-down \(right above where you add the people you want to share with\) and select that **Specific People** can access the file.![Use the link settings dialog to specify permissions for a sharing link](https://support.content.office.net/en-us/media/5b10de12-a7ad-424c-b3ad-3c99d5890e4c.png)
+
+## Sync SharePoint and Teams files with the OneDrive sync app
+
+### Set up syncing
+
+1. On the Microsoft 365 app launcher, select SharePoint or Teams, and then select the site with the files you want to sync.
+2.  Select **Documents** or navigate to the subfolder you want to sync.
+3.  Select **Sync**. \(You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.\)
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+4. If your browser requests permission to use "Microsoft OneDrive," confirm that this is okay.
+
+The files then sync to a folder on your PC that has the organization \(United Nations\). This folder is automatically added to the left pane in File Explorer. You can’t select to sync to a different location.
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+### Change sync settings
+
+Below are steps to follow to change the folders that sync for the site, or to stop syncing all files on the site:
+
+1. Select the blue OneDrive cloud icon in the Windows taskbar notification area.
+
+![cloud icon](../.gitbook/assets/image%20%2831%29.png)
+
+{% hint style="warning" %}
+\(You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.\)
+{% endhint %}
+
+2.  Select **More** &gt; **Settings**.
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+3.  To see a list of all your syncing sites, select the **Account** tab.
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+4.  To change the folders that you're syncing, select **Choose folders** for that library, and then select the folders that you want to sync. To stop syncing a site, select **Stop sync** next to the site. \(Copies of the files remain on your computer. You can delete them if you want.\)
 
 ## Chat
 
