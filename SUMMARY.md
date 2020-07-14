@@ -52,3 +52,7 @@
 * [Confluence](collaboration/confluence.md)
 * [Microsoft FindTime](collaboration/microsoft-findtime.md)
 
+## Geoinformation
+
+* [Conversion to the Robinson Projection](geoinformation/conversion-to-the-robinson-projection.md)
+
