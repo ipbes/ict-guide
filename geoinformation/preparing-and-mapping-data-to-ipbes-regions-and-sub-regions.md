@@ -11,27 +11,27 @@ The guide will show how to aggregate and map FAO data according to the IPBES Reg
 
 Begin by loading the following packages.
 
-```text
+```r
 library(sf) 
 library(tidyverse)
 ```
 
-```text
-## Warning: package 'tibble' was built under R version 4.0.3
-```
+{% hint style="warning" %}
+Warning: package 'tibble' was built under R version 4.0.3
+{% endhint %}
 
-```text
-## Warning: package 'dplyr' was built under R version 4.0.3
-```
+{% hint style="warning" %}
+Warning: package 'dplyr' was built under R version 4.0.3
+{% endhint %}
 
-```text
+```r
 library(FAOSTAT)
 library(httr) # to download shapefiles off of Zenodo
 ```
 
-```text
-## Warning: package 'httr' was built under R version 4.0.2
-```
+{% hint style="warning" %}
+Warning: package 'dplyr' was built under R version 4.0.3
+{% endhint %}
 
 ## I. Downloading Necessary Data
 
