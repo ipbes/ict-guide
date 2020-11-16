@@ -17,6 +17,23 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
+## Scheduling meetings
+
+There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the Zoom web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting. 
+
+1. Sign in to your Zoom web portal.
+2. Click **Meetings**.
+3. Click **Schedule a Meeting**. 
+4. Choose the date and time for your meeting. 
+5. \(Optional\) Select any [other settings](https://support.zoom.us/hc/en-us/articles/201362413) you would like to use. 
+6. Click **Save**.
+
+### Schedule for someone else
+
+### Starting a test meeting <a id="h_7f86f5ec-787b-469a-8f5e-26645da2a356"></a>
+
+You can [join a test Zoom meeting](https://support.zoom.us/hc/en-us/articles/115002262083) to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit [zoom.us/test](https://zoom.us/test) and click **Join**. 
+
 ## Zoom test call
 
 You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
