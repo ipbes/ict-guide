@@ -153,7 +153,7 @@ pop_2018 <- pop_raw %>%
          Value)
 ```
 
-By examining the Area names within the dataset, one will notice that every name after Zimbabwe refers to aggregated data, therefore we will remove these from our analysis.
+By examining the Area names within the dataset, one will notice that every name after Zimbabwe refers to aggregated data, therefore we remove these from our analysis.
 
 ```text
 tail(pop_2018$Area, 34)
