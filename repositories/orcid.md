@@ -45,7 +45,7 @@ IPBES uses Zenodo which indexes data in DataCite. Please follow the following st
 
 ![Add works](../.gitbook/assets/orcid_link_works_1.jpg)
 
-![Link to ORCID member organisations](../.gitbook/assets/orcid_link_works_2.jpg)
+![Link to ORCID member organisations](../.gitbook/assets/orcid_link_works_2%20%281%29%20%281%29.jpg)
 
 ![DataCite is used by Zenodo. Pick this to link to IPBES publications uploaded to Zenodo](../.gitbook/assets/orcid_link_works_3.jpg)
 
