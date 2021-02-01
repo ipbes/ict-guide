@@ -17,7 +17,7 @@ You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your f
 
 * Enter your email address and follow the prompts
 
-![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2818%29%20%281%29.png)
+![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29.png)
 
 * Restart your Outlook
 

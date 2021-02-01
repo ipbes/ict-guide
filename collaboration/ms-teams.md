@@ -133,7 +133,7 @@ If you want to share with people outside your organization you may have to selec
 2.  Select **Documents** or navigate to the subfolder you want to sync.
 3.  Select **Sync**. \(You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.\)
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2824%29%20%281%29.png)
 
 4. If your browser requests permission to use "Microsoft OneDrive," confirm that this is okay.
 

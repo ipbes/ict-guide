@@ -94,7 +94,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](../.gitbook/assets/unnamed-chunk-4-1%20%281%29.png)
+![](../.gitbook/assets/unnamed-chunk-4-1%20%281%29%20%281%29.png)
 
 We can also use the ggplot package, with some additional functionality added with ggspatial, to map sf objects in R Studio such as in the following example:
 
@@ -114,7 +114,7 @@ ggplot() +
 ## Scale on map varies by more than 10%, scale bar may be inaccurate
 ```
 
-![](../.gitbook/assets/unnamed-chunk-5-1%20%281%29.png)
+![](../.gitbook/assets/unnamed-chunk-5-1%20%282%29.png)
 
 The warning of the inaccurate scale bar is due to the map using unprojected data in longitude/latitude. Maps of smaller areas will often have more accurate scale bars. It is recommended to use graticules instead of scale bars when displaying larger areas.
 
@@ -138,7 +138,7 @@ The code below showcases some of the available options for color blind friendly 
 RColorBrewer::display.brewer.all(colorblindFriendly = T)
 ```
 
-![](../.gitbook/assets/unnamed-chunk-6-1%20%281%29.png)
+![](../.gitbook/assets/unnamed-chunk-6-1%20%281%29%20%281%29.png)
 
 Additionally, to display no data we recommend using the color grey \(BBBBBB; RGB:187, 187, 187\).
 

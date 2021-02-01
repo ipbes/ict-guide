@@ -14,7 +14,7 @@ You can launch an instant meeting with a colleague using the Meet Now service of
 
 1. Click on the Meet Now icon from a channel or conversation.
 
-![Meet Now icon](../.gitbook/assets/image%20%289%29%20%282%29.png)
+![Meet Now icon](../.gitbook/assets/image%20%289%29%20%282%29%20%282%29.png)
 
 1. In your video preview, enter a name for the meeting, and select Meet Now
 2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.
@@ -38,7 +38,7 @@ On the right side of the scheduling form you will have the option to add a chann
 
 ### Schedule a meeting from your calendar
 
-![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+![](../.gitbook/assets/image%20%289%29%20%282%29%20%281%29.png)
 
 1. Open Outlook and switch to the calendar view. Click **New Teams Meeting** at the top of the view
 2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.

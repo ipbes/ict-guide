@@ -9,7 +9,7 @@ This guidance is for the IPBES secretariat
 1. Select **File** &gt; **Add Account**.
 2. Enter your email address and click **connect**
 
-![](../.gitbook/assets/image%20%2817%29%20%281%29%20%282%29.png)
+![](../.gitbook/assets/image%20%2817%29%20%281%29%20%283%29%20%282%29.png)
 
 1. **\*\*Enter your email address and click** Connect\*\*
 2. **\*\*If prompted, enter your password again, then select** OK **&gt;** Finish\*\* to start using your email account in Outlook

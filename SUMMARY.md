@@ -58,3 +58,7 @@
 * [Preparing and mapping data to IPBES Regions and Sub-regions](geoinformation/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
 * [Cartographic Guidelines](geoinformation/cartogrpahic-guidelines.md)
 
+---
+
+* [Further Information](further-information.md)
+
