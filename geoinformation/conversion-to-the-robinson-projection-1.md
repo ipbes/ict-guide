@@ -1,5 +1,5 @@
 ---
-description: Technical Guideline Series -
+description: Technical Guideline Series
 ---
 
 # Conversion to the Robinson Projection
