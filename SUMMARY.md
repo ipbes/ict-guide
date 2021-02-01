@@ -54,8 +54,8 @@
 
 ## Geoinformation
 
-* [Part 1 - Conversion to the Robinson Projection](geoinformation/conversion-to-the-robinson-projection-1.md)
-* [Part 2 - Preparing and Mapping Data to IPBES Regions](geoinformation/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
-* [Part 3 - Cartographic Guidelines](geoinformation/cartogrpahic-guidelines.md)
-* [Further Information](geoinformation/further-information.md)
+* [Technical Guidelines](geoinformation/technical-guidelines/README.md)
+  * [Part 1 - Conversion to the Robinson Projection](geoinformation/technical-guidelines/conversion-to-the-robinson-projection-1.md)
+  * [Part 2 - Preparing and Mapping Data to IPBES Regions](geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
+  * [Part 3 - Cartographic Guidelines](geoinformation/technical-guidelines/cartogrpahic-guidelines.md)
 
