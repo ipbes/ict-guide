@@ -1,7 +1,3 @@
----
-description: Technical Guideline Series
----
-
 # Technical Guidelines
 
 These technical guidelines have been prepared by the technical support unit on knowledge and data and reviewed by the task force on knowledge and data.
