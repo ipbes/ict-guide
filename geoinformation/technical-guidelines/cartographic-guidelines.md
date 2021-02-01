@@ -2,7 +2,7 @@
 description: Technical Guideline Series
 ---
 
-# Part 3 - Cartographic Guidelines
+# Part 3 - Cartographic Elements
 
 **Prepared by Joy Kumagai - Technical Support Unit \(TSU\) of Knowledge and Data**  
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**  
@@ -51,7 +51,7 @@ robin <- sp::CRS("+proj=robin +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_d
 world <- rnaturalearth::ne_download(scale = 10, type = 'land', category = 'physical', returnclass = "sf") # sf mulitpologyon 
 
 ## OGR data source with driver: ESRI Shapefile 
-## Source: "C:\Users\jkumagai\AppData\Local\Temp\Rtmp4uxFmq", layer: "ne_10m_land"
+## Source: "C:\Users\jkumagai\AppData\Local\Temp\RtmpCuhz9H", layer: "ne_10m_land"
 ## with 10 features
 ## It has 3 fields
 
@@ -61,7 +61,7 @@ world_robin <- sf::st_transform(world, crs = robin) # changes the projection
 ocean <- rnaturalearth::ne_download(scale = 10, type = 'ocean', category = 'physical', returnclass = "sf")
 
 ## OGR data source with driver: ESRI Shapefile 
-## Source: "C:\Users\jkumagai\AppData\Local\Temp\Rtmp4uxFmq", layer: "ne_10m_ocean"
+## Source: "C:\Users\jkumagai\AppData\Local\Temp\RtmpCuhz9H", layer: "ne_10m_ocean"
 ## with 1 features
 ## It has 3 fields
 
@@ -94,7 +94,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-4-1%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-4-1.png)
 
 We can also use the ggplot package, with some additional functionality added with ggspatial, to map sf objects in R Studio such as in the following example:
 
@@ -114,7 +114,7 @@ ggplot() +
 ## Scale on map varies by more than 10%, scale bar may be inaccurate
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-5-1%20%282%29.png)
+![](../../.gitbook/assets/unnamed-chunk-5-1%20%281%29.png)
 
 The warning of the inaccurate scale bar is due to the map using unprojected data in longitude/latitude. Maps of smaller areas will often have more accurate scale bars. It is recommended to use graticules instead of scale bars when displaying larger areas.
 
@@ -138,13 +138,11 @@ The code below showcases some of the available options for color blind friendly 
 RColorBrewer::display.brewer.all(colorblindFriendly = T)
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-6-1%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-6-1.png)
 
 Additionally, to display no data we recommend using the color grey \(BBBBBB; RGB:187, 187, 187\).
 
 Rainbow color schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020](https://doi.org/10.1038/s41467-020-19160-7) covers in more detail the current problems involving the use of color in science communication. An example of this is presented in the figure below \(Figure 2\) taken from [this article](https://personal.sron.nl/~pault/#good_amd_bad_colour_schemes_compared) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
-
-![Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.](../../.gitbook/assets/color_comparison_figure.png)
 
 [This article](https://personal.sron.nl/~pault/) by Paul Tol provides extensive color palettes to choose from that are color blind friendly and for qualitative, diverging, and sequential data. The high contrast color scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout.
 
@@ -179,6 +177,7 @@ Streamlining the design of maps allows for better comparison and integration. Th
 Here we also include some popular resources for global scale spatial data:
 
 * Administrative borders: [https://gadm.org/data.html](https://gadm.org/data.html)
+* Marine regions: [https://www.marineregions.org/downloads.php](https://www.marineregions.org/downloads.php)
 * Coast lines, land, and ocean boundaries: [https://www.naturalearthdata.com/downloads/](https://www.naturalearthdata.com/downloads/)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
