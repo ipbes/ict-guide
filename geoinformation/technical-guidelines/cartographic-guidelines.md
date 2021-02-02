@@ -2,7 +2,7 @@
 description: Technical Guideline Series
 ---
 
-# Cartographic Guidelines
+# Part 3 - Cartographic Guidelines
 
 **Prepared by Joy Kumagai - Technical Support Unit \(TSU\) of Knowledge and Data**  
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**  
