@@ -6,7 +6,7 @@ These technical guidelines have been prepared by the technical support unit on k
 2. [Preparing and Mapping Data to IPBES Regions and Subregions](https://ict.ipbes.net/geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions)
 3. [Cartographic Guidelines ](https://ict.ipbes.net/geoinformation/technical-guidelines/cartogrpahic-guidelines)
 
-For any questions, feedback, or suggestions for future guidelines, contact tsu.data@ipbes.net
+If interested, all source files are available on my [GitHub](https://github.com/jkumagai96/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact tsu.data@ipbes.net
 
 Please note: _The designations employed and the presentation of material on the maps shown here do not imply the expression of any opinion whatsoever on the part of the IPBES concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries._  
 
