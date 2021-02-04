@@ -38,7 +38,7 @@ prec <- raster::getData(name = "worldclim", var = "prec", res = 10)[[1]] # load 
 plot(prec)
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-3-1.png)
+![](../../.gitbook/assets/unnamed-chunk-3-1%20%281%29.png)
 
 ```text
 raster::crs(prec)
@@ -60,7 +60,7 @@ Now we can plot our results to ensure it is correct.
 plot(rob) #Plot the raster
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-5-1.png)
+![](../../.gitbook/assets/unnamed-chunk-5-1%20%284%29.png)
 
 The next step is to create graitcules and labels to add to the projected to all of the next plots.
 
@@ -72,7 +72,7 @@ labs <- graticule::graticule_labels(lons = long, lats = lat, xline = -180, yline
 lines <- graticule::graticule(lons = long, lats = lat, proj = crs) # graticules 
 ```
 
-The warnings of discarding the datum, but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL &gt;3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information [here](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)
+The warnings of discarding the datum can be safely ignored in this case \(more info at the bottom of the page\).
 
 Finally, we will plot the raster with the graticules we just created.
 
@@ -83,7 +83,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-7-1.png)
+![](../../.gitbook/assets/unnamed-chunk-7-1%20%281%29.png)
 
 ## II. Vector Data
 
@@ -101,7 +101,7 @@ plot(worldmap) # Plot world map (vector)
 ## Warning in wkt(obj): CRS object has no comment
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-8-1.png)
+![](../../.gitbook/assets/unnamed-chunk-8-1%20%281%29.png)
 
 Now, we project the vector data into the Robinson projection and plot the map with graticules.
 
@@ -119,7 +119,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-9-1.png)
+![](../../.gitbook/assets/unnamed-chunk-9-1%20%281%29.png)
 
 ## III. Combine Vector and Raster
 
@@ -134,7 +134,9 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-10-1.png)
+![](../../.gitbook/assets/unnamed-chunk-10-1%20%281%29.png)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+
+The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL &gt;3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information [here](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)
 
