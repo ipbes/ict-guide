@@ -60,7 +60,7 @@ Now we can plot our results to ensure it is correct.
 plot(rob) #Plot the raster
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-5-1%20%284%29.png)
+![](../../.gitbook/assets/unnamed-chunk-5-1%20%285%29.png)
 
 The next step is to create graitcules and labels to add to the projected to all of the next plots.
 
@@ -138,5 +138,5 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL &gt;3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information [here](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)
+_The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL &gt;3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information_ [_here_](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)\_\_
 
