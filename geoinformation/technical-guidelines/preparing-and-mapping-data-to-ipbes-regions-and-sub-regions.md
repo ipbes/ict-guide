@@ -2,7 +2,7 @@
 description: Technical Guideline Series
 ---
 
-# Part 2 - Preparing and Mapping Data to IPBES Regions
+# Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions
 
 **Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**  
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**  
@@ -17,31 +17,12 @@ Let’s begin by loading the following packages.
 
 ```text
 library(sf) 
-
-## Warning: package 'sf' was built under R version 4.0.3
-
 library(dplyr)
-
-## Warning: package 'dplyr' was built under R version 4.0.3
-
 library(magrittr)
 library(FAOSTAT)
-
-## Warning: package 'FAOSTAT' was built under R version 4.0.3
-
 library(httr) # to download data off of Zenodo
-
-## Warning: package 'httr' was built under R version 4.0.3
-
 library(rnaturalearth) # download ocean data from natural earth 
-
-## Warning: package 'rnaturalearth' was built under R version 4.0.3
-
 library(graticule) # for mapping 
-
-## Warning: package 'graticule' was built under R version 4.0.3
-
-## Warning: package 'sp' was built under R version 4.0.3
 ```
 
 ## I. Downloading Necessary Data
@@ -68,7 +49,7 @@ url_record <- paste0("https://zenodo.org/api/records/", recordID)
 record <- httr::GET(url_record)
 record # Status 200 indicates a successful download
 ## Response [https://zenodo.org/api/records/3928281]
-##   Date: 2021-02-01 14:51
+##   Date: 2021-02-04 13:31
 ##   Status: 200
 ##   Content-Type: application/json
 ##   Size: 6.41 kB
@@ -80,7 +61,7 @@ Now, we can inspect the contents downloaded with the function content\(\)
 View(content(record)) # view displays the output in a human readable form within R Studio
 ```
 
-![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](C:/Users/jkumagai/Documents/IPBES/R/Geoinformatics/Technical%20Guidelines%20Series/MappingRegions/view_content_zendodo_record.png)
+![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](../../.gitbook/assets/view_content_zendodo_record%20%282%29.png)
 
 This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET\(\) to download the shapefile.
 
@@ -90,7 +71,7 @@ url_shape <- content(record)$files[[5]]$links$download
 
 httr::GET(url_shape, write_disk("ipbes_regions_subregions.zip", overwrite = T)) # Downloads shapefile
 ## Response [https://zenodo.org/api/files/581f2706-24e9-43d0-a776-0ce97f377938/ipbes_regions_subregions_shape_1.1.zip]
-##   Date: 2021-02-01 14:51
+##   Date: 2021-02-04 13:31
 ##   Status: 200
 ##   Content-Type: application/octet-stream
 ##   Size: 175 MB
@@ -127,7 +108,7 @@ To plot the ocean in our maps, we will also download ocean data from the rnatura
 ocean <- rnaturalearth::ne_download(scale = 10, type = 'ocean', category = 'physical', returnclass = "sf")
 
 ## OGR data source with driver: ESRI Shapefile 
-## Source: "C:\Users\jkumagai\AppData\Local\Temp\RtmpMzi2Ul", layer: "ne_10m_ocean"
+## Source: "C:\Users\jkumagai\AppData\Local\Temp\RtmpqmEyBR", layer: "ne_10m_ocean"
 ## with 1 features
 ## It has 3 fields
 
@@ -298,7 +279,7 @@ palette <- c("grey","aliceblue", "lightskyblue", "dodgerblue", "dodgerblue4") # 
 plot(data_region[,2], pal = palette, main = "Total population (millions) in 2018 per region")
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-17-1%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-17-1%20%283%29.png)
 
 If you would like to add graticules and an ocean background, follow this example. First, we will set up the graticules we will plot
 
@@ -326,7 +307,7 @@ legend("bottom", # adding the legend last
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-19-1%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-19-1%20%284%29.png)
 
 We can also plot by subregion.
 
@@ -334,7 +315,7 @@ We can also plot by subregion.
 plot(data_subregion[,2], main = "Total population (millions) in 2018 per sub-region", breaks = "quantile")
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-20-1%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-20-1%20%283%29.png)
 
 Finally, by country.
 
@@ -342,7 +323,7 @@ Finally, by country.
 plot(data[,11], main = "Total population (thousands) in 2018", breaks = "jenks", at = c(100000,500000, 1000000, 1427648))
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-21-1%20%281%29.png)
+![](../../.gitbook/assets/unnamed-chunk-21-1%20%283%29.png)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
