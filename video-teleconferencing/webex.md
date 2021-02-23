@@ -160,7 +160,5 @@ You can make notes during the meeting selecting **Notes** under **More Options**
 
 ### Whiteboard
 
-## KUDO
-
 
 
