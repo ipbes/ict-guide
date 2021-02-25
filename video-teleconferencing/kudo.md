@@ -12,6 +12,10 @@ description: 'https://live.kudoway.com/'
 
 ## Joining a KUDO meeting
 
+### KUDO test call
+
+You can test how KUDO works ahead of a scheduled meeting by visiting [https://live.kudoway.com/test](https://live.kudoway.com/test)
+
 ### Requesting the Floor​
 
 If you wish to speak/take the floor, please turn on your camera, then click on “Request to speak” button located in the bottom right of your screen and wait for the meeting chair/moderator to grant you the permission to speak or to “take the floor’’.​
