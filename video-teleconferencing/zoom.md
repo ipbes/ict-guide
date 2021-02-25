@@ -6,6 +6,10 @@ description: 'https://zoom.us/'
 
 ## Introduction
 
+{% hint style="success" %}
+[Latest ZOOM video Tutorials](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials)
+{% endhint %}
+
 {% file src="../.gitbook/assets/join-from-zoom-desktop-client.url" %}
 
 Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
@@ -23,12 +27,11 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
 
 1. Sign in to your Zoom web portal.
 2. Click **Meetings**.
-3. Click **Schedule a Meeting**. 
+3. Click **Schedule a Meeting**.
 4. Choose the date and time for your meeting. 
-5. \(Optional\) Select any [other settings](https://support.zoom.us/hc/en-us/articles/201362413) you would like to use. 
+5. \(Meeting Options\) Select any [other settings](https://support.zoom.us/hc/en-us/articles/201362413) you would like to use. For example:
+   *  **Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options_
 6. Click **Save**.
-
-### Schedule for someone else
 
 ### Starting a test meeting <a id="h_7f86f5ec-787b-469a-8f5e-26645da2a356"></a>
 
