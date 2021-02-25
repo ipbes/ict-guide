@@ -21,6 +21,30 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
+## ZOOM desktop client and mobile app: 
+
+### How to install ZOOM applications
+
+#### ZOOM Desktop
+
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Client For Meetings”.
+  * This application will automatically download when you join your first Zoom Meeting.
+* Once the download is complete, proceed with **installing** the Zoom application onto your computer.
+* Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. We recommend upgrading to the latest version once it is available. You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
+* [Follow our release notes](https://support.zoom.us/hc/en-us/sections/360008531132) to stay updated on the latest Zoom releases. 
+
+#### ZOOM Mobile app
+
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Mobile Apps”. Or on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
+* Download and install
+* Once the download has completed, open the app. You will be prompted to sign in.
+* Enter login credentials and click on Sign in button .
+
+### How to upgrade/update to the latest version
+
+* Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. We recommend upgrading to the latest version once it is available. You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
+* [Follow our release notes](https://support.zoom.us/hc/en-us/sections/360008531132) to stay updated on the latest Zoom releases. 
+
 ## Scheduling meetings
 
 There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the Zoom web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting. 
