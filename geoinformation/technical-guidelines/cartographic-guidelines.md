@@ -11,6 +11,8 @@ _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.n
 Version: 1.0  
 Last Updated: February 4th 2021
 
+DOI:  [10.5281/zenodo.455918](https://doi.org/10.5281/zenodo.4559188)
+
 This technical guideline will review the necessary and suggested cartographic elements for maps produced as part of IPBES assessments. The guide is split into three components, cartographic elements, disclaimers, and general suggestions and have examples of maps and the code behind them throughout.
 
 Begin by loading the following packages.

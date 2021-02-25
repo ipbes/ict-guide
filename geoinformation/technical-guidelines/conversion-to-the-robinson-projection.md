@@ -11,6 +11,8 @@ _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.n
 Version: 2.0  
 Last Updated: February 9th 2021
 
+DOI:  [10.5281/zenodo.4559136](https://doi.org/10.5281/zenodo.4559136)
+
 The guide will show how to convert raster and vector data from a projection to the Robinson projection using R. IPBES has adopted the Robinson projection for visualizing global scale maps as it balances distortions in area, direction, distance, and distorations near the poles. Please note that the projection used for analysis and whether one would like to display a Pacific centered or Greenwich centered map depends on the application. For example, If calculating area, an equal-area projection is needed.
 
 Begin by loading the following packages.

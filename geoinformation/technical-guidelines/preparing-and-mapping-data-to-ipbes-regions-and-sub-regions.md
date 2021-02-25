@@ -9,7 +9,9 @@ description: Technical Guideline Series
 _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
 Version: 2.1  
-Last Updated: Feburary 1st 2021
+Last Updated: February 1st 2021
+
+DOI: [10.5281/zenodo.4559153](https://doi.org/10.5281/zenodo.4559153)
 
 The guide will show how to aggregate and map FAO data according to the IPBES Regions and Sub-Regions polygons using R. For this exercise, we chose the FAO population data but any FAOSTAT dataset can be used.
 
