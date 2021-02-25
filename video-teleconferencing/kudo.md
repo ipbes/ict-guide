@@ -6,13 +6,30 @@ description: 'https://live.kudoway.com/'
 
 ## Introduction
 
-## Technical requirements
+## Before Joining \| **Preparing for meeting**
 
-1. Connect on computer with **ETHERNET** 
-2. Use a proper headset
-3. Video is essential
+* **Internet connectivity**
+  * Use **Chrome or Firefox browser** to connect.\(Allow access to camera and microphone. Avoid using ad-blockers\)
+  * Use a wired connection.\(Preferred\)
+  * If wired connection is not available, use high-speed Wi-Fi instead.\(Ideally 20 and 5 Mbps, for download and upload respectively. 5Ghz / 802.11ac is highly recommended\) 
+* A webcam
+  * 
+* Professional Environment
+  * 
 
 ## Joining a KUDO meeting
+
+### Join the meeting via computer: 
+
+* You must be on Google Chrome 
+* Have your headset with microphone ready 
+* When the time comes, join the meeting by clicking on this link: ADD PARTICIPANT´S LINK 
+
+### Join the meeting via smartphone: 
+
+* Download the KUDO app: [App Store](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fkudo-live%2Fid1380613475%3Fmt%3D8&data=02%7C01%7C%7C7296f4e54e624572421a08d6307d08f9%7Cfe24bf441eb84a69b5d7f57092ec8efa%7C0%7C0%7C636749710913326631&sdata=AxTxM0bdmPHxD%2FkKlOLhSos3xyGlPUuksO9Eo0ZIHoc%3D&reserved=0), [Play Store](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.kudoway.app&data=02%7C01%7C%7C7296f4e54e624572421a08d6307d08f9%7Cfe24bf441eb84a69b5d7f57092ec8efa%7C0%7C0%7C636749710913336641&sdata=qNO96598Eiabx2Hh9k3EFBvtZvARXe%2Baz0Gwa0oj3%2B8%3D&reserved=0) 
+* Have your headset with microphone ready 
+* When the time comes, open the KUDO app, click 'join with session ID' and join the meeting by entering the following session ID: THESE ARE THE NUMBERS AT THE END OF YOUR PARTICIPANTS LINK, THEY LOOK LIKE THIS 220213082448 
 
 ### KUDO test call
 
