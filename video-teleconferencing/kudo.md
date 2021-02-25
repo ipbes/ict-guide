@@ -6,6 +6,8 @@ description: 'https://live.kudoway.com/'
 
 ## Introduction
 
+{% file src="../.gitbook/assets/kudo-it-readiness\_participant.pdf" caption="KUDO - IT Readiness" %}
+
 ## Before Joining \| **Preparing for meeting**
 
 * **Internet connectivity**
