@@ -30,14 +30,12 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 * Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Client For Meetings”.
   * This application will automatically download when you join your first Zoom Meeting.
 * Once the download is complete, proceed with **installing** the Zoom application onto your computer.
-* Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. We recommend upgrading to the latest version once it is available. You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
-* [Follow our release notes](https://support.zoom.us/hc/en-us/sections/360008531132) to stay updated on the latest Zoom releases. 
 
 #### ZOOM Mobile app
 
-* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Mobile Apps”. Or on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Mobile Apps”. Or, on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
 * Download and install
-* Once the download has completed, open the app. You will be prompted to sign in.
+* Once the download has completed, open the app. You will be prompted to sign in. 
 * Enter login credentials and click on Sign in button .
 
 ### How to upgrade/update to the latest version
@@ -54,7 +52,7 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
 3. Click **Schedule a Meeting**.
 4. Choose the date and time for your meeting. 
 5. \(Meeting Options\) Select any [other settings](https://support.zoom.us/hc/en-us/articles/201362413) you would like to use. For example:
-   *  **Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options_
+   *  **Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options._
 6. Click **Save**.
 
 ### Starting a test meeting <a id="h_7f86f5ec-787b-469a-8f5e-26645da2a356"></a>
