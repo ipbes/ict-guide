@@ -8,7 +8,9 @@ description: 'https://live.kudoway.com/'
 
 ## Technical requirements
 
-
+1. Connect on computer with **ETHERNET** 
+2. Use a proper headset
+3. Video is essential
 
 ## Joining a KUDO meeting
 
