@@ -2,7 +2,7 @@
 description: 'https://zoom.us/'
 ---
 
-# ZOOM
+# ZOOM Meeting
 
 ## Introduction
 

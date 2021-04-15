@@ -41,7 +41,7 @@
 
 * [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
 * [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
-* [ZOOM](video-teleconferencing/zoom.md)
+* [ZOOM Meeting](video-teleconferencing/zoom.md)
 * [Webex](video-teleconferencing/webex.md)
 * [KUDO](video-teleconferencing/kudo.md)
 
