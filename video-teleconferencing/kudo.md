@@ -61,10 +61,10 @@ The column on the right has many features:
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-1. “Share Screen” will not be used during this meeting. 
-2. The “Messages” function should not be used during this meeting. 
+1. “Share Screen”
+2. The “Messages” function
 3. “Polls” will not be used during this meeting. 
-4. “Documents” will, in principle, not be used. Should the urgent need arise, the Secretariat may upload any relevant documents as required. If so, you will be notified and instructed to download them.
+4. “Documents”. Should the urgent need arise, the secretariat may upload any relevant documents as required. If so, you will be notified and instructed to download them.
 5. “Request List” is a visible list of participants
 
 ### Requesting the Floor​
