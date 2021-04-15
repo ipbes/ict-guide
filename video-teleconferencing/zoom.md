@@ -72,15 +72,9 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
    *  **Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options._
 6. Click **Save**.
 
-### Starting a test meeting <a id="h_7f86f5ec-787b-469a-8f5e-26645da2a356"></a>
-
-You can [join a test Zoom meeting](https://support.zoom.us/hc/en-us/articles/115002262083) to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit [zoom.us/test](https://zoom.us/test) and click **Join**. 
-
 ## Join a Zoom meeting
 
 Participants can join a meeting by clicking the provided **meeting link** or by going to [join.zoom.us](https://zoom.us/join) and entering the **meeting ID** provided in the invitation email.
-
-Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\).
 
 1. click on the Zoom link \(it will look something like this: [https://ipbes.zoom.us/j/123456789](https://ipbes.zoom.us/j/123456789)\) OR
 2. Go to [https://ipbes.zoom.us/join](https://ipbes.zoom.us/join) and Enter the Meeting ID that you have been provided with in the appropriate field and click ‘Join’ \(the Meeting ID will be a 9 or 10 digit number\)
