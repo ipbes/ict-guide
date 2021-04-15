@@ -6,9 +6,9 @@ description: 'https://zoom.us/'
 
 ## Introduction
 
-Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
+Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email.
 
-If you experience any technical difficulties, email us at: ipbes.registration@ipbes.net
+If you have any question or need any help, email us at: ipbes.registration@ipbes.net
 
 {% hint style="success" %}
 [Latest ZOOM video Tutorials](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials)
@@ -19,7 +19,7 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 
 1. Stable internet connection
 2. A desktop computer, a laptop, or a mobile device \(either Android or iOS\)
-3. A web camera \(not mandatory\)
+3. A web camera \(optional\)
 4. A headset with a microphone: A headset with a microphone allows you to hear and be heard more clearly.
 5. ZOOM desktop client which can be downloaded from: [https://zoom.us/download](https://zoom.us/download) \(and select “Zoom Client for Meetings”\). **Note that Zoom Client is needed to listen to Interpretation**. You can still join with the browser but only the “floor” languages will be available
 6. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
@@ -54,11 +54,13 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 
 ### Test call
 
-You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
+Please ensure your headphone, microphone and video \(optional\) is working. You can run a test at [https://zoom.us/test](https://zoom.us/test)\*\*\*\*
 
-![Zoom Test Service available on https://zoom.us/test](../.gitbook/assets/zoom_testing_service.jpg)
+### **Join early** 
 
-## Scheduling meetings
+Please join the meeting at least 15 minutes before the meeting start time if possible to leave time for troubleshooting any unforeseen issues that might arise. 
+
+## Scheduling a meeting
 
 There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the Zoom web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting. 
 
