@@ -197,7 +197,7 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
 
 ## Participating in a ZOOM meeting
 
-### Listening to language interpretation <a id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
+### Interpretation <a id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
 
 {% hint style="danger" %}
 * Interpretation is only available when using the latest version of the ZOOM Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version) **before the meeting.**

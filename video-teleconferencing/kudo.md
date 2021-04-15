@@ -43,7 +43,7 @@ Clicking on the meeting link. You will be redirected to a login page on the br
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-### Audio and vide settings
+### Audio and video settings
 
 At the bottom you will see the audio and video settings:
 
