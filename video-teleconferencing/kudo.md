@@ -30,10 +30,10 @@ An invitation to participate in a KUDO virtual meeting will be sent to you by th
 
 You can connect to the session half an hour before the meeting is starting in order to allow for testing and ensure that all requirements are met To do so, please follow the steps as indicated below :
 
-Clicking on the meeting link. You will be redirected to a login page on the browser to join the virtual meeting. &lt;IMAGE&gt;
-
-1. On the right, you need to enter the Name of your country organization and the official e-mail address used to receive your invitation letter in order to participate in the meeting. &lt;IMAGE&gt;
-2. Once both fields have been completed, you may click on the green “Join” button.
+1. Clicking on the meeting link. You will be redirected to a login page on the browser to join the virtual meeting. &lt;IMAGE&gt;
+2. On the right, you need to enter the Name of your country organization and the official e-mail address used to receive your invitation letter in order to participate in the meeting. 
+   1. &lt;IMAGE&gt;
+3. Once both fields have been completed, you may click on the green “Join” button.
 
 ## Participant interface
 
