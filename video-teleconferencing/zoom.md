@@ -91,8 +91,6 @@ If you are joining from a mobile device you will be prompted to download the Zoo
 
 ### Join from Zoom desktop client
 
-#### Joining from a computer: install required software
-
 When entering a Zoom meeting for the first time from a computer you will need to download a small application file. This process is easy to complete on all commonly used browsers. See examples below:
 
 **Mozilla Firefox**
@@ -147,7 +145,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 ### The Zoom Menu bar
 
-![Zoom navigation](../.gitbook/assets/image%20%287%29%20%282%29%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 
@@ -155,7 +153,7 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 2. Stop/start video
 3. During the meeting you can invite people to join. \([learn more](https://support.zoom.us/hc/en-us/articles/201362183-How-do-I-invite-others-to-join-)\)
 4. Share screen on desktop, tablet and mobile devices. You need to select the application/window that you would like to share.  \([learn more](https://support.zoom.us/hc/en-us/articles/201362153-Screen-Sharing-and-Annotations)\)
-5. Chat
+5. The in-meeting **chat** allows you to send chat messages to other users within a meeting. You can send a private message to an individual user, or you can send a message to an entire group
 6. Leave or end the meeting
 7. QA \(Webinar\)
 
@@ -163,7 +161,16 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 
 ### Interpretation
 
+{% hint style="danger" %}
+Interpretation is only available when using the latest Zoom Client
+{% endhint %}
 
+1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
+2. Click the language that you would like to hear.
+
+![](../.gitbook/assets/image%20%284%29.png)
+
+3. \(Optional\) To hear the interpreted language only, click **Mute Original Audio**.
 
 ### Raising Your Hand
 
