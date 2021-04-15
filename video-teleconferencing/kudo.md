@@ -18,7 +18,7 @@ An invitation to participate in a KUDO virtual meeting will be sent to you by th
    * Allow browser to have access to camera and microphone. Avoid using ad-blockers
 2. Connect your headset to your computer. Please avoid using the computer’s speakers: incoming and outgoing sound must be clearly separated to ensure optimal sound quality. 
 3. Make sure you click on the KUDO invitation link from your webmail and not through a VPN connection from your respective administration or organization.
-4. Use a wired connection \(highly recommended\)
+4. Use a **wired connection** \(highly recommended\)
    * If wired connection is not available, use high-speed Wi-Fi instead.\(Ideally 20 and 5 Mbps, for download and upload respectively. 5Ghz / 802.11ac is highly recommended\) 
 5. Please make sure you have closed all applications on your machine, other than the browser used to connect to KUDO. Not only applications such as Skype still running in the background and blocking access to your computer’s microphone and webcam can be a problem. Even a page on one of your browsers left open for another video conference call with zoom, go-to, WebEx, MS Teams, .... can be a problem if you want to take the floor on KUDO as access to your computer’s microphone and webcam is still blocked by one of these pages. Even the KUDO test page of the first paragraph of this document and the previous point is blocking access to your webcam and should be closed before joining a KUDO session.
 6. You can test how KUDO works ahead of a scheduled meeting by visiting [https://live.kudoway.com/test](https://live.kudoway.com/test)
@@ -41,19 +41,31 @@ Clicking on the meeting link. You will be redirected to a login page on the br
 2. Below is the participant interface you should see once you have successfully logged in to the virtual meeting. &lt;IMAGE&gt;
 3. In order to change the platform display language, click on the “Settings” icon, which can be found underneath the logo, on the right. Choose your preferred language from the dropdown menu and then click “OK”.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
-Audio and vide settings
+#### Audio and vide settings
 
 At the bottom you will see the audio and video settings:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 1. On the left is a speaker icon to mute/unmute the sound from the platform. 
 2. The second is the “Audio Meter” showing the volume the platform is receiving from your microphone.
 3. The middle icon is to activate and deactivate your microphone.
 4. The second icon from the right is to activate and deactivate your webcam. 
 5. The icon on the right is to access your video and audio settings to select which device the platform will use as your Audio and Video source.
+
+#### **A**ccess to your profile and the ability to log out
+
+The column on the right has many features:
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+1. “Share Screen” will not be used during this meeting. 
+2. The “Messages” function should not be used during this meeting. 
+3. “Polls” will not be used during this meeting. 
+4. “Documents” will, in principle, not be used. Should the urgent need arise, the Secretariat may upload any relevant documents as required. If so, you will be notified and instructed to download them.
+5. “Request List” is a visible list of participants
 
 ### Requesting the Floor​
 
