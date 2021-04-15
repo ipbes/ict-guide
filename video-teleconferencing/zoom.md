@@ -53,7 +53,7 @@ If you have any question\(s\) or need any help, email us at: ipbes.registration@
 
 ### Test call
 
-Please ensure your headphone, microphone and video \(optional\) is working. You can run a test at [https://zoom.us/test](https://zoom.us/test)\*\*\*\*
+Please ensure your headphone, microphone and video \(optional\) is working. You can run a test call at [https://zoom.us/test](https://zoom.us/test)\*\*\*\*
 
 ### **Join early** 
 
@@ -73,70 +73,107 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
 
 ## Joining a ZOOM meeting
 
-Participants can join a meeting by clicking the provided **meeting link** or by going to [join.zoom.us](https://zoom.us/join) and entering the **meeting ID** provided in the invitation email.
+Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from [our Download Center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link.
 
-1. Click on the ZOOM link \(it will look something like this: [https://ipbes.zoom.us/j/123456789](https://ipbes.zoom.us/j/123456789)\) OR
-2. Go to [https://ipbes.zoom.us/join](https://ipbes.zoom.us/join) and Enter the Meeting ID that you have been provided with in the appropriate field and click ‘Join’ \(the Meeting ID will be a 9 or 10 digit number\)
+{% hint style="warning" %}
+* Each meeting has a unique 9, 10, or 11-digit number called a [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) that will be required to join a Zoom meeting
+* If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
+{% endhint %}
 
-### Join from a mobile Device
+### Join via desktop client
 
-If you are joining from a mobile device you will be prompted to download the ZOOM Cloud Meetings app from the applications store. See [here](https://support.zoom.us/hc/en-us/sections/200305413-Mobile) for more platform specific details.
+#### Windows/Mac
 
-1. Open the app and login with your credentials.
-2. Choose **Join a Meeting**.
-3. Enter the “Meeting ID.”
+1. Open the Zoom desktop client.
+2. Join a meeting using one of these methods:
+   * Click **Join a Meeting** if you want to join without signing in. ![](https://assets.zoom.us/images/en-us/desktop/generic/home/join-meeting-or-sign-in-screen.png)
+   * Sign in to Zoom then click **Join.** ![](https://assets.zoom.us/images/en-us/desktop/generic/home/join-button.png)
+3. Enter the [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) number and your display name.
+   * If you're signed in, change your name if you don't want your [default name](https://support.zoom.us/hc/en-us/articles/201363203) to appear.
+   * If you're not signed in, enter a display name. ![](https://assets.zoom.us/images/en-us/desktop/generic/home/join-a-meeting.png)
+4. Select if you would like to connect audio and/or video and click **Join**.
 
-### Join from ZOOM desktop client
+### Join via browser
 
-When entering a ZOOM meeting for the first time from a computer you will need to download a small application file. This process is easy to complete on all commonly used browsers. See examples below:
+#### Google Chrome
 
-**Mozilla Firefox**
+1. Open Chrome.
+2. Go to [join.zoom.us](https://join.zoom.us/).
+3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer. ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
+4. Click **Join**.
+   * If this is your first time joining from Google Chrome, you will be asked to open the Zoom client to join the meeting.
+   * You can check **Always open these types of links in the associated app** to skip this step in the future.
+   * Click **Open Zoom Meetings** \(PC\) or **Open zoom.us** \(Mac\). ![](https://assets.zoom.us/images/en-us/web/misc/chrome-open-zoom.png)
 
-Click ‘Save File’ and follow the instruction in the orange box.
+#### Safari
 
-[![Firefox Zoom Install](https://blogs.otago.ac.nz/zoom/files/2016/04/Firefox-Zoom-Install-300x170.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Firefox-Zoom-Install.jpg)
+1. Open Safari.
+2. Go to [join.zoom.us](https://join.zoom.us/).
+3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer. ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
+4. Click **Join**.
+5. When asked if you want to open zoom.us, click **Allow**.![](https://assets.zoom.us/images/en-us/web/misc/safari-launch-zoom.png)
 
-**Google Chrome**
+#### Microsoft Edge or Internet Explorer
 
-[![Google Chrome Zoom Install](https://blogs.otago.ac.nz/zoom/files/2016/04/Google-Chrome-Zoom-Install-300x195.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Google-Chrome-Zoom-Install.png)
+1. Open Edge or Internet Explorer.
+2. Go to [join.zoom.us](https://join.zoom.us/).
+3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer. ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
+4. Click **Join**.
 
-Google Chrome should automatically download the file and point to it as shown above. Clicking on the Zoom\_launcher.exe file will install ZOOM, there will be a short pause before a blue progress bar appears indicating the installation.
+#### Mozilla Firefox
 
-If an ‘Application Launcher’ or ‘External Protocol Request’ box appears simply tick the ‘_Remember my choice…_’ option box and then click ‘OK’
+1. Open Firefox.
+2. Go to [join.zoom.us](https://join.zoom.us/).
+3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer. ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
+4. Click **Join**.
+   * If this is your first time joining from Firefox, you may be asked to open Zoom or the Zoom installer package.
+   * To skip this step in the future, check **Remember my choose for zoommtg links**.
+   * Click **Open Link.** ![](https://assets.zoom.us/images/en-us/web/misc/firefox-open-link.png)
 
-[![Zoom Application Launcher](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-Application-Launcher-300x228.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-Application-Launcher.png) [![Zoom External Protocol Request](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-External-Protocol-Request-284x300.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-External-Protocol-Request.png)
+### Join via mobile app
 
-Just before entering the meeting you will be prompted to enter a display name. This name is simply to identify you in the meeting.Please enter both your given and family names.
+#### Android
 
-[![Zoom Name](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-Name-300x186.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Zoom-Name.png)
+1. Open the Zoom mobile app. If you have not downloaded the Zoom mobile app yet, you can download it from the Google Play Store.
+2. Join a meeting using one of these methods:
+   * Tap **Join a Meeting** if you want to join without signing in.
+   * Sign in to Zoom then tap **Join.** ![](https://assets.zoom.us/images/en-us/mobile/generic/meet-and-chat/join-button.png)
+3. Enter the [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) number and your display name.
+   * If you're signed in, change your name if you don't want your [default name](https://support.zoom.us/hc/en-us/articles/201363203) to appear.
+   * If you're not signed in, enter a display name.
+4. Select if you would like to connect audio and/or video and tap **Join Meeting**. [![](https://assets.zoom.us/images/en-us/mobile/android/enter-meeting-id-or-personal-link-name.png)](https://support.zoom.us/hc/article_attachments/115017567166/Screenshot_2017-11-11-19-06-46.png)
 
-#### Joining from a computer: audio settings
+#### iOS
 
-You will then be prompted how you wish to join your audio. If you wish to join audio via the telephone, follow the instructions further down, otherwise simply select Join Computer by Audio _\(TIP: by ticking the “Automatically join audio by computer…” option box first, will mean you won’t get prompted again in the future\)_
+1. Open the Zoom mobile app. If you have not downloaded the Zoom mobile app yet, you can download it from the App Store.
+2. Join a meeting using one of these methods:
+   * Tap **Join a Meeting** if you want to join without signing in.
+   * Sign in to Zoom then tap **Join.** ![](https://assets.zoom.us/images/en-us/mobile/generic/meet-and-chat/join-button.png)
+3. Enter the [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) number and your display name.
+   * If you're signed in, change your name if you don't want your [default name](https://support.zoom.us/hc/en-us/articles/201363203) to appear.
+   * If you're not signed in, enter a display name.
+4. Select if you would like to connect audio and/or video and select **Join.** ![](https://assets.zoom.us/images/en-us/mobile/ios/enter-meeting-id-or-personal-link-name.PNG)
 
-[![Join Audio by Computer](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Computer-300x167.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Computer.png)
+### Join via telephone
 
-### Join via Telephone
+1. On your phone, dial the [teleconferencing](http://zoom.us/zoomconference) number provided in your invite.
+2. Enter the meeting ID number when prompted using your dialpad.
 
-You can join a ZOOM meeting via teleconferencing/ audio conferencing on telephone. This is useful in occasions where:
+{% hint style="danger" %}
+**Note**: If you have already joined the meeting via computer, you will have the option to enter your 2-digit participant ID to be associated with your computer. If you have not joined on your computer, simply press \# again when prompted to enter in your participant ID.
+{% endhint %}
 
-* you do not have a microphone or speaker on your computer,
-* you do not have a smartphone \(iOS or Android\) while on the road, or
-* you could not connect to a network for video and VoIP/ computer audio.
+### Join via email
 
-If you would like to attend a ZOOM meeting via telephone you will need to get check if the country you would like to dial from is available here [https://zoom.us/zoomconference](https://zoom.us/zoomconference). Then enter the Meeting ID and PIN \(if required\) when prompted.
+Click the join link in your email or calendar invitation.  
+![](https://assets.zoom.us/images/en-us/misc/join-meeting-url.png)
 
-_Please note calls will be charged at standard national rates._
+Depending on your default web browser, you may be prompted to open Zoom.![](https://assets.zoom.us/images/en-us/web/misc/safari-launch-zoom.png)
 
-### Join via Computer & Audio via Telephone
+### Join via messaging 
 
-It is possible to use a combination of computer for video and phone for audio.
-
-If you use this option, then enter by computer first and select the **Join By Phone** tab when the audio pop-up window appears \(see example below\). This will display countries which have a “local” dial in number by clicking on the flag icon\), as well as the Meeting ID to enter and your Participant ID.
-
-Dial in as noted above, however after entering the Meeting ID, you will be prompted to enter your Participant ID. Simply enter this number followed by \# and your video and audio will then be synchronized.
-
-[![Join Audio by Telephone](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone-300x151.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone.png)
+ If you are online, with the Zoom desktop client or mobile app, others will have the ability to send you a meeting request via instant message. You will receive an incoming message notification displaying who is calling along with a ringtone. Select **Accept** to join the meeting with the person who is calling you.  
+![](https://assets.zoom.us/images/en-us/desktop/generic/incoming-call-notification.png)
 
 ## Meeting controls \(navigation\)
 
