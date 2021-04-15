@@ -1,8 +1,8 @@
 ---
-description: 'https://zoom.us/'
+description: 'Meeting and Webinar (https://zoom.us/)'
 ---
 
-# ZOOM Meeting
+# ZOOM
 
 ## Introduction
 
