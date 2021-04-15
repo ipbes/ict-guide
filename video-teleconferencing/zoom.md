@@ -36,13 +36,13 @@ If you have any question\(s\) or need any help, email us at: ipbes.registration@
 * Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download), then click on the **Download** button under “ZOOM Client For Meetings”.
   * This application will automatically download when you join your first ZOOM Meeting.
 * Download and install the ZOOM application onto your computer.
+* Once the download has completed, open the app then enter login credentials and click on Sign in button .
 
 #### ZOOM Mobile app
 
 * Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “ZOOM Mobile Apps”. Or, on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
 * Download and install
-* Once the download has completed, open the app. You will be prompted to sign in. 
-* Enter login credentials and click on Sign in button .
+* Once the download has completed, open the app then enter login credentials and click on Sign in button .
 
 ### Update ZOOM Client
 
