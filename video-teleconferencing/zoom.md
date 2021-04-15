@@ -205,7 +205,7 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 
 * A chat window will then open. Select ‘Everyone’ or the name of the person you wish to send a chat message to. You can upload and share files with other participants during the meeting by clicking on "File". Files must be in the following formats: pdf, jpeg, jpg, doc,docx, pptx and ppt
 
-![Zoom chat with file upload](https://ipbes.net/sites/default/files/inline-images/chat.jpg)
+![](https://ipbes.net/sites/default/files/inline-images/chat.jpg)
 
 ### Disabling video
 
@@ -227,47 +227,37 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 
 * **Star \(\*\) 6** - Toggle mute/ un-mute
 
-## Changing your display name
+### Changing your display name
 
-If your ZOOM Display Name is not correct your may not be admitted to a meeting. To change a display name while already connected to a ZOOM,  follow the steps below:
+If your ZOOM display name is not correct your may not be admitted to a meeting. To change a display name while already connected to a ZOOM,  follow the steps below:
 
-From inside of the ZOOM Room click on the "Participants" icon at the bottom of the window \(shown below\).
+1. From inside of the ZOOM Room click on the "Participants" icon at the bottom of the window \(shown below\).
 
 ![Zoom\_004.PNG](https://support.palcs.org/hc/article_attachments/360093495253/Zoom_004.PNG)
 
-A Participants bar will appear on the right side of the screen. Hover over your name and a "More &gt;" button will appear.
+2. A Participants bar will appear on the right side of the screen. Hover over your name and a "More &gt;" button will appear.
 
 ![Zoom\_005.PNG](https://support.palcs.org/hc/article_attachments/360091339754/Zoom_005.PNG)
 
-Click on the "Rename" button that will appear after you click on the "More &gt;" button.
+3. Click on the "Rename" button that will appear after you click on the "More &gt;" button.
 
 ![mceclip0.png](https://support.palcs.org/hc/article_attachments/360091339794/mceclip0.png)
 
-Enter your new name in the "New Screen Name" field and be sure to have the "Remember my name for future meetings" checked.
+4. Enter your new name in the "New Screen Name" field and be sure to have the "Remember my name for future meetings" checked.
 
 ![Zoom\_007.PNG](https://support.palcs.org/hc/article_attachments/360093495673/Zoom_007.PNG)
 
-After clicking the blue "OK" button, your new name will appear.
+5. After clicking the blue "OK" button, your new name will appear.
 
 ![Zoom\_008.PNG](https://support.palcs.org/hc/article_attachments/360091339954/Zoom_008.PNG)
 
-If you need to change your Zoom display name before entering a room, you can do so through the Zoom app installed on your desktop. Just find the Zoom icon on the desktop and open it up.
+If you need to change your Zoom display name before entering a room, you can do so through the ZOOM app installed on your desktop. 
 
-![Zoom\_001.PNG](https://support.palcs.org/hc/article_attachments/360091340754/Zoom_001.PNG)
-
-There will be an option to "Join a meeting." Click on that.
-
-![Zoom\_002.PNG](https://support.palcs.org/hc/article_attachments/360093496813/Zoom_002.PNG)
-
-That will open up a window where you can manually join a meeting \(instead of clicking a link\). 
-
-![Zoom\_003.PNG](https://support.palcs.org/hc/article_attachments/360093496793/Zoom_003.PNG)
-
-Enter the ZOOM room number/name if you know it and enter in the Display Name that you'd like. Make sure that the "Remember my name for future meetings" is turned on. \(If you do not know your Teacher's ZOOM room number/name, if you click on the arrow to the right it will show you all the previous rooms that you've connected to on that computer\)
-
-![Zoom\_009.PNG](https://support.palcs.org/hc/article_attachments/360093496833/Zoom_009.PNG)
-
-Once you join a room with that Display name \(and you have the "Remember my name" turned on you should have the new Display name for all ZOOM rooms that you join.
+1. Open the desktop app.
+2. Click on "Join a meeting" option
+3. A window will open up where you can manually join a meeting \(instead of clicking a link\). 
+4. Enter the ZOOM room number/name if you know it and enter in the display name that you'd like. 
+5. Once you join a room with that display name \(and you have the "Remember my name" turned on you should have the new display name for all ZOOM rooms that you join.
 
 ## Sharing content
 
