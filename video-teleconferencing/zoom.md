@@ -8,7 +8,7 @@ description: 'https://zoom.us/'
 
 ZOOM is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email.
 
-If you have any question or need any help, email us at: ipbes.registration@ipbes.net
+If you have any question\(s\) or need any help, email us at: ipbes.registration@ipbes.net
 
 {% hint style="success" %}
 [Latest ZOOM video Tutorials](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials)
@@ -25,7 +25,7 @@ If you have any question or need any help, email us at: ipbes.registration@ipbes
 6. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
-## Before joining a meeting
+## Before joining a ZOOM meeting
 
 ### D**ownload and install ZOOM app**
 
@@ -60,7 +60,7 @@ Please ensure your headphone, microphone and video \(optional\) is working. You 
 
 Please join the meeting at least 15 minutes before the meeting start time if possible to leave time for troubleshooting any unforeseen issues that might arise. 
 
-## Scheduling a meeting
+## Scheduling a ZOOM meeting
 
 There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the ZOOM web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting. 
 
@@ -72,14 +72,12 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
    *  **Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options._
 6. Click **Save**.
 
-## Join a ZOOM meeting
+## Joining a ZOOM meeting
 
 Participants can join a meeting by clicking the provided **meeting link** or by going to [join.zoom.us](https://zoom.us/join) and entering the **meeting ID** provided in the invitation email.
 
-1. click on the ZOOM link \(it will look something like this: [https://ipbes.zoom.us/j/123456789](https://ipbes.zoom.us/j/123456789)\) OR
+1. Click on the ZOOM link \(it will look something like this: [https://ipbes.zoom.us/j/123456789](https://ipbes.zoom.us/j/123456789)\) OR
 2. Go to [https://ipbes.zoom.us/join](https://ipbes.zoom.us/join) and Enter the Meeting ID that you have been provided with in the appropriate field and click ‘Join’ \(the Meeting ID will be a 9 or 10 digit number\)
-
-[![Join a Meeting](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-a-Meeting-300x150.jpg)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-a-Meeting.jpg)
 
 ### Join from a mobile Device
 
@@ -145,7 +143,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 ### The Menu bar
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the ZOOM window. You can perform the following actions from the menu bar:
 
@@ -170,7 +168,7 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
 1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
 2. Click the language that you would like to hear.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 3. \(Optional\) To hear the interpreted language only, click **Mute Original Audio**.
 
