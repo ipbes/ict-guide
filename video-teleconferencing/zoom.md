@@ -159,10 +159,12 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 
 ## Participating in a Zoom meeting
 
-### Interpretation
+### Listening to language interpretation <a id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
 
 {% hint style="danger" %}
-Interpretation is only available when using the latest Zoom Client
+* Interpretation is only available when using the latest Zoom Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version) **before your meeting.**
+* You must join the meeting audio through your computer audio/VoIP. You cannot listen to language interpretation if you use the [dial-in](https://support.zoom.us/hc/en-us/articles/201362663) or [call me](https://support.zoom.us/hc/en-us/articles/200942859) phone audio features.
+* As a participant joining a language channel, you can broadcast back into the main audio channel if you unmute your audio and speak.
 {% endhint %}
 
 1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
