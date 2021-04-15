@@ -47,7 +47,6 @@ If you have any question\(s\) or need any help, email us at: ipbes.registration@
 ### Update ZOOM Client
 
 * ZOOM [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the ZOOM desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
-* If you already have ZOOM, please **upgrade ZOOM before your meeting** to ensure you have access to the latest enhancements.
 * Follow the instructions below to update your ZOOM client.
 
 ![](../.gitbook/assets/image.png)
@@ -141,7 +140,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 ## Meeting controls \(navigation\)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the ZOOM window. You can perform the following actions from the menu bar:
 
@@ -172,7 +171,7 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
 1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
 2. Click the language that you would like to hear.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 3. \(Optional\) To hear the interpreted language only, click **Mute Original Audio**.
 
