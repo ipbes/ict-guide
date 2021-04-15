@@ -233,8 +233,7 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 
 If your ZOOM Display Name is not correct your may not be admitted to a meeting. To change a display name while already connected to a ZOOM,  follow the steps below:
 
-From inside of the ZOOM Room click on the "Participants" icon at the bottom of the window \(shown below\).  
- 
+From inside of the ZOOM Room click on the "Participants" icon at the bottom of the window \(shown below\).
 
 ![Zoom\_004.PNG](https://support.palcs.org/hc/article_attachments/360093495253/Zoom_004.PNG)
 
