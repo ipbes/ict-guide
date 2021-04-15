@@ -139,9 +139,7 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 [![Join Audio by Telephone](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone-300x151.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone.png)
 
-## Navigating ZOOM
-
-### The Menu bar
+## ZOOM Menu bar \(navigation\)
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
