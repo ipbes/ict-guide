@@ -139,19 +139,25 @@ Dial in as noted above, however after entering the Meeting ID, you will be promp
 
 [![Join Audio by Telephone](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone-300x151.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Join-Audio-by-Telephone.png)
 
-## ZOOM Menu bar \(navigation\)
+## Meeting controls \(navigation\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the ZOOM window. You can perform the following actions from the menu bar:
 
-1. Mute/unmute audio
-2. Stop/start video
-3. During the meeting you can invite people to join. \([learn more](https://support.zoom.us/hc/en-us/articles/201362183-How-do-I-invite-others-to-join-)\)
-4. Share screen on desktop, tablet and mobile devices. You need to select the application/window that you would like to share.  \([learn more](https://support.zoom.us/hc/en-us/articles/201362153-Screen-Sharing-and-Annotations)\)
-5. The in-meeting **chat** allows you to send chat messages to other users within a meeting. You can send a private message to an individual user, or you can send a message to an entire group
-6. Leave or end the meeting
-7. QA \(Webinar\)
+1. **Join Audio** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/outline/join-audio-button.png) ****or **Unmute** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-on-button.png) **/ Mute** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-off-button.png): This allows you to connect to the meeting's audio, then once connected, mute or unmute your microphone.
+   * Audio controls \(click **^** next to **Mute**/**Unmute**\): The audio controls allow you to change the microphone and speaker that Zoom is currently using on your computer, leave computer audio, and access the full audio options in the Zoom settings.
+2. **Start Video** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-off-button.png) / **Stop** **Video** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-on-button.png): This allows you to start or stop your own video.
+   * Video controls \(click **^** next to **Start**/**Stop Video**\): If you have multiple cameras on your computer, you can select which Zoom is using, access the full video controls, and select a Virtual Background.
+3. **Participants** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/participants-or-channel-button.png): Opens the window to [manage participants](https://support.zoom.us/hc/en-us/articles/115005759423), view [aggregate nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and [invite others to join the meeting](https://support.zoom.us/hc/en-us/articles/201362183).
+4. **Chat** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/chat-button.png) ****: Access the chat window to [chat with the participants](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat). You can send a private message to an individual user, or you can send a message to an entire group
+5. **Share Screen** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png): Start [sharing your screen](https://support.zoom.us/hc/en-us/articles/201362153). You will be able to select the desktop or application you want to share. When you are screen sharing, the controls will appear at the top of your screen, but you can drag it to another location. 
+   * Share Screen controls \(click **^** next to **Share Screen** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png)\): Select who can share in your meeting and if you want only the host or any participant to be able to start a new share when someone is sharing. ![](https://assets.zoom.us/images/en-us/desktop/generic/advanced-sharing-options.png)
+6. **Reactions**![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/reactions-button.png):  Meeting reactions, [nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and Raise Hand allow you to communicate issues or feedback to the host or presenter without disrupting the meeting. These reactions are shown on your video panel and next to your name on the participants panel. 
+7. **Breakout Rooms** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/breakout-rooms-button.png) ****: Start [breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms).
+8. **End** \(only available to the host\): Display the following two options.
+   * **End Meeting for All**: End the meeting for yourself and all participants. 
+   * **Leave Meeting**: Leave the meeting. You will be prompted to assign a host so that the meeting can continue.
 
 ## Participating in a ZOOM meeting
 
@@ -166,7 +172,7 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
 1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
 2. Click the language that you would like to hear.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 3. \(Optional\) To hear the interpreted language only, click **Mute Original Audio**.
 
