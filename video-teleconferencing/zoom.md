@@ -163,9 +163,8 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
 ### Listening to language interpretation <a id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
 
 {% hint style="danger" %}
-* Interpretation is only available when using the latest Zoom Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version) **before the meeting.**
+* Interpretation is only available when using the latest version of the ZOOM Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version) **before the meeting.**
 * You **must** join the meeting audio through your computer audio/VoIP. You **cannot** listen to language interpretation if you use the [dial-in](https://support.zoom.us/hc/en-us/articles/201362663) or [call me](https://support.zoom.us/hc/en-us/articles/200942859) phone audio features.
-* Please do not mute the original language
 {% endhint %}
 
 1. In your meeting/webinar controls, click **Interpretation**.  ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
@@ -212,29 +211,21 @@ The following command can be entered via DTMF tones using your phone's dialpad w
 
 ### Disabling video
 
-It is possible that during the conference participants will be ask to turn off their cameras and move to audio only, particularly if there are problems with the available bandwidth.
-
-To do this simply click on the camera icon at the bottom of the ZOOM window.
+It is possible that during a meeting participants will be asked to turn off their cameras and move to audio only, particularly if there are problems with the available bandwidth. To do this simply click on the camera icon at the bottom of the ZOOM window.
 
 [![Stop Video](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)
 
 ### Disabling microphone \(mute function\)
 
-It is recommended to mute your microphone when you are not speaking to reduce background noise and improve audio quality.
-
-To do this simply click on the Mute icon at the bottom of the ZOOM window.
+It is recommended to mute your microphone when you are not talking to reduce background noise and improve audio quality. To do this simply click on the Mute icon at the bottom of the ZOOM window.
 
 [![Stop Video](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)](https://blogs.otago.ac.nz/zoom/files/2016/04/Stop-Video.png)
 
-The following command can be entered via DTMF tones using your phone's dialpad while in a ZOOM Meeting:
-
-* **Star \(\*\) 6** - Toggle mute/ un-mute
-
 ### Changing your display name
 
-If your ZOOM display name is not correct your may not be admitted to a meeting. To change a display name while already connected to a ZOOM,  follow the steps below:
+If your ZOOM display name is not correct you may not be admitted to a meeting. To change a display name while already connected to a ZOOM,  follow the steps below:
 
-1. From inside of the ZOOM Room click on the "Participants" icon at the bottom of the window \(shown below\).
+1. From inside of the ZOOM room click on the "Participants" icon at the bottom of the window \(as shown below\).
 
 ![Zoom\_004.PNG](https://support.palcs.org/hc/article_attachments/360093495253/Zoom_004.PNG)
 
@@ -262,9 +253,9 @@ If you need to change your Zoom display name before entering a room, you can do 
 4. Enter the ZOOM room number/name if you know it and enter in the display name that you'd like. 
 5. Once you join a room with that display name \(and you have the "Remember my name" turned on you should have the new display name for all ZOOM rooms that you join.
 
-## Sharing content
+### Sharing content
 
-### Sharing content from ZOOM desktop client
+#### Sharing content from ZOOM desktop client
 
 1. From the ZOOM client, choose **Share Screen**.
 2. Choose to share any open application or one of the following:
@@ -276,7 +267,7 @@ If you need to change your Zoom display name before entering a room, you can do 
 4. Enable or disable full screen optimization.
 5. Choose **Share Screen**.
 
-### Sharing content from iphone/iPad
+#### Sharing content from iphone/iPad
 
 1. From the Apple application, choose **Share Content**.
 2. Choose one of the following:
@@ -291,7 +282,7 @@ If you need to change your Zoom display name before entering a room, you can do 
    9. Bookmark
 3. Enter applicable details for sharing the specific content.
 
-### Sharing content from Android
+#### Sharing content from Android
 
 1. From the Android application, choose **Share Content**.
 2. Choose one of the following:
