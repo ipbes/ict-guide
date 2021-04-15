@@ -27,7 +27,7 @@ If you have any question or need any help, email us at: ipbes.registration@ipbes
 
 ## Before joining a meeting
 
-### D**ownload and install ZOOM**
+### D**ownload and install ZOOM app**
 
  **I**f you haven’t used ZOOM before click [here ](https://zoom.us/download)to **download ZOOM prior to the day of the meeting** and familiarize yourself with some of the features you may need to use, i.e. sharing screen, mute/unmute microphone, stop/start video etc.
 
