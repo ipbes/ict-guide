@@ -6,28 +6,32 @@ description: 'https://zoom.us/'
 
 ## Introduction
 
+Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
+
+If you experience any technical difficulties, email us at: ipbes.registration@ipbes.net
+
 {% hint style="success" %}
 [Latest ZOOM video Tutorials](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials)
 {% endhint %}
 
-{% file src="../.gitbook/assets/join-from-zoom-desktop-client.url" %}
-
-Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
-
 {% hint style="warning" %}
 **Prerequisites:**
 
-1. Have internet connection, laptop, or device
-2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
+1. Stable internet connection,
+2. A desktop computer, a laptop, or a mobile device \(either Android or iOS\)
+3. A web camera \(not mandatory\)
+4. A headset with a microphone: A headset with a microphone allows you to hear and be heard more clearly.
+5. ZOOM desktop client; which can be downloaded from: [https://zoom.us/download](https://zoom.us/download) \(and select “Zoom Client for Meetings”\)
+6. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
 ## ZOOM desktop client and mobile app: 
 
 ### How to install ZOOM applications
 
-#### ZOOM Desktop
+#### ZOOM client/desktop
 
-* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “Zoom Client For Meetings”.
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download), then click on the **Download** button under “Zoom Client For Meetings”.
   * This application will automatically download when you join your first Zoom Meeting.
 * Once the download is complete, proceed with **installing** the Zoom application onto your computer.
 
@@ -38,9 +42,9 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 * Once the download has completed, open the app. You will be prompted to sign in. 
 * Enter login credentials and click on Sign in button .
 
-### How to upgrade/update to the latest version
+### How to update to the latest version
 
-* Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. We recommend upgrading to the latest version once it is available. You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
+* Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
 * [Follow our release notes](https://support.zoom.us/hc/en-us/sections/360008531132) to stay updated on the latest Zoom releases. 
 
 ## Scheduling meetings
@@ -59,7 +63,13 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
 
 You can [join a test Zoom meeting](https://support.zoom.us/hc/en-us/articles/115002262083) to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit [zoom.us/test](https://zoom.us/test) and click **Join**. 
 
-## Zoom test call
+## Before joining a meeting
+
+
+
+
+
+### Zoom test call
 
 You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
 
@@ -155,6 +165,10 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 7. QA \(Webinar\)
 
 ## Participating in a Zoom meeting
+
+### Interpretation
+
+
 
 ### Raising Your Hand
 
