@@ -17,11 +17,11 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 {% hint style="warning" %}
 **Prerequisites:**
 
-1. Stable internet connection,
+1. Stable internet connection
 2. A desktop computer, a laptop, or a mobile device \(either Android or iOS\)
 3. A web camera \(not mandatory\)
 4. A headset with a microphone: A headset with a microphone allows you to hear and be heard more clearly.
-5. ZOOM desktop client; which can be downloaded from: [https://zoom.us/download](https://zoom.us/download) \(and select “Zoom Client for Meetings”\)
+5. ZOOM desktop client which can be downloaded from: [https://zoom.us/download](https://zoom.us/download) \(and select “Zoom Client for Meetings”\). **Note that Zoom Client is needed to listen to Interpretation**. You can still join with the browser but only the “floor” languages will be available
 6. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
@@ -29,11 +29,11 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 
 ### How to install ZOOM applications
 
-#### ZOOM client/desktop
+#### ZOOM Client
 
 * Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download), then click on the **Download** button under “Zoom Client For Meetings”.
   * This application will automatically download when you join your first Zoom Meeting.
-* Once the download is complete, proceed with **installing** the Zoom application onto your computer.
+* Download and install the Zoom application onto your computer.
 
 #### ZOOM Mobile app
 
@@ -45,7 +45,9 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 ### How to update to the latest version
 
 * Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
-* [Follow our release notes](https://support.zoom.us/hc/en-us/sections/360008531132) to stay updated on the latest Zoom releases. 
+* Follow the instructions below to update your ZOOM client.
+
+![](../.gitbook/assets/image.png)
 
 ## Scheduling meetings
 
