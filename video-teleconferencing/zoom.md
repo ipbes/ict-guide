@@ -25,9 +25,11 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 6. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
-## ZOOM desktop client and mobile app: 
+## Before joining a meeting
 
-### How to install ZOOM applications
+### D**ownload and install Zoom**
+
+ **I**f you haven’t used Zoom before click [here ](https://zoom.us/download)to **download Zoom prior to the day of the meeting** and familiarize yourself with some of the features you may need to use, i.e. sharing screen, mute/unmute microphone, stop/start video etc.
 
 #### ZOOM Client
 
@@ -42,12 +44,19 @@ If you experience any technical difficulties, email us at: ipbes.registration@ip
 * Once the download has completed, open the app. You will be prompted to sign in. 
 * Enter login credentials and click on Sign in button .
 
-### How to update to the latest version
+### Update ZOOM Client
 
 * Zoom [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the Zoom desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
+* If you already have Zoom, please **upgrade Zoom before your meeting** to ensure you have access to the latest enhancements.
 * Follow the instructions below to update your ZOOM client.
 
 ![](../.gitbook/assets/image.png)
+
+### Test call
+
+You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
+
+![Zoom Test Service available on https://zoom.us/test](../.gitbook/assets/zoom_testing_service.jpg)
 
 ## Scheduling meetings
 
@@ -64,18 +73,6 @@ There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/art
 ### Starting a test meeting <a id="h_7f86f5ec-787b-469a-8f5e-26645da2a356"></a>
 
 You can [join a test Zoom meeting](https://support.zoom.us/hc/en-us/articles/115002262083) to familiarize yourself with the Zoom and test your microphone/speakers before joining a Zoom meeting. Visit [zoom.us/test](https://zoom.us/test) and click **Join**. 
-
-## Before joining a meeting
-
-
-
-
-
-### Zoom test call
-
-You can test how Zoom works ahead of a scheduled meeting by visiting [https://zoom.us/test](https://zoom.us/test)
-
-![Zoom Test Service available on https://zoom.us/test](../.gitbook/assets/zoom_testing_service.jpg)
 
 ## Join a Zoom meeting
 
