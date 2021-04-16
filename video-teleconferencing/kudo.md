@@ -113,7 +113,3 @@ When you are done speaking, please click the **“Release Mic”** button to dea
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-
-
-
-
