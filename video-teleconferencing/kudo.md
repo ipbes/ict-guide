@@ -24,8 +24,6 @@ An invitation to participate in a KUDO virtual meeting will be sent to you by th
 6. You can test how KUDO works ahead of a scheduled meeting by visiting [https://live.kudoway.com/test](https://live.kudoway.com/test)
 7. Download the KUDO app: [App Store](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fkudo-live%2Fid1380613475%3Fmt%3D8&data=02%7C01%7C%7C7296f4e54e624572421a08d6307d08f9%7Cfe24bf441eb84a69b5d7f57092ec8efa%7C0%7C0%7C636749710913326631&sdata=AxTxM0bdmPHxD%2FkKlOLhSos3xyGlPUuksO9Eo0ZIHoc%3D&reserved=0), [Play Store](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.kudoway.app&data=02%7C01%7C%7C7296f4e54e624572421a08d6307d08f9%7Cfe24bf441eb84a69b5d7f57092ec8efa%7C0%7C0%7C636749710913336641&sdata=qNO96598Eiabx2Hh9k3EFBvtZvARXe%2Baz0Gwa0oj3%2B8%3D&reserved=0) 
 
-
-
 ## Joining a KUDO meeting
 
 You can connect to the session half an hour before the meeting is starting in order to allow for testing and ensure that all requirements are met To do so, please follow the steps as indicated below :
