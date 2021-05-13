@@ -59,4 +59,5 @@
   * [Part 1 - Conversion to the Robinson Projection](geoinformation/technical-guidelines/conversion-to-the-robinson-projection.md)
   * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
   * [Part 3 - Cartographic Guidelines](geoinformation/technical-guidelines/cartographic-guidelines.md)
+  * [Part 4 - Guidelines for Colour](geoinformation/technical-guidelines/part-4-guidelines-for-colour.md)
 
