@@ -5,7 +5,7 @@ These technical guidelines on the spatial data management, handling, and deliver
 1. [Conversion to the Robinson Projection](https://ict.ipbes.net/geoinformation/conversion-to-the-robinson-projection-1)
 2. [Preparing and Mapping Data to IPBES Regions and Subregions](https://ict.ipbes.net/geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions)
 3. [Cartographic Guidelines ](https://ict.ipbes.net/geoinformation/technical-guidelines/cartogrpahic-guidelines)
-4. Guidelines for Colour
+4. [Guidelines for Colour](https://ict.ipbes.net/geoinformation/technical-guidelines/guidelines-for-colour)
 
 If interested, all source files are available on my [GitHub](https://github.com/jkumagai96/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact tsu.data@ipbes.net
 
