@@ -1,7 +1,7 @@
 # Data Management Policy
 
 {% hint style="info" %}
-Download the latest version of the IPBES data management policy on  [https://doi.org/10.5281/zenodo.3551079](https://doi.org/10.5281/zenodo.3551079)
+Download the latest version of the IPBES data management policy on  [https://doi.org/10.5281/zenodo.3551078](https://doi.org/10.5281/zenodo.3551078)
 {% endhint %}
 
 ## Objectives

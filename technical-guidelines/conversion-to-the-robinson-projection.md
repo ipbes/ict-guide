@@ -40,7 +40,7 @@ prec <- raster::getData(name = "worldclim", var = "prec", res = 10)[[1]] # load 
 plot(prec)
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-3-1%20%282%29.png)
+![](../.gitbook/assets/unnamed-chunk-3-1%20%282%29.png)
 
 ```text
 raster::crs(prec)
@@ -62,7 +62,7 @@ Now we can plot our results to ensure it is correct.
 plot(rob) #Plot the raster
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-5-1%20%286%29.png)
+![](../.gitbook/assets/unnamed-chunk-5-1%20%286%29.png)
 
 The next step is to create graitcules and labels to add to the projected to all of the next plots.
 
@@ -85,7 +85,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-7-1%20%282%29.png)
+![](../.gitbook/assets/unnamed-chunk-7-1%20%282%29.png)
 
 ## II. Vector Data
 
@@ -103,7 +103,7 @@ plot(worldmap) # Plot world map (vector)
 ## Warning in wkt(obj): CRS object has no comment
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-8-1%20%282%29.png)
+![](../.gitbook/assets/unnamed-chunk-8-1%20%282%29.png)
 
 Now, we project the vector data into the Robinson projection and plot the map with graticules.
 
@@ -121,7 +121,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-9-1%20%282%29.png)
+![](../.gitbook/assets/unnamed-chunk-9-1%20%282%29.png)
 
 If there are polygons that cross the date line, it is possible that some erroneous polygons may appear. If this occurs, the solution is to run the function st\_wrap\_dateline\(\) before projecting.
 
@@ -138,7 +138,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-10-1%20%282%29.png)
+![](../.gitbook/assets/unnamed-chunk-10-1%20%282%29.png)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 

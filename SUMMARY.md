@@ -11,8 +11,14 @@
 ## Data Management
 
 * [Data Management Policy](data-management/data-management-policy.md)
-* [Data Management Plan](data-management/data-management-plan.md)
-* [Data Management of Active Research Data](data-management/data-management-activedata.md)
+
+---
+
+* [Technical Guidelines](technical-guidelines/README.md)
+  * [Part 1 - Conversion to the Robinson Projection](technical-guidelines/conversion-to-the-robinson-projection.md)
+  * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
+  * [Part 3 - Cartographic Guidelines](technical-guidelines/cartographic-guidelines.md)
+  * [Part 4 - Guidelines for Colour](technical-guidelines/guidelines-for-colour.md)
 
 ## Repositories
 
@@ -52,12 +58,4 @@
 * [OneDrive for Business](collaboration/onedrive-for-business.md)
 * [Confluence](collaboration/confluence.md)
 * [Microsoft FindTime](collaboration/microsoft-findtime.md)
-
-## Geoinformation
-
-* [Technical Guidelines](geoinformation/technical-guidelines/README.md)
-  * [Part 1 - Conversion to the Robinson Projection](geoinformation/technical-guidelines/conversion-to-the-robinson-projection.md)
-  * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
-  * [Part 3 - Cartographic Guidelines](geoinformation/technical-guidelines/cartographic-guidelines.md)
-  * [Part 4 - Guidelines for Colour](geoinformation/technical-guidelines/guidelines-for-colour.md)
 
