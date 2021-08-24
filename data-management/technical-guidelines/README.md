@@ -1,6 +1,6 @@
 # Technical Guidelines
 
-These technical guidelines on the spatial data management, handling, and delivery have been prepared by the technical support unit on knowledge and data and reviewed by the task force on knowledge and data.
+These technical guidelines on data management, handling, and delivery have been prepared by the technical support unit on knowledge and data and reviewed by the task force on knowledge and data.
 
 1. [Conversion to the Robinson Projection](https://ict.ipbes.net/geoinformation/conversion-to-the-robinson-projection-1)
 2. [Preparing and Mapping Data to IPBES Regions and Subregions](https://ict.ipbes.net/geoinformation/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions)
