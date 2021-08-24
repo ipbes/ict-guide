@@ -11,14 +11,11 @@
 ## Data Management
 
 * [Data Management Policy](data-management/data-management-policy.md)
-
----
-
-* [Technical Guidelines](technical-guidelines/README.md)
-  * [Part 1 - Conversion to the Robinson Projection](technical-guidelines/conversion-to-the-robinson-projection.md)
-  * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
-  * [Part 3 - Cartographic Guidelines](technical-guidelines/cartographic-guidelines.md)
-  * [Part 4 - Guidelines for Colour](technical-guidelines/guidelines-for-colour.md)
+* [Technical Guidelines](data-management/technical-guidelines/README.md)
+  * [Part 1 - Conversion to the Robinson Projection](data-management/technical-guidelines/conversion-to-the-robinson-projection.md)
+  * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](data-management/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
+  * [Part 3 - Cartographic Guidelines](data-management/technical-guidelines/cartographic-guidelines.md)
+  * [Part 4 - Guidelines for Colour](data-management/technical-guidelines/guidelines-for-colour.md)
 
 ## Repositories
 

@@ -96,7 +96,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](../.gitbook/assets/unnamed-chunk-4-1%20%283%29.png)
+![](../../.gitbook/assets/unnamed-chunk-4-1%20%283%29.png)
 
 We can also use the ggplot package, with some additional functionality added with ggspatial, to map sf objects in R Studio such as in the following example:
 
@@ -116,7 +116,7 @@ ggplot() +
 ## Scale on map varies by more than 10%, scale bar may be inaccurate
 ```
 
-![](../.gitbook/assets/unnamed-chunk-5-1%20%284%29.png)
+![](../../.gitbook/assets/unnamed-chunk-5-1%20%284%29.png)
 
 The warning of the inaccurate scale bar is due to the map using unprojected data in longitude/latitude. Maps of smaller areas will often have more accurate scale bars. It is recommended to use graticules instead of scale bars when displaying larger areas.
 
@@ -140,13 +140,13 @@ The code below showcases some of the available options for color blind friendly 
 RColorBrewer::display.brewer.all(colorblindFriendly = T)
 ```
 
-![](../.gitbook/assets/unnamed-chunk-6-1%20%283%29.png)
+![](../../.gitbook/assets/unnamed-chunk-6-1%20%283%29.png)
 
 Additionally, to display no data we recommend using the color grey \(BBBBBB; RGB:187, 187, 187\).
 
 Rainbow color schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020](https://doi.org/10.1038/s41467-020-19160-7) covers in more detail the current problems involving the use of color in science communication. An example of this is presented in the figure below \(Figure 2\) taken from [this article](https://personal.sron.nl/~pault/#good_amd_bad_colour_schemes_compared) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
-![Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.](../.gitbook/assets/color_comparison_figure%20%282%29.png)
+![Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.](../../.gitbook/assets/color_comparison_figure%20%282%29.png)
 
 [This article](https://personal.sron.nl/~pault/) by Paul Tol provides extensive color palettes to choose from that are color blind friendly and for qualitative, diverging, and sequential data. The high contrast color scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout.
 
