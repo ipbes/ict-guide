@@ -29,5 +29,5 @@ Download the latest version of the IPBES data management policy on  [https://doi
 
 ## Contact
 
-TSU on knowledge and data via Dr Aidin Niamir \(aidin.niamir@senckenberg.de\)
+For any questions or comments, please contact the technical support unit on knowledge and data at tsu.data@ipbes.net 
 
