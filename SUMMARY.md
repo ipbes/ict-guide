@@ -10,7 +10,7 @@
 
 ## Data Management
 
-* [Data Management Policy](data-management/data-management-policy.md)
+* [Data and Knowledge Management Policy](data-management/data-management-policy.md)
 * [Data Management Tutorials](data-management/data-management-tutorials.md)
 * [Technical Guidelines](data-management/technical-guidelines/README.md)
   * [Part 1 - Conversion to the Robinson Projection](data-management/technical-guidelines/conversion-to-the-robinson-projection.md)
