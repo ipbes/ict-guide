@@ -17,6 +17,7 @@
   * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](data-management/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
   * [Part 3 - Cartographic Guidelines](data-management/technical-guidelines/cartographic-guidelines.md)
   * [Part 4 - Guidelines for Colour](data-management/technical-guidelines/guidelines-for-colour.md)
+  * [Part 5 - File formats](data-management/technical-guidelines/file-formats.md)
 
 ## Repositories
 
