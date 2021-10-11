@@ -1,5 +1,5 @@
 ---
-description: 'https://unep.webex.com'
+description: https://unep.webex.com
 ---
 
 # Webex
@@ -18,10 +18,10 @@ You can [join a test meeting](https://www.webex.com/test-meeting.html/) to famil
 
 ## Join a Webex Meeting from an Email Invitation 
 
-* You will be sent an email with meeting information such as: meeting number \(access code\), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
+* You will be sent an email with meeting information such as: meeting number (access code), date, time, and who initiated the meeting. If the meeting has a required password, it will be included in this mail;
 * Click **Join meeting** in the body of the email.
 
-![Email Sample](../.gitbook/assets/join-meeting-corrected.png)
+![Email Sample](<../.gitbook/assets/Join meeting corrected.png>)
 
 {% hint style="info" %}
 1. You can join the meeting in different ways, like from your computer, mobile device, phone or video system. Your invite includes the options available to you for that particular meeting.   
@@ -37,11 +37,11 @@ When you are connected, you will see the following window. Some of the controls 
 
 1. Under the Chat Window, click the drop-down box. Here you can select who can view your message;
 
-![Chat Function](../.gitbook/assets/chat.png)
+![Chat Function](../.gitbook/assets/Chat.png)
 
-2. Click on the name of the person you would like to privately chat with;
+2\. Click on the name of the person you would like to privately chat with;
 
-3. Type your message and press send.
+3\. Type your message and press send.
 
 {% hint style="info" %}
 Private chats are displayed in the same box as public chats, but only those involved with the private chat will see your message. 
@@ -49,15 +49,15 @@ Private chats are displayed in the same box as public chats, but only those invo
 
 ### Raising your hand
 
-You can raise your hand by first clicking on **Participants** button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
+You can raise your hand by first clicking on **Participants **button at the bottom of the window and then on a small hand icon next to your name in the participants list.  
 
-![Raise Hand Function](../.gitbook/assets/participants.png)
+![Raise Hand Function](../.gitbook/assets/Participants.png)
 
 ### Enabling or disabling video
 
 You can disable or enable video by clicking on the video icon
 
-![Disable Video](../.gitbook/assets/videocamera.png)
+![Disable Video](../.gitbook/assets/Videocamera.png)
 
 ### Mute or unmute microphone
 
@@ -69,7 +69,7 @@ You can mute or unmute you by clicking on microphone icon
 
 You can also share the content by clicking on the following icon
 
-![Share Content](../.gitbook/assets/content-sharing.png)
+![Share Content](<../.gitbook/assets/Content sharing.png>)
 
 ## Tips for managers/hosts
 
@@ -77,19 +77,19 @@ You can also share the content by clicking on the following icon
 
 Sign in here  [https://unep.webex.com](https://unep.webex.com) using your unite identity account
 
-![Sign-in ](../.gitbook/assets/sign-in-hosts.png)
+![Sign-in ](<../.gitbook/assets/Sign in hosts.png>)
 
 If you want to schedule a meeting, please select **Meetings** in the menu on the left side 
 
-![](../.gitbook/assets/meeting.png)
+![](../.gitbook/assets/Meeting.png)
 
-After going to **Meetings** click on **Schedule** on the right side
+After going to **Meetings** click on **Schedule **on the right side
 
-![](../.gitbook/assets/scheduleameeting-last.png)
+![](<../.gitbook/assets/Scheduleameeting last.png>)
 
 Complete all the necessary fields and click on **Schedule** at the bottom of the form. You will receive an email confirmation by email.
 
-![Scheduling an event](../.gitbook/assets/schdule-meeting-registration-form.png)
+![Scheduling an event](<../.gitbook/assets/schdule meeting registration form.png>)
 
 {% hint style="info" %}
 You should consider saving your meeting as a template so that you can replicate desired preferences for future meetings.
@@ -104,7 +104,7 @@ You can start the meeting either from the email you have received or signing in 
 Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training).
 
 * If you create breakout sessions automatically, attendees will be assigned randomly. You need to create session's manually and identify presenters and participants for each breakout sessions.
-* At any time during a session you can specify that attendees can start breakout sessions with all _attendees/participants, only the session host, only the presenter_ or ****_any other attendee privately_**.** You can remove breakout session privileges at any time.
+* At any time during a session you can specify that attendees can start breakout sessions with all _attendees/participants, only the session host, only the presenter _or** **_any other attendee privately_**. **You can remove breakout session privileges at any time.
 * There are four breakout session privileges that can be granted to all attendees: _host, presenter, panelists, all attendees._
 * The host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have. 
 
@@ -123,7 +123,7 @@ Mute participants that are not speaking. Disable video of participants who have 
 2. Ensure that each meeting has a password
 3. Enable waiting room to control who is allowed into the meeting
 4. Enable meeting [registration](https://ict.ipbes.net/video-teleconferencing/webex#registration)
-5. Remove unwanted or disruptive participants. From that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove** and **Put in lobby**. Click **Remove** to kick someone out of the meeting. If this is not responding use the **Put in Waiting Room** option.
+5. Remove unwanted or disruptive participants. From that Participants menu, you can mouse over a participant’s name, and several options will appear, including **Remove **and **Put in lobby**. Click **Remove **to kick someone out of the meeting. If this is not responding use the **Put in Waiting Room** option.
 
 ### Registration
 
@@ -150,15 +150,13 @@ Create and save meeting templates to ensure that you have all the required setti
 
 Polling option can be used to create and share questionnaires. More detailed information can be found here
 
-### Q&A
+### Q\&A
 
 sds
 
 ### Notes
 
-You can make notes during the meeting selecting **Notes** under **More Options** icon.
+You can make notes during the meeting selecting **Notes **under **More Options** icon.
 
 ### Whiteboard
-
-
 

@@ -12,7 +12,7 @@ description: >-
 You need to be subscribed to the IPBES mailing list to receive notifications from the IPBES secretariat. Subscription is managed from your user profile on the IPBES website
 {% endhint %}
 
-* Log-in to your account. See here for more details on how to log-in [https://docs.ipbes.net/account/account\#login-logout](https://docs.ipbes.net/account/account#login-logout)
+* Log-in to your account. See here for more details on how to log-in [https://docs.ipbes.net/account/account#login-logout](https://docs.ipbes.net/account/account#login-logout)
 * Click on MyAccount
 * Click on "Account" to expand section
 
@@ -29,7 +29,7 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 ### Unsubscribe from the website
 
 * Follow the steps detailed in the subscribe section above to get to the Account section
-* Uncheck the **Subscribe** box to unubscribe
+* Uncheck the **Subscribe **box to unubscribe
 * Save changes
 
 ### Unsubscribe from email
@@ -38,4 +38,3 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 * Click on "unsubscribe" at the bottom of the email
 
 ![Unsubscribe from IPBES notifications](../.gitbook/assets/mailchimp_unsubscribe.jpg)
-

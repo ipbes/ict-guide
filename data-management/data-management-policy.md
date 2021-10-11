@@ -35,4 +35,3 @@ The data and knowledge management policy serves to ensure that data and knowledg
 ## Contact
 
 For any questions or comments, please contact the technical support unit on knowledge and data at tsu.data@ipbes.net 
-

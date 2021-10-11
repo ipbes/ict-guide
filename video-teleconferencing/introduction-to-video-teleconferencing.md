@@ -61,39 +61,38 @@ Do a dry run: Set up a test event to confirm that all equipment is working. Have
 
 #### Immediately before event
 
-Arrive at least 30 minutes early to set up computer, internet, projector etc. Ensure there is wifi access. Display “stand-by” slide before the event starts \(and during breaks\) so participants joining know they are in the right place. Limit background noise. For larger events, ask participants to mute their microphones when not speaking \(if necessary, get help from IT to mute participants\).
+Arrive at least 30 minutes early to set up computer, internet, projector etc. Ensure there is wifi access. Display “stand-by” slide before the event starts (and during breaks) so participants joining know they are in the right place. Limit background noise. For larger events, ask participants to mute their microphones when not speaking (if necessary, get help from IT to mute participants).
 
 #### Account for technical glitches
 
-Ensure IT support is available during the event in case of any disruptions. Share a contact number/email of a staff in case a participant needs to report connectivity problems. This way, the flow of the event won’t be disrupted. Ensure the event facilitator has the contact details of each virtual participant \(or focal points for larger events\) so that they can be contacted in case there is some major disruption to the virtual event.
+Ensure IT support is available during the event in case of any disruptions. Share a contact number/email of a staff in case a participant needs to report connectivity problems. This way, the flow of the event won’t be disrupted. Ensure the event facilitator has the contact details of each virtual participant (or focal points for larger events) so that they can be contacted in case there is some major disruption to the virtual event.
 
 ### Comparison of virtual event tools
 
-|  | MS Teams | Zoom | Webex |
-| :--- | :--- | :--- | :--- |
-| Use case | Suitable for small meetings requiring basic interactivity with mostly internal participants such as for team meetings. | Suitable for small to large highly interactive meetings, including webinar type sessions. | Suitable for small to large highly interactive meetings, including webinar type sessions. Comprises 4 modules: Meetings, Events, Training, and Support. |
-| Capacity | 250 | 500 | 250/1000/3000 |
-| License | Included in the Unite Workspace license. All UNEP personnel with @un.org can access to run meetings. | Individual  project managed licenses. Has own access credentials. | UNEP corporate license. [http://unep.webex.com](http://unep.webex.com) Access is integrated with the @un.org account. |
-| Meeting creation | Staff can create and start meetings directly through the Teams app or Outlook calendar. | TSU can create and start meetings directly with license. | Staff can create and start meetings directly through the Webex app or web browser. |
-| External \(non-UN\) participants | ✅  |  ✅ | ✅  |
-| Participants registration | ❌  | ✅ | ✅  |
-| Toll free dial in | ❌ | ✅ | ✅  |
-| Waiting room | ✅  | ✅ | ✅ |
-| Screen sharing | ✅  | ✅ | ✅  |
-| File sharing | ✅  | ✅ | ✅  |
-| Chat function | ✅  | ✅ | ✅  |
-| Private chat | ❌ | ✅ | ✅  |
-| Hand raise | ❌ | ✅ | ✅  |
-| Break-out rooms | ❌ | ✅ | ✅  |
-| Recording | ✅  | ✅ | ✅  |
-| In session polls and surveys | ❌ | ✅ | ✅  |
-| Tracking audience engagement | ❌ | ✅ | ✅  |
-| Integrated Q&A | ❌ | ✅ | ✅  |
-| Transcription | ✅  | ✅ | ✅  |
-| Encryption | ✅  | ❌ | ✅ |
-| Link to tutorial | [MS Teams](ms-teams.md) | [Zoom](zoom.md) | [Webex](webex.md) |
+|                                | MS Teams                                                                                                               | Zoom                                                                                      | Webex                                                                                                                                                   |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Use case                       | Suitable for small meetings requiring basic interactivity with mostly internal participants such as for team meetings. | Suitable for small to large highly interactive meetings, including webinar type sessions. | Suitable for small to large highly interactive meetings, including webinar type sessions. Comprises 4 modules: Meetings, Events, Training, and Support. |
+| Capacity                       | 250                                                                                                                    | 500                                                                                       | 250/1000/3000                                                                                                                                           |
+| License                        | Included in the Unite Workspace license. All UNEP personnel with @un.org can access to run meetings.                   | Individual  project managed licenses. Has own access credentials.                         | UNEP corporate license. [http://unep.webex.com](http://unep.webex.com) Access is integrated with the @un.org account.                                   |
+| Meeting creation               | Staff can create and start meetings directly through the Teams app or Outlook calendar.                                | TSU can create and start meetings directly with license.                                  | Staff can create and start meetings directly through the Webex app or web browser.                                                                      |
+| External (non-UN) participants | :white_check_mark:                                                                                                     |  :white_check_mark:                                                                       | :white_check_mark:                                                                                                                                      |
+| Participants registration      | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Toll free dial in              | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Waiting room                   | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Screen sharing                 | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| File sharing                   | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Chat function                  | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Private chat                   | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Hand raise                     | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Break-out rooms                | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Recording                      | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| In session polls and surveys   | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Tracking audience engagement   | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Integrated Q\&A                | :x:                                                                                                                    | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Transcription                  | :white_check_mark:                                                                                                     | :white_check_mark:                                                                        | :white_check_mark:                                                                                                                                      |
+| Encryption                     | :white_check_mark:                                                                                                     | :x:                                                                                       | :white_check_mark:                                                                                                                                      |
+| Link to tutorial               | [MS Teams](ms-teams.md)                                                                                                | [Zoom](zoom.md)                                                                           | [Webex](webex.md)                                                                                                                                       |
 
 Source
 
 * UN Department of Operational Support
-

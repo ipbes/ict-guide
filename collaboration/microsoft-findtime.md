@@ -5,19 +5,19 @@ description: FindTime is used to schedule
 # Microsoft FindTime
 
 {% hint style="info" %}
-You need an Microsoft 365 license to create a FindTime poll. Recipients \(Your friends and colleagues\) only need an email address and internet access to participate in the poll.
+You need an Microsoft 365 license to create a FindTime poll. Recipients (Your friends and colleagues) only need an email address and internet access to participate in the poll.
 {% endhint %}
 
 ## How to install
 
-* Visit [https://findtime.microsoft.com/](https://findtime.microsoft.com/) 
+* Visit [https://findtime.microsoft.com/](https://findtime.microsoft.com) 
 * Click on **Install for free** button
 
-![Click on install for free](../.gitbook/assets/image%20%2819%29.png)
+![Click on install for free](<../.gitbook/assets/image (19).png>)
 
 * Enter your email address and follow the prompts
 
-![You will be redirected to the organisation&apos;s sign in page after you click next](../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29.png)
+![You will be redirected to the organisation's sign in page after you click next](<../.gitbook/assets/image (1).png>)
 
 * Restart your Outlook
 
@@ -51,7 +51,7 @@ FindTime will check your calendar and will not suggest time slots if you have ot
 Make sure you disable **Auto schedule** and **Holds** or the system will send an automatic meeting based on the poll results
 {% endhint %}
 
-![Confirm poll and meeting location and configure notifications](../.gitbook/assets/findtime_poll_find_confirmchoices%20%281%29.jpg)
+![Confirm poll and meeting location and configure notifications](<../.gitbook/assets/findtime_poll_find_confirmchoices (1).jpg>)
 
 * You're done! Send the email to let the voting begin.
 
@@ -60,4 +60,3 @@ Make sure you disable **Auto schedule** and **Holds** or the system will send an
 * You will be notified vie email once an attendee has voted 
 * Once the voting has been completed, Microsoft FindTime will finalize the poll.
 * You can [check the status of your polls](https://outlook.office.com/findtime/dashboard)  
-

@@ -4,11 +4,11 @@ description: Technical Guideline Series
 
 # Part 4 - Guidelines for Colour
 
-**Prepared by Joy Kumagai - Technical Support Unit \(TSU\) of Knowledge and Data**  
-**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**  
-_For any inquires please contact_ [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+**Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
+****_For any inquires please contact _[tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-Version: 1.0  
+Version: 1.0\
 Last Updated: May 13th 2021
 
 DOI: 10.5281/zenodo.4756596
@@ -17,7 +17,7 @@ This technical guidelines focuses on recommendations for the use of colour in ma
 
 Begin by loading the following packages:
 
-```text
+```
 library(RColorBrewer)
 library(ggplot2)
 library(sf)
@@ -36,13 +36,13 @@ Qualitative or categorical palettes have distinctive colours that are used to re
 
 When creating a map or figure, please choose colour schemes that are colour blind friendly. A very useful tool to visualise colours as someone with different types of colour blindness is available [here](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
 
-[This article](https://personal.sron.nl/~pault/) by Paul Tol provides extensive colour palettes to choose from that are colour blind friendly and for qualitative, diverging, and sequential data. The high contrast colour scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout. Additionally, the package colorBlindness has tools to visualise the colour vision deficiency and useful palettes to choose from as well. A guide to the package is available [here](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
+[This article](https://personal.sron.nl/\~pault/) by Paul Tol provides extensive colour palettes to choose from that are colour blind friendly and for qualitative, diverging, and sequential data. The high contrast colour scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout. Additionally, the package colorBlindness has tools to visualise the colour vision deficiency and useful palettes to choose from as well. A guide to the package is available [here](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
 
 ### _C. No rainbow colour palettes_
 
-Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/~pault/#) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
+Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/\~pault/#) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
-![](../../.gitbook/assets/color_comparison_figure%20%283%29.png)
+![](<../../.gitbook/assets/color_comparison_figure (3).png>)
 
 Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.
 
@@ -54,39 +54,39 @@ In R, one can use the RColorBrewer package which provides convenient qualitative
 
 To display all of the prepared palettes within the RColorBrewer package run this line of code:
 
-```text
+```
 RColorBrewer::display.brewer.all()
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-3-1%20%284%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-3-1 (4).png>)
 
 To display all of the colourblind friendly palettes run this:
 
-```text
+```
 RColorBrewer::display.brewer.all(colorblindFriendly = TRUE)
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-4-1%20%285%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-4-1 (6).png>)
 
 If you would like to visualise a specific palette, specify the number of colours and the palette name.
 
-```text
+```
 RColorBrewer::display.brewer.pal(n = 5, name = 'YlOrRd')
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-5-1%20%288%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-5-1 (9).png>)
 
 [This article](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) provides a great overview on how to use the RColorBrewer package with these palettes integrated with ggplot with examples.
 
 ### _B. Hexadecimal_
 
-R uses hexadecimal to represent colours. “Hexadecimal is a base-16 number system used to describe colour. Red, green, and blue are each represented by two characters \(\#rrggbb\) that has 16 possible symbols.” - [R colour cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+R uses hexadecimal to represent colours. “Hexadecimal is a base-16 number system used to describe colour. Red, green, and blue are each represented by two characters (#rrggbb) that has 16 possible symbols.” - [R colour cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
 
-These values can be used to specify specific colours for a plot. To return the hexadecimal colour code of a palette, use this code: brewer.pal\(n, name\)
+These values can be used to specify specific colours for a plot. To return the hexadecimal colour code of a palette, use this code: brewer.pal(n, name)
 
 For example:
 
-```text
+```
 RColorBrewer::brewer.pal(n = 5, name = "YlOrRd")
 
 ## [1] "#FFFFB2" "#FECC5C" "#FD8D3C" "#F03B20" "#BD0026"
@@ -100,7 +100,7 @@ The next two examples showcase how to use the package RColorBrewer to set pallet
 
 First run this code to download country data and the large cities dataset we will be working with. The code also projects both datasets to the Robinson Projection.
 
-```text
+```
 land <- ne_countries(scale = 110, returnclass = "sf") # Downloads land polygons 
 cities <- read_sf("ne_110m_populated_places.shp") # Downloads the large cities points dataset
 
@@ -111,10 +111,10 @@ land <- st_transform(land, crs = robin)
 cities <- st_transform(cities, crs = robin)
 ```
 
-**Example 1: Continuous Data**  
-We will use population information contained in the large cities dataset, which is a continuous variable. The function scale\_color\_gradient\(\) is used for the continuous data. The hex values were obtained from the brewer.pal function shown in the last section.
+**Example 1: Continuous Data**\
+We will use population information contained in the large cities dataset, which is a continuous variable. The function scale_color_gradient() is used for the continuous data. The hex values were obtained from the brewer.pal function shown in the last section.
 
-```text
+```
 ggplot(cities) +
   geom_sf(data = land, # adds land for reference
           col = NA,
@@ -129,12 +129,12 @@ ggplot(cities) +
         panel.grid.major = element_line(color = "grey80")) # controls the grid line colour 
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-8-1%20%283%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-8-1 (4).png>)
 
-**Example 2: Categorical Data**  
-We now will use the land dataset and function scale\_fill\_brewer\(\) to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
+**Example 2: Categorical Data**\
+We now will use the land dataset and function scale_fill_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
 
-```text
+```
 ggplot(land) +
   geom_sf(aes(fill = continent, color = continent)) + # Fill and colour are the same to effective remove borders
   scale_color_brewer(palette = "Dark2") + # Uses a RColorBrewer palette
@@ -145,22 +145,21 @@ ggplot(land) +
         panel.grid.major = element_line(color = "grey80")) 
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-9-1%20%283%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-9-1 (4).png>)
 
 ## III. Suggestions
 
 * Use colour schemes and projections consistently throughout the chapter, if possible throughout the assessment.
-* No data is symbolized with the colour grey \(BBBBBB; RGB:187, 187, 187\)
-* White or light sky blue \(87CEFA; RGB: 135, 206, 250\) is used for the ocean in maps
+* No data is symbolized with the colour grey (BBBBBB; RGB:187, 187, 187)
+* White or light sky blue (87CEFA; RGB: 135, 206, 250) is used for the ocean in maps
 * Don’t overload colour - avoid colour when not necessary - use it to highlight important information
 * Grey normally represents NA data in a map, but can be very useful in other plots to focus your audience’s attention on key parts of your visualisation that have colour
 
 ## IV. Additional Resources
 
 * R Colour Sheet: [https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
-* Useful tool to assist in picking palettes and colours: [https://colorbrewer2.org/](https://colorbrewer2.org/)
-* Tool to visualise colours as someone with different types of colour blindness: [https://davidmathlogic.com/colorblind/\#%23D81B60-%231E88E5-%23FFC107-%23004D40](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
+* Useful tool to assist in picking palettes and colours: [https://colorbrewer2.org/](https://colorbrewer2.org)
+* Tool to visualise colours as someone with different types of colour blindness: [https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
 * colourBlindness Package guide: [https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
-

@@ -1,24 +1,24 @@
 # Zenodo
 
-Zenodo \([https://zenodo.org/](https://zenodo.org/)\) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research \(CERN\) and funded by the European Union. It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts. The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services is using Zenodo to share its products and to ensure:
+Zenodo ([https://zenodo.org/](https://zenodo.org)) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN) and funded by the European Union. It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts. The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services is using Zenodo to share its products and to ensure:
 
 * open access to IPBES products
-* issuance of digital object identifiers \(DOI\) to enable citation of IPBES products.
+* issuance of digital object identifiers (DOI) to enable citation of IPBES products.
 * availability of IPBES products in search functionality of CrossRef, DataCite, PubMed, RefBank, GNUB, Mendeley and Zotero.
 
 ## Curation policy
 
-Uploads \(supporting material\) must be material that have been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services \(IPBES\), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; Guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
+Uploads (supporting material) must be material that have been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; Guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
 
 ## Community URLs
 
 * **Collection URL**: links directly to your community collection. [https://zenodo.org/communities/ipbes/](https://zenodo.org/communities/ipbes/)
 * **Upload URL**: address will automatically ensure people who use it will have their record added to your community collection [https://zenodo.org/deposit/new?c=ipbes](https://zenodo.org/deposit/new?c=ipbes)
-* **Harvesting URL**: links to a OAI-PMH feed, which can be used by other digital repositories to harvest this community [https://zenodo.org/oai2d?verb=ListRecords&set=user-ipbes&metadataPrefix=oai\_dc](https://zenodo.org/oai2d?verb=ListRecords&set=user-ipbes&metadataPrefix=oai_dc)
+* **Harvesting URL**: links to a OAI-PMH feed, which can be used by other digital repositories to harvest this community [https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai_dc](https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai_dc)
 
 ## What does Zenodo provide/Why Zenodo?
 
-* A persistent Digital Object identifier \(DOI\) is assigned for each upload to make it citable and trackable and findable. The assignment of the DOI is instantaneous when the expert is submitting the file. It is possible to reserve DOI.
+* A persistent Digital Object identifier (DOI) is assigned for each upload to make it citable and trackable and findable. The assignment of the DOI is instantaneous when the expert is submitting the file. It is possible to reserve DOI.
 * Metadata of each record is sent to DataCite servers during DOI registration and indexed there.
 * Data and metadata will be retained for the lifetime of the repository. This is currently the lifetime of the host laboratory CERN, which currently has an experimental programme defined for the next 20 years.
 * Large file sizes of up to 50 GB
@@ -31,7 +31,7 @@ Uploads \(supporting material\) must be material that have been prepared for Int
 Metadata means ”data about data”. Metadata provide the context and information required to interpret and understand the data.
 
 * **Structural metadata**: e.g. the file and directory structure, record trail of steps taken during collection and analysis, information about data formats. The related sections in Zenodo are Files, Communities and Upload type
-* **Descriptive metadata**: the context and information about the data, e.g. the name of dataset, research discipline, persistent identifier, the time and place of collection and publishing of the dataset, authorship and ownership, content description \(keywords, variables, etc.\). The related sections in Zenodo are Basic information, Related/alternate identifiers, Contributors, References, Journal, Conference, Book/Report/Chapter, Thesis, and Subjects.
+* **Descriptive metadata**: the context and information about the data, e.g. the name of dataset, research discipline, persistent identifier, the time and place of collection and publishing of the dataset, authorship and ownership, content description (keywords, variables, etc.). The related sections in Zenodo are Basic information, Related/alternate identifiers, Contributors, References, Journal, Conference, Book/Report/Chapter, Thesis, and Subjects.
 * **Administrative metadata**: e.g. licenses, access rights and funding.
 
 ## How to link a GitHub repository to Zenodo
@@ -52,7 +52,7 @@ Submissions can be open or restricted as in the case of anonymized sensitive dat
 
 ### Files
 
-A minimum of 1 file is required. The maximum file\(s\) size per dataset is 50 GB. You can contact Zenodo if you have a larger dataset.
+A minimum of 1 file is required. The maximum file(s) size per dataset is 50 GB. You can contact Zenodo if you have a larger dataset.
 
 ### Communities\*
 
@@ -151,7 +151,7 @@ Specify grants which have funded your research,
 
 ### Related/alternate identifiers
 
-Specify identifiers of related publications and datasets. Supported identifiers include: DOI, Handle, ARK, PURL, ISSN, ISBN, PubMed ID, PubMed Central ID, ADS Bibliographic Code, arXiv, Life Science Identifiers \(LSID\), EAN-13, ISTC, URNs and URLs.
+Specify identifiers of related publications and datasets. Supported identifiers include: DOI, Handle, ARK, PURL, ISSN, ISBN, PubMed ID, PubMed Central ID, ADS Bibliographic Code, arXiv, Life Science Identifiers (LSID), EAN-13, ISTC, URNs and URLs.
 
 You have the following options to show the relationship of the upload to the related/alternate identifiers:
 
@@ -186,7 +186,7 @@ You have the following options to show the relationship of the upload to the rel
 
 ### References
 
-e.g. Cranmer, Kyle et al. \(2014\). Decouple software associated to arXiv:1401.0080
+e.g. Cranmer, Kyle et al. (2014). Decouple software associated to arXiv:1401.0080
 
 ### Journal
 
@@ -210,7 +210,7 @@ e.g. Cranmer, Kyle et al. \(2014\). Decouple software associated to arXiv:1401.0
 For parts of books and reports
 
 * Publisher
-* Place \(city, country\)
+* Place (city, country)
 * ISBN
 * Book title
 * Pages
@@ -222,7 +222,7 @@ For parts of books and reports
 
 ### Subjects
 
-Specify subjects from a taxonomy or controlled vocabulary. Each term must be uniquely identified \(e.g. a URL\). For free form text, use the keywords field in basic information section.
+Specify subjects from a taxonomy or controlled vocabulary. Each term must be uniquely identified (e.g. a URL). For free form text, use the keywords field in basic information section.
 
 ## Contact
 
@@ -231,4 +231,3 @@ Do you need support with Zenodo?
 {% hint style="info" %}
 Write to support.ipbes@ipbes.net
 {% endhint %}
-

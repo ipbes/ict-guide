@@ -4,11 +4,11 @@ description: Technical Guideline Series
 
 # Part 5 - File formats
 
-**Prepared by Joy Kumagai - Technical Support Unit \(TSU\) of Knowledge and Data  
-Reviewed by Aidin Niamir - Head of the Technical Support Unit on Knowledge and Data**  
-_For any inquires please contact_ [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+**Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit on Knowledge and Data**\
+****_For any inquires please contact _[tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-Version: 1.0   
+Version: 1.0 \
 Last Updated: September 15th 2021
 
 DOI: 10.5281/zenodo.5509740
@@ -19,14 +19,14 @@ This technical guideline focuses on recommended file formats for IPBES with open
 
 Table 1: Recommendations for file formats
 
-|  Data Type |  Recommended Format |
-| :--- | :--- |
-|  Geospatial Vector Data |  GeoPackage, Shapefile, GeoJSON, KML/KMZ |
-|  Geospatial Raster Data |  GeoTIFF, GeoPackage, NetCDF |
-|  Tabular Data |  CSV, TXT |
-|  Textual Data |  TXT, PDF, DOCX\* |
-|  Figures / Line Drawings |  SVG, EPS, PDF |
-|  Photographs |  PNG, JPEG |
+|  Data Type               |  Recommended Format                      |
+| ------------------------ | ---------------------------------------- |
+|  Geospatial Vector Data  |  GeoPackage, Shapefile, GeoJSON, KML/KMZ |
+|  Geospatial Raster Data  |  GeoTIFF, GeoPackage, NetCDF             |
+|  Tabular Data            |  CSV, TXT                                |
+|  Textual Data            |  TXT, PDF, DOCX\*                        |
+|  Figures / Line Drawings |  SVG, EPS, PDF                           |
+|  Photographs             |  PNG, JPEG                               |
 
 \* While we are aiming to use open or mostly open formats, currently DOCX is widely used by the IPBES community and thus is still acceptable, although for preservation a PDF version of the DOCX file should also be added to the repository.
 
@@ -38,7 +38,7 @@ Spatial data generally fall into either vector or raster data. Vector data consi
 
 For each type of spatial data, this guideline will show examples of how to export and read the information. Please download the following data using this code to follow the examples.
 
-```text
+```
 library(magrittr) # for the pipe operator 
 library(sf) # we use sf package to handle vector data 
 
@@ -50,7 +50,7 @@ Utah_sf <- st_as_sf(States) %>% dplyr::filter(NAME_1 == "Utah") # Select just th
 
 #### _i. GeoPackage_
 
-We recommend using the GeoPackage format for storing geospatial information. This file format is new and less widely used, but a completely open format for storing geospatial data. As stated on [their website](http://www.geopackage.org/) “GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.” A GeoPackage can store both vector and raster data \(as tiles\) and can have multiple layers per single file. The format allows for multiple geometry types per file, so one can store both point and polygon data within the same file.
+We recommend using the GeoPackage format for storing geospatial information. This file format is new and less widely used, but a completely open format for storing geospatial data. As stated on [their website](http://www.geopackage.org) “GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.” A GeoPackage can store both vector and raster data (as tiles) and can have multiple layers per single file. The format allows for multiple geometry types per file, so one can store both point and polygon data within the same file.
 
 A GeoPackage is ideal for encoding geospatial data when size and power are limited such as within a mobile device and is implemented in an SQLite database. It is slightly lighter in size than a shapefile, usually around 1.1-1.3x smaller and there is not limit on file size.
 
@@ -62,7 +62,7 @@ If you are interested in understanding all of the file types and contents in a G
 
 To export a geopackage the following code and the `sf` package can be used:
 
-```text
+```
 Utah_sf %>% 
   st_write("Utah_geopackage.gpkg", # Uses the GPKG driver of the GDAL library 
            layer = "Utah")  # Names the layer, as a GeoPackage can have multiple layers 
@@ -70,7 +70,7 @@ Utah_sf %>%
 
 Next, you can read a geopackage using the simple `st_read()` function
 
-```text
+```
 Utah_test <- st_read("Utah_geopackage.gpkg",
                     layer = "Utah")
 ```
@@ -98,12 +98,12 @@ Some drawbacks to using shapefiles are the following:
 * Consists of multiple files which can easily be separated
 * Field names can only be 10 characters or shorter in length
 * Size limit of 2GB
-* Can only have one type of geometry per file \(only point data or only polygon data\)
+* Can only have one type of geometry per file (only point data or only polygon data)
 * Does not store geometry of features. e.g. polygons which are next to each other are independent and joining borders are coded as separate line segments, which can result in holes and islands.
 
 To export and read a shapefile, the `sf` package can also be used.
 
-```text
+```
 # Export 
 Utah_sf %>% 
   write_sf("Utah_shapefile.shp")
@@ -114,7 +114,7 @@ Utah_test2 <- read_sf("Utah_shapefile.shp")
 
 #### _iii. GeoJSON_
 
-Another vector format if the recommended formats are not possible is GeoJSON. GeoJSON is a simple open standard geospatial format that also represents features and associated attributes. This format is commonly used in web-based mapping. It is based on JavaScript Object Notation \(JSON\) and the standard format uses a geographic coordinate reference system, WGS 1984. Unlike shapefiles, it was not developed by a commercial company, but an internet working group of developers and thus is openly documented.
+Another vector format if the recommended formats are not possible is GeoJSON. GeoJSON is a simple open standard geospatial format that also represents features and associated attributes. This format is commonly used in web-based mapping. It is based on JavaScript Object Notation (JSON) and the standard format uses a geographic coordinate reference system, WGS 1984. Unlike shapefiles, it was not developed by a commercial company, but an internet working group of developers and thus is openly documented.
 
 We recommend only using this format when data is simple points and lines as it is text based. Since it is text based, it is easy for humans to read directly and for machines to parse through and almost all GIS programs used for applications on the web can write and read GeoJSON data.
 
@@ -124,7 +124,7 @@ More technical information can be found [here](https://www.loc.gov/preservation/
 
 To export and read a GeoJSON file the following code can be used. The option `RFC7946 = YES` needs to be used when exporting as it is a more recent and strict standard for GeoJSON.
 
-```text
+```
 # Export 
 Utah_sf %>% 
   st_write("Utah.geojson",
@@ -137,7 +137,7 @@ Utah_test3 <- read_sf("Utah.geojson")
 
 #### _iv. KML/KMZ_
 
-KML \(Keyhole Markup Language\) is a geospatial publishing format that enables easy visualization. The format is used primarily in the Google Earth Interface. The KML format focuses on visualization and allows one to encode what information to show and how to show it including annotation of images and maps and supports 3D textured models. KML supports display of rich data through icons and captions and can control the users view point directing where to look.
+KML (Keyhole Markup Language) is a geospatial publishing format that enables easy visualization. The format is used primarily in the Google Earth Interface. The KML format focuses on visualization and allows one to encode what information to show and how to show it including annotation of images and maps and supports 3D textured models. KML supports display of rich data through icons and captions and can control the users view point directing where to look.
 
 KML files can be created and edited on the google earth interface or can be drafted in an XML or simple text editor. When KML files are shared usually they are compressed and zipped into KMZ files. There are various ways to package a KML file, and thus we recommend other formats for storing or transferring geospatial data.
 
@@ -147,7 +147,7 @@ More information on KML is available [here](https://developers.google.com/kml/do
 
 To export a KML file from R, the following code can be used. First, the projection needs to be checked as KML only supports WGS84.
 
-```text
+```
 st_crs(Utah_sf) # check projection
 
 ## Coordinate Reference System:
@@ -174,7 +174,7 @@ st_crs(Utah_sf) # check projection
 
 Next, the same functions `st_write()` and `st_read()` can be used
 
-```text
+```
 # Export 
 st_write(Utah_sf, "Utah.kml", driver = "kml")
 
@@ -190,7 +190,7 @@ Raster data can come in a variety of formats such as png, tiff, or jpeg, commonl
 
 There are many benefits to using the GeoTIFF format. There is strong software support in the form of open source libraries and many commercial and open GIS and spatial data analysis software products support reading and writing GeoTIFF data. It is highly interoperable, used worldwide, can store multiband raster data, and supported for many years.
 
-The tags of GeoTIFF files, called `tif tags` should include the following metadata: extent, resolution, datum, projection \(CRS\), and values that represent missing data. These tags are incredibly important and are how programs recognize the spatial coverage and projection of the raster data.
+The tags of GeoTIFF files, called `tif tags` should include the following metadata: extent, resolution, datum, projection (CRS), and values that represent missing data. These tags are incredibly important and are how programs recognize the spatial coverage and projection of the raster data.
 
 GeoTIFF is not suitable for storing complex multi-dimensional data structures and has a size limit of 4GB.
 
@@ -198,7 +198,7 @@ More information can be found on [here](https://earthdata.nasa.gov/esdis/eso/sta
 
 To export a GeoTIFF file, the following code can be used with the `raster` package.
 
-```text
+```
 library(raster)
 
 # Create raster to export
@@ -211,7 +211,7 @@ writeRaster(artwork, "artwork.tif")
 
 To read a GeoTIFF raster, just one line of code is needed
 
-```text
+```
 raster("artwork.tif")
 
 ## class      : RasterLayer 
@@ -224,11 +224,11 @@ raster("artwork.tif")
 ## values     : 1.338031e-05, 0.9999878  (min, max)
 ```
 
-Recently, a format called, [Cloud Optimized GeoTIFF](https://www.cogeo.org/), has become increasingly popular which is a regular GeoTIFF file aimed at being hosted on a HTTP file server. This standard was developed in 2016 within the Open Source Geospatial Foundation project. The format enables efficient workflows on the cloud by utilizing tiling and overviews. It allows for efficient imagery data display and access through HTTP GET range requests, so end-users can just use the parts of the GeoTIFF they need. A cloud optimized GeoTIFF is larger in size than a normal GeoTIFF, but it enables faster access on a server.
+Recently, a format called, [Cloud Optimized GeoTIFF](https://www.cogeo.org), has become increasingly popular which is a regular GeoTIFF file aimed at being hosted on a HTTP file server. This standard was developed in 2016 within the Open Source Geospatial Foundation project. The format enables efficient workflows on the cloud by utilizing tiling and overviews. It allows for efficient imagery data display and access through HTTP GET range requests, so end-users can just use the parts of the GeoTIFF they need. A cloud optimized GeoTIFF is larger in size than a normal GeoTIFF, but it enables faster access on a server.
 
 If you are interested in exporting Cloud Optimized GeoTIFFs, one option is to use the `write_tif` function from the `gdalcubes` package described [here](https://rdrr.io/cran/gdalcubes/man/write_tif.html)
 
-#### _ii. Geopackage \(raster\)_
+#### _ii. Geopackage (raster)_
 
 We recommend using the GeoPackage format for storing raster data as well. Raster data is stored in a tile-based pyramid structure within the GeoPackage, therefore the imagery or raster information is stored at multiple resolutions. The parameters of the tiles can be set when writing the layer to the Geopackage. This tile-based pyramid structure is useful when handling a GeoPackage on a small device, as the appropriate resolution can be displayed based on the zoom level and screen size.
 
@@ -238,7 +238,7 @@ Please note that in R, currently support for writing multiband rasters in a GeoP
 
 To write and read a GeoPackage with a raster layer within it, the following code can be used with the package `stars`
 
-```text
+```
 library(stars)
 
 # Writing a Geopackage 
@@ -264,32 +264,32 @@ artwork_gpkg_stars
 
 #### _iii. NetCDF_
 
-Another option for storing geospatial raster data is NetCDF \(Network Common Data Form\) if a GeoTIFF will not suit your purpose or you were given data in NetCDF format. NetCDFs are often used for climate and large scientific raster data files, especially for storing multidimensional scientific data. NetCDF is used by a large community and is self-describing, portable, scalable, appenable, archivable, and is considered a standard. It is in the public domain, and thus open, well documented, and actively developed and maintained. NetCDF files support multidimensional arrays with multiple unlimited appendable dimensions but is not as commonly used as GeoTIFFs.
+Another option for storing geospatial raster data is NetCDF (Network Common Data Form) if a GeoTIFF will not suit your purpose or you were given data in NetCDF format. NetCDFs are often used for climate and large scientific raster data files, especially for storing multidimensional scientific data. NetCDF is used by a large community and is self-describing, portable, scalable, appenable, archivable, and is considered a standard. It is in the public domain, and thus open, well documented, and actively developed and maintained. NetCDF files support multidimensional arrays with multiple unlimited appendable dimensions but is not as commonly used as GeoTIFFs.
 
 Some limitations to NetCDFs are that they are not as user-friendly to work with especially in R, they do not support nested structures, and no real compression is supported.
 
-NetCDF was developed and maintained at Unidata. On their website [here](https://www.unidata.ucar.edu/software/netcdf/docs/tutorial_8dox.html#sec_tut) they provide tutorials and documentation. A quick factsheet with more information is available [here](https://www.unidata.ucar.edu/publications/factsheets/current/factsheet_netcdf.pdf).
+NetCDF was developed and maintained at Unidata. On their website [here](https://www.unidata.ucar.edu/software/netcdf/docs/tutorial\_8dox.html#sec_tut) they provide tutorials and documentation. A quick factsheet with more information is available [here](https://www.unidata.ucar.edu/publications/factsheets/current/factsheet_netcdf.pdf).
 
 R is able to read and write netCDF files using the package `ncdf4`. For a full tutorial on how to read and write netCDF files, please refer to [this website](https://pjbartlein.github.io/REarthSysSci/netCDF.html#create-and-write-a-netcdf-file)
 
-We will now go through a very simple example starting with formatting and exporting NetCDF data adapted from [this guide](https://rstudio-pubs-static.s3.amazonaws.com/119121_996c35aea40145d2a37f8def7c9733f5.html) and finally importing the netCDF we create. We will use the base R volcano dataset.
+We will now go through a very simple example starting with formatting and exporting NetCDF data adapted from [this guide](https://rstudio-pubs-static.s3.amazonaws.com/119121\_996c35aea40145d2a37f8def7c9733f5.html) and finally importing the netCDF we create. We will use the base R volcano dataset.
 
-```text
+```
 library(ncdf4)
 data(volcano) # store volcano dataset 
 ```
 
 Next, we will store the elevations and grid dimensions in variables.
 
-```text
+```
 z <- 10*volcano      # matrix of elevations
 x <- 100*(1:nrow(z)) # meter spacing (S to N)
 y <- 100*(1:ncol(z)) # meter spacing (E to W)
 ```
 
-We will now define the spatial dimensions of the data \(lat / long\) and then use ncvar\_def to define a variable in the netCDF file that will hold the elevation data.
+We will now define the spatial dimensions of the data (lat / long) and then use ncvar_def to define a variable in the netCDF file that will hold the elevation data.
 
-```text
+```
 # Define the netcdf coorindate variables
 dim1 <- ncdim_def(name = "EW", units = "meters", vals = as.double(x)) # Defines longitude 
 dim2 <- ncdim_def(name = "SN", units = "meters", vals = as.double(y)) # Defines latitude 
@@ -302,7 +302,7 @@ elevation_def <- ncvar_def("Elevation", units = "meters", list(dim1,dim2), fillv
 
 We will now create the netCDF file and add the variables into the file. At this step, one can add additional metadata such as title, affiliated institution, source, references, etc.
 
-```text
+```
 # create netCDF file and put arrays
 file_volcano <- nc_create("Volcano.nc",list(elevation_def),force_v4=TRUE)
 
@@ -330,13 +330,13 @@ file_volcano
 
 Finally, close the file, which writes the data to disk.
 
-```text
+```
 nc_close(file_volcano)
 ```
 
 Now, let’s move onto opening the netCDF file we just created.
 
-```text
+```
 # First step is to open the file
 example <- nc_open("Volcano.nc")
 example
@@ -359,7 +359,7 @@ example
 
 Next, we will extract the coordinate variables and elevation variable.
 
-```text
+```
 lon <- ncvar_get(example,"EW")               # longitude
 lat <- ncvar_get(example, "SN")              # latitude 
 elevation <- ncvar_get(example, "Elevation") # variable
@@ -367,13 +367,13 @@ elevation <- ncvar_get(example, "Elevation") # variable
 
 Now, one can create a plot from the netcdf file.
 
-```text
+```
 filled.contour(lon,lat,elevation, color = terrain.colors, asp = 1)
 ```
 
-### 
+###
 
-![](../../.gitbook/assets/unnamed-chunk-20-1%20%285%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-20-1 (5).png>)
 
 ### C. Resources and useful R packages for handling spatial data
 
@@ -381,7 +381,7 @@ For more information on these geospatial data types and other types can be found
 
 While information on the various formats for spatial data are incredibly important to understand when using and sharing geospatial data, we would also like to recommend a few packages for handling spatial data in R.
 
-The `sf` package is used to handle vector data, while the `terra` and `raster` packages are often used to handle raster data. The packages `sf` and `raster` have been used throughout these technical guidelines. For an overview on these packages, I recommend the vignettes on [R Spatial](https://r-spatial.org/) for each of the packages linked below.
+The `sf` package is used to handle vector data, while the `terra` and `raster` packages are often used to handle raster data. The packages `sf` and `raster` have been used throughout these technical guidelines. For an overview on these packages, I recommend the vignettes on [R Spatial](https://r-spatial.org) for each of the packages linked below.
 
 * [sf](https://r-spatial.github.io/sf/articles/sf1.html)
 * [raster](https://rspatial.org/raster/pkg/index.html)
@@ -391,15 +391,15 @@ Finally, here is a table summarizing the recommended r packages for each data ty
 
 Table 2: Recommendations for handling these file formats in R
 
-| Data Type | Recommended R Package | Link to a conversion guide |
-| :--- | :--- | :--- |
-|  GeoPackage \(vector\) |  sf / stars |  |
-|  GeoPackage \(raster\) |  sf / stars |  |
-|  Shapefiles |  sf |  |
-|  GeoJSON |  sf |  |
-|  KML/KMZ |  sf |  |
-|  GeoTIFF |  raster / terra |  |
-|  NetCDF |  ncdf4 |  |
+| Data Type            | Recommended R Package | Link to a conversion guide |
+| -------------------- | --------------------- | -------------------------- |
+|  GeoPackage (vector) |  sf / stars           |                            |
+|  GeoPackage (raster) |  sf / stars           |                            |
+|  Shapefiles          |  sf                   |                            |
+|  GeoJSON             |  sf                   |                            |
+|  KML/KMZ             |  sf                   |                            |
+|  GeoTIFF             |  raster / terra       |                            |
+|  NetCDF              |  ncdf4                |                            |
 
 \* Important note: The commonly used package `raster` will be replaced by the new package `terra` as `rgdal`, one of the key packages it uses, will be retired in 2024. There are many more resources available online to guide people on how to use these packages than those mentioned.
 
@@ -416,30 +416,30 @@ Wide data is where each different variable is listed in a separate column, while
 Table 3: Example of wide data
 
 | Experiment | Minimum Temperature | Maximum Temperature | Average Temperature |
-| :--- | :--- | :--- | :--- |
-|  1 |  8 |  20 |  15 |
-|  2 |  15 |  27 |  23 |
-|  3 |  21 |  30 |  25 |
+| ---------- | ------------------- | ------------------- | ------------------- |
+|  1         |  8                  |  20                 |  15                 |
+|  2         |  15                 |  27                 |  23                 |
+|  3         |  21                 |  30                 |  25                 |
 
 Table 4: Example of long data
 
-| Experiment | Variable | Temperature  |
-| :--- | :--- | :--- |
-|  1 |  Minimum Temperature |  8 |
-|  1 |  Maximum Temperature |  20 |
-|  1 |  Average Temperature |  15 |
-|  2 |  Minimum Temperature |  15 |
-|  2 |  Maximum Temperature |  27 |
-|  2 |  Average Temperature |  23 |
-|  3 |  Minimum Temperature |  21 |
-|  3 |  Maximum Temperature |  30 |
-|  3 |  Average Temperature |  25 |
+| Experiment | Variable             | Temperature  |
+| ---------- | -------------------- | ------------ |
+|  1         |  Minimum Temperature |  8           |
+|  1         |  Maximum Temperature |  20          |
+|  1         |  Average Temperature |  15          |
+|  2         |  Minimum Temperature |  15          |
+|  2         |  Maximum Temperature |  27          |
+|  2         |  Average Temperature |  23          |
+|  3         |  Minimum Temperature |  21          |
+|  3         |  Maximum Temperature |  30          |
+|  3         |  Average Temperature |  25          |
 
 We recommend the following open file formats for tabular data which does not include Excel sheets.
 
 #### _ii. CSV / TXT_
 
-A CSV file \(Comma Separated Variable\) file is a text based data file that describes tabular data. Each row is one line, and the columns are separated by commas.
+A CSV file (Comma Separated Variable) file is a text based data file that describes tabular data. Each row is one line, and the columns are separated by commas.
 
 It is widely used as a data exchange format and highly recommended. If your tabular data do not contain commas, than a CSV file is the recommended choice. If your data do contain commas, such as survey responses, one can delineate columns in a TXT file based on tab’s or other characters such as semicolons.
 
@@ -447,7 +447,7 @@ A CSV file can be created from an excel sheet easily described [here](https://ww
 
 To export a table as a CSV file or tab delineated file in R, follow and adapt this code:
 
-```text
+```
 # csv
 write.csv(mtcars,                   # Dataset 
           "mtcars.csv",             # Name of file 
@@ -470,7 +470,7 @@ A .txt file, is a plain text file that just contains text, therefore it is human
 
 #### _ii. PDF_
 
-A PDF \(Portable Document Format\) was originally created by Adobe back in the 1990s, but was released as a open format in 2008. PDFs allow one to view documents easily independent of application software and operating system that is why presentations are often shared in PDF format as opposed to a powerpoint file. The PDF file format has the ability to contain not only text, but images, hyperlinks, form-fields, digital signatures, attachments, and other information. PDFs are very suitable for long-term storage of documents, as they are independent of application software.
+A PDF (Portable Document Format) was originally created by Adobe back in the 1990s, but was released as a open format in 2008. PDFs allow one to view documents easily independent of application software and operating system that is why presentations are often shared in PDF format as opposed to a powerpoint file. The PDF file format has the ability to contain not only text, but images, hyperlinks, form-fields, digital signatures, attachments, and other information. PDFs are very suitable for long-term storage of documents, as they are independent of application software.
 
 More information on the PDF file format can be found [here](https://docs.fileformat.com/pdf/).
 
@@ -492,11 +492,11 @@ Raster images are based on pixels with a defined resolution and are the preferre
 
 #### _i. SVG_
 
-SVG \(Scalable Vector Graphics\) is a vector image format, which uses XML text to specify lines and color. SVG is a great option and highly recommended for graphs, logos, and illustrations, especially for publishing materials on the internet. It is supported by all major browsers, but most default image editors do not support SVG. It should not be used to save photographs.
+SVG (Scalable Vector Graphics) is a vector image format, which uses XML text to specify lines and color. SVG is a great option and highly recommended for graphs, logos, and illustrations, especially for publishing materials on the internet. It is supported by all major browsers, but most default image editors do not support SVG. It should not be used to save photographs.
 
 To export a SVG file from R, one can use this base code and add additional arguments such as height, width, point size, to the `svg()` function.
 
-```text
+```
 svg("example_1.svg")                     # SVG graphics device and file name 
 
 plot(rnorm(100), main = "Example Graph") # Plot your graph 
@@ -506,11 +506,11 @@ dev.off()                                # Close the graphics device
 
 #### _ii. EPS_
 
-EPS \(Encapsulated PostScript\) was created by Adobe in 1992 and is based on Postscript rather than XML. EPS was originally intended for a print workflow not an online workflows and is no longer in development. EPS file format is recommended and better than SVG for high-quality document printing, printed logos, and marketing materials.
+EPS (Encapsulated PostScript) was created by Adobe in 1992 and is based on Postscript rather than XML. EPS was originally intended for a print workflow not an online workflows and is no longer in development. EPS file format is recommended and better than SVG for high-quality document printing, printed logos, and marketing materials.
 
 To export a EPS file from R, one can use this base code and add additional arguments to the `postscript()` function.
 
-```text
+```
 setEPS()
 postscript("example_2.eps")
 
@@ -521,11 +521,11 @@ dev.off()
 
 #### _iii. PDF_
 
-PDFs \(Portable Document Files\) mentioned previously under the textual files section can also be saved as a vector file. Vector formated PDFs allow one to easily select objects and are preferred to raster formatted PDFs. PDFs can have a mix of vector and raster content, but when exported from R, the graphics will be in vector format. If scanned, the PDF will be in raster format.
+PDFs (Portable Document Files) mentioned previously under the textual files section can also be saved as a vector file. Vector formated PDFs allow one to easily select objects and are preferred to raster formatted PDFs. PDFs can have a mix of vector and raster content, but when exported from R, the graphics will be in vector format. If scanned, the PDF will be in raster format.
 
 To export a figure as a PDF file from R, one can use this base code and change and add additional arguments to the `pdf()` function.
 
-```text
+```
 pdf("example_3.pdf",         
     width = 4, height = 4,               # Width and height in inches 
     paper = "A4")                        # Paper size 
@@ -539,11 +539,11 @@ dev.off()
 
 #### _i. PNG_
 
-PNG \(Portable Network Graphics\) files are a type of raster file format that supports lossless data compression and has no copyright limitations. We generally recommend PNG files for storage and sharing images online. The lossless compression means that there is no loss in quality each time it is opened and saved again. PNG only supports the RGB color space and not CMYK, and does not support animations.
+PNG (Portable Network Graphics) files are a type of raster file format that supports lossless data compression and has no copyright limitations. We generally recommend PNG files for storage and sharing images online. The lossless compression means that there is no loss in quality each time it is opened and saved again. PNG only supports the RGB color space and not CMYK, and does not support animations.
 
 To export a PNG file from R, one can use this based code and change and add additional arguments to the `png()` funciton.
 
-```text
+```
 png("example_4.png",
      width = 4, height = 4,
      units = "in",                       # Units in inches 
@@ -556,11 +556,11 @@ dev.off()
 
 #### _ii. JPEG / JPG_
 
-In comparison, JPEG \(or JPG\) files are raster files that are often used online for displaying images as they are fast to load. It has lossy compression which means each time it is saved it reduces in file size but also in quality. We do not recommend JPEG files for long term storage, except in the case of images which come from e.g. cameras as nothing is gained in converting an original JPEG into a PNG.
+In comparison, JPEG (or JPG) files are raster files that are often used online for displaying images as they are fast to load. It has lossy compression which means each time it is saved it reduces in file size but also in quality. We do not recommend JPEG files for long term storage, except in the case of images which come from e.g. cameras as nothing is gained in converting an original JPEG into a PNG.
 
 To export a jpeg file from R, one can use this base code and change and add additional arguments to the `jpeg()` argument, although we discourage exporting graphs in jpeg.
 
-```text
+```
 jpeg("example_5.jpeg", width = 4, height = 4, units = 'in', res = 300)
 plot(rnorm(100), main = "Example Graph")                               # Plot your graph 
 dev.off()
@@ -568,15 +568,14 @@ dev.off()
 
 #### _iii. TIFF_
 
-Another option is TIFF. A TIFF \(Tagged Image File\) is a raster file that also supports lossless compression. We do not recommend using this tile type on websites as it is slow to load due to its large size and has limited browser support, but it is recommended for long term storage or publications. If there are no concerns about losing embeded metadata and tags, in general, it makes sense to convert a TIFF image to PNG as it reduces the size and is lossless.
+Another option is TIFF. A TIFF (Tagged Image File) is a raster file that also supports lossless compression. We do not recommend using this tile type on websites as it is slow to load due to its large size and has limited browser support, but it is recommended for long term storage or publications. If there are no concerns about losing embeded metadata and tags, in general, it makes sense to convert a TIFF image to PNG as it reduces the size and is lossless.
 
 To export a TIFF image file from R, one can use this base code and change and add additional arguments to the `tiff()` function, although we discourage exporting graphs in tiff.
 
-```text
+```
 tiff("example_6.tiff", width = 4, height = 4, units = "in", res = 300)             
 plot(rnorm(100), main = "Example Graph")                                # Plot your graph 
 dev.off()
 ```
 
 Thank you for your time. If you have any suggestions on further content or file format types you would like to see covered please contact us at the technical support unit at [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net).
-

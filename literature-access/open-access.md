@@ -4,29 +4,29 @@ Examples of repositories to search directly
 
 ## Journals
 
-### [Google scholar](https://scholar.google.com/)
+### [Google scholar](https://scholar.google.com)
 
 Searching for articles through Google Scholar will find them in well-indexed repositories. The repository versions are usually those deposited by the authors and may include versions prior to peer review. More information on Google Scholar & article searches.
 
-### [MIT catalogue](https://libraries.mit.edu/)
+### [MIT catalogue](https://libraries.mit.edu)
 
-Data from the Unpaywall \([https://unpaywall.org/](https://unpaywall.org/)\) database of open access journals and repositories is integrated into the MIT Libraries catalog \(\), which means an open accessversion of an article will appear as an option in search results if one is available. 
+Data from the Unpaywall ([https://unpaywall.org/](https://unpaywall.org)) database of open access journals and repositories is integrated into the MIT Libraries catalog (), which means an open accessversion of an article will appear as an option in search results if one is available. 
 
-### [Directory of Open Access Journals ](https://doaj.org/)
+### [Directory of Open Access Journals ](https://doaj.org)
 
-### [DSpace@MIT ](https://dspace.mit.edu/)
+### [DSpace@MIT ](https://dspace.mit.edu)
 
 ### [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/)
 
-### [arXiv](http://arxiv.org/)
+### [arXiv](http://arxiv.org)
 
 ### [Social Science Research Network](https://www.ssrn.com/index.cfm/en/)
 
-### [CORE](https://core.ac.uk/)
+### [CORE](https://core.ac.uk)
 
 ## List of other disciplinary repositories
 
-### [http://oad.simmons.edu/oadwiki/Disciplinary\_repositories](http://oad.simmons.edu/oadwiki/Disciplinary_repositories)
+### [http://oad.simmons.edu/oadwiki/Disciplinary_repositories](http://oad.simmons.edu/oadwiki/Disciplinary_repositories)
 
 ### [OpenStax](https://openstax.org/subjects)
 
@@ -45,4 +45,3 @@ Directly search an open, legal database of millions of open access scholarly art
 ## References
 
 [https://libraries.mit.edu/scholarly/publishing/find-oa-articles/](https://libraries.mit.edu/scholarly/publishing/find-oa-articles/)
-

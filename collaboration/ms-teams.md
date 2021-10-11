@@ -8,7 +8,7 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 ### Important links
 
-1. Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
+1. Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer\&postJsllMsg=true\&maskLevel=20\&market=en-gb) to watch the welcome video
 2. Click [here](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7) to see Microsoft Teams training videos
 
 ## Sign in to Teams
@@ -16,7 +16,7 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 ### How to sign in to teams
 
 1. Start Teams
-   1. In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) &gt; **Microsoft Teams**.
+   1. In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) > **Microsoft Teams**.
    2. On Mac, go to the **Applications** folder and click **Microsoft Teams**.
    3. On mobile, tap the **Teams** icon.
 2. Sign in with your Office 365 username and password.
@@ -28,7 +28,7 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 #### How to use a code to join a team
 
 1. Click **Teams** ![Teams button](https://support.content.office.net/en-us/media/20305b5c-df47-4154-a21a-b12712c4224c.png) on the left side of the app, then click **Join or create a team** at the bottom of your teams list.
-2. Go to **Join a team with a code** \(the second tile\), paste the code in the **Enter code** box, and click **Join**.
+2. Go to **Join a team with a code** (the second tile), paste the code in the **Enter code** box, and click **Join**.
 
 ## Teams and Channels
 
@@ -38,18 +38,16 @@ Channels are where the work actually gets done—where [text, audio, and video c
 
 ### **Pick a team and channel**
 
-1. Select **Teams** ![Teams button](https://support.content.office.net/en-us/media/20305b5c-df47-4154-a21a-b12712c4224c.png) on the left side of the app and then pick a team.
+1.  Select **Teams** ![Teams button](https://support.content.office.net/en-us/media/20305b5c-df47-4154-a21a-b12712c4224c.png) on the left side of the app and then pick a team.
 
-   If you're not on a team and want to create one.
-
+    If you're not on a team and want to create one.
 2. Select a channel and explore the **Conversations**, **Files**, and other tabs.
 
 ### Create a team
 
-1. Select **Teams** &gt; **Join or create a team**.
+1.  Select **Teams** > **Join or create a team**.
 
-   This is where you create your own team, or discover existing ones.
-
+    This is where you create your own team, or discover existing ones.
 2. Select **Create a new team**, and then select **Build a team from scratch** or select **Create from...** to build an all-new team or create from an existing group respectively.
 3. Select **Private** if you'd like people to request permission to join, or select **Public** if anyone in your org can join.
 4. Give the team a name and add a short description if you'd like.
@@ -65,10 +63,9 @@ By default, every team gets a **General** channel, which is a good channel to us
 
 1. Select ![Select to see more options](https://support.content.office.net/en-us/media/c895c3f1-9e3a-451d-9f7c-4be804303b3a.png) **More options...** next to the team name.
 2. Select **Add channel**.
-3. Enter a name and description for your channel.
+3.  Enter a name and description for your channel.
 
-   You can build a channel around a topic, project, department name, or whatever you like.
-
+    You can build a channel around a topic, project, department name, or whatever you like.
 4. Select **Automatically show this channel in everyone's channel list** if you want this channel to be automatically visible in everyone's channel list.
 5. Select **Add**.
 
@@ -76,7 +73,7 @@ By default, every team gets a **General** channel, which is a good channel to us
 
 1. Select ![Select to see more options](https://support.content.office.net/en-us/media/c895c3f1-9e3a-451d-9f7c-4be804303b3a.png) **More options...** next to the team name.
 2. Select **Manage team** to find **Members**, **Channels**, **Settings**, and **Apps** for your team all in one place.
-3. Select **Settings** &gt; **Team picture** to add a team picture and give your team some personality.
+3. Select **Settings** > **Team picture** to add a team picture and give your team some personality.
 
 ## Collaborate on files in Microsoft Teams
 
@@ -95,9 +92,9 @@ In the library you can upload existing files or create new ones. When you upload
 There are two primary ways to upload existing files into your library. Both methods start by going to the files folder for your channel and both methods, by default, upload copies of your files to the channel file folder.
 
 * **Drag and drop** - Using your mouse, drag the file from where it's currently located and drop it on the Teams window among the files. 
-* **Upload** - Select **Upload**, ****then select the file \(or files\) you'd like to upload, and select **Open**.
+* **Upload** - Select **Upload**,** **then select the file (or files) you'd like to upload, and select **Open**.
 
-![Create or upload a new file to your channel&apos;s files library](https://support.content.office.net/en-us/media/950207d4-6fca-4c7e-91f9-6cae2575088f.png)
+![Create or upload a new file to your channel's files library](https://support.content.office.net/en-us/media/950207d4-6fca-4c7e-91f9-6cae2575088f.png)
 
 {% hint style="warning" %}
 Any files you upload will be accessible by any member of your team. And just like in SharePoint, you can pin specific files to the top of your list for easy access.
@@ -123,7 +120,7 @@ If the file is a Word, Excel, PowerPoint or Visio file, the easiest way to share
 **Important:** To share with someone outside your team you'll have to open the file in Office for the web or Office desktop app.
 {% endhint %}
 
-If you want to share with people outside your organization you may have to select the permissions drop-down \(right above where you add the people you want to share with\) and select that **Specific People** can access the file.![Use the link settings dialog to specify permissions for a sharing link](https://support.content.office.net/en-us/media/5b10de12-a7ad-424c-b3ad-3c99d5890e4c.png)
+If you want to share with people outside your organization you may have to select the permissions drop-down (right above where you add the people you want to share with) and select that **Specific People** can access the file.![Use the link settings dialog to specify permissions for a sharing link](https://support.content.office.net/en-us/media/5b10de12-a7ad-424c-b3ad-3c99d5890e4c.png)
 
 ## Sync SharePoint and Teams files with the OneDrive sync app
 
@@ -131,15 +128,15 @@ If you want to share with people outside your organization you may have to selec
 
 1. On the Microsoft 365 app launcher, select SharePoint or Teams, and then select the site with the files you want to sync.
 2.  Select **Documents** or navigate to the subfolder you want to sync.
-3.  Select **Sync**. \(You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.\)
+3.  Select **Sync**. (You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.)
 
-![](../.gitbook/assets/image%20%2824%29%20%281%29.png)
+![](<../.gitbook/assets/image (24) (1).png>)
 
-4. If your browser requests permission to use "Microsoft OneDrive," confirm that this is okay.
+4\. If your browser requests permission to use "Microsoft OneDrive," confirm that this is okay.
 
-The files then sync to a folder on your PC that has the organization \(United Nations\). This folder is automatically added to the left pane in File Explorer. You can’t select to sync to a different location.
+The files then sync to a folder on your PC that has the organization (United Nations). This folder is automatically added to the left pane in File Explorer. You can’t select to sync to a different location.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](<../.gitbook/assets/image (17).png>)
 
 ### Change sync settings
 
@@ -147,21 +144,21 @@ Below are steps to follow to change the folders that sync for the site, or to st
 
 1. Select the blue OneDrive cloud icon in the Windows taskbar notification area.
 
-![cloud icon](../.gitbook/assets/image%20%2831%29.png)
+![cloud icon](<../.gitbook/assets/image (12).png>)
 
 {% hint style="warning" %}
-\(You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.\)
+(You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.)
 {% endhint %}
 
-2.  Select **More** &gt; **Settings**.
+2\.  Select **More** > **Settings**.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](<../.gitbook/assets/image (15).png>)
 
-3.  To see a list of all your syncing sites, select the **Account** tab.
+3\.  To see a list of all your syncing sites, select the **Account** tab.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](<../.gitbook/assets/image (16).png>)
 
-4.  To change the folders that you're syncing, select **Choose folders** for that library, and then select the folders that you want to sync. To stop syncing a site, select **Stop sync** next to the site. \(Copies of the files remain on your computer. You can delete them if you want.\)
+4\.  To change the folders that you're syncing, select **Choose folders** for that library, and then select the folders that you want to sync. To stop syncing a site, select **Stop sync** next to the site. (Copies of the files remain on your computer. You can delete them if you want.)
 
 ## Chat
 
@@ -191,9 +188,9 @@ You can include up to 100 people in a group chat.
 
 #### Add people to the conversation
 
-To loop more people into the conversation, just click **Add people** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) \(or **View and add participants** in group chat\) in the top right corner of Teams. Then, type the names of the people you'd like to chat with, select how much of the chat history to include, and click **Add**.
+To loop more people into the conversation, just click **Add people** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) (or **View and add participants** in group chat) in the top right corner of Teams. Then, type the names of the people you'd like to chat with, select how much of the chat history to include, and click **Add**.
 
-**Note:** When adding someone to a group chat \(not a one-on-one\), you can include the chat history.
+**Note:** When adding someone to a group chat (not a one-on-one), you can include the chat history.
 
 ![Chat history in Teams](https://support.content.office.net/en-us/media/2f0b0e65-1e64-4a9e-89cd-39e4f691ea2b.png)
 
@@ -212,4 +209,3 @@ To see who’s in a group chat, hover over the number of participants in the cha
 ### Find and filter
 
 ## OneNote
-

@@ -4,11 +4,11 @@ description: Technical Guideline Series
 
 # Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions
 
-**Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**  
-**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**  
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+**Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**\
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
+_For any inquires please contact _[_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
-Version: 2.1  
+Version: 2.1\
 Last Updated: February 1st 2021
 
 DOI: [10.5281/zenodo.4559153](https://doi.org/10.5281/zenodo.4559153)
@@ -17,7 +17,7 @@ The guide will show how to aggregate and map FAO data according to the IPBES Reg
 
 Let’s begin by loading the following packages.
 
-```text
+```
 library(sf) 
 library(dplyr)
 library(magrittr)
@@ -33,7 +33,7 @@ library(graticule) # for mapping
 
 The first step is to download the FAO data using the FAOSTAT package. The url can be found in FAO STAT’s data description file [here.](http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.xml)
 
-```text
+```
 FAOSTAT::download_faostat_bulk("http://fenixservices.fao.org/faostat/static/bulkdownloads/Population_E_All_Data_(Normalized).zip", getwd())
 ```
 
@@ -45,7 +45,7 @@ To download the shapefile manually, please go to the [IPBES Regions and Sub-Regi
 
 To do this through a script, first identify the record ID of the Zenodo entry, which is the numbers following “_zenodo._” at the end of the URL. We then create a URL with the record ID and query the API for information about the record.
 
-```text
+```
 recordID <- "3923633"
 url_record <- paste0("https://zenodo.org/api/records/", recordID)
 record <- httr::GET(url_record)
@@ -57,17 +57,17 @@ record # Status 200 indicates a successful download
 ##   Size: 6.41 kB
 ```
 
-Now, we can inspect the contents downloaded with the function content\(\)
+Now, we can inspect the contents downloaded with the function content()
 
-```text
+```
 View(content(record)) # view displays the output in a human readable form within R Studio
 ```
 
-![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](../../.gitbook/assets/view_content_zendodo_record%20%282%29.png)
+![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](<../../.gitbook/assets/view_content_zendodo_record (2).png>)
 
-This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET\(\) to download the shapefile.
+This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET() to download the shapefile.
 
-```text
+```
 # Contains the url to download the shapefile
 url_shape <- content(record)$files[[5]]$links$download 
 
@@ -85,7 +85,7 @@ unzip("ipbes_regions_subregions.zip") # unzips shapefile
 
 Now that our data is on our computer, we need to upload the data into R studio and project the spatial data.
 
-```text
+```
 pop_raw <- FAOSTAT::read_faostat_bulk("Population_E_All_Data_(Normalized).zip") # load the population data using FAOSTAT's built in function 
 shape <- sf::st_read("IPBES_Regions_Subregions2.shp") # shapefile
 
@@ -99,14 +99,14 @@ shape <- sf::st_read("IPBES_Regions_Subregions2.shp") # shapefile
 
 We chose to project the data into the Robinson projection as it minimizes distortions in both area and distance. To find the proj4 notation please visit [this link](https://epsg.io/54030).
 
-```text
+```
 crs_robin <-  "+proj=robin +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
 shape <- sf::st_transform(shape, crs_robin)
 ```
 
 To plot the ocean in our maps, we will also download ocean data from the rnaturalearth package and project it
 
-```text
+```
 ocean <- rnaturalearth::ne_download(scale = 10, type = 'ocean', category = 'physical', returnclass = "sf")
 
 ## OGR data source with driver: ESRI Shapefile 
@@ -122,7 +122,7 @@ ocean <- ocean[,1]
 
 The next important step is to clean the data to ensure it can be joined and mapped easily. For this example, we will filter to only include the total population for each country in 2018.
 
-```text
+```
 pop_2018 <- pop_raw %>% 
   dplyr::filter(element == "Total Population - Both sexes" &
            year == 2018) %>% 
@@ -136,7 +136,7 @@ pop_2018 <- pop_raw %>%
 
 By examining the Area names within the dataset, one will notice that every name after Zimbabwe refers to aggregated data, therefore we will remove these from our analysis.
 
-```text
+```
 tail(pop_2018$area, 34)
 
 ##  [1] "World"                                  
@@ -177,9 +177,9 @@ tail(pop_2018$area, 34)
 pop_2018 <- pop_2018[1:237, ] # Selects the first 237 records, thus removing the last 34 which are aggregated data
 ```
 
-Finally, we need to add the ISO3 codes onto the dataframe, so we can easily join it to the IPEBS Regions and Sub-Regions data. The translateCountryCode\(\) function provided by the FAOSTAT package allows us to easily do this.
+Finally, we need to add the ISO3 codes onto the dataframe, so we can easily join it to the IPEBS Regions and Sub-Regions data. The translateCountryCode() function provided by the FAOSTAT package allows us to easily do this.
 
-```text
+```
 pop_2018 <- FAOSTAT::translateCountryCode(data = pop_2018, from = "FAOST_CODE", to = "ISO3_CODE", "area_code") # Add's the ISO Code to the data
 ## 
 ## NOTE: Please make sure that the country are matched according to their definition
@@ -192,11 +192,11 @@ pop_2018 <- FAOSTAT::translateCountryCode(data = pop_2018, from = "FAOST_CODE", 
 ## 234                              the Republic of South Sudan
 ```
 
-There are two records where no ISO3 Code was assigned: China \(including mainland, Hong Kong SAR, Macao SAR, and Taiwan\) and South Sudan. “China mainland” refers to the same area as “China” in our dataset, so we are safe to exclude the China \(including mainland, Hong Kong SAR, Macao SAR, and Taiwan\) from our analysis.
+There are two records where no ISO3 Code was assigned: China (including mainland, Hong Kong SAR, Macao SAR, and Taiwan) and South Sudan. “China mainland” refers to the same area as “China” in our dataset, so we are safe to exclude the China (including mainland, Hong Kong SAR, Macao SAR, and Taiwan) from our analysis.
 
 For South Sudan, we will add the same ISO-3 Code we have in the IPBES Regions and Sub-regions dataset.
 
-```text
+```
 pop_2018[230,2] <- "SSD" # South Sudan
 pop_2018 <- na.omit(pop_2018) # removes China (including other areas)
 ```
@@ -207,7 +207,7 @@ We have all of our data downloaded locally, uploaded into R, and formatted prope
 
 First, we join the IPBES regions and sub-regions attributes to our data table. I drop the spatial attributes of the IPBES regions and sub-regions dataset to speed up the process.
 
-```text
+```
 colnames(shape)[2] <- "ISO3_CODE" 
 regions <- shape %>%   
   as.data.frame() %>% # drops the spatial attributes
@@ -217,9 +217,9 @@ pop_2018 <- dplyr::left_join(x = pop_2018, y = regions, by = "ISO3_CODE") %>% # 
  tidyr::drop_na() # conveenient function from tidyr package 
 ```
 
-Secondly, we aggregate the data per IPBES regions and sub-regions. In our example, I calculate the total population per region and per sub-region using the group\_by\(\) function.
+Secondly, we aggregate the data per IPBES regions and sub-regions. In our example, I calculate the total population per region and per sub-region using the group_by() function.
 
-```text
+```
 pop_2018 <- pop_2018 %>% 
   dplyr::group_by(Region) %>% # Grouping by regions
   dplyr::mutate(region_pop = sum(value)/1000) %>% # calculates total population (millions) per region
@@ -248,7 +248,7 @@ pop_2018
 
 Finally, we join the formatted FAO data to the spatial data we originally had so we can create maps.
 
-```text
+```
 data <- dplyr::full_join(x = shape, y = pop_2018, by = "ISO3_CODE")
 ```
 
@@ -256,7 +256,7 @@ data <- dplyr::full_join(x = shape, y = pop_2018, by = "ISO3_CODE")
 
 All that is left to do is to map the data per region and sub-region. We begin by dissolving the spatial data per region and subregion so country borders are not included.
 
-```text
+```
 data_region <- data %>% # this dissolves the data by region
   dplyr::group_by(Region.x) %>% 
   dplyr::summarise(region_pop2 = sum(value, na.rm = T)/1000) %>% 
@@ -270,7 +270,7 @@ data_subregion <- data %>% # this dissolves the data by subregion
 
 Now, we choose the palette and plot by region.
 
-```text
+```
 data_region$region_pop2 <- as.character(round(data_region$region_pop2 )) # Treats the values as groups so the legend displays correctly 
 data_region$region_pop2[5] <- "0927" # Ensures the legend displays correctly
 
@@ -281,11 +281,11 @@ palette <- c("grey","aliceblue", "lightskyblue", "dodgerblue", "dodgerblue4") # 
 plot(data_region[,2], pal = palette, main = "Total population (millions) in 2018 per region")
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-17-1%20%283%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-17-1 (4).png>)
 
 If you would like to add graticules and an ocean background, follow this example. First, we will set up the graticules we will plot
 
-```text
+```
 # Creates latitude and longitude labels and graticules
 lat <- c(-90, -60, -30, 0, 30, 60, 90)
 long <- c(-180, -120, -60, 0, 60, 120, 180)
@@ -295,7 +295,7 @@ lines <- graticule::graticule(lons = long, lats = lat, proj = crs_robin) # grati
 
 Then, we will plot the graticules, ocean data, then region data, and finally the text for latitude and longitude lines, legend, and surrounding box.
 
-```text
+```
 par(mar = c(2,3,1,2)) # Adjusts the edges of the frame 
 plot(lines, lty = 5, col = "lightgrey",  main = "Total population (millions) in 2018 per region") # plots graticules 
 plot(ocean, col = ggplot2::alpha("slategray1", 0.3), add = TRUE) 
@@ -309,23 +309,22 @@ legend("bottom", # adding the legend last
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-19-1%20%284%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-19-1 (4).png>)
 
 We can also plot by subregion.
 
-```text
+```
 plot(data_subregion[,2], main = "Total population (millions) in 2018 per sub-region", breaks = "quantile")
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-20-1%20%283%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-20-1 (4).png>)
 
 Finally, by country.
 
-```text
+```
 plot(data[,11], main = "Total population (thousands) in 2018", breaks = "jenks", at = c(100000,500000, 1000000, 1427648))
 ```
 
-![](../../.gitbook/assets/unnamed-chunk-21-1%20%283%29.png)
+![](<../../.gitbook/assets/unnamed-chunk-21-1 (4).png>)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
-

@@ -1,7 +1,7 @@
 # MS Teams meetings and calls
 
 {% hint style="warning" %}
-**Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat \(users with @ipbes.net or @un.org accounts\). It is recommended to use Zoom or GoTo Meeting for external meetings.
+**Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat (users with @ipbes.net or @un.org accounts). It is recommended to use Zoom or GoTo Meeting for external meetings.
 {% endhint %}
 
 ## Introduction
@@ -14,13 +14,13 @@ You can launch an instant meeting with a colleague using the Meet Now service of
 
 1. Click on the Meet Now icon from a channel or conversation.
 
-![Meet Now icon](../.gitbook/assets/image%20%289%29%20%282%29%20%282%29.png)
+![Meet Now icon](<../.gitbook/assets/image (9).png>)
 
 1. In your video preview, enter a name for the meeting, and select Meet Now
 2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.
 
 {% hint style="info" %}
-You can watch these instructions in this [Video Tutorial](https://www.microsoft.com/en-us/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
+You can watch these instructions in this [Video Tutorial](https://www.microsoft.com/en-us/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer\&postJsllMsg=true\&maskLevel=20\&market=en-us)
 {% endhint %}
 
 ## Schedule a meeting
@@ -29,7 +29,7 @@ You can watch these instructions in this [Video Tutorial](https://www.microsoft.
 
 Meetings can either be set up through the Microsoft Teams App or Outlook. There are several ways to schedule a meeting:
 
-1. Select **Schedule a meeting** ![Schedule a meeting button](https://support.content.office.net/en-us/media/fd1b3652-61b7-4822-b631-cf71577a241a.png)in a chat \(this is below the compose box\) to book a meeting with the people in the chat.
+1. Select **Schedule a meeting** ![Schedule a meeting button](https://support.content.office.net/en-us/media/fd1b3652-61b7-4822-b631-cf71577a241a.png)in a chat (this is below the compose box) to book a meeting with the people in the chat.
 2. Go to **Calendar** ![Meetings button](https://support.content.office.net/en-us/media/f788fe72-7168-45df-98c8-58ceac0a9aac.png)on the left side of the app and either select **New meeting** at the top right of the app, or select a range of time in your calendar and it will pop open a scheduling form.
 
 Similar to Outlook, in the scheduling form is where you'll give a title to your meeting, invite people, and add meetings details.
@@ -38,10 +38,10 @@ On the right side of the scheduling form you will have the option to add a chann
 
 ### Schedule a meeting from your calendar
 
-![](../.gitbook/assets/image%20%289%29%20%282%29%20%281%29.png)
+![](<../.gitbook/assets/image (9) (2).png>)
 
 1. Open Outlook and switch to the calendar view. Click **New Teams Meeting** at the top of the view
-2. Add your invitees to the **To** field—you can even invite entire contact groups \(formerly known as distribution lists\). Add your meeting subject, location, start time, and end time. Then click **Send**.
+2. Add your invitees to the **To** field—you can even invite entire contact groups (formerly known as distribution lists). Add your meeting subject, location, start time, and end time. Then click **Send**.
 3. You can also invite people from outside your organization from Outlook. Just be sure to [add them as guests](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f) before the meeting starts or they will have to join anonymously.
 
 [ Find out more](https://support.office.com/en-us/article/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f#ID0EAABAAA=iOS)
@@ -97,7 +97,7 @@ You can join a Teams meeting anytime, from any device, whether or not you have a
 Go to the meeting invite and select **Join Microsoft Teams Meeting**.
 
 1. That'll open a webpage, where you'll see two choices: **Download the Windows app** and **Join on the web instead**. If you join on the web, you can use either Microsoft Edge or Google Chrome. Your browser may ask if it's OK for Teams to use your mic and camera. Be sure to allow it so you'll be seen and heard in your meeting.
-2. Enter your name and choose your audio and video settings. If the meeting room \(or another device that's connected to the meeting\) is nearby, choose **Audio off** to avoid disrupting. Select **Phone audio** if you want to listen to the meeting on your mobile phone.
+2. Enter your name and choose your audio and video settings. If the meeting room (or another device that's connected to the meeting) is nearby, choose **Audio off** to avoid disrupting. Select **Phone audio** if you want to listen to the meeting on your mobile phone.
 3. When you're ready, hit **Join now**.
 4. This will bring you into the lobby. We'll notify the meeting organizer that you're there, and someone in the meeting can then admit you.
 
@@ -110,7 +110,7 @@ To invite someone to join a meeting, use the **Invite people** box to search for
 ### In a meeting
 
 1. When you're in a meeting, select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) in your meeting controls to see the people who were invited but haven't joined yet.
-2. To ask someone who was invited to join the meeting, select their name &gt; **More options**![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Ask to join** ![Add people button](https://support.content.office.net/en-us/media/a315ee12-6de9-4198-ad99-524269f2dbd4.png). You can also type a person's name or phone number in the search box to add someone who was not previously invited.
+2. To ask someone who was invited to join the meeting, select their name > **More options**![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) > **Ask to join** ![Add people button](https://support.content.office.net/en-us/media/a315ee12-6de9-4198-ad99-524269f2dbd4.png). You can also type a person's name or phone number in the search box to add someone who was not previously invited.
 
 ## **Share Screen**
 
@@ -154,7 +154,7 @@ Meeting notes are a great place to capture and share notes before, during, and a
 
 ### During the meeting
 
-1.  Go to **More options** ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) &gt; **Show meeting notes** ![Meeting notes button](https://support.content.office.net/en-us/media/44a1a0a7-dee2-42e6-9a98-84bee3502f3f.png) in the meeting controls section. If you have not taken any notes yet, select **Start taking meeting notes**.
+1.  Go to **More options** ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) > **Show meeting notes** ![Meeting notes button](https://support.content.office.net/en-us/media/44a1a0a7-dee2-42e6-9a98-84bee3502f3f.png) in the meeting controls section. If you have not taken any notes yet, select **Start taking meeting notes**.
 2.  Otherwise, start typing your notes. Use the controls at the top of the panel to format and lay out the text. To add a new note, select **Add a new section here.** Use @mentions to draw someone's attention to a specific note or assign an action item.
 
 {% hint style="info" %}
@@ -167,11 +167,11 @@ In a recurring meeting, the notes persist from meeting to meeting. Each meeting 
 
 To access notes from a channel meeting, go to the channel where the meeting occurred and find the meeting. Beneath it, select **Show notes in fullscreen**.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](<../.gitbook/assets/image (10).png>)
 
 The meeting notes open in a Wiki tab that you can read or add to. Edit and format the tab just like you would any other Wiki tab
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](<../.gitbook/assets/image (11).png>)
 
 ## Blur your background in a Teams meeting
 
@@ -183,7 +183,7 @@ If you want to avoid embarrassing moments during video calls, don't forget to bl
 
 * Enable video, toggle the middle slider option to activate background blur and then click on **Join now**.
 
-![](../.gitbook/assets/ms_teams_blur_2.jpg)
+![](<../.gitbook/assets/ms_teams_blur\_2 (1).jpg>)
 
 To blur the video after joining the meeting:
 
@@ -191,29 +191,28 @@ To blur the video after joining the meeting:
 2. Click the **Blur my background** option.
 3. You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
 
-![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur_3.jpg)
+![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur\_3.jpg)
 
 ## Set a custom background image
 
 You can create your own images, upload them to Teams, and then select them as a background image for your video chats. To do so: 
 
-1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\**Uploads**
+1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\\**Uploads**
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (8).png>)
 
-2. Upload the image\(s\) you want to use to the uploads folder:
+2\. Upload the image(s) you want to use to the uploads folder:
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](<../.gitbook/assets/image (6).png>)
 
 {% hint style="warning" %}
-Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed. 
+Images resolution should be **1920×1080. **Only .**JPG and .PNG** image files are allowed. 
 {% endhint %}
 
-3. On your Teams app, at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
+3\. On your Teams app, at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
 
-4.  Select **More actions** &gt; **Show background effects**. Select your background, or choose from the available images to replace it. 
+4\.  Select **More actions** > **Show background effects**. Select your background, or choose from the available images to replace it. 
 
 {% hint style="info" %}
 Note that the update background is per meeting only. You will need to update a new background for each meeting.
 {% endhint %}
-

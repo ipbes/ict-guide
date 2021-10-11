@@ -13,4 +13,3 @@
 ## Join a Slack workspace
 
 ## Set up your profile
-
