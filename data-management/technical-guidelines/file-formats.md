@@ -11,7 +11,7 @@ description: Technical Guideline Series
 Version: 1.0 \
 Last Updated: September 15th 2021
 
-DOI: 10.5281/zenodo.5509740
+DOI: [10.5281/zenodo.5509739](https://doi.org/10.5281/zenodo.5509739)
 
 ## I. Executive Summary
 
@@ -143,7 +143,7 @@ KML files can be created and edited on the google earth interface or can be draf
 
 KML only uses one coordinate reference system and is not well suited for delivering large quantities of data.
 
-More information on KML is available [here](https://developers.google.com/kml/documentation/kml_tut) from Google.
+More information on KML is available [here](https://developers.google.com/kml/documentation/kml\_tut) from Google.
 
 To export a KML file from R, the following code can be used. First, the projection needs to be checked as KML only supports WGS84.
 
@@ -226,7 +226,7 @@ raster("artwork.tif")
 
 Recently, a format called, [Cloud Optimized GeoTIFF](https://www.cogeo.org), has become increasingly popular which is a regular GeoTIFF file aimed at being hosted on a HTTP file server. This standard was developed in 2016 within the Open Source Geospatial Foundation project. The format enables efficient workflows on the cloud by utilizing tiling and overviews. It allows for efficient imagery data display and access through HTTP GET range requests, so end-users can just use the parts of the GeoTIFF they need. A cloud optimized GeoTIFF is larger in size than a normal GeoTIFF, but it enables faster access on a server.
 
-If you are interested in exporting Cloud Optimized GeoTIFFs, one option is to use the `write_tif` function from the `gdalcubes` package described [here](https://rdrr.io/cran/gdalcubes/man/write_tif.html)
+If you are interested in exporting Cloud Optimized GeoTIFFs, one option is to use the `write_tif` function from the `gdalcubes` package described [here](https://rdrr.io/cran/gdalcubes/man/write\_tif.html)
 
 #### _ii. Geopackage (raster)_
 
@@ -268,7 +268,7 @@ Another option for storing geospatial raster data is NetCDF (Network Common Data
 
 Some limitations to NetCDFs are that they are not as user-friendly to work with especially in R, they do not support nested structures, and no real compression is supported.
 
-NetCDF was developed and maintained at Unidata. On their website [here](https://www.unidata.ucar.edu/software/netcdf/docs/tutorial\_8dox.html#sec_tut) they provide tutorials and documentation. A quick factsheet with more information is available [here](https://www.unidata.ucar.edu/publications/factsheets/current/factsheet_netcdf.pdf).
+NetCDF was developed and maintained at Unidata. On their website [here](https://www.unidata.ucar.edu/software/netcdf/docs/tutorial\_8dox.html#sec\_tut) they provide tutorials and documentation. A quick factsheet with more information is available [here](https://www.unidata.ucar.edu/publications/factsheets/current/factsheet\_netcdf.pdf).
 
 R is able to read and write netCDF files using the package `ncdf4`. For a full tutorial on how to read and write netCDF files, please refer to [this website](https://pjbartlein.github.io/REarthSysSci/netCDF.html#create-and-write-a-netcdf-file)
 
@@ -287,7 +287,7 @@ x <- 100*(1:nrow(z)) # meter spacing (S to N)
 y <- 100*(1:ncol(z)) # meter spacing (E to W)
 ```
 
-We will now define the spatial dimensions of the data (lat / long) and then use ncvar_def to define a variable in the netCDF file that will hold the elevation data.
+We will now define the spatial dimensions of the data (lat / long) and then use ncvar\_def to define a variable in the netCDF file that will hold the elevation data.
 
 ```
 # Define the netcdf coorindate variables

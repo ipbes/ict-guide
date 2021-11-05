@@ -11,7 +11,7 @@ description: Technical Guideline Series
 Version: 1.0\
 Last Updated: May 13th 2021
 
-DOI: 10.5281/zenodo.4756596
+DOI: [10.5281/zenodo.4756596](https://doi.org/10.5281/zenodo.4756596)
 
 This technical guidelines focuses on recommendations for the use of colour in maps and can be applied to other visualisations. We present some base considerations for colour paired with links to useful resources for further exploration.
 
@@ -42,7 +42,7 @@ When creating a map or figure, please choose colour schemes that are colour blin
 
 Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/\~pault/#) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
-![](<../../.gitbook/assets/color_comparison_figure (3).png>)
+![](<../../.gitbook/assets/color\_comparison\_figure (3).png>)
 
 Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.
 
@@ -112,7 +112,7 @@ cities <- st_transform(cities, crs = robin)
 ```
 
 **Example 1: Continuous Data**\
-We will use population information contained in the large cities dataset, which is a continuous variable. The function scale_color_gradient() is used for the continuous data. The hex values were obtained from the brewer.pal function shown in the last section.
+We will use population information contained in the large cities dataset, which is a continuous variable. The function scale\_color\_gradient() is used for the continuous data. The hex values were obtained from the brewer.pal function shown in the last section.
 
 ```
 ggplot(cities) +
@@ -132,7 +132,7 @@ ggplot(cities) +
 ![](<../../.gitbook/assets/unnamed-chunk-8-1 (4).png>)
 
 **Example 2: Categorical Data**\
-We now will use the land dataset and function scale_fill_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
+We now will use the land dataset and function scale\_fill\_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
 
 ```
 ggplot(land) +
