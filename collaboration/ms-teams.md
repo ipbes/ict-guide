@@ -91,8 +91,8 @@ In the library you can upload existing files or create new ones. When you upload
 
 There are two primary ways to upload existing files into your library. Both methods start by going to the files folder for your channel and both methods, by default, upload copies of your files to the channel file folder.
 
-* **Drag and drop** - Using your mouse, drag the file from where it's currently located and drop it on the Teams window among the files. 
-* **Upload** - Select **Upload**,** **then select the file (or files) you'd like to upload, and select **Open**.
+* **Drag and drop** - Using your mouse, drag the file from where it's currently located and drop it on the Teams window among the files.&#x20;
+* **Upload** - Select **Upload**, **** then select the file (or files) you'd like to upload, and select **Open**.
 
 ![Create or upload a new file to your channel's files library](https://support.content.office.net/en-us/media/950207d4-6fca-4c7e-91f9-6cae2575088f.png)
 
@@ -127,8 +127,8 @@ If you want to share with people outside your organization you may have to selec
 ### Set up syncing
 
 1. On the Microsoft 365 app launcher, select SharePoint or Teams, and then select the site with the files you want to sync.
-2.  Select **Documents** or navigate to the subfolder you want to sync.
-3.  Select **Sync**. (You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.)
+2. &#x20;Select **Documents** or navigate to the subfolder you want to sync.
+3. &#x20;Select **Sync**. (You only need to do this once on a computer to set up syncing on that computer. After you set up syncing, the files sync automatically.)
 
 ![](<../.gitbook/assets/image (24) (1).png>)
 

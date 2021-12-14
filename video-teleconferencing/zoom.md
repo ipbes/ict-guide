@@ -29,24 +29,24 @@ If you have any question(s) or need any help, email us at: ipbes.registration@ip
 
 ### D**ownload and install ZOOM app**
 
- **I**f you haven’t used ZOOM before click [here ](https://zoom.us/download)to **download ZOOM prior to the day of the meeting** and familiarize yourself with some of the features you may need to use, i.e. sharing screen, mute/unmute microphone, stop/start video etc.
+&#x20;**I**f you haven’t used ZOOM before click [here ](https://zoom.us/download)to **download ZOOM prior to the day of the meeting** and familiarize yourself with some of the features you may need to use, i.e. sharing screen, mute/unmute microphone, stop/start video etc.
 
 #### ZOOM Client
 
-* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download), then click on the **Download **button under “ZOOM Client For Meetings”.
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download), then click on the **Download** button under “ZOOM Client For Meetings”.
   * This application will automatically download when you join your first ZOOM Meeting.
 * Download and install the ZOOM application onto your computer.
 * Once the download has completed, open the app then enter login credentials and click on Sign in button .
 
 #### ZOOM Mobile app
 
-* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download **button under “ZOOM Mobile Apps”. Or, on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
+* Go to ZOOM download center [https://zoom.us/download](https://zoom.us/download)  then click on the **Download** button under “ZOOM Mobile Apps”. Or, on your mobile device, navigate to the app store compatible with your device: [Google Play store](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) for Android users or [Apple's App Store](https://itunes.apple.com/us/app/id546505307) for iOS users.
 * Download and install
 * Once the download has completed, open the app then enter login credentials and click on Sign in button .
 
 ### Update ZOOM Client
 
-* ZOOM [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the ZOOM desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393) 
+* ZOOM [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the ZOOM desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393)&#x20;
 * Follow the instructions below to update your ZOOM client.
 
 ![](<../.gitbook/assets/image (20).png>)
@@ -55,9 +55,9 @@ If you have any question(s) or need any help, email us at: ipbes.registration@ip
 
 Please ensure your headphone, microphone and video (optional) is working. You can run a test call at [https://zoom.us/test](https://zoom.us/test)****
 
-### **Join early** 
+### **Join early**&#x20;
 
-Please join the meeting at least 15 minutes before the meeting start time if possible to leave time for troubleshooting any unforeseen issues that might arise. 
+Please join the meeting at least 15 minutes before the meeting start time if possible to leave time for troubleshooting any unforeseen issues that might arise.&#x20;
 
 
 
@@ -67,22 +67,22 @@ If you enabled **Upcoming meeting reminder** in the Zoom web portal, this settin
 
 1. Sign in to the Zoom desktop client.
 2. Click your profile picture then click **Settings**.
-3. Click **General** ![general-button.png](https://support.zoom.us/hc/article_attachments/360095342011/general-button.png).
-4. Select **Remind me \__\_ minutes before my upcoming meetings**.
+3. Click **General** ![general-button.png](https://support.zoom.us/hc/article\_attachments/360095342011/general-button.png).
+4. Select **Remind me \_\_\_ minutes before my upcoming meetings**.
 5.  (Optional) If you would like to be reminded of your upcoming meetings earlier, select a different number from the dropdown menu.
 
     A reminder will notify you of the meeting at your selected time. Click or hover over the reminder to start/join the meeting or close the reminder.
 
 ## Scheduling a ZOOM meeting
 
-There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the ZOOM web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting. 
+There are many ways to [schedule a meeting](https://support.zoom.us/hc/en-us/articles/201362413), including the ZOOM web portal, through the Zoom client, or with one of our [extensions or plugins](https://support.zoom.us/hc/en-us/sections/201728973). Here are some basic instructions for scheduling your first meeting.&#x20;
 
 1. Sign in to your ZOOM web portal.
 2. Click **Meetings**.
 3. Click **Schedule a Meeting**.
-4. Choose the date and time for your meeting. 
+4. Choose the date and time for your meeting.&#x20;
 5. (Meeting Options) Select any [other settings](https://support.zoom.us/hc/en-us/articles/201362413) you would like to use. For example:
-   *  **Allow participants to **[**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The_ 'Allow participants to join anytime' _can be found under _Meeting Options._
+   * &#x20;**Allow participants to** [**join before start time**](https://support.zoom.us/hc/en-us/articles/202828525): This option permits participants to join the meeting without you or before you join. The _'Allow participants to join anytime'_ can be found under _Meeting Options._
 6. Click **Save**.
 
 ## Joining a ZOOM meeting
@@ -100,7 +100,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 
 1. Open the Zoom desktop client.
 2. Join a meeting using one of these methods:
-   * Click** Join a Meeting** if you want to join without signing in.\
+   * Click **Join a Meeting** if you want to join without signing in.\
      ![](https://assets.zoom.us/images/en-us/desktop/generic/home/join-meeting-or-sign-in-screen.png)
    * Sign in to Zoom then click **Join.**\
      ![](https://assets.zoom.us/images/en-us/desktop/generic/home/join-button.png)
@@ -121,7 +121,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 4. Click **Join**.
    * If this is your first time joining from Google Chrome, you will be asked to open the Zoom client to join the meeting.
    * You can check **Always open these types of links in the associated app** to skip this step in the future.
-   * Click **Open Zoom Meetings** (PC) or **Open zoom.us **(Mac).\
+   * Click **Open Zoom Meetings** (PC) or **Open zoom.us** (Mac).\
      ![](https://assets.zoom.us/images/en-us/web/misc/chrome-open-zoom.png)
 
 #### Safari
@@ -166,7 +166,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
    * If you're signed in, change your name if you don't want your [default name](https://support.zoom.us/hc/en-us/articles/201363203) to appear.
    * If you're not signed in, enter a display name.
 4. Select if you would like to connect audio and/or video and tap **Join Meeting**.\
-   [![](https://assets.zoom.us/images/en-us/mobile/android/enter-meeting-id-or-personal-link-name.png)](https://support.zoom.us/hc/article_attachments/115017567166/Screenshot\_2017-11-11-19-06-46.png)
+   [![](https://assets.zoom.us/images/en-us/mobile/android/enter-meeting-id-or-personal-link-name.png)](https://support.zoom.us/hc/article\_attachments/115017567166/Screenshot\_2017-11-11-19-06-46.png)
 
 #### iOS
 
@@ -197,9 +197,9 @@ Click the join link in your email or calendar invitation.\
 
 Depending on your default web browser, you may be prompted to open Zoom.![](https://assets.zoom.us/images/en-us/web/misc/safari-launch-zoom.png)
 
-### Join via messaging 
+### Join via messaging&#x20;
 
- If you are online, with the Zoom desktop client or mobile app, others will have the ability to send you a meeting request via instant message. You will receive an incoming message notification displaying who is calling along with a ringtone. Select **Accept** to join the meeting with the person who is calling you.\
+&#x20;If you are online, with the Zoom desktop client or mobile app, others will have the ability to send you a meeting request via instant message. You will receive an incoming message notification displaying who is calling along with a ringtone. Select **Accept** to join the meeting with the person who is calling you.\
 ![](https://assets.zoom.us/images/en-us/desktop/generic/incoming-call-notification.png)
 
 ## Meeting controls (navigation)
@@ -208,28 +208,28 @@ Depending on your default web browser, you may be prompted to open Zoom.![](http
 
 Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the ZOOM window. You can perform the following actions from the menu bar:
 
-1. **Join Audio **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/outline/join-audio-button.png)** **or** Unmute **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-on-button.png)** / Mute **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-off-button.png): This allows you to connect to the meeting's audio, then once connected, mute or unmute your microphone.
-   * Audio controls (click **^ **next to **Mute**/**Unmute**): The audio controls allow you to change the microphone and speaker that Zoom is currently using on your computer, leave computer audio, and access the full audio options in the Zoom settings.
-2. **Start Video **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-off-button.png) / **Stop** **Video **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-on-button.png): This allows you to start or stop your own video.
+1. **Join Audio** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/outline/join-audio-button.png) **** or **Unmute** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-on-button.png) **/ Mute** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/audio-off-button.png): This allows you to connect to the meeting's audio, then once connected, mute or unmute your microphone.
+   * Audio controls (click **^** next to **Mute**/**Unmute**): The audio controls allow you to change the microphone and speaker that Zoom is currently using on your computer, leave computer audio, and access the full audio options in the Zoom settings.
+2. **Start Video** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-off-button.png) / **Stop** **Video** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/video-on-button.png): This allows you to start or stop your own video.
    * Video controls (click **^** next to **Start**/**Stop Video**): If you have multiple cameras on your computer, you can select which Zoom is using, access the full video controls, and select a Virtual Background.
-3. **Participants **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/participants-or-channel-button.png): Opens the window to [manage participants](https://support.zoom.us/hc/en-us/articles/115005759423), view [aggregate nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and [invite others to join the meeting](https://support.zoom.us/hc/en-us/articles/201362183).
-4. **Chat **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/chat-button.png)** **: Access the chat window to [chat with the participants](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat). You can send a private message to an individual user, or you can send a message to an entire group
-5. **Share Screen **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png): Start [sharing your screen](https://support.zoom.us/hc/en-us/articles/201362153). You will be able to select the desktop or application you want to share. When you are screen sharing, the controls will appear at the top of your screen, but you can drag it to another location. 
-   * Share Screen controls (click **^** next to **Share Screen **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png)): Select who can share in your meeting and if you want only the host or any participant to be able to start a new share when someone is sharing.\
+3. **Participants** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/participants-or-channel-button.png): Opens the window to [manage participants](https://support.zoom.us/hc/en-us/articles/115005759423), view [aggregate nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and [invite others to join the meeting](https://support.zoom.us/hc/en-us/articles/201362183).
+4. **Chat** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/chat-button.png) **** : Access the chat window to [chat with the participants](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat). You can send a private message to an individual user, or you can send a message to an entire group
+5. **Share Screen** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png): Start [sharing your screen](https://support.zoom.us/hc/en-us/articles/201362153). You will be able to select the desktop or application you want to share. When you are screen sharing, the controls will appear at the top of your screen, but you can drag it to another location.&#x20;
+   * Share Screen controls (click **^** next to **Share Screen** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/share-screen-button-green.png)): Select who can share in your meeting and if you want only the host or any participant to be able to start a new share when someone is sharing.\
      ![](https://assets.zoom.us/images/en-us/desktop/generic/advanced-sharing-options.png)
-6. **Reactions**![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/reactions-button.png):  Meeting reactions, [nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and Raise Hand allow you to communicate issues or feedback to the host or presenter without disrupting the meeting. These reactions are shown on your video panel and next to your name on the participants panel. 
-7. **Breakout Rooms **![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/breakout-rooms-button.png)** **: Start [breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms).
+6. **Reactions**![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/reactions-button.png):  Meeting reactions, [nonverbal feedback](https://support.zoom.us/hc/en-us/articles/115001286183), and Raise Hand allow you to communicate issues or feedback to the host or presenter without disrupting the meeting. These reactions are shown on your video panel and next to your name on the participants panel.&#x20;
+7. **Breakout Rooms** ![](https://assets.zoom.us/generic-images/common-buttons-and-icons/filled/breakout-rooms-button.png) **** : Start [breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms).
 8. **End** (only available to the host): Display the following two options.
-   * **End Meeting for All**: End the meeting for yourself and all participants. 
+   * **End Meeting for All**: End the meeting for yourself and all participants.&#x20;
    * **Leave Meeting**: Leave the meeting. You will be prompted to assign a host so that the meeting can continue.
 
 ## Participating in a ZOOM meeting
 
-### Interpretation <a href="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82" id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
+### Interpretation <a href="#h_6802bbbc-2ec9-47cb-a04c-6aac35914d82" id="h_6802bbbc-2ec9-47cb-a04c-6aac35914d82"></a>
 
 {% hint style="danger" %}
-* Interpretation is only available when using the latest version of the ZOOM Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)** before the meeting.**
-* You **must **join the meeting audio through your computer audio/VoIP. You **cannot **listen to language interpretation if you use the [dial-in](https://support.zoom.us/hc/en-us/articles/201362663) or [call me](https://support.zoom.us/hc/en-us/articles/200942859) phone audio features.
+* Interpretation is only available when using the latest version of the ZOOM Client. Please [**upgrade Zoom client**](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version) **before the meeting.**
+* You **must** join the meeting audio through your computer audio/VoIP. You **cannot** listen to language interpretation if you use the [dial-in](https://support.zoom.us/hc/en-us/articles/201362663) or [call me](https://support.zoom.us/hc/en-us/articles/200942859) phone audio features.
 {% endhint %}
 
 1. In your meeting/webinar controls, click **Interpretation**. \
@@ -293,30 +293,30 @@ If your ZOOM display name is not correct you may not be admitted to a meeting. T
 
 1. From inside of the ZOOM room click on the "Participants" icon at the bottom of the window (as shown below).
 
-![Zoom\_004.PNG](https://support.palcs.org/hc/article_attachments/360093495253/Zoom\_004.PNG)
+![Zoom\_004.PNG](https://support.palcs.org/hc/article\_attachments/360093495253/Zoom\_004.PNG)
 
 2\. A Participants bar will appear on the right side of the screen. Hover over your name and a "More >" button will appear.
 
-![Zoom\_005.PNG](https://support.palcs.org/hc/article_attachments/360091339754/Zoom\_005.PNG)
+![Zoom\_005.PNG](https://support.palcs.org/hc/article\_attachments/360091339754/Zoom\_005.PNG)
 
 3\. Click on the "Rename" button that will appear after you click on the "More >" button.
 
-![mceclip0.png](https://support.palcs.org/hc/article_attachments/360091339794/mceclip0.png)
+![mceclip0.png](https://support.palcs.org/hc/article\_attachments/360091339794/mceclip0.png)
 
 4\. Enter your new name in the "New Screen Name" field and be sure to have the "Remember my name for future meetings" checked.
 
-![Zoom\_007.PNG](https://support.palcs.org/hc/article_attachments/360093495673/Zoom\_007.PNG)
+![Zoom\_007.PNG](https://support.palcs.org/hc/article\_attachments/360093495673/Zoom\_007.PNG)
 
 5\. After clicking the blue "OK" button, your new name will appear.
 
-![Zoom\_008.PNG](https://support.palcs.org/hc/article_attachments/360091339954/Zoom\_008.PNG)
+![Zoom\_008.PNG](https://support.palcs.org/hc/article\_attachments/360091339954/Zoom\_008.PNG)
 
-If you need to change your Zoom display name before entering a room, you can do so through the ZOOM app installed on your desktop. 
+If you need to change your Zoom display name before entering a room, you can do so through the ZOOM app installed on your desktop.&#x20;
 
 1. Open the desktop app.
 2. Click on "Join a meeting" option
-3. A window will open up where you can manually join a meeting (instead of clicking a link). 
-4. Enter the ZOOM room number/name if you know it and enter in the display name that you'd like. 
+3. A window will open up where you can manually join a meeting (instead of clicking a link).&#x20;
+4. Enter the ZOOM room number/name if you know it and enter in the display name that you'd like.&#x20;
 5. Once you join a room with that display name (and you have the "Remember my name" turned on you should have the new display name for all ZOOM rooms that you join.
 
 ### Sharing content
@@ -376,7 +376,7 @@ If you need to change your Zoom display name before entering a room, you can do 
 ### **Meeting organiser/presenter shortcuts**
 
 * **Ctrl+Alt+Shift**: Move focus to ZOOM's meeting controls
-* **Ctrl**+**2**: Read active speaker name 
+* **Ctrl**+**2**: Read active speaker name&#x20;
 * **Alt**: Turn on/off the option “Always show meeting control toolbar” in Accessibility Settings
 * **Alt**+**M**: Mute/unmute everyone except host Note: For the meeting host only
 * **Alt**+**S**: Launch share screen window and stop screen share Note: Will only work when meeting control toolbar has focus

@@ -1,23 +1,23 @@
 # Microsoft SharePoint
 
-## **Introduction **
+## **Introduction**&#x20;
 
 ### **What is SharePoint Online?**
 
 A cloud-based service, hosted by Microsoft, for businesses of all sizes. You can use it as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Internet Explorer, Chrome, or Firefox.
 
-For more information, visit [UN Office 365 Learning Center](https://unitednations.sharepoint.com/sites/unhq_learning_office365/SitePages/What-is-SharePoint-Online.aspx?web=1).
+For more information, visit [UN Office 365 Learning Center](https://unitednations.sharepoint.com/sites/unhq\_learning\_office365/SitePages/What-is-SharePoint-Online.aspx?web=1).
 
-### ** Advantage of saving files to SharePoint Online site**
+### &#x20;**Advantage of saving files to SharePoint Online site**
 
 * You can access the documents and information from anywhere and any device
 * Ability to sync documents to your computer and work offline
 * The information is protected against data loss by Microsoft
 * You can securely share, collaborate and co-author documents
 
-### ** Difference between OneDrive for Business and SharePoint Online Site**
+### &#x20;**Difference between OneDrive for Business and SharePoint Online Site**
 
-The main difference: OneDrive is your personal drive vs SharePoint Online Site is a department content space. The good news - both applications function very similar when it comes to document management. 
+The main difference: OneDrive is your personal drive vs SharePoint Online Site is a department content space. The good news - both applications function very similar when it comes to document management.&#x20;
 
 ## How-To?
 
@@ -34,7 +34,7 @@ You can access your files through the Office web portal, [http://portal.office.c
 
 You can download and use the SharePoint mobile apps to connect to your SharePoint Online site, rather than your browser. For more information, see [Set up your mobile apps for SharePoint](https://support.office.com/en-us/article/set-up-your-mobile-apps-for-sharepoint-539608ac-4725-455e-aea0-9ca1f769849f) and [for OneDrive](https://support.office.com/en-us/article/for-onedrive-c45e3f90-14af-4cfa-97f2-137f74d4304e).
 
-### **How to upload a file **
+### **How to upload a file**&#x20;
 
 You can upload files to a document library in SharePoint Online by just dragging them from your computer and dropping them into the document library. With most browsers, you can also upload folders and the files they contain.
 

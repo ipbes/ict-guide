@@ -16,20 +16,20 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 * Click on MyAccount
 * Click on "Account" to expand section
 
-![Account section on www.ipbes.net](../.gitbook/assets/ipbes_account_section.jpg)
+![Account section on www.ipbes.net](../.gitbook/assets/ipbes\_account\_section.jpg)
 
 * Scroll to the bottom of the page
 * Check the box to subscribe
 * Save changes
 
-![](../.gitbook/assets/mailchimp_check-subscription.jpg)
+![](../.gitbook/assets/mailchimp\_check-subscription.jpg)
 
 ## Unsubscribe
 
 ### Unsubscribe from the website
 
 * Follow the steps detailed in the subscribe section above to get to the Account section
-* Uncheck the **Subscribe **box to unubscribe
+* Uncheck the **Subscribe** box to unubscribe
 * Save changes
 
 ### Unsubscribe from email
@@ -37,4 +37,4 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 * Open one of the notification emails received from the IPBES secretariat
 * Click on "unsubscribe" at the bottom of the email
 
-![Unsubscribe from IPBES notifications](../.gitbook/assets/mailchimp_unsubscribe.jpg)
+![Unsubscribe from IPBES notifications](../.gitbook/assets/mailchimp\_unsubscribe.jpg)

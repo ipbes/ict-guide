@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-_For any inquires please contact _[_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
 Version: 1.0\
 Last Updated: February 4th 2021
@@ -144,9 +144,9 @@ RColorBrewer::display.brewer.all(colorblindFriendly = T)
 
 Additionally, to display no data we recommend using the color grey (BBBBBB; RGB:187, 187, 187).
 
-Rainbow color schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020](https://doi.org/10.1038/s41467-020-19160-7) covers in more detail the current problems involving the use of color in science communication. An example of this is presented in the figure below (Figure 2) taken from [this article](https://personal.sron.nl/\~pault/#good_amd_bad_colour_schemes_compared) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
+Rainbow color schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020](https://doi.org/10.1038/s41467-020-19160-7) covers in more detail the current problems involving the use of color in science communication. An example of this is presented in the figure below (Figure 2) taken from [this article](https://personal.sron.nl/\~pault/#good\_amd\_bad\_colour\_schemes\_compared) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
-![Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.](<../../.gitbook/assets/color_comparison_figure (2).png>)
+![Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.](<../../.gitbook/assets/color\_comparison\_figure (2).png>)
 
 [This article](https://personal.sron.nl/\~pault/) by Paul Tol provides extensive color palettes to choose from that are color blind friendly and for qualitative, diverging, and sequential data. The high contrast color scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout.
 
@@ -186,4 +186,4 @@ Here we also include some popular resources for global scale spatial data:
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-_The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL >3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information _[_here_](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)__
+_The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL >3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information_ [_here_](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)__

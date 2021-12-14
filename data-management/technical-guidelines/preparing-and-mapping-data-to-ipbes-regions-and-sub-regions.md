@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-_For any inquires please contact _[_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
 Version: 2.1\
 Last Updated: February 1st 2021
@@ -31,7 +31,7 @@ library(graticule) # for mapping
 
 ### _A. Downloading FAO data_
 
-The first step is to download the FAO data using the FAOSTAT package. The url can be found in FAO STAT’s data description file [here.](http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.xml)
+The first step is to download the FAO data using the FAOSTAT package. The url can be found in FAO STAT’s data description file [here.](http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets\_E.xml)
 
 ```
 FAOSTAT::download_faostat_bulk("http://fenixservices.fao.org/faostat/static/bulkdownloads/Population_E_All_Data_(Normalized).zip", getwd())
@@ -63,7 +63,7 @@ Now, we can inspect the contents downloaded with the function content()
 View(content(record)) # view displays the output in a human readable form within R Studio
 ```
 
-![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](<../../.gitbook/assets/view_content_zendodo_record (2).png>)
+![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](<../../.gitbook/assets/view\_content\_zendodo\_record (2).png>)
 
 This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET() to download the shapefile.
 
@@ -217,7 +217,7 @@ pop_2018 <- dplyr::left_join(x = pop_2018, y = regions, by = "ISO3_CODE") %>% # 
  tidyr::drop_na() # conveenient function from tidyr package 
 ```
 
-Secondly, we aggregate the data per IPBES regions and sub-regions. In our example, I calculate the total population per region and per sub-region using the group_by() function.
+Secondly, we aggregate the data per IPBES regions and sub-regions. In our example, I calculate the total population per region and per sub-region using the group\_by() function.
 
 ```
 pop_2018 <- pop_2018 %>% 

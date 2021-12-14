@@ -140,25 +140,25 @@ This feature is not available in one-on-one calls.
 
 ![Button to raise your hand](https://support.content.office.net/en-us/media/79eccc99-5ee0-4714-bd01-cf217fb92f34.png)
 
-All meeting participants in the meeting will see that you've got your hand up. 
+All meeting participants in the meeting will see that you've got your hand up.&#x20;
 
 ![Raised hand notification](https://support.content.office.net/en-us/media/56bcc9ed-4e7e-4001-9391-2bf3e0e6e9d1.jpg)
 
-The meeting presenters will receive a notification that your hand is raised, and they can lower your hand once you've had a chance to talk. 
+The meeting presenters will receive a notification that your hand is raised, and they can lower your hand once you've had a chance to talk.&#x20;
 
-Select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png)  to see a list of everyone in attendance. Anyone who's raised their hand will have an icon next to their name. When multiple people raise their hands, they'll be listed in the order in which they raised them. 
+Select **Show participants** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png)  to see a list of everyone in attendance. Anyone who's raised their hand will have an icon next to their name. When multiple people raise their hands, they'll be listed in the order in which they raised them.&#x20;
 
 ## **Take notes during a meeting**
 
-Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting. 
+Meeting notes are a great place to capture and share notes before, during, and after a Teams meeting.&#x20;
 
 ### During the meeting
 
-1.  Go to **More options** ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) > **Show meeting notes** ![Meeting notes button](https://support.content.office.net/en-us/media/44a1a0a7-dee2-42e6-9a98-84bee3502f3f.png) in the meeting controls section. If you have not taken any notes yet, select **Start taking meeting notes**.
-2.  Otherwise, start typing your notes. Use the controls at the top of the panel to format and lay out the text. To add a new note, select **Add a new section here.** Use @mentions to draw someone's attention to a specific note or assign an action item.
+1. &#x20;Go to **More options** ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) > **Show meeting notes** ![Meeting notes button](https://support.content.office.net/en-us/media/44a1a0a7-dee2-42e6-9a98-84bee3502f3f.png) in the meeting controls section. If you have not taken any notes yet, select **Start taking meeting notes**.
+2. &#x20;Otherwise, start typing your notes. Use the controls at the top of the panel to format and lay out the text. To add a new note, select **Add a new section here.** Use @mentions to draw someone's attention to a specific note or assign an action item.
 
 {% hint style="info" %}
-When you first add a note, a notification will be sent on your behalf in the meeting chat. 
+When you first add a note, a notification will be sent on your behalf in the meeting chat.&#x20;
 
 In a recurring meeting, the notes persist from meeting to meeting. Each meeting becomes a new section in the notes.
 {% endhint %}
@@ -179,11 +179,11 @@ If you want to avoid embarrassing moments during video calls, don't forget to bl
 
 1.Press the **Join** button
 
-![](../.gitbook/assets/ms_teams_blur.jpg)
+![](../.gitbook/assets/ms\_teams\_blur.jpg)
 
 * Enable video, toggle the middle slider option to activate background blur and then click on **Join now**.
 
-![](<../.gitbook/assets/ms_teams_blur\_2 (1).jpg>)
+![](<../.gitbook/assets/ms\_teams\_blur\_2 (1).jpg>)
 
 To blur the video after joining the meeting:
 
@@ -191,11 +191,11 @@ To blur the video after joining the meeting:
 2. Click the **Blur my background** option.
 3. You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
 
-![Disabling background blur after call has started](../.gitbook/assets/ms_teams_blur\_3.jpg)
+![Disabling background blur after call has started](../.gitbook/assets/ms\_teams\_blur\_3.jpg)
 
 ## Set a custom background image
 
-You can create your own images, upload them to Teams, and then select them as a background image for your video chats. To do so: 
+You can create your own images, upload them to Teams, and then select them as a background image for your video chats. To do so:&#x20;
 
 1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\\**Uploads**
 
@@ -206,12 +206,12 @@ You can create your own images, upload them to Teams, and then select them as a 
 ![](<../.gitbook/assets/image (6).png>)
 
 {% hint style="warning" %}
-Images resolution should be **1920×1080. **Only .**JPG and .PNG** image files are allowed. 
+Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed.&#x20;
 {% endhint %}
 
 3\. On your Teams app, at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
 
-4\.  Select **More actions** > **Show background effects**. Select your background, or choose from the available images to replace it. 
+4\.  Select **More actions** > **Show background effects**. Select your background, or choose from the available images to replace it.&#x20;
 
 {% hint style="info" %}
 Note that the update background is per meeting only. You will need to update a new background for each meeting.

@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-_For any inquires please contact _[_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
 Version: 2.0\
 Last Updated: February 9th 2021
@@ -123,7 +123,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 
 ![](<../../.gitbook/assets/unnamed-chunk-9-1 (2).png>)
 
-If there are polygons that cross the date line, it is possible that some erroneous polygons may appear. If this occurs, the solution is to run the function st_wrap_dateline() before projecting.
+If there are polygons that cross the date line, it is possible that some erroneous polygons may appear. If this occurs, the solution is to run the function st\_wrap\_dateline() before projecting.
 
 ## III. Combine Vector and Raster
 
