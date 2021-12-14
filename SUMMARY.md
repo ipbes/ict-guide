@@ -18,7 +18,7 @@
   * [Part 3 - Cartographic Guidelines](data-management/technical-guidelines/cartographic-guidelines.md)
   * [Part 4 - Guidelines for Colour](data-management/technical-guidelines/guidelines-for-colour.md)
   * [Part 5 - File formats](data-management/technical-guidelines/file-formats.md)
-  * [Part 6 - How to upload to and download from Zenodo](data-management/technical-guidelines/Zenodo.md)
+  * [Part 6 - How to Upload to and Download from Zenodo](data-management/technical-guidelines/Zenodo.md)
 
 ## Repositories
 
