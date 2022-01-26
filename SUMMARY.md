@@ -19,6 +19,7 @@
   * [Part 4 - Guidelines for Colour](data-management/technical-guidelines/guidelines-for-colour.md)
   * [Part 5 - File formats](data-management/technical-guidelines/file-formats.md)
   * [Part 6 - How to Upload to and Download from Zenodo](data-management/technical-guidelines/Zenodo.md)
+  * [Part 7 - How to Cite IPBES Assessment Reports](data-management/technical-guidelines/suggested-citations.md)
 
 ## Repositories
 
