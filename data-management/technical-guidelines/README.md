@@ -8,6 +8,7 @@ These technical guidelines on data management, handling, and delivery have been 
 4. [Guidelines for Colour](https://ict.ipbes.net/geoinformation/technical-guidelines/guidelines-for-colour)
 5. [File Formats](https://ict.ipbes.net/data-management/technical-guidelines/file-formats)
 6. [How to Upload to and Download from Zenodo](https://ict.ipbes.net/data-management/technical-guidelines/Zenodo)
+7. [How to Cite IPBES Assessment Reports](suggested-citations.md)
 
 If interested, all source files are available on my [GitHub](https://github.com/jkumagai96/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact tsu.data@ipbes.net
 
