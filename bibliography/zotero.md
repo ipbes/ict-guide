@@ -42,9 +42,7 @@ Zotero uses Citation Style Language (CSL) to properly format citations in many d
 
 1. In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
 
-## Reporting style errors
 
-If the IPBES citation style.csl style doesn’t give the expected output, first make sure that you are running the latest (stable) version of Zotero, and have the most recent version of the style installed from the [IPBES Bibliography Style Repository](https://gist.github.com/ipbes/e0cbd8aacb25bf1fb2153e04daba0327/archive/371ca8ec849a578469df03e4b920c14d62a0d5f9.zip). Once you have made sure that the style deviates from the style guide, instructions for authors, or published examples, report the error by raising a ticket
 
 ## Moving Documents with Zotero Citations Between Word Processors
 
