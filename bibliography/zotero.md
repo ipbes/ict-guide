@@ -38,11 +38,9 @@ Items can be[ added manually](https://www.zotero.org/support/getting\_stuff\_int
 
 ## Citing
 
-Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted a style which can be downloaded here. To use this style
+Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:&#x20;
 
-1. Download the style here: [https://gist.github.com/ipbes/e0cbd8aacb25bf1fb2153e04daba0327/archive/371ca8ec849a578469df03e4b920c14d62a0d5f9.zip](https://gist.github.com/ipbes/e0cbd8aacb25bf1fb2153e04daba0327/archive/371ca8ec849a578469df03e4b920c14d62a0d5f9.zip)
-2. Unzip the package
-3. In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click the '+' button, then find the “IPBES citation style.csl” style file on your computer.&#x20;
+1. In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
 
 ## Reporting style errors
 
