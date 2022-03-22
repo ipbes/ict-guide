@@ -13,17 +13,25 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 ## Sign in to Teams
 
+{% hint style="info" %}
+Microsoft Teams doesn’t currently support signing in with multiple accounts. The app supports only a single signed-in account.&#x20;
+{% endhint %}
+
 ### How to sign in to teams
 
 1. Start Teams
-   1. In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) > **Microsoft Teams**.
+   1. In Windows, click **Start.** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) > **Microsoft Teams**.
    2. On Mac, go to the **Applications** folder and click **Microsoft Teams**.
    3. On mobile, tap the **Teams** icon.
 2. Sign in with your Office 365 username and password.
 
 #### How to use a link to join a team
 
-1. Click on the link sent to you or go to a web browser and paste the link.
+Once you are invited to join a team you will receive an email notification. To either accept or decline please click on the invite then you will be redirected to the team’s configuration page in the Teams tab. Click **Accept** or **Decline**
+
+If you want to **leave a team**, hover over the team in the teams list and click **Leave** to the right.&#x20;
+
+Note that a team owner can leave the team only if another team member has ownership rights.
 
 #### How to use a code to join a team
 
@@ -147,7 +155,7 @@ Below are steps to follow to change the folders that sync for the site, or to st
 ![cloud icon](<../.gitbook/assets/image (12).png>)
 
 {% hint style="warning" %}
-(You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.)
+(You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start.**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.)
 {% endhint %}
 
 2\.  Select **More** > **Settings**.
