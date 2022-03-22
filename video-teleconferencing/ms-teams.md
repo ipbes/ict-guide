@@ -1,9 +1,5 @@
 # MS Teams meetings and calls
 
-{% hint style="warning" %}
-**Note:** To avoid frustrations use MS Teams for meetings and calls within the secretariat (users with @ipbes.net or @un.org accounts). It is recommended to use Zoom or GoTo Meeting for external meetings.
-{% endhint %}
-
 ## Introduction
 
 Cloud-based meeting recording, support for larger meetings of up to 250 participants; **teams** meetings, which provides the ability to host meetings across multiple organisations. Meetings in Teams include audio, video, and sharing.
@@ -169,50 +165,39 @@ To access notes from a channel meeting, go to the channel where the meeting occu
 
 ![](<../.gitbook/assets/image (10).png>)
 
-The meeting notes open in a Wiki tab that you can read or add to. Edit and format the tab just like you would any other Wiki tab
+The meeting notes are open in a Wiki tab that you can read or add to. Edit and format the tab just like you would any other Wiki tab
 
 ![](<../.gitbook/assets/image (11).png>)
 
-## Blur your background in a Teams meeting
+## &#x20;**How to use custom backgrounds on Microsoft Teams**&#x20;
 
-If you want to avoid embarrassing moments during video calls, don't forget to blur your background or replace it entirely.
+Following a recent update, Microsoft Teams made it much easier to add custom backgrounds. Here's how to use your own images for backgrounds within Teams.&#x20;
 
-1.Press the **Join** button
+1\. Within a video call, select the **More actions** button (three dots).&#x20;
 
-![](../.gitbook/assets/ms\_teams\_blur.jpg)
+2\. Select **Show background effects**.&#x20;
 
-* Enable video, toggle the middle slider option to activate background blur and then click on **Join now**.
+![Source: Windows central ](../.gitbook/assets/microsoft-teams-custom-backgrounds.webp)
 
-![](<../.gitbook/assets/ms\_teams\_blur\_2 (1).jpg>)
+3\. Select Add **new**.&#x20;
 
-To blur the video after joining the meeting:
+4\. Select the **image** you'd like to use as a background.&#x20;
 
-1. Click the **…** dots button to open a menu as in the snapshot directly below
-2. Click the **Blur my background** option.
-3. You can remove the blurred background effect by clicking the **…** button and selecting the **Don’t blur background** option.
+5\. Select **Open**.&#x20;
 
-![Disabling background blur after call has started](../.gitbook/assets/ms\_teams\_blur\_3.jpg)
+The image is now available to use as a custom background. We break down the steps on how to set a background below.&#x20;
 
-## Set a custom background image
+**How to set a custom background in Microsoft Teams**
 
-You can create your own images, upload them to Teams, and then select them as a background image for your video chats. To do so:&#x20;
+Whether you're setting a background from an image you've uploaded or one of the images that are built into Microsoft Teams, the process is the same.&#x20;
 
-1. Copy the the following link and paste in the bottom left search option on your windows computer: %APPDATA%\Microsoft\Teams\Backgrounds\\**Uploads**
+1\. Within a video call, select the **More actions** button (three dots).&#x20;
 
-![](<../.gitbook/assets/image (8).png>)
+2\. Select Show background effects.&#x20;
 
-2\. Upload the image(s) you want to use to the uploads folder:
+3\. Scroll down and select the **image you've uploaded**.&#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+4\. Select **Preview** to preview how your background will look (optional).&#x20;
 
-{% hint style="warning" %}
-Images resolution should be **1920×1080.** Only .**JPG and .PNG** image files are allowed.&#x20;
-{% endhint %}
+5\. Select **Apply** or **Apply and turn on video** if your webcam is currently off.&#x20;
 
-3\. On your Teams app, at the bottom of the screen, click or tap the three dots to go to your **Meeting controls**.
-
-4\.  Select **More actions** > **Show background effects**. Select your background, or choose from the available images to replace it.&#x20;
-
-{% hint style="info" %}
-Note that the update background is per meeting only. You will need to update a new background for each meeting.
-{% endhint %}
