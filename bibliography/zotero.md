@@ -77,6 +77,19 @@ For more information please refer to [https://www.zotero.org/support/kb/moving\_
 2. Experts are strongly encouraged to import references into Zotero using the Zotero web tool or by importing .ris and .bib files. Dragging of PDF files is discourgaged
 3. File sharing through Zotero is possible. Preference should be on grey literature. DOI of other files will suffice.
 
+### Workflow to delete unused references
+
+Please use this workflow when the assessment has been approved and there will be no further changes to the references included in the text.&#x20;
+
+1. In the Zotero chapter library, select one entry that was used in the chapter and create a tag named "used"
+2. The bottom left of your screen shows all the tags in your library. Right click on the "used" tag you just created. Click "Assign color". A pop up window will appear, ensure that the position is selected as 1 and press "Set Color"
+3. Now, go to this website: [https://rintze.zelle.me/ref-extractor/](https://rintze.zelle.me/ref-extractor/). Select "Choose File" and navigate to the chapter file, and click open
+4. Next, under the results section, press the "Select in Zotero button". Here you will see in which libraries the references are located. Select the chapter library which contains the references
+5. Click "open Zotero" in the pop up window. Zotero should now open with all the citations used selected
+6. Press 1. Now all used citations used in the chapter document are tagged
+7. Simply go through all the entries not tagged and delete them from the library. You will be left with only the tagged references that were used in the document\
+
+
 ## Contact
 
 Please contact the assessment technical support unit if you have questions regarding getting files into the assessment/chapter library, organizing the assessment/chapter Library and taking notes, generating bibliographies,citations, and reports.
