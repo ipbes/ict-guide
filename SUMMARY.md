@@ -56,5 +56,6 @@
 * [Microsoft Teams](collaboration/ms-teams.md)
 * [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
 * [OneDrive for Business](collaboration/onedrive-for-business.md)
+* [Google Groups](collaboration/google-groups.md)
 * [Confluence](collaboration/confluence.md)
 * [Microsoft FindTime](collaboration/microsoft-findtime.md)
