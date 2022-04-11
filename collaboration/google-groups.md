@@ -4,10 +4,10 @@ description: For email & distribution lists, sharing, configuring settings, and 
 
 # Google Groups
 
-### Important link:&#x20;
+#### Important links:&#x20;
 
 {% embed url="https://support.google.com/a/answer/9400082#adminconsole" %}
-_Source: Google workspace learning centre_
+_Source: Google workspace learning center_
 {% endembed %}
 
 ## What is Google Groups?
