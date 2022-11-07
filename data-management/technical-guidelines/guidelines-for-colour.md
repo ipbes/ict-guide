@@ -8,12 +8,12 @@ description: Technical Guideline Series
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
 ****_For any inquires please contact_ [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-Version: 1.0\
-Last Updated: May 13th 2021
+Version: 1.1\
+Last Updated: 15 July 2022
 
-DOI: [10.5281/zenodo.4756596](https://doi.org/10.5281/zenodo.4756596)
+DOI: [10.5281/zenodo.6838820](https://doi.org/10.5281/zenodo.6838820)
 
-This technical guidelines focuses on recommendations for the use of colour in maps and can be applied to other visualisations. We present some base considerations for colour paired with links to useful resources for further exploration.
+This technical guidelines focuses on recommendations for the use of colour in maps and can be applied to other visualisations. We present some base considerations for colour paired with links to useful resources for further exploration to be used by all IPBES experts creating figures and maps.
 
 Begin by loading the following packages:
 
@@ -40,7 +40,7 @@ When creating a map or figure, please choose colour schemes that are colour blin
 
 ### _C. No rainbow colour palettes_
 
-Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/\~pault/#) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
+Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/\~pault/) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
 ![](<../../.gitbook/assets/color\_comparison\_figure (3).png>)
 
@@ -58,7 +58,7 @@ To display all of the prepared palettes within the RColorBrewer package run this
 RColorBrewer::display.brewer.all()
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-3-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-3-1 (1).png>)
 
 To display all of the colourblind friendly palettes run this:
 
@@ -74,7 +74,7 @@ If you would like to visualise a specific palette, specify the number of colours
 RColorBrewer::display.brewer.pal(n = 5, name = 'YlOrRd')
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-5-1 (9).png>)
+![](<../../.gitbook/assets/unnamed-chunk-5-1 (3).png>)
 
 [This article](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) provides a great overview on how to use the RColorBrewer package with these palettes integrated with ggplot with examples.
 
@@ -129,7 +129,7 @@ ggplot(cities) +
         panel.grid.major = element_line(color = "grey80")) # controls the grid line colour 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-8-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-8-1 (3).png>)
 
 **Example 2: Categorical Data**\
 We now will use the land dataset and function scale\_fill\_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
@@ -145,7 +145,7 @@ ggplot(land) +
         panel.grid.major = element_line(color = "grey80")) 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-9-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-9-1 (1).png>)
 
 ## III. Suggestions
 
@@ -158,7 +158,7 @@ ggplot(land) +
 ## IV. Additional Resources
 
 * R Colour Sheet: [https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
-* Useful tool to assist in picking palettes and colours: [https://colorbrewer2.org/](https://colorbrewer2.org)
+* Useful tool to assist in picking palettes and colours: [https://colorbrewer2.org/](https://colorbrewer2.org/)
 * Tool to visualise colours as someone with different types of colour blindness: [https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
 * colourBlindness Package guide: [https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
 

@@ -144,7 +144,7 @@ If you want to share with people outside your organization you may have to selec
 
 The files then sync to a folder on your PC that has the organization (United Nations). This folder is automatically added to the left pane in File Explorer. You can’t select to sync to a different location.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 ### Change sync settings
 
@@ -152,7 +152,7 @@ Below are steps to follow to change the folders that sync for the site, or to st
 
 1. Select the blue OneDrive cloud icon in the Windows taskbar notification area.
 
-![cloud icon](<../.gitbook/assets/image (12).png>)
+![cloud icon](<../.gitbook/assets/image (11).png>)
 
 {% hint style="warning" %}
 (You may need to select the **Show hidden icons** arrow ![The Show hidden icons button.](https://support.content.office.net/en-us/media/81f646e6-c487-46b4-8c6b-c50e62ef23fd.png) next to the notification area for the **OneDrive** icon to appear. If the icon doesn't appear in the notification area, OneDrive might not be running. Select **Start.**, enter **OneDrive** in the search box, and then select **OneDrive** in the search results.)
@@ -160,11 +160,11 @@ Below are steps to follow to change the folders that sync for the site, or to st
 
 2\.  Select **More** > **Settings**.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 3\.  To see a list of all your syncing sites, select the **Account** tab.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 4\.  To change the folders that you're syncing, select **Choose folders** for that library, and then select the folders that you want to sync. To stop syncing a site, select **Stop sync** next to the site. (Copies of the files remain on your computer. You can delete them if you want.)
 

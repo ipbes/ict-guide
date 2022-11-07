@@ -10,7 +10,7 @@ You can launch an instant meeting with a colleague using the Meet Now service of
 
 1. Click on the Meet Now icon from a channel or conversation.
 
-![Meet Now icon](<../.gitbook/assets/image (9).png>)
+![Meet Now icon](<../.gitbook/assets/image (9) (1).png>)
 
 1. In your video preview, enter a name for the meeting, and select Meet Now
 2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.
@@ -163,11 +163,11 @@ In a recurring meeting, the notes persist from meeting to meeting. Each meeting 
 
 To access notes from a channel meeting, go to the channel where the meeting occurred and find the meeting. Beneath it, select **Show notes in fullscreen**.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 The meeting notes are open in a Wiki tab that you can read or add to. Edit and format the tab just like you would any other Wiki tab
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 ## &#x20;**How to use custom backgrounds on Microsoft Teams**&#x20;
 

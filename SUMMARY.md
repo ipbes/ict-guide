@@ -12,7 +12,7 @@
 
 * [Data and Knowledge Management Policy](data-management/data-management-policy.md)
 * [Data Management Tutorials](data-management/data-management-tutorials.md)
-* [Technical Guidelines](data-management/technical-guidelines/README.md)
+* [Technical Guideline Series](data-management/technical-guidelines/README.md)
   * [Part 1 - Conversion to the Robinson Projection](data-management/technical-guidelines/conversion-to-the-robinson-projection.md)
   * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](data-management/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
   * [Part 3 - Cartographic Guidelines](data-management/technical-guidelines/cartographic-guidelines.md)
@@ -20,6 +20,10 @@
   * [Part 5 - File formats](data-management/technical-guidelines/file-formats.md)
   * [Part 6 - How to Upload to and Download from Zenodo](data-management/technical-guidelines/Zenodo.md)
   * [Part 7 - How to Cite IPBES Assessment Reports](data-management/technical-guidelines/suggested-citations.md)
+  * [Part 8 - Guidelines for the delivery of figures](data-management/technical-guidelines/figures.md)
+  * [Part 9 - Considerations When Working with Indigenous and Local Knowledge](data-management/technical-guidelines/ILK-considerations.md)
+  * [Part 10 - Contributing Authors Template Email](data-management/technical-guidelines/contributing-authors-email.md)
+  * [Part 11 - How to Document an Indicator](data-management/technical-guidelines/how-to-document-an-indicator.md)
 
 ## Repositories
 
@@ -63,11 +67,3 @@
 ## Website
 
 * [Account](website/account.md)
-* [Navigation and search](website/navigation.md)
-* [Search](website/search.md)
-* [Forms](website/webforms.md)
-* [Track](website/services_track.md)
-* [Forum](website/services_forum.md)
-* [Content management](webesite/content.md)
-  * [Content creation](website/content_creation.md)
-  * [Content administration](website/content_administration.md)

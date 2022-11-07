@@ -30,7 +30,7 @@ Two common ways to document a project are README files and wikis:
   * **Usage**: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
   * **Contributing**: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for[ setting guidelines for repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
   * **Credits**: Include a section for credits in order to highlight and link to the authors of your project.
-  * **License**: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s[ licensing guide](http://choosealicense.com)!
+  * **License**: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s[ licensing guide](http://choosealicense.com/)!
 * Wikis on GitHub help you present in-depth information about your project in a useful way.
 
 It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
@@ -45,7 +45,7 @@ More information here: [https://guides.github.com/features/mastering-markdown/](
 
 ## Resources
 
-[https://guides.github.com/](https://guides.github.com)
+[https://guides.github.com/](https://guides.github.com/)
 
 ## Contact
 

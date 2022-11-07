@@ -30,7 +30,7 @@ You don't need to install any software to use SharePoint Online. Instead, just c
 
 ### **How to access Sharepoint at home, on my mobile or other devices**
 
-You can access your files through the Office web portal, [http://portal.office.com](http://portal.office.com) by logging in with your email address and password.
+You can access your files through the Office web portal, [http://portal.office.com](http://portal.office.com/) by logging in with your email address and password.
 
 You can download and use the SharePoint mobile apps to connect to your SharePoint Online site, rather than your browser. For more information, see [Set up your mobile apps for SharePoint](https://support.office.com/en-us/article/set-up-your-mobile-apps-for-sharepoint-539608ac-4725-455e-aea0-9ca1f769849f) and [for OneDrive](https://support.office.com/en-us/article/for-onedrive-c45e3f90-14af-4cfa-97f2-137f74d4304e).
 

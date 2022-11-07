@@ -2,23 +2,24 @@
 description: Technical Guideline Series
 ---
 
-# Part 6 - How to upload to and download from Zenodo
+# Part 6 - How to Upload to and Download from Zenodo
 
 **Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**
 
 **Reviewed by the Task Force on Knowledge and Data and Benedict Omare - Information Management Officer**
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)_{.email}_
+_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
-Version: 1.0 Last Updated: December 13th 2021
+Version: 1.1 \
+Last Updated: 14 July 2022
 
-DOI: [https://doi.org/10.5281/zenodo.5713977](https://doi.org/10.5281/zenodo.5713977)
+DOI: [10.5281/zenodo.6834336](https://doi.org/10.5281/zenodo.6834336)
 
-Within this guideline, we cover how to upload, share, and download to Zenodo both manually and programmatically. This technical guideline provides useful tips and options, but does not seek to be comprehensive. The material presented here incorporates and builds upon the guide available here: [https://ict.ipbes.net/repositories/zenodo](https://ict.ipbes.net/repositories/zenodo).
+Within this guideline, we cover how to upload, share, and download to Zenodo both manually and programmatically. This technical guideline is intended for IPBES technical support units and provides useful tips and options, but does not seek to be comprehensive. The material presented here incorporates and builds upon the guide available here: [https://ict.ipbes.net/repositories/zenodo](https://ict.ipbes.net/repositories/zenodo).
 
 ## I. Zenodo overview
 
-[Zenodo](https://zenodo.org) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN). It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts.
+[Zenodo](https://zenodo.org/) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN). It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts.
 
 Zenodo provides the following services:
 
@@ -30,9 +31,9 @@ Zenodo provides the following services:
 * Integration with GitHub
 * All data and metadata uploaded is traceable to a registered Zenodo user
 
-For IPEBS, [Zenodo](https://zenodo.org) is the repository for long term storage of all IPBES products, including milestones, data deposit packages and associated data management reports.
+For IPEBS, [Zenodo](https://zenodo.org/) is the repository for long term storage of all IPBES products, including milestones, data deposit packages and associated data management reports.
 
-The IPBES secretariat has created and is maintaining one single community on Zenodo for IPBES ([https://zenodo.org/communities/ipbes/](https://zenodo.org/communities/ipbes/)) where the goal is to provide:\\
+The IPBES secretariat has created and is maintaining one single community on Zenodo for IPBES ([https://zenodo.org/communities/ipbes/](https://zenodo.org/communities/ipbes/)) where the goal is to provide:
 
 1. Access to IPBES products
 2. A digital object identifier (DOI) to enable citation of the product or deposit including direct access to its digital representation
@@ -47,7 +48,7 @@ The purpose of this section is to provide helpful guidance on specific aspects a
 ### A. Some important things to mention
 
 1. Descriptive metadata can be modified after publishing without changing the DOI. Files can also be re-uploaded but all data uploads are permanently stored and issued with unique version numbers and DOIs. Therefore, extra care should be used when uploading files.
-2. [Zenodo sandbox](https://sandbox.zenodo.org) can be used to become familiar with the interface and practice without permanently uploading files
+2. [Zenodo sandbox](https://sandbox.zenodo.org/) can be used to become familiar with the interface and practice without permanently uploading files
 3. A DOI can be reserved by creating a new Zenodo upload draft, selecting "Reserve DOI" under the basic information section, and saving the draft. The identifier can now be added to any documentation, including a data management report for the same upload
 4. ORCIDs should be provided whenever possible
 5. Please add your entry to the IPBES community, by searching **IPBES secretariat** within the upload form in the second section. The submission has to be approved by secretariat before it appears in the community
@@ -58,7 +59,7 @@ To obtain a digital object identifier for an entry on Zenodo, please first log i
 
 Under the section _Basic information_, the first field asks for a digital object identifier and directly below the descriptive text there is a box named "Reserve DOI" (see figure 1). Once this button is pressed, the text box then automatically fills in with the assigned DOI. Once you save the draft entry, which requires filling in sections with a red asterisk next to them (which can be changed at a later date), this is the corresponding DOI to the draft upload.
 
-![Figure 1: Reserving a DOI on Zenodo](<../../.gitbook/assets/Figure1 (1)>)
+![Figure 1: Reserving a DOI on Zenodo](../../.gitbook/assets/Figure1)
 
 If creating a data management report, please include this reserved DOI at the top of the report and use the same drafted Zenodo entry for the data deposit package.
 
@@ -88,7 +89,7 @@ Additionally, ISBNs, URLs, and other identifiers can be used in addition to DOIs
 
 An example of how these related identifiers work can be found on the IPBES Data Management Tutorials Zenodo page pictured below.
 
-![Figure 3: Example of related identifiers specified on the overarching IPBES Data Management Tutorials Zenodo upload (https://doi.org/10.5281/zenodo.4020373)](../../.gitbook/assets/Figure4\_related\_identifier)
+![Figure 3: Example of related identifiers specified on the overarching IPBES Data Management Tutorials Zenodo upload (https://doi.org/10.5281/zenodo.4020373)](<../../.gitbook/assets/Figure4\_related\_identifier (1)>)
 
 ### E. Access and licenses
 
@@ -141,7 +142,7 @@ Each new release should create a new version of the Zenodo Upload, published aut
 
 For a descriptive step by step guide on this process, please visit the available [GitHub Guide on this topic here.](https://guides.github.com/activities/citable-code/) [This resource](https://genr.eu/wp/cite/#Release) is also helpful to understand how to create a new release that is synced between GitHub and Zenodo.
 
-![Figure 4: The Zenodo interface when your GitHub account is linked. The bottom of the image shows a repository and corresponding toggle switch](../../.gitbook/assets/Figure6\_GitHubLink)
+![Figure 4: The Zenodo interface when your GitHub account is linked. The bottom of the image shows a repository and corresponding toggle switch](<../../.gitbook/assets/Figure6\_GitHubLink (1)>)
 
 ## IV. How to share Zenodo entries
 
@@ -157,7 +158,7 @@ Generally, when sharing your Zenodo uploads please use the DOI that cites a spec
 
 One can find this additional DOI in the versions section of the published webpage of the upload. For example, when referring to the IPBES data management policy (figure 5) we use this doi: [10.5281/zenodo.3551078](https://doi.org/10.5281/zenodo.3551078)
 
-![Figure 5: Screen shot capturing the area of the Zenodo upload which specifies the DOI to use to cite all versions of the IPBES data management policy](../../.gitbook/assets/figure5\_cite\_all\_versions)
+![Figure 5: Screen shot capturing the area of the Zenodo upload which specifies the DOI to use to cite all versions of the IPBES data management policy](<../../.gitbook/assets/figure5\_cite\_all\_versions (1)>)
 
 ## V. How to download from Zenodo
 
@@ -206,4 +207,4 @@ Mexico <- data %>% filter(ISO_3 == "MEX")
 plot(Mexico[,1], main = "Mexico")
 ```
 
-For any questions please feel free to contact us at [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net){.email}. If you have any Zenodo specific questions they may be answered on their [frequently asked question page](https://help.zenodo.org).
+For any questions please feel free to contact us at [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net). If you have any Zenodo specific questions they may be answered on their [frequently asked question page](https://help.zenodo.org/).

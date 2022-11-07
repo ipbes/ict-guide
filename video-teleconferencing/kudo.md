@@ -47,7 +47,7 @@ You can connect to the session half an hour before the meeting is starting in or
 
 At the bottom you will see the audio and video settings:
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 1. On the left is a speaker icon to mute/unmute the sound from the platform.&#x20;
 2. The second is the “Audio Meter” showing the volume the platform is receiving from your microphone.
@@ -59,7 +59,7 @@ At the bottom you will see the audio and video settings:
 
 The column on the right has many features:
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 1. “Share Screen”
 2. The “Messages” function
@@ -72,13 +72,13 @@ The column on the right has many features:
 1. “Leave Session” to be used at the end of the virtual meeting to leave the platform.&#x20;
 2. “Request to speak” is the button to click on if you wish to appear on the “Request list” where the moderator can see who would like to take the floor
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 ### Interpretation (language selector)
 
 In the bottom left, the language selector gives you a choice of the audio channels/language you would like to listen to via your headset.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ## Participating in a KUDO meeting
 
@@ -113,4 +113,4 @@ If you are still on screen but are no longer speaking, please remember to mute y
 
 When you are done speaking, please click the **“Release Mic”** button to deactivate your microphone and camera.​
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (21).png>)

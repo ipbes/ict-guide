@@ -49,7 +49,7 @@ If you have any question(s) or need any help, email us at: ipbes.registration@ip
 * ZOOM [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the ZOOM desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393)&#x20;
 * Follow the instructions below to update your ZOOM client.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 ### Test call
 
@@ -115,7 +115,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 #### Google Chrome
 
 1. Open Chrome.
-2. Go to [join.zoom.us](https://join.zoom.us).
+2. Go to [join.zoom.us](https://join.zoom.us/).
 3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer.\
    ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
 4. Click **Join**.
@@ -127,7 +127,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 #### Safari
 
 1. Open Safari.
-2. Go to [join.zoom.us](https://join.zoom.us).
+2. Go to [join.zoom.us](https://join.zoom.us/).
 3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer.\
    ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
 4. Click **Join**.
@@ -136,7 +136,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 #### Microsoft Edge or Internet Explorer
 
 1. Open Edge or Internet Explorer.
-2. Go to [join.zoom.us](https://join.zoom.us).
+2. Go to [join.zoom.us](https://join.zoom.us/).
 3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer.\
    ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
 4. Click **Join**.
@@ -144,7 +144,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 #### Mozilla Firefox
 
 1. Open Firefox.
-2. Go to [join.zoom.us](https://join.zoom.us).
+2. Go to [join.zoom.us](https://join.zoom.us/).
 3. Enter your [meeting ID](https://support.zoom.us/hc/en-us/articles/201362373-What-is-a-Meeting-ID-) provided by the host/organizer.\
    ![](https://assets.zoom.us/images/en-us/web/misc/join-a-meeting.png)
 4. Click **Join**.
@@ -204,7 +204,7 @@ Depending on your default web browser, you may be prompted to open Zoom.![](http
 
 ## Meeting controls (navigation)
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the ZOOM window. You can perform the following actions from the menu bar:
 
@@ -236,7 +236,7 @@ Once you have joined a meeting, the ZOOM menu bar appears at the bottom of the Z
    ![](https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/interpretation-icon.png)
 2. Click the language that you would like to hear.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 3\. (Optional) To hear the interpreted language only, click **Mute Original Audio**.
 

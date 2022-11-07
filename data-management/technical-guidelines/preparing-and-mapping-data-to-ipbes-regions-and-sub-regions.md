@@ -8,12 +8,12 @@ description: Technical Guideline Series
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
 _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
-Version: 2.1\
-Last Updated: February 1st 2021
+Version: 2.3\
+Last Updated: 15 August 2022
 
-DOI: [10.5281/zenodo.4559153](https://doi.org/10.5281/zenodo.4559153)
+DOI: [10.5281/zenodo.6992546](https://doi.org/10.5281/zenodo.6992546)
 
-The guide will show how to aggregate and map FAO data according to the IPBES Regions and Sub-Regions polygons using R. For this exercise, we chose the FAO population data but any FAOSTAT dataset can be used.
+The guide will show how to aggregate and map FAO data according to the IPBES Regions and Sub-Regions polygons using R. For this exercise, we chose the FAO population data but any FAOSTAT dataset can be used. This guideline is intended for anyone aggregating data to IPBES regions and subregions.
 
 Let’s begin by loading the following packages.
 
@@ -63,7 +63,7 @@ Now, we can inspect the contents downloaded with the function content()
 View(content(record)) # view displays the output in a human readable form within R Studio
 ```
 
-![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](<../../.gitbook/assets/view\_content\_zendodo\_record (2).png>)
+![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](../../.gitbook/assets/view\_content\_zendodo\_record.png)
 
 This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET() to download the shapefile.
 
@@ -281,7 +281,7 @@ palette <- c("grey","aliceblue", "lightskyblue", "dodgerblue", "dodgerblue4") # 
 plot(data_region[,2], pal = palette, main = "Total population (millions) in 2018 per region")
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-17-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-17-1 (3).png>)
 
 If you would like to add graticules and an ocean background, follow this example. First, we will set up the graticules we will plot
 
@@ -309,7 +309,7 @@ legend("bottom", # adding the legend last
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-19-1 (4).png>)
+![](../../.gitbook/assets/unnamed-chunk-19-1.png)
 
 We can also plot by subregion.
 
@@ -318,13 +318,5 @@ plot(data_subregion[,2], main = "Total population (millions) in 2018 per sub-reg
 ```
 
 ![](<../../.gitbook/assets/unnamed-chunk-20-1 (4).png>)
-
-Finally, by country.
-
-```
-plot(data[,11], main = "Total population (thousands) in 2018", breaks = "jenks", at = c(100000,500000, 1000000, 1427648))
-```
-
-![](<../../.gitbook/assets/unnamed-chunk-21-1 (4).png>)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)

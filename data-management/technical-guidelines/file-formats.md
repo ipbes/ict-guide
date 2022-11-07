@@ -8,16 +8,16 @@ description: Technical Guideline Series
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit on Knowledge and Data**\
 ****_For any inquires please contact_ [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 
-Version: 1.0 \
-Last Updated: September 15th 2021
+Version: 1.1 \
+Last Updated: 15 July 2022
 
-DOI: [10.5281/zenodo.5509739](https://doi.org/10.5281/zenodo.5509739)
+DOI: [10.5281/zenodo.6839037](https://doi.org/10.5281/zenodo.6839037)
 
 ## I. Executive Summary
 
-This technical guideline focuses on recommended file formats for IPBES with open or mostly open standards. To summarize briefly:
+This technical guideline is for all IPBES experts and focuses on recommended file formats for IPBES with open or mostly open standards. To summarize briefly:
 
-Table 1: Recommendations for file formats
+**Table 1: Recommendations for file formats**
 
 |  Data Type               |  Recommended Format                      |
 | ------------------------ | ---------------------------------------- |
@@ -50,7 +50,7 @@ Utah_sf <- st_as_sf(States) %>% dplyr::filter(NAME_1 == "Utah") # Select just th
 
 #### _i. GeoPackage_
 
-We recommend using the GeoPackage format for storing geospatial information. This file format is new and less widely used, but a completely open format for storing geospatial data. As stated on [their website](http://www.geopackage.org) “GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.” A GeoPackage can store both vector and raster data (as tiles) and can have multiple layers per single file. The format allows for multiple geometry types per file, so one can store both point and polygon data within the same file.
+We recommend using the GeoPackage format for storing geospatial information. This file format is new and less widely used, but a completely open format for storing geospatial data. As stated on [their website](http://www.geopackage.org/) “GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.” A GeoPackage can store both vector and raster data (as tiles) and can have multiple layers per single file. The format allows for multiple geometry types per file, so one can store both point and polygon data within the same file.
 
 A GeoPackage is ideal for encoding geospatial data when size and power are limited such as within a mobile device and is implemented in an SQLite database. It is slightly lighter in size than a shapefile, usually around 1.1-1.3x smaller and there is not limit on file size.
 
@@ -224,7 +224,7 @@ raster("artwork.tif")
 ## values     : 1.338031e-05, 0.9999878  (min, max)
 ```
 
-Recently, a format called, [Cloud Optimized GeoTIFF](https://www.cogeo.org), has become increasingly popular which is a regular GeoTIFF file aimed at being hosted on a HTTP file server. This standard was developed in 2016 within the Open Source Geospatial Foundation project. The format enables efficient workflows on the cloud by utilizing tiling and overviews. It allows for efficient imagery data display and access through HTTP GET range requests, so end-users can just use the parts of the GeoTIFF they need. A cloud optimized GeoTIFF is larger in size than a normal GeoTIFF, but it enables faster access on a server.
+Recently, a format called, [Cloud Optimized GeoTIFF](https://www.cogeo.org/), has become increasingly popular which is a regular GeoTIFF file aimed at being hosted on a HTTP file server. This standard was developed in 2016 within the Open Source Geospatial Foundation project. The format enables efficient workflows on the cloud by utilizing tiling and overviews. It allows for efficient imagery data display and access through HTTP GET range requests, so end-users can just use the parts of the GeoTIFF they need. A cloud optimized GeoTIFF is larger in size than a normal GeoTIFF, but it enables faster access on a server.
 
 If you are interested in exporting Cloud Optimized GeoTIFFs, one option is to use the `write_tif` function from the `gdalcubes` package described [here](https://rdrr.io/cran/gdalcubes/man/write\_tif.html)
 
@@ -373,7 +373,7 @@ filled.contour(lon,lat,elevation, color = terrain.colors, asp = 1)
 
 ###
 
-![](<../../.gitbook/assets/unnamed-chunk-20-1 (5).png>)
+![](<../../.gitbook/assets/unnamed-chunk-20-1 (3).png>)
 
 ### C. Resources and useful R packages for handling spatial data
 
@@ -381,7 +381,7 @@ For more information on these geospatial data types and other types can be found
 
 While information on the various formats for spatial data are incredibly important to understand when using and sharing geospatial data, we would also like to recommend a few packages for handling spatial data in R.
 
-The `sf` package is used to handle vector data, while the `terra` and `raster` packages are often used to handle raster data. The packages `sf` and `raster` have been used throughout these technical guidelines. For an overview on these packages, I recommend the vignettes on [R Spatial](https://r-spatial.org) for each of the packages linked below.
+The `sf` package is used to handle vector data, while the `terra` and `raster` packages are often used to handle raster data. The packages `sf` and `raster` have been used throughout these technical guidelines. For an overview on these packages, I recommend the vignettes on [R Spatial](https://r-spatial.org/) for each of the packages linked below.
 
 * [sf](https://r-spatial.github.io/sf/articles/sf1.html)
 * [raster](https://rspatial.org/raster/pkg/index.html)

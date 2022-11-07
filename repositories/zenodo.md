@@ -1,6 +1,6 @@
 # Zenodo
 
-Zenodo ([https://zenodo.org/](https://zenodo.org)) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN) and funded by the European Union. It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts. The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services is using Zenodo to share its products and to ensure:
+Zenodo ([https://zenodo.org/](https://zenodo.org/)) is a general-purpose free and open-access repository operated by the European Organization for Nuclear Research (CERN) and funded by the European Union. It allows researchers in any subject area to deposit data sets, research software, reports, and any other research related digital artifacts. The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services is using Zenodo to share its products and to ensure:
 
 * open access to IPBES products
 * issuance of digital object identifiers (DOI) to enable citation of IPBES products.
@@ -14,7 +14,7 @@ Uploads (supporting material) must be material that have been prepared for Inter
 
 * **Collection URL**: links directly to your community collection. [https://zenodo.org/communities/ipbes/](https://zenodo.org/communities/ipbes/)
 * **Upload URL**: address will automatically ensure people who use it will have their record added to your community collection [https://zenodo.org/deposit/new?c=ipbes](https://zenodo.org/deposit/new?c=ipbes)
-* **Harvesting URL**: links to a OAI-PMH feed, which can be used by other digital repositories to harvest this community [https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai_dc](https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai_dc)
+* **Harvesting URL**: links to a OAI-PMH feed, which can be used by other digital repositories to harvest this community [https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai\_dc](https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai\_dc)
 
 ## What does Zenodo provide/Why Zenodo?
 
@@ -47,7 +47,7 @@ Submissions can be open or restricted as in the case of anonymized sensitive dat
 ## Submitting a dataset to Zenodo
 
 * Create a Zenodo account
-* Upload data to the Zenodo community through the [Upload URL](https://zenodo.org/deposit/new?c=ipbes). Detailed instructions are available below 
+* Upload data to the Zenodo community through the [Upload URL](https://zenodo.org/deposit/new?c=ipbes). Detailed instructions are available below&#x20;
 * An administrator will review the upload request and add approve it if conditions are met
 
 ### Files
@@ -95,7 +95,7 @@ Some guidance is needed on what to select
 * Digital Object Identifier: To be assigned by Zenodo. It is possible to Reserve a DOI
 * Publication data
 * Title
-* Authors: 
+* Authors:&#x20;
   * requires First name, last name of author abd affiliation
   * ORCID ID should be provided whenever possible. All authors should be encouraged to create ORCID IDs
 * Description
@@ -113,20 +113,20 @@ Some guidance is needed on what to select
     * Indigenous and local knowledge
     * Invasive alien species assessment
     * Knowledge and data
-    * Land Degradation and Restoration Assessment 
+    * Land Degradation and Restoration Assessment&#x20;
     * Nexus assessment
     * Pollination Assessment
     * Scenarios and Models Assessment
     * Sustainable use of wild species assessment
     * Transformative change assessment
-    * Values assessment   
+    * Values assessment  &#x20;
   * Document type
     * Full assessment report
     * Summary for Policymakers
     * Supplementation material
     * Policy
   * Descriptive term
-    * Data policy    
+    * Data policy   &#x20;
 * Additional notes
 
 ### License
@@ -179,7 +179,7 @@ You have the following options to show the relationship of the upload to the rel
 
 ### Contributors
 
-* Last name, First name of author 
+* Last name, First name of author&#x20;
 * Affiliation
 * ORCID ID.  Should be provided whenever possible. All authors should be encouraged to create ORCID IDs
 * Role: Contact person, data collector, data curator, data manager, distributor, Editor, hosting institution, other, producer, project leader, project manager, project member, registration agency, registration authority, related person, research group, researcher, rights holder, sponsor, supervisor, work package leader
