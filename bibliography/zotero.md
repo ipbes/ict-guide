@@ -64,14 +64,14 @@ A tag is like hashtag or keyword and is used for more detailed characterization 
 
 ### Navigating Zotero
 #### Left pane
-A.	Libraries, collections, subcollections, duplicates
-B.	Tags are displayed in the lower left corner
+* Libraries, collections, subcollections, duplicates
+* Tags are displayed in the lower left corner
 
 #### Center pane
 Items are displayed in the center panel:
-A.	Standard columns for the center panel are Title, Creator (i.e., the author of the reference), and attachment (paper clip icon)
-B.	To sort the center panel view: Click on the column heading to sort by that heading; for example, if you click on the “Title” column header, items will be arranged alphabetically by title; clicking the “Title” header again will sort the items in reverse alphabetical order
-C.	You can add additional columns to the center panel view by right clicking one of the column headers and selecting additional headers from the popup list; for example, you may wish to have a column for “Year” which displays the year the refence was published
+* Standard columns for the center panel are Title, Creator (i.e., the author of the reference), and attachment (paper clip icon)
+* To sort the center panel view: Click on the column heading to sort by that heading; for example, if you click on the “Title” column header, items will be arranged alphabetically by title; clicking the “Title” header again will sort the items in reverse alphabetical order
+* You can add additional columns to the center panel view by right clicking one of the column headers and selecting additional headers from the popup list; for example, you may wish to have a column for “Year” which displays the year the refence was published
 
 #### Right pane
 Information for a given item is displayed in the right panel when you click on an item in the center panel.
@@ -168,14 +168,14 @@ Once you have the document open the Word desktop app, do the following to add a 
 3.	Click on the Zotero tab in the ribbon at the top of the document
 4.	Click the “Add/Edit Citation” button in the Zotero ribbon
 5.	The first time you click the “Add/Edit Citation” button, the Zotero – Document Preferences window will pop-up; select the following options:
-A.	American Psychological Association (APA) 7th edition
-B.	Language: English (UK)
-C.	For Store Citations As, select Fields
-D.	You can select Automatically update citations; if you find that this slows down the citation process, you can deselect this option and click “Refresh” in the Zotero ribbon to manually update the citations
-E.	Click “OK” (Figure 21)
+* American Psychological Association (APA) 7th edition
+* Language: English (UK)
+* For Store Citations As, select Fields
+* You can select Automatically update citations; if you find that this slows down the citation process, you can deselect this option and click “Refresh” in the Zotero ribbon to manually update the citations
+* Click “OK”
 6.	You can also set the citation style and language in the Preferences window
-A.	To set the citation style, open the Preferences window > Cite tab > Styles tab > select American Psychological Association (APA) 7th edition
-B.	To set the language, open the Preferences window > Advance tab > select English (UK) in the Language field
+* To set the citation style, open the Preferences window > Cite tab > Styles tab > select American Psychological Association (APA) 7th edition
+* To set the language, open the Preferences window > Advance tab > select English (UK) in the Language field
 
 
 Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:
