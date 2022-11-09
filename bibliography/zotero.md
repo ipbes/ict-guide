@@ -11,26 +11,25 @@ IPBES has adopted Zotero so all experts must use Zotero:
 
 ## Getting started
 
-
-
-### How do I install Zotero?
+### Install Zotero
 
 To use Zotero and its functions and make importing items easy, you need to install:
 
 1. The Zotero desktop app
 2. The Zotero Connector for Chrome or Firefox – note that some experts have reported issues with Zotero on Safari.
 
-**Note about operating systems:**
-
+{% hint style="info" %}
 Zotero should operate the same whether you are using Windows or macOS, although there may be slight differences in how the desktop app appears and how certain functions are accessed. Thus, the Zotero screenshots below may look slightly different from how the Zotero desktop app appears on a user’s screen. One difference is how to access the Zotero Preferences window to change or customize settings in the Zotero desktop app:
 
 **Windows**, upper left corner: Click Edit > Preferences > Sync tab
 
 **macOS**, upper left corner: Click Zotero > Preferences > Sync tab
+{% endhint %}
+
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero)
 
-### How do I open Zotero?
+### Launch Zotero
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero)
 
@@ -44,7 +43,7 @@ Zotero can be opened from your operating system's dock or file manager like any 
 2. Click “Log in” in the upper right corner and then “Register for a free account” (in blue font above the login fields)
 3. You can update your email address and personal information once you are logged in.
 
-### How do I join a group in Zotero?
+### Join a group in Zotero
 
 During the development of an assessment, private groups will be created at the assessment or chapter level depending on the needs of the assessment. Private groups means that only experts who are invited to the group will be able to see the group’s page. The private groups are completely hidden from group searches. They are not shown on members’ public profile pages and will not appear in search engine results. File sharing will be made available to allow group members to access and share files in addition to references. Invitations to the groups are managed by the assessment technical support unit.
 
