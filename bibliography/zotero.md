@@ -7,7 +7,11 @@ IPBES has adopted Zotero so all experts must use Zotero:
 * To manage references
 * To add in-text citations as they write in word processors e.g. MS Word and Google Docs
 
+
+
 ## Getting started
+
+
 
 ### How do I install Zotero?
 
@@ -43,6 +47,35 @@ Zotero can be opened from your operating system's dock or file manager like any 
 ### How do I join a group in Zotero?
 
 During the development of an assessment, private groups will be created at the assessment or chapter level depending on the needs of the assessment. Private groups means that only experts who are invited to the group will be able to see the group’s page. The private groups are completely hidden from group searches. They are not shown on members’ public profile pages and will not appear in search engine results. File sharing will be made available to allow group members to access and share files in addition to references. Invitations to the groups are managed by the assessment technical support unit.
+
+### Important terms
+Relevant Zotero documentation: https://www.zotero.org/support/collections_and_tags
+#### Item
+Zotero refers to a reference as an item; for example, when you add a reference to a Zotero library, you are an adding an item to that library.
+
+#### Collection
+Collection: A group or subgroup within a library that allows for hierarchical organization; a collection is like a folder on a computer and is represented by a folder icon. The same item can belong to multiple collections. An item can be imported directly into a collection or imported to the library and then added to a collection. Note that collections are not portable when copying items between different libraries. Collections are  used to organize items belonging to a Zotero library.
+
+{% hint style="info" %}
+Due to how Zotero permissions work, everyone has access to all the chapter collections. Please only work within your own chapter collection (and subcollections if applicable) and do not add or delete items from other chapters’ collections or subcollections
+{% endhint %}
+
+#### Tag
+A tag is like hashtag or keyword and is used for more detailed characterization of an item than simply placing an item in a collection or subcollection. The number of tags that can be assigned to an item is unlimited. A library or collection can be filtered by a tag or a set of tags to show the items that have been assigned the selected tag(s). Note that tags are portable; if you copy an item from one library to another the item’s tag(s) will transfer along with the item.
+
+### Navigating Zotero
+#### Left pane
+A.	Libraries, collections, subcollections, duplicates
+B.	Tags are displayed in the lower left corner
+
+#### Center pane
+Items are displayed in the center panel:
+A.	Standard columns for the center panel are Title, Creator (i.e., the author of the reference), and attachment (paper clip icon)
+B.	To sort the center panel view: Click on the column heading to sort by that heading; for example, if you click on the “Title” column header, items will be arranged alphabetically by title; clicking the “Title” header again will sort the items in reverse alphabetical order
+C.	You can add additional columns to the center panel view by right clicking one of the column headers and selecting additional headers from the popup list; for example, you may wish to have a column for “Year” which displays the year the refence was published
+
+#### Right pane
+Information for a given item is displayed in the right panel when you click on an item in the center panel.
 
 ## Important configurations
 
@@ -120,7 +153,7 @@ A webpage can be saved even if Zotero does not recognize the information on it �
 * If you want to save the item to a different collection or subcollection than the current selection, you can change the selection in the popup window (Figure 13)
 
 
-### Add item manually
+### Option 3: Add item manually
 
 ![](https://lh4.googleusercontent.com/gaXjM4-jeVHJzunEcBgr0gS1\_t15sIi009yafOyZSRQGGoOnvHeNL98OwnLJH9FXbe7sedxyq93BKYJQNtm9sNYnHJwjOGKLf5P\_NYV7kXN2jHj7m-v9eOZ4Y7qQcuJsJQPtRkxk)
 
