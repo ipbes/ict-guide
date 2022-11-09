@@ -43,7 +43,7 @@ It is essential to document where to find all the necessary inputs that go into 
 Following [table 2](https://www.nature.com/articles/s41597-022-01296-4/tables/2) (shown below) within our example publication, each input dataset is listed together with its reference, the date of access and the version used to calculate the indicator. This information should be associated with the publication of the indicator as, for example, a README file.
 {% endhint %}
 
-![](../../.gitbook/assets/Figure\_1)
+![](<../../.gitbook/assets/Figure\_1 (1)>)
 
 ### B. Development and presentation of the indicator workflow:
 
@@ -60,7 +60,7 @@ Ensuring that others can understand the methodology and repeat the workflow of t
 For the habitat protection indexes, these recommendations were followed while developing the workflow. The workflow was created using open source software, R, instead of ArcGIS Pro as this ensured consistency in processing the data and there is no requirement to buy a licence to use the workflow. All scripts used to process the original datasets and to calculate the indexes can be found within the associated GitHub folder, linked respectively within the data availability and code availability sections of the publication. To enable reusability, the workflow is also structured in a user-friendly way so that the entire process can be run using one R script. Finally, figure 5 (shown below) within the publication provides an overview of the workflow to explain what each script does and how it fits into the overall process of creating the indexes.
 {% endhint %}
 
-![](../../.gitbook/assets/Figure\_2)
+![](<../../.gitbook/assets/Figure\_2 (1)>)
 
 ### C. Outputs
 
@@ -84,7 +84,7 @@ These guidelines are followed within our example.
 
 In general, the associated publication should provide all required information to reproduce the results, including a link to the workflow repository and final dataset.
 
-![](../../.gitbook/assets/Figure\_3)
+![](<../../.gitbook/assets/Figure\_3 (1)>)
 
 ## III. IPBES Process
 

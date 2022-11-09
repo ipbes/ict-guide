@@ -94,7 +94,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](<../../.gitbook/assets/unnamed chunk 4 1 (2)>)
+![](<../../.gitbook/assets/unnamed chunk 4 1 (1) (1)>)
 
 We can also use the ggplot package, with some additional functionality added with ggspatial, to map sf objects in R Studio such as in the following example:
 
@@ -112,7 +112,7 @@ ggplot() +
   ggspatial::annotation_scale(location = "bl") # sets scale bar
 ```
 
-![](<../../.gitbook/assets/unnamed chunk 5 1>)
+![](<../../.gitbook/assets/unnamed chunk 5 1 (2) (1)>)
 
 ### _B. Projections_
 
@@ -195,7 +195,7 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](<../../.gitbook/assets/unnamed chunk 7 1 (1)>)
+![](<../../.gitbook/assets/unnamed chunk 7 1>)
 
 ## IV. Suggestions:
 
