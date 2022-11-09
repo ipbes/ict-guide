@@ -24,11 +24,11 @@ Deleting multiple attachments requires the creation of a "Saved Search". This ca
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-15 at 08.50.50.png" alt=""><figcaption><p>Advanced search</p></figcaption></figure>
 
-2\. Create a saved search
+2. Create a saved search
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-15 at 08.52.27.png" alt=""><figcaption><p>Select "Attachment File Type" is "PDF" and then click on "Save Search"</p></figcaption></figure>
 
-3\. Navigate to the saved search and select all (ctrl+a or cmd+a on a mac) and the right-click on "move items to trash".&#x20;
+3. Navigate to the saved search and select all (ctrl+a or cmd+a on a mac) and the right-click on "move items to trash".&#x20;
 
 {% hint style="info" %}
 The saved search will also contain the items to which the PDFs are attached, select all will only select the attachments.
@@ -55,3 +55,13 @@ Please use this workflow when the assessment has been approved and there will be
 Once you have finalized the clean up of the library you should change the library settings to limit modifications. The library "Group Type" should then be made public.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
+
+## Useful plugins
+
+Zotero plugins:
+
+* Search for DOI: [https://github.com/bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi)
+
+Parse references from CSV: [https://anystyle.io/](https://anystyle.io/)
+
+Search for DOI from citations: [https://doi.crossref.org/simpleTextQuery](https://doi.crossref.org/simpleTextQuery)

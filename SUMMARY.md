@@ -34,6 +34,7 @@
 ## Reference Manager <a href="#bibliography" id="bibliography"></a>
 
 * [Zotero](bibliography/zotero.md)
+  * [Zotero administration](bibliography/zotero-admin/zotero-admin.md)
 * [Reference collection](bibliography/reference-collection.md)
 
 ## Literature access

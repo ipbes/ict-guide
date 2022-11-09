@@ -9,7 +9,7 @@ IPBES has adopted Zotero so all experts must use Zotero:
 
 ## Getting started
 
-### How do I install Zotero
+### How do I install Zotero?
 
 To use Zotero and its functions and make importing items easy, you need to install:
 
@@ -26,7 +26,7 @@ Zotero should operate the same whether you are using Windows or macOS, although 
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero)
 
-### How do I open Zotero
+### How do I open Zotero?
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero)
 
@@ -40,19 +40,19 @@ Zotero can be opened from your operating system's dock or file manager like any 
 2. Click “Log in” in the upper right corner and then “Register for a free account” (in blue font above the login fields)
 3. You can update your email address and personal information once you are logged in.
 
-### How do I join a group in Zotero
+### How do I join a group in Zotero?
 
 During the development of an assessment, private groups will be created at the assessment or chapter level depending on the needs of the assessment. Private groups means that only experts who are invited to the group will be able to see the group’s page. The private groups are completely hidden from group searches. They are not shown on members’ public profile pages and will not appear in search engine results. File sharing will be made available to allow group members to access and share files in addition to references. Invitations to the groups are managed by the assessment technical support unit.
 
 ## Important configurations
 
-### Sign in to Zotero Client
+### Config 1: Sign in to Zotero Client
 
 Make sure you are sign in with the same email address that has been invited to an assessments library.
 
 ![Linking an online account with the Zotero desktop app.](<../.gitbook/assets/image (24).png>)
 
-### Sync libraries
+### Config 2: Sync libraries
 
 {% hint style="info" %}
 You need to be signed in on the Zotero client
@@ -69,7 +69,7 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-08 at 16.54.58.png" alt=""><figcaption><p>Sync settings for libraries and files</p></figcaption></figure>
 
-### Disable automatic tagging
+### Config 3: Disable automatic tagging
 
 1. Open Zotero preferences and click on the General tab (gear icon):
 
@@ -81,7 +81,7 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 <img src="../.gitbook/assets/image (5).png" alt="Disabling automatic tags." data-size="original">
 
-### Configure style language
+### Config 4: Configure style language
 
 * In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
 
@@ -94,15 +94,14 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 Zotero can[ add items automatically](https://www.zotero.org/support/getting\_stuff\_into\_your\_library#add\_item\_by\_identifier) using their an ISBN number, Digital Object Identifier (DOI), or PubMed ID. This is done by clicking the Add Item by Identifier button (![](https://lh3.googleusercontent.com/5lCwJPGGSY5xQo5XjT9D0XZSjc\_MQkBddB9F\_FmL3MGrMutz7S7IWHYQkHcLyX3jWOPP9\_n9uAzvb7KXxyacHA1ZwJR\_XJVA99Tcb3UBycaRaFruu\_GWKohoc2yJV2SBFnim-mqm)) in the Zotero toolbar, typing in the ID number, and clicking OK. You can even paste or enter (press Shift+Enter for a larger box) a list of such identifiers at once
 
-### Option2: Add item using the Zotero connector
+### Option 2: Add item using the Zotero connector
 The Zotero Connector is a very useful tool for adding items to Zotero as it allows you to import items directly into Zotero with one click while browsing the web.
 
 {% hint style="info" %}
 Zotero recommends adding items via a web browser rather than adding them manually. When adding an item from the web, Zotero automatically extracts the item’s metadata and downloads the PDF if available. This reduces errors in the item information.
 {% endhint %}
 
-STEPS
-1.	Make sure you installed the Zotero Connector (see STEP 1 on p. 3 under INSTALLING ZOTERO above)
+1.	Make sure you installed the Zotero Connector
 2.	Make sure the Zotero desktop app is open
 3.	Complete your browser search for an item (i.e. reference)
 4.	When you find an item you want to add to your chapter collection, click on the link for the item to go to the item’s webpage – for example, if you search for a journal article, click on the link that takes you to the journal’s page for the article
@@ -117,8 +116,8 @@ A webpage can be saved even if Zotero does not recognize the information on it �
 {% endhint %}
 
 6.	After you click the save button, a popup window will appear showing which Zotero collection the item is being saved to
-	Make sure you are saving to your chapter collection or a subcollection for your chapter within the Nexus Assessment library
-	If you want to save the item to a different collection or subcollection than the current selection, you can change the selection in the popup window (Figure 13)
+* Make sure you are saving to your chapter collection or a subcollection for your chapter within the Nexus Assessment library
+* If you want to save the item to a different collection or subcollection than the current selection, you can change the selection in the popup window (Figure 13)
 
 
 ### Add item manually
@@ -143,11 +142,11 @@ C.	For Store Citations As, select Fields
 D.	You can select Automatically update citations; if you find that this slows down the citation process, you can deselect this option and click “Refresh” in the Zotero ribbon to manually update the citations
 E.	Click “OK” (Figure 21)
 6.	You can also set the citation style and language in the Preferences window
-A.	To set the citation style, open the Preferences window > Cite tab > Styles tab > select American Psychological Association (APA) 7th edition (Figure 22)
-B.	To set the language, open the Preferences window > Advance tab > select English (UK) in the Language field (Figure 23)
+A.	To set the citation style, open the Preferences window > Cite tab > Styles tab > select American Psychological Association (APA) 7th edition
+B.	To set the language, open the Preferences window > Advance tab > select English (UK) in the Language field
 
 
-Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:&#x20;
+Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:
 
 ## Managing Zotero library items
 
