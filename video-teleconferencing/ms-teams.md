@@ -34,7 +34,7 @@ On the right side of the scheduling form you will have the option to add a chann
 
 ### Schedule a meeting from your calendar
 
-![](<../.gitbook/assets/image (9) (2).png>)
+![](<../.gitbook/assets/image (9) (2) (1) (1).png>)
 
 1. Open Outlook and switch to the calendar view. Click **New Teams Meeting** at the top of the view
 2. Add your invitees to the **To** field—you can even invite entire contact groups (formerly known as distribution lists). Add your meeting subject, location, start time, and end time. Then click **Send**.

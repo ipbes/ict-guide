@@ -2,9 +2,28 @@
 
 Zotero is, at the most basic level, a reference manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. More broadly, Zotero is a powerful tool for collecting and organizing research information and sources.
 
+IPBES has adopted Zotero so all experts must use Zotero:
+
+* To manage references
+* To add in-text citations as they write in word processors e.g. MS Word and Google Docs
+
 ## Getting started
 
 ### How do I install Zotero
+
+To use Zotero and its functions and make importing items easy, you need to install:
+
+1\.       The Zotero desktop app
+
+2\.       The Zotero Connector for Chrome or Firefox – note that some experts have reported issues with Zotero on Safari.
+
+**Note about operating systems:**
+
+Zotero should operate the same whether you are using Windows or macOS, although there may be slight differences in how the desktop app appears and how certain functions are accessed. Thus, the Zotero screenshots below may look slightly different from how the Zotero desktop app appears on a user’s screen. One difference is how to access the Zotero Preferences window to change or customize settings in the Zotero desktop app:
+
+**Windows**, upper left corner: Click Edit > Preferences > Sync tab
+
+**macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero)
 
@@ -16,52 +35,72 @@ Zotero is, at the most basic level, a reference manager. It is designed to store
 
 Zotero can be opened from your operating system's dock or file manager like any other program
 
+### Register with Zotero
+
+1\.       Go to [www.zotero.org](http://www.zotero.org)
+
+2\.       Click “Log in” in the upper right corner and then “Register for a free account” (in blue font above the login fields)
+
+3\.  You can update your email address and personal information once you are logged in.
+
 ### How do I join a group in Zotero
 
 During the development of an assessment, private groups will be created at the assessment or chapter level depending on the needs of the assessment. Private groups means that only experts who are invited to the group will be able to see the group’s page. The private groups are completely hidden from group searches. They are not shown on members’ public profile pages and will not appear in search engine results. File sharing will be made available to allow group members to access and share files in addition to references. Invitations to the groups are managed by the assessment technical support unit.
 
-## How to sync libraries
+## Important configurations
+
+### Sign in to Zotero Client
+
+Make sure you are sign in with the same email address that has been invited to an assessments library.
+
+![Linking an online account with the Zotero desktop app.](<../.gitbook/assets/image (24).png>)
+
+### Sync libraries
 
 {% hint style="info" %}
 You need to be signed in on the Zotero client
 {% endhint %}
 
-Consider syncing only the libraries you use. This will minimise bandwidth requirements and improve the fludity of your work.
+Consider syncing only the libraries you use. This will minimize bandwidth requirements and improve the fludity of your work.
 
 * Go to preferences
+  * **Windows**, upper left corner: Click Edit > Preferences > Sync tab
+  * **macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 * Click on Sync
 * Click on choose libraries
 * In addition to setting your library sync preferences, you should also configure preferences for file syncing. It is recommended to set the downloads to "as needed" as shown in the image below.
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-08 at 16.54.58.png" alt=""><figcaption><p>Sync settings for libraries and files</p></figcaption></figure>
 
-## Adding tags multiple entries
+### Disable automatic tagging
 
-You will need the Zotero Tag plug in for this ([https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag))&#x20;
+1\.       Open Zotero preferences and click on the General tab (gear icon):
 
-### Install
+**Windows**, upper left corner: Click Edit > Preferences > Sync tab
 
-* Download the latest release (.xpi file) from the [Releases Page](https://github.com/windingwind/zotero-tag/releases)\
-  _Note_ If you're using Firefox as your browser, right click the xpi and select "Save As.."
-* In Zotero click "Tools" in the top menu bar and then click "Addons"
-* Go to the Extensions page and then click the gear icon in the top right.
-* Select Install Add-on from file.
-* Browse to where you downloaded the .xpi file and select it.
-* Restart Zotero, by clicking "restart now" in the extensions list where the plugin is now listed.
+**macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 
-### Usage
+2\.       Under Miscellaneous, uncheck the box for “Automatically tag items with keywords and subject headings” (**Figure 4**)
 
-Once you have the plugin installed simply, right click any item in your collections to add/remove tags in batch.
+<img src="../.gitbook/assets/image (5).png" alt="Disabling automatic tags." data-size="original">
 
+### Configure style language
 
+* In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
+
+##
 
 ## Adding bibliography to library
+
+*
 
 ### Add item by identifier (recommended method)
 
 ![](https://lh4.googleusercontent.com/Brvh4bF2mM6QrwqBCUjoayFrhjvF0bdrKMWRgsbOW1YOwMd8OQgaSHx-svytBz8Yr0EPvFBGck7-Km\_HiVLHQbE8JutiEbUlnDiumejLjCS5Dmt2tcArgDWrFMaY1GdUB40nou62)
 
 Zotero can[ add items automatically](https://www.zotero.org/support/getting\_stuff\_into\_your\_library#add\_item\_by\_identifier) using their an ISBN number, Digital Object Identifier (DOI), or PubMed ID. This is done by clicking the Add Item by Identifier button (![](https://lh3.googleusercontent.com/5lCwJPGGSY5xQo5XjT9D0XZSjc\_MQkBddB9F\_FmL3MGrMutz7S7IWHYQkHcLyX3jWOPP9\_n9uAzvb7KXxyacHA1ZwJR\_XJVA99Tcb3UBycaRaFruu\_GWKohoc2yJV2SBFnim-mqm)) in the Zotero toolbar, typing in the ID number, and clicking OK. You can even paste or enter (press Shift+Enter for a larger box) a list of such identifiers at once
+
+*
 
 ### Add item manually
 
@@ -73,7 +112,7 @@ Items can be[ added manually](https://www.zotero.org/support/getting\_stuff\_int
 
 Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:&#x20;
 
-1. In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
+1.
 
 
 
@@ -101,6 +140,24 @@ If you use the Zotero word processor plugin to add citations to your document an
 4. Open the downloaded file in Word and click Refresh in the Zotero plugin to continue using the document.
 
 For more information please refer to [https://www.zotero.org/support/kb/moving\_documents\_between\_word\_processors](https://www.zotero.org/support/kb/moving\_documents\_between\_word\_processors)
+
+## Adding tags multiple entries
+
+You will need the Zotero Tag plug in for this ([https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag))&#x20;
+
+### Install
+
+* Download the latest release (.xpi file) from the [Releases Page](https://github.com/windingwind/zotero-tag/releases)\
+  _Note_ If you're using Firefox as your browser, right click the xpi and select "Save As.."
+* In Zotero click "Tools" in the top menu bar and then click "Addons"
+* Go to the Extensions page and then click the gear icon in the top right.
+* Select Install Add-on from file.
+* Browse to where you downloaded the .xpi file and select it.
+* Restart Zotero, by clicking "restart now" in the extensions list where the plugin is now listed.
+
+### Usage
+
+Once you have the plugin installed simply, right click any item in your collections to add/remove tags in batchd
 
 ## Reference workflow
 
@@ -159,6 +216,24 @@ Please use this workflow when the assessment has been approved and there will be
 Once you have finalized the clean up of the library you should change the library settings to limit modifications. The library "Group Type" should then be made public.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
+
+##
+
+## Additional information and guidance
+
+List of Zotero documentation: [https://www.zotero.org/support/](https://www.zotero.org/support/)
+
+Help and troubleshooting: [https://www.zotero.org/support/getting\_help](https://www.zotero.org/support/getting\_help)
+
+Frequently Asked Questions: [https://www.zotero.org/support/frequently\_asked\_questions](https://www.zotero.org/support/frequently\_asked\_questions)
+
+Knowledge base: [https://www.zotero.org/support/kb](https://www.zotero.org/support/kb)
+
+Zotero Forums: [https://forums.zotero.org/](https://forums.zotero.org/)
+
+&#x20;
+
+The Zotero Forums are searchable and can be very helpful if you have a unique or strange issue that cannot be resolved by the more common troubleshooting options.
 
 ## Useful plugins
 
