@@ -105,7 +105,7 @@ plot(worldmap) # Plot world map (vector)
 ## Warning in wkt(obj): CRS object has no comment
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-8-1 (2) (1).png>)
+![](<../../.gitbook/assets/unnamed-chunk-8-1 (2) (1) (1).png>)
 
 Now, we project the vector data into the Robinson projection and plot the map with graticules.
 
@@ -140,7 +140,7 @@ text(subset(labs, labs$islon), lab = parse(text = labs$lab[labs$islon]), pos = 3
 text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos = 2, xpd = NA) # plots latitude labels
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-10-1 (2) (1).png>)
+![](<../../.gitbook/assets/unnamed-chunk-10-1 (1) (1).png>)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
 

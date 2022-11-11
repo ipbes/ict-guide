@@ -6,10 +6,6 @@ Almost all text on GitHub is processed through a markup language called Markdown
 
 ## Getting started
 
-### Creating an account
-
-### Desktop application
-
 ### Request creation of a repository
 
 Please fill in [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Xtvls0QpN0iZ9XSIrOVDGRjPVLkvpFxHt2K19TYogsBUNVJXQUpQWVFUQ0M0RzNGN0c0U1cxQjBXVi4u) to request a repository to be created for you under the IPBES community.

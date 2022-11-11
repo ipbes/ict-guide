@@ -112,7 +112,7 @@ ggplot() +
   ggspatial::annotation_scale(location = "bl") # sets scale bar
 ```
 
-![](<../../.gitbook/assets/unnamed chunk 5 1 (2) (1)>)
+![](<../../.gitbook/assets/unnamed chunk 5 1 (2) (2)>)
 
 ### _B. Projections_
 

@@ -6,7 +6,6 @@
 
 * [Welcome](introduction/welcome.md)
 * [Getting help](introduction/contact.md)
-* [Contributing to the IPBES ICT user guide](introduction/contributing-to-the-ipbes-ict-user-guide.md)
 
 ## Data Management
 

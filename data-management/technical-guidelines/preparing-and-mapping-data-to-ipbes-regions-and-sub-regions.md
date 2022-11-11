@@ -281,7 +281,7 @@ palette <- c("grey","aliceblue", "lightskyblue", "dodgerblue", "dodgerblue4") # 
 plot(data_region[,2], pal = palette, main = "Total population (millions) in 2018 per region")
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-17-1 (1) (2).png>)
+![](<../../.gitbook/assets/unnamed-chunk-17-1 (1) (2) (3).png>)
 
 If you would like to add graticules and an ocean background, follow this example. First, we will set up the graticules we will plot
 
@@ -309,7 +309,7 @@ legend("bottom", # adding the legend last
 box(which = "plot", lty = "solid") # Map frame 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-19-1 (1).png>)
+![](<../../.gitbook/assets/unnamed-chunk-19-1 (1) (2).png>)
 
 We can also plot by subregion.
 
@@ -317,6 +317,6 @@ We can also plot by subregion.
 plot(data_subregion[,2], main = "Total population (millions) in 2018 per sub-region", breaks = "quantile")
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-20-1 (1).png>)
+![](<../../.gitbook/assets/unnamed-chunk-20-1 (1) (2) (1).png>)
 
 Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)

@@ -2,7 +2,7 @@
 
 ### Reference workflow
 
-<figure><img src="../../.gitbook/assets/references-flow_zotero.jpg" alt=""><figcaption><p>Reference workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/References flow_Zotero.jpg" alt=""><figcaption><p>Reference workflow</p></figcaption></figure>
 
 1. The technical support units will be required to clean references stored in Zotero periodically. Experts will only have read only access when this is taking place
 2. Experts are strongly encouraged to import references into Zotero using the Zotero web tool or by importing .ris and .bib files. Dragging of PDF files is discourgaged
@@ -16,7 +16,7 @@ When sharing items with another Zotero user, select Zotero RDF with files and no
 
 <figure><img src="../../.gitbook/assets/zotero_export_library.jpg" alt=""><figcaption><p>Exporting an entire library</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2%20(1).jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2.jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
 
 ### Deleting multiple attachments
 
@@ -24,11 +24,11 @@ Deleting multiple attachments requires the creation of a "Saved Search". This ca
 
 1. Do an advanced search for "Attachment FIle Type --is --- PDF"
 
-<figure><img src="../../.gitbook/assets/Screenshot%202022-09-15%20at%2008.50.50.png" alt=""><figcaption><p>Advanced search</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-09-15 at 08.50.50.png" alt=""><figcaption><p>Advanced search</p></figcaption></figure>
 
 1. Create a saved search
 
-<figure><img src="../../.gitbook/assets/Screenshot%202022-09-15%20at%2008.52.27.png" alt=""><figcaption><p>Select "Attachment File Type" is "PDF" and then click on "Save Search"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-09-15 at 08.52.27.png" alt=""><figcaption><p>Select "Attachment File Type" is "PDF" and then click on "Save Search"</p></figcaption></figure>
 
 1. Navigate to the saved search and select all (ctrl+a or cmd+a on a mac) and the right-click on "move items to trash".
 
@@ -36,7 +36,7 @@ Deleting multiple attachments requires the creation of a "Saved Search". This ca
 The saved search will also contain the items to which the PDFs are attached, select all will only select the attachments.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot%202022-09-15%20at%2009.03.58.png" alt=""><figcaption><p>Navigate to your Saved Search and select all attachments</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-09-15 at 09.03.58.png" alt=""><figcaption><p>Navigate to your Saved Search and select all attachments</p></figcaption></figure>
 
 ### Workflow to clean and finalize libraries
 
@@ -56,7 +56,7 @@ Please use this workflow when the assessment has been approved and there will be
 
 Once you have finalized the clean up of the library you should change the library settings to limit modifications. The library "Group Type" should then be made public.
 
-<figure><img src="../../.gitbook/assets/image%20(39).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
 
 ### Useful plugins
 

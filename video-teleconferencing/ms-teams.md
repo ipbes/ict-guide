@@ -10,7 +10,7 @@ You can launch an instant meeting with a colleague using the Meet Now service of
 
 1. Click on the Meet Now icon from a channel or conversation.
 
-![Meet Now icon](<../.gitbook/assets/image (9) (2) (1) (1).png>)
+![Meet Now icon](<../.gitbook/assets/image (9) (1) (2).png>)
 
 1. In your video preview, enter a name for the meeting, and select Meet Now
 2. Select the names of the team members you want to invite to the meeting. You can also type a phone number, a good way to add people outside your organization that aren't using Teams.

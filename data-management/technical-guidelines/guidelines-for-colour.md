@@ -58,7 +58,7 @@ To display all of the prepared palettes within the RColorBrewer package run this
 RColorBrewer::display.brewer.all()
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-2-1 (1) (1).png>)
+![](<../../.gitbook/assets/unnamed-chunk-2-1 (1) (1) (2).png>)
 
 To display all of the colourblind friendly palettes run this:
 
@@ -129,7 +129,7 @@ ggplot(cities) +
         panel.grid.major = element_line(color = "grey80")) # controls the grid line colour 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-7-1 (2).png>)
+![](<../../.gitbook/assets/unnamed-chunk-7-1 (2) (2) (1).png>)
 
 **Example 2: Categorical Data**\
 We now will use the land dataset and function scale\_fill\_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
