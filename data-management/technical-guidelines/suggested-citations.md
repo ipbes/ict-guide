@@ -4,7 +4,7 @@ description: Technical Guideline Series
 
 # Part 7 - How to Cite IPBES Assessment Reports
 
-**Reviewed by the Technical Support Units of the Values and Sustainable Use Assessments**
+**Prepared by the technical support unit of knowledge and data**
 
 _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
