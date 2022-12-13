@@ -16,7 +16,7 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 * Click on MyAccount
 * Click on "Account" to expand section
 
-![Account section on www.ipbes.net](<../.gitbook/assets/ipbes\_account\_section (1).jpg>)
+![Account section on www.ipbes.net](../.gitbook/assets/ipbes\_account\_section.jpg)
 
 * Scroll to the bottom of the page
 * Check the box to subscribe

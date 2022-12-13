@@ -6,7 +6,7 @@ description: https://live.kudoway.com/
 
 ## Introduction
 
-{% file src="../.gitbook/assets/kudo-it-readiness_participant.pdf" %}
+{% file src="../.gitbook/assets/KUDO - IT-Readiness_Participant.pdf" %}
 KUDO - IT Readiness
 {% endfile %}
 
@@ -59,7 +59,7 @@ At the bottom you will see the audio and video settings:
 
 The column on the right has many features:
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 1. “Share Screen”
 2. The “Messages” function

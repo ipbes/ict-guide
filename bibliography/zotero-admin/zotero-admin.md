@@ -2,7 +2,7 @@
 
 ### Reference workflow
 
-<figure><img src="../../.gitbook/assets/References flow_Zotero.jpg" alt=""><figcaption><p>Reference workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/references-flow_zotero.jpg" alt=""><figcaption><p>Reference workflow</p></figcaption></figure>
 
 1. The technical support units will be required to clean references stored in Zotero periodically. Experts will only have read only access when this is taking place
 2. Experts are strongly encouraged to import references into Zotero using the Zotero web tool or by importing .ris and .bib files. Dragging of PDF files is discourgaged
@@ -16,7 +16,7 @@ When sharing items with another Zotero user, select Zotero RDF with files and no
 
 <figure><img src="../../.gitbook/assets/zotero_export_library.jpg" alt=""><figcaption><p>Exporting an entire library</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2.jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2 (1).jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
 
 ### Deleting multiple attachments
 

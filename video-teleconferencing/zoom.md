@@ -49,7 +49,7 @@ If you have any question(s) or need any help, email us at: ipbes.registration@ip
 * ZOOM [regularly provides new versions](https://support.zoom.us/hc/en-us/articles/360042414611) of the ZOOM desktop client and mobile app to release new features and fix bugs. **We recommend upgrading to the latest version once it is available.** You can also [check which version you're currently running.](https://support.zoom.us/hc/en-us/articles/201362393)&#x20;
 * Follow the instructions below to update your ZOOM client.
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 ### Test call
 

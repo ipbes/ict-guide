@@ -43,7 +43,7 @@ You need to be logged in to view or update your profile. See previous section on
 
 Once logged in, you’ll see your most recent content, your profile details, and your profile image.
 
-![](<../.gitbook/assets/ipbes\_account\_section (1).jpg>)
+![](../.gitbook/assets/ipbes\_account\_section.jpg)
 
 Click on **Edit** to check and update all your account information and personal information. You will also get access to additional information about you in the **About** section as well as your timezone and your profile image. You can also see which Groups you belong to and delete your account by clicking the Cancel account button.
 
