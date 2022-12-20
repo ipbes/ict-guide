@@ -85,7 +85,7 @@ All files within one shapefile share the same file name with different extension
 
 * .shp - Mandatory. Contains the geometry for each feature - each record describes a shape with a list of its vertices
 * .shx - Mandatory. Stores the index of the feature geometry
-* .dbf - Mandatory. Dataset that stores the attribute information of feature with a one-to-one relationship between geometry and attribute rows
+* .dbf - Mandatory. Dataset that stores the attribute information of features with a one-to-one relationship between geometry and attribute rows
 * .prj - Necessary. Stores the metadata associated with the shapefiles coordinate and projection system. This file needs to be included or the data can not be used correctly
 * .xml - Optional. Contains the metadata associated with the shapefile
 * .sbn and .sbx - Optional. Two spatial index files that optimize spatial queries. These two files make up a shape index to speed up spatial queries
@@ -568,7 +568,7 @@ dev.off()
 
 #### _iii. TIFF_
 
-Another option is TIFF. A TIFF (Tagged Image File) is a raster file that also supports lossless compression. We do not recommend using this tile type on websites as it is slow to load due to its large size and has limited browser support, but it is recommended for long term storage or publications. If there are no concerns about losing embeded metadata and tags, in general, it makes sense to convert a TIFF image to PNG as it reduces the size and is lossless.
+Another option is TIFF. A TIFF (Tagged Image File) is a raster file that also supports lossless compression. We do not recommend using this tile type on websites as it is slow to load due to its large size and has limited browser support, but it is recommended for long term storage or publications. If there are no concerns about losing embedded metadata and tags, in general, it makes sense to convert a TIFF image to PNG as it reduces the size and is lossless.
 
 To export a TIFF image file from R, one can use this base code and change and add additional arguments to the `tiff()` function, although we discourage exporting graphs in tiff.
 
