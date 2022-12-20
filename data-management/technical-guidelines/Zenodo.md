@@ -134,7 +134,7 @@ To link your GitHub repository to a Zenodo page, follow the these steps:
 1. Log in and choose your repository on GitHub and ensure it is publicly available
 2. Log into your Zenodo account
 3. Now, next to your email at the top right of the Zenodo page, there is a little drop down menu, select GitHub and select authorize application to give Zenodo the permissions it needs. Once this occurs, you should see a list of repositories, toggle the button next to your chosen repository into the ON position (see figure 4)
-4. Back on GitHub, under settings click "Webhooks" in the left-hand menu. There should be a webook configured to Zenodo
+4. Back on GitHub, under settings click "Webhooks" in the left-hand menu. There should be a webhook configured to Zenodo
 5. Create a new [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) on your GitHub repository. Click publish
 6. Back on Zenodo under the Upload tab, there should now be a new draft upload where you can reserve a DOI for your repository, edit the information and publish
 
