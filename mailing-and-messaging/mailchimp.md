@@ -29,7 +29,7 @@ You need to be subscribed to the IPBES mailing list to receive notifications fro
 ### Unsubscribe from the website
 
 * Follow the steps detailed in the subscribe section above to get to the Account section
-* Uncheck the **Subscribe** box to unubscribe
+* Uncheck the **Subscribe** box to unsubscribe
 * Save changes
 
 ### Unsubscribe from email
