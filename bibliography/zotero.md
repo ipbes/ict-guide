@@ -7,8 +7,6 @@ IPBES has adopted Zotero so all experts must use Zotero:
 * To manage references
 * To add in-text citations as they write in word processors e.g. MS Word and Google Docs
 
-
-
 ## Getting started
 
 ### Install Zotero
@@ -25,7 +23,6 @@ Zotero should operate the same whether you are using Windows or macOS, although 
 
 **macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 {% endhint %}
-
 
 [https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero)
 
@@ -48,32 +45,42 @@ Zotero can be opened from your operating system's dock or file manager like any 
 During the development of an assessment, private groups will be created at the assessment or chapter level depending on the needs of the assessment. Private groups means that only experts who are invited to the group will be able to see the group’s page. The private groups are completely hidden from group searches. They are not shown on members’ public profile pages and will not appear in search engine results. File sharing will be made available to allow group members to access and share files in addition to references. Invitations to the groups are managed by the assessment technical support unit.
 
 ### Important terms
-Relevant Zotero documentation: https://www.zotero.org/support/collections_and_tags
+
+Relevant Zotero documentation: https://www.zotero.org/support/collections\_and\_tags
+
 #### Item
+
 Zotero refers to a reference as an item; for example, when you add a reference to a Zotero library, you are an adding an item to that library.
 
 #### Collection
-Collection: A group or subgroup within a library that allows for hierarchical organization; a collection is like a folder on a computer and is represented by a folder icon. The same item can belong to multiple collections. An item can be imported directly into a collection or imported to the library and then added to a collection. Note that collections are not portable when copying items between different libraries. Collections are  used to organize items belonging to a Zotero library.
+
+Collection: A group or subgroup within a library that allows for hierarchical organization; a collection is like a folder on a computer and is represented by a folder icon. The same item can belong to multiple collections. An item can be imported directly into a collection or imported to the library and then added to a collection. Note that collections are not portable when copying items between different libraries. Collections are used to organize items belonging to a Zotero library.
 
 {% hint style="info" %}
 Due to how Zotero permissions work, everyone has access to all the chapter collections. Please only work within your own chapter collection (and subcollections if applicable) and do not add or delete items from other chapters’ collections or subcollections
 {% endhint %}
 
 #### Tag
+
 A tag is like hashtag or keyword and is used for more detailed characterization of an item than simply placing an item in a collection or subcollection. The number of tags that can be assigned to an item is unlimited. A library or collection can be filtered by a tag or a set of tags to show the items that have been assigned the selected tag(s). Note that tags are portable; if you copy an item from one library to another the item’s tag(s) will transfer along with the item.
 
 ### Navigating Zotero
+
 #### Left pane
+
 * Libraries, collections, subcollections, duplicates
 * Tags are displayed in the lower left corner
 
 #### Center pane
+
 Items are displayed in the center panel:
+
 * Standard columns for the center panel are Title, Creator (i.e., the author of the reference), and attachment (paper clip icon)
 * To sort the center panel view: Click on the column heading to sort by that heading; for example, if you click on the “Title” column header, items will be arranged alphabetically by title; clicking the “Title” header again will sort the items in reverse alphabetical order
 * You can add additional columns to the center panel view by right clicking one of the column headers and selecting additional headers from the popup list; for example, you may wish to have a column for “Year” which displays the year the refence was published
 
 #### Right pane
+
 Information for a given item is displayed in the right panel when you click on an item in the center panel.
 
 ## Important configurations
@@ -109,14 +116,13 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 **macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 
-2. Under Miscellaneous, uncheck the box for “Automatically tag items with keywords and subject headings” (**Figure 4**)
+1. Under Miscellaneous, uncheck the box for “Automatically tag items with keywords and subject headings” (**Figure 4**)
 
 <img src="../.gitbook/assets/image (5).png" alt="Disabling automatic tags." data-size="original">
 
 ### Config 4: Configure style language
 
-* In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.&#x20;
-
+* In the[ Zotero Style Manager](https://www.zotero.org/support/preferences/cite), click on the American Psychological Association 7th edition. If it is not in the list of styles, click the 'Get additional styles' button, then find the “American Psychological Association 7th edition” style and click ok.
 
 ## Adding bibliography to library
 
@@ -127,30 +133,31 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 Zotero can[ add items automatically](https://www.zotero.org/support/getting\_stuff\_into\_your\_library#add\_item\_by\_identifier) using their an ISBN number, Digital Object Identifier (DOI), or PubMed ID. This is done by clicking the Add Item by Identifier button (![](https://lh3.googleusercontent.com/5lCwJPGGSY5xQo5XjT9D0XZSjc\_MQkBddB9F\_FmL3MGrMutz7S7IWHYQkHcLyX3jWOPP9\_n9uAzvb7KXxyacHA1ZwJR\_XJVA99Tcb3UBycaRaFruu\_GWKohoc2yJV2SBFnim-mqm)) in the Zotero toolbar, typing in the ID number, and clicking OK. You can even paste or enter (press Shift+Enter for a larger box) a list of such identifiers at once
 
 ### Option 2: Add item using the Zotero connector
+
 The Zotero Connector is a very useful tool for adding items to Zotero as it allows you to import items directly into Zotero with one click while browsing the web.
 
 {% hint style="info" %}
 Zotero recommends adding items via a web browser rather than adding them manually. When adding an item from the web, Zotero automatically extracts the item’s metadata and downloads the PDF if available. This reduces errors in the item information.
 {% endhint %}
 
-1.	Make sure you installed the Zotero Connector
-2.	Make sure the Zotero desktop app is open
-3.	Complete your browser search for an item (i.e. reference)
-4.	When you find an item you want to add to your chapter collection, click on the link for the item to go to the item’s webpage – for example, if you search for a journal article, click on the link that takes you to the journal’s page for the article
-5.	Click the Zotero save button in the upper right corner of the browser screen, to the right of the address bar
+1. Make sure you installed the Zotero Connector
+2. Make sure the Zotero desktop app is open
+3. Complete your browser search for an item (i.e. reference)
+4. When you find an item you want to add to your chapter collection, click on the link for the item to go to the item’s webpage – for example, if you search for a journal article, click on the link that takes you to the journal’s page for the article
+5. Click the Zotero save button in the upper right corner of the browser screen, to the right of the address bar
 
 {% hint style="info" %}
-The Zotero save button resemble different icon forms depending on the type of item the current webpage is displaying – for example, the save icon for a journal article is a lined sheet of paper and the save icon for a book is a blue book 
+The Zotero save button resemble different icon forms depending on the type of item the current webpage is displaying – for example, the save icon for a journal article is a lined sheet of paper and the save icon for a book is a blue book
 {% endhint %}
 
 {% hint style="info" %}
 A webpage can be saved even if Zotero does not recognize the information on it – the save icon will be a gray webpage
 {% endhint %}
 
-6.	After you click the save button, a popup window will appear showing which Zotero collection the item is being saved to
+1. After you click the save button, a popup window will appear showing which Zotero collection the item is being saved to
+
 * Make sure you are saving to your chapter collection or a subcollection for your chapter within the Nexus Assessment library
 * If you want to save the item to a different collection or subcollection than the current selection, you can change the selection in the popup window (Figure 13)
-
 
 ### Option 3: Add item manually
 
@@ -163,20 +170,23 @@ Items can be[ added manually](https://www.zotero.org/support/getting\_stuff\_int
 ### Citing in MS word
 
 Once you have the document open the Word desktop app, do the following to add a citation:
-1.	Open Zotero desktop app if it is not open already
-2.	In the Word document, place the cursor where you want to add the citation
-3.	Click on the Zotero tab in the ribbon at the top of the document
-4.	Click the “Add/Edit Citation” button in the Zotero ribbon
-5.	The first time you click the “Add/Edit Citation” button, the Zotero – Document Preferences window will pop-up; select the following options:
+
+1. Open Zotero desktop app if it is not open already
+2. In the Word document, place the cursor where you want to add the citation
+3. Click on the Zotero tab in the ribbon at the top of the document
+4. Click the “Add/Edit Citation” button in the Zotero ribbon
+5. The first time you click the “Add/Edit Citation” button, the Zotero – Document Preferences window will pop-up; select the following options:
+
 * American Psychological Association (APA) 7th edition
 * Language: English (UK)
 * For Store Citations As, select Fields
 * You can select Automatically update citations; if you find that this slows down the citation process, you can deselect this option and click “Refresh” in the Zotero ribbon to manually update the citations
 * Click “OK”
-6.	You can also set the citation style and language in the Preferences window
+
+1. You can also set the citation style and language in the Preferences window
+
 * To set the citation style, open the Preferences window > Cite tab > Styles tab > select American Psychological Association (APA) 7th edition
 * To set the language, open the Preferences window > Advance tab > select English (UK) in the Language field
-
 
 Zotero uses Citation Style Language (CSL) to properly format citations in many different bibliographic [styles](https://www.zotero.org/styles). IPBES has adopted the American Psychological Association 7th edition style. To use this style:
 
@@ -184,7 +194,7 @@ Zotero uses Citation Style Language (CSL) to properly format citations in many d
 
 ### Tags
 
-For more information about tags, please see here: https://www.zotero.org/support/collections_and_tags
+For more information about tags, please see here: https://www.zotero.org/support/collections\_and\_tags
 
 Tags for the library or collection currently displayed in the Zotero center pane are shown in the tag selector box in the lower left corner of the page (see Figure 3).
 
@@ -193,17 +203,18 @@ You can search the library’s tags by typing in the field at the bottom of the 
 #### Adding tags
 
 Note that some items may have tags automatically added upon import into Zotero. After you add an item to your chapter collection or subcollection, you can add tags to an item.
-1.	Click on the item in the center panel– a panel to the right will display the bibliographic information under the “Info” tab
-2.	Click the “Tags” tab in the right-hand panel – any tags currently applied to the item will be displayed
-3.	Click the “Add” button
-4.	Start typing the tag name in the field that appears – as you type, a list of matching existing tags will be displayed
-5.	Continue typing your own tag – press the Enter/Return key to apply the tag or select an existing tag from the list and press the Enter/Return key
+
+1. Click on the item in the center panel– a panel to the right will display the bibliographic information under the “Info” tab
+2. Click the “Tags” tab in the right-hand panel – any tags currently applied to the item will be displayed
+3. Click the “Add” button
+4. Start typing the tag name in the field that appears – as you type, a list of matching existing tags will be displayed
+5. Continue typing your own tag – press the Enter/Return key to apply the tag or select an existing tag from the list and press the Enter/Return key
 
 #### Removing tags
 
-1.	Click on the item in the center panel– a panel to the right will display the bibliographic information under the “Info” tab
-2.	Click the “Tags” tab in the right-hand panel – any tags currently applied to the item will be displayed
-3.	Click the minus sign button (“-“) next to the tag you want to remove
+1. Click on the item in the center panel– a panel to the right will display the bibliographic information under the “Info” tab
+2. Click the “Tags” tab in the right-hand panel – any tags currently applied to the item will be displayed
+3. Click the minus sign button (“-“) next to the tag you want to remove
 
 #### Filtering by tags
 
@@ -211,11 +222,11 @@ To filter items in the current display by tag, click on the tag or tags you woul
 
 #### Tag multiple entries
 
-You will need the Zotero Tag plug in for this ([https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag))&#x20;
+You will need the Zotero Tag plug in for this ([https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag))
 
 * Download the latest release (.xpi file) from the [Releases Page](https://github.com/windingwind/zotero-tag/releases)\
   _Note_ If you're using Firefox as your browser, right click the xpi and select "Save As.."
-* In Zotero click "Tools" in the top menu bar and then click "Addons"
+* In Zotero click "Tools" in the top menu bar and then click "Add-ons"
 * Go to the Extensions page and then click the gear icon in the top right.
 * Select Install Add-on from file.
 * Browse to where you downloaded the .xpi file and select it.
@@ -225,8 +236,7 @@ Once you have the plugin installed simply, right click any item in your collecti
 
 ### Managing duplicates
 
-For more information about duplicate items, please see here:
-https://www.zotero.org/support/duplicate_detection
+For more information about duplicate items, please see here: https://www.zotero.org/support/duplicate\_detection
 
 Given the number of nexus assessment authors, it is inevitable that the same item will be added to the same collection more than once or to multiple collections (i.e., multiple Zotero chapter folders). Thus, there will be duplicate items in the group library and possibly in a given collection or subcollection.
 
@@ -238,25 +248,25 @@ Click on the “Duplicate Items” collection in the left-hand panel under the N
 If you decide to detect duplicates, always MERGE duplicates (see below) rather than deleting them. Merging retains all of the collections and tags associated with an item. Please do not delete a duplicate – this removes the item and its information and you may end up removing an item or an item’s information from a chapter other than your own.
 {% endhint %}
 
-
-#### Merge duplicates 
+#### Merge duplicates
 
 To merge items in the “Duplicate Items” collection:
-1.	Select an item in the center pane
-2.	Zotero automatically co-selects the other items that it thinks are duplicates – all of the duplicates for the selected item will be highlighted in light blue
-3.	In the right pane, click the “Merge <number> Items” button
-4.	If the information fields for the item do not match completely across the duplicates, you can:
+
+1. Select an item in the center pane
+2. Zotero automatically co-selects the other items that it thinks are duplicates – all of the duplicates for the selected item will be highlighted in light blue
+3. In the right pane, click the “Merge Items” button
+4. If the information fields for the item do not match completely across the duplicates, you can:
+
 * Select one item to be the master item from the list at the top of the right pane
 * Select the version of mismatched fields to include using the icons to the right of each field
 
-
 ## Moving Documents with Zotero Citations Between Word Processors
 
-It is important to retain citation links in the final versions of documents.&#x20;
+It is important to retain citation links in the final versions of documents.
 
 Authors have different preferences for their choice in word processors. Many experts prefer to use Google Docs because it facilitates online collaboration and it is easy to use. The drafts and and final documents are however, reviewed in MS Word so it is important to convert documents between different processors carefully to retain citation links.
 
-If you use the Zotero word processor plugin to add citations to your document and then open the document in another word processor, the Zotero citation links will be lost. To retain active Zotero citations when moving between programs, you can use the plugin to convert the document to a temporary format that can be safely transferred and then restore it in another supported word processor.&#x20;
+If you use the Zotero word processor plugin to add citations to your document and then open the document in another word processor, the Zotero citation links will be lost. To retain active Zotero citations when moving between programs, you can use the plugin to convert the document to a temporary format that can be safely transferred and then restore it in another supported word processor.
 
 ### Word to Google Docs
 
@@ -278,11 +288,11 @@ For more information please refer to [https://www.zotero.org/support/kb/moving\_
 ## Generating a bibliography list
 
 To create a reference list based on the citations added to the document:
-1.	Place the cursor where you want to add the reference list
-2.	Click on the Zotero tab in the ribbon at the top of the document
-3.	Click the “Add/Edit Bibliography” button in the Zotero ribbon
-4.	The reference list is automatically added to the document
 
+1. Place the cursor where you want to add the reference list
+2. Click on the Zotero tab in the ribbon at the top of the document
+3. Click the “Add/Edit Bibliography” button in the Zotero ribbon
+4. The reference list is automatically added to the document
 
 ## Troubleshooting
 
