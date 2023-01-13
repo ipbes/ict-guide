@@ -8,7 +8,7 @@ Zenodo ([https://zenodo.org/](https://zenodo.org/)) is a general-purpose free an
 
 ## Curation policy
 
-Uploads (supporting material) must be material that have been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; Guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
+Uploads (supporting material) must be material that have been prepared for Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and may include dialogue reports, reports and proceedings of workshops commissioned or supported by IPBES, software or databases that facilitate the preparation or use of IPBES reports, policy-relevant tools and methodologies that facilitate the preparation or use of IPBES reports; guidance materials that assist in the preparation of comprehensive and scientifically sound IPBES reports. Supporting materials are not accepted, approved or adopted by the IPBES Plenary.
 
 ## Community URLs
 
