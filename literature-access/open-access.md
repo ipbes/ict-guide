@@ -1,6 +1,6 @@
 # Open access literature
 
-Examples of repositories to search directly
+There are many different repositories used to search for papers directly. A short list of the most well-known ones can be found here, with urls so that these websites can be accessed directly.
 
 ## Journals
 
