@@ -4,14 +4,12 @@
 
 [About ORCID](https://orcid.org/about/what-is-orcid/mission)
 
-## Why do you need an ORCID
+## Why we strongly recommend the registration and use of an ORCID account
 
-1. An ORCID iD reliably connects you with your works, awards, and affiliations.&#x20;
-2. ORCID alleviates mistaken identity. Many researchers share the same, or a similar name, making it easy to confuse you with someone else. This is even more likely to be the case if you have changed your name, use different versions of your name, or have a name that has been transliterated into other languages.&#x20;
-3. You own and control your record, managing what information is connected and how it is shared. ORCID’s visibility settings are very granular, so you can make different data elements visible to different groups.
-4. More and more of the systems you already use are connected with ORCID. With over 700 members and more than 500 live integrations, ORCID is already being used in many of your existing workflows.&#x20;
-5. ORCID improves recognition for you and your research. Using your iD creates reliable connections between your iD and your research activities.&#x20;
-6. ORCID increases discoverability of your research outputs.&#x20;
+1. An ORCID iD reliably connects you with your works, awards and affiliations. Using an ORCID id alleviates mistaken identity; which can occur for example when your name is more common, you have changed your name, use different versions of your name or have a name that has been transliterated into other languages.&#x20;
+2. ORCID improves recognition for you and your research. Using your iD create reliable connections between your iD and your research activities. It also increases the discoverability of your research outputs.
+3. You own and control your own record, can manage which information is connected, and how it is shared. ORCID’s visibility settings are very granular, so you can make different data elements visible to different groups.
+4. More and more of the systems you already use are connected with ORCID. With [more than 10 million ORCID iDs in 2020](https://info.orcid.org/10m-orcid-ids/), and more than 1200 member organizations and more than 500 live integrations, ORCID is already being used in many of your existing workflows.
 
 ## How to register
 
