@@ -16,14 +16,14 @@ Uploads (supporting material) must be material that have been prepared for Inter
 * **Upload URL**: address will automatically ensure people who use it will have their record added to your community collection [https://zenodo.org/deposit/new?c=ipbes](https://zenodo.org/deposit/new?c=ipbes)
 * **Harvesting URL**: links to a OAI-PMH feed, which can be used by other digital repositories to harvest this community [https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai\_dc](https://zenodo.org/oai2d?verb=ListRecords\&set=user-ipbes\&metadataPrefix=oai\_dc)
 
-## What does Zenodo provide/Why Zenodo?
+## What does Zenodo provide, and why do we use and recommend it?
 
-* A persistent Digital Object identifier (DOI) is assigned for each upload to make it citable and trackable and findable. The assignment of the DOI is instantaneous when the expert is submitting the file. It is possible to reserve DOI.
+* A persistent Digital Object Identifier (DOI) is assigned for each upload to Zenodo, which makes files citable, trackable and findable. It is possible to reserve a DOI. If a DOI is not reserved, one will automatically be assigned when the expert is submitting the file.
 * Metadata of each record is sent to DataCite servers during DOI registration and indexed there.
-* Data and metadata will be retained for the lifetime of the repository. This is currently the lifetime of the host laboratory CERN, which currently has an experimental programme defined for the next 20 years.
-* Large file sizes of up to 50 GB
-* Versioning of data
-* Integration with GitHub
+* Data and metadata will be retained for the lifetime of the repository, which is as long as CERN exists.
+* Zenodo accepts large file sizes, up to 50 GB. There is no limit on the number of files, so if you require more space, you can add more files.
+* Zenodo keeps automatic track of the versioning of your files. Each file gets 2 DOIs automatically, one for the specific file, and one for the project. If you search for the DOI of the project, you will automatically be forwarded to the latest version of the file. This makes it easier to keep track of your different files and of the workflow.
+* Integration with GitHub; you can easily set up a connection between Zenodo and GitHub. The instructions can be found in [Part 6 of the Technical Guideline Series](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/Zenodo#iii.-how-to-upload-to-zenodo-using-github), DOI: 10.5281/zenodo.6834336)
 * All data and metadata uploaded is traceable to a registered Zenodo user.
 
 ## What metadata is required by Zenodo
