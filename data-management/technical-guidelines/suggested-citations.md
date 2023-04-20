@@ -42,7 +42,8 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 **Chapter 1: Introducing biological invasions and the IPBES thematic assessment of invasive alien species and their control**\
 DOI: [https://doi.org/10.5281/zenodo.7430723](https://doi.org/10.5281/zenodo.7430723)
 
-> Roy, H. E., Pauchard, A., Stoett, P., Renard Truong, T., Lipinskaya, T., and Vicente, J. R. (2023). Chapter 1: Introducing biological invasions and the IPBES thematic assessment of invasive alien species and their control. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.7430723](https://doi.org/10.5281/zenodo.7430723)
+> Roy, H. E., Pauchard, A., Stoett, P., Renard Truong, T., Lipinskaya, T., and Vicente, J. R. (2023). Chapter 1: Introducing biological invasions and the IPBES thematic assessment of invasive alien species and their control. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.7430723](https://doi.org/10.5281/zenodo.7430723)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter1.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter1.ris).
 
@@ -61,7 +62,8 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 **Chapter 3: Drivers of biodiversity change affecting biological invasions**\
 DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
-> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers of biodiversity change affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
+> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers of biodiversity change affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter3.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter3.ris).
 
@@ -70,16 +72,17 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 **Chapter 4: Impacts of biological invasions on nature, nature’s contributions to people, and good quality of life**\
 DOI: [https://doi.org/10.5281/zenodo.7430731](https://doi.org/10.5281/zenodo.7430731)
 
-> Bacher, S., Galil, B. S., Nuñez, M. A., Ansong, M., Cassey, P., Dehnen-Schmutz, K., Fayvush, G., Hiremath, A. J., Ikegami, M., Martinou, A. F., McDermott, S. M., Preda, C., Vilà, M., Weyl, O. L. F., Fernandez, R. D., and Ryan-Colton, E. (2023). Chapter 4: Impacts of biological invasions on nature, nature’s contributions to people, and good quality of life. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.7430731](https://doi.org/10.5281/zenodo.7430731)
+> Bacher, S., Galil, B. S., Nuñez, M. A., Ansong, M., Cassey, P., Dehnen-Schmutz, K., Fayvush, G., Hiremath, A. J., Ikegami, M., Martinou, A. F., McDermott, S. M., Preda, C., Vilà, M., Weyl, O. L. F., Fernandez, R. D., and Ryan-Colton, E. (2023). Chapter 4: Impacts of biological invasions on nature, nature’s contributions to people, and good quality of life. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.7430731](https://doi.org/10.5281/zenodo.7430731)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter4.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter4.ris).
 
 ### Chapter 5
 
-**Chapter 5: Management; Challenges, Opportunities and Lessons Learned**\
+**Chapter 5: Management; challenges, opportunities and lessons learned**\
 DOI: [https://doi.org/10.5281/zenodo.7430733](https://doi.org/10.5281/zenodo.7430733)
 
-> Sankaran, K. V., Schwindt, E., Sheppard, A. W., Foxcroft, L. C., Vanderhoeven, S., Egawa, C., Peacock, L., Castillo, M. L., Zenni, R. D., Müllerová, J., González-Martínez, A. I., Bukombe, J. K., Wanzala, W., and Mangwa, D. C. (2023). Chapter 5: Management; Challenges, Opportunities and Lessons Learned. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> Sankaran, K. V., Schwindt, E., Sheppard, A. W., Foxcroft, L. C., Vanderhoeven, S., Egawa, C., Peacock, L., Castillo, M. L., Zenni, R. D., Müllerová, J., González-Martínez, A. I., Bukombe, J. K., Wanzala, W., and Mangwa, D. C. (2023). Chapter 5: Management; challenges, opportunities and lessons learned. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.7430733](https://doi.org/10.5281/zenodo.7430733)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter5.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter5.ris).
@@ -243,7 +246,8 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Values\_As
 **Chapter 5: The role of diverse values of nature in visioning and transforming towards just and sustainable futures**\
 DOI: [https://doi.org/10.5281/zenodo.6522326](https://doi.org/10.5281/zenodo.6522326)
 
-> Martin, A., O'Farrell, P., Kumar, R., Eser, U., Faith, D.P., Gomez-Baggethun, E., Harmackova, Z., Horcea-Milcu, A.I., Merçon, J., Quaas, M., Rode, J., Rozzi, R., Sitas, N., Yoshida, Y., Ochieng, T.N., Koessler, A.K., Lutti, N., Mannetti, L., and Arroyo-Robles, G. (2022). Chapter 5: The role of diverse values of nature in visioning and transforming towards just and sustainable futures. In: Methodological Assessment Report on the Diverse Values and Valuation of Nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Balvanera, P., Pascual, U., Michael, C., Baptiste, B., and González-Jiménez, D. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.6522326](https://doi.org/10.5281/zenodo.6522326)
+> Martin, A., O'Farrell, P., Kumar, R., Eser, U., Faith, D.P., Gomez-Baggethun, E., Harmackova, Z., Horcea-Milcu, A.I., Merçon, J., Quaas, M., Rode, J., Rozzi, R., Sitas, N., Yoshida, Y., Ochieng, T.N., Koessler, A.K., Lutti, N., Mannetti, L., and Arroyo-Robles, G. (2022). Chapter 5: The role of diverse values of nature in visioning and transforming towards just and sustainable futures. In: Methodological Assessment Report on the Diverse Values and Valuation of Nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Balvanera, P., Pascual, U., Michael, C., Baptiste, B., and González-Jiménez, D. (eds.). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.6522326](https://doi.org/10.5281/zenodo.6522326)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Values\_Assessment/Bib/Values\_Assessment\_Chapter5.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Values\_Assessment/Ris/Values\_Assessment\_Chapter5.ris).
 
@@ -285,7 +289,7 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3831852](https://doi.org/10.5281/zenodo.3831852)
 
 > Brondízio, E. S., Díaz, S., Settele, J., Ngo, H. T., Guèze, M., Aumeeruddy-Thomas, Y., Bai, X., Geschke, A., Molnár, Z., Niamir, A., Pascual, U., Simcock, A., and Jaureguiberry, P. (2019). Chapter 1: Assessing a planet in transformation: Rationale and approach of the IPBES Global Assessment on Biodiversity and Ecosystem Service. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 1-48). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3831852](http://doi.org/10.5281/zenodo.3831852)
+> DOI: [https://doi.org/10.5281/zenodo.3831852](http://doi.org/10.5281/zenodo.3831852)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter1.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter1.ris).
 
@@ -295,7 +299,7 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3831881](https://doi.org/10.5281/zenodo.3831881)
 
 > Balvanera, P., Pfaff, A., Viña, A., García-Frapolli, E., Merino, L., Minang, P. A., Nagabhatla, N., Hussain, S. A., and Sidorovich, A. A. (2019) Chapter 2.1. Status and Trends – Drivers of Change. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 49-200). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3831881](http://doi.org/10.5281/zenodo.3831881)
+> DOI: [https://doi.org/10.5281/zenodo.3831881](http://doi.org/10.5281/zenodo.3831881)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter2.1.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter2.1.ris).
 
@@ -305,7 +309,7 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3832005](https://doi.org/10.5281/zenodo.3832005)
 
 > Purvis, A., Molnar, Z., Obura, D., Ichii, K., Willis, K., Chettri, N., Dulloo, E., Hendry, A., Gabrielyan, B., Gutt, J., Jacob, U., Keskin, E., Niamir, A., Öztürk, B., Salimov, R., and Jaureguiberry, P. (2019). Chapter 2.2. Status and Trends – Nature. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 201-308). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3832005](http://doi.org/10.5281/zenodo.3832005)
+> DOI: [https://doi.org/10.5281/zenodo.3832005](http://doi.org/10.5281/zenodo.3832005)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter2.2.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter2.2.ris).
 
@@ -315,7 +319,7 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3832035](https://doi.org/10.5281/zenodo.3832035)
 
 > Brauman, K. A., Garibaldi, L. A., Polasky, S., Zayas, C., Aumeeruddy-Thomas, Y., Brancalion, P., DeClerck, F., Mastrangelo, M., Nkongolo, N., Palang, H., Shannon, L., Shrestha, U. B., and Verma, M. (2019). Chapter 2.3. Status and Trends – Nature’s Contributions to People (NCP). In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 309-384). Brondízio, E. S., Settele, J., Díaz, S., Ngo, and H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3832035](http://doi.org/10.5281/zenodo.3832035)
+> DOI: [https://doi.org/10.5281/zenodo.3832035](http://doi.org/10.5281/zenodo.3832035)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter2.3.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter2.3.ris).
 
@@ -325,7 +329,7 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3832052](https://doi.org/10.5281/zenodo.3832052)
 
 > Butchart, S. H. M., Miloslavich, P., Reyers, B., Subramanian, S. M., Adams, C., Bennett, E., Czúcz, B., Galetto, L., Galvin, K., Reyes-García, V., Gerber, L. R., Bekele, T., Jetz, W., Kosamu, I. B. M. K., Palomo, M. G., Panahi, M., Selig, E. R., Singh, G. S., Tarkhnishvili, D., Xu, H., Lynch, A. J., Mwampamba, T. H., and Samakov, A. (2019). Chapter 3. Assessing progress towards meeting major international objectives related to nature and nature’s contributions to people. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 385-598). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3832052](http://doi.org/10.5281/zenodo.3832052)
+> DOI: [https://doi.org/10.5281/zenodo.3832052](http://doi.org/10.5281/zenodo.3832052)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter3.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter3.ris).
 
@@ -334,7 +338,8 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 **Chapter 4: Plausible futures of nature, its contributions to people and their good quality of life**\
 DOI: [https://doi.org/10.5281/zenodo.3832073](https://doi.org/10.5281/zenodo.3832073)
 
-> Shin, Y. J., Arneth, A., Roy Chowdhury, R., Midgley, G. F., Leadley, P., Agyeman Boafo, Y., Basher, Z., Bukvareva, E., Heinimann, A., Horcea-Milcu, A. I., Kindlmann, P., Kolb, M., Krenova, Z., Oberdorff, T., Osano, P., Palomo, I., Pichs Madruga, R., Pliscoff, P., Rondinini, C., Saito, O., Sathyapalan, J., and Yue, T. (2019). Chapter 4: Plausible futures of nature, its contributions to people and their good quality of life. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 599-766). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. DOI: [http://doi.org/10.5281/zenodo.3832073](http://doi.org/10.5281/zenodo.3832073)
+> Shin, Y. J., Arneth, A., Roy Chowdhury, R., Midgley, G. F., Leadley, P., Agyeman Boafo, Y., Basher, Z., Bukvareva, E., Heinimann, A., Horcea-Milcu, A. I., Kindlmann, P., Kolb, M., Krenova, Z., Oberdorff, T., Osano, P., Palomo, I., Pichs Madruga, R., Pliscoff, P., Rondinini, C., Saito, O., Sathyapalan, J., and Yue, T. (2019). Chapter 4: Plausible futures of nature, its contributions to people and their good quality of life. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 599-766). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.3832073](http://doi.org/10.5281/zenodo.3832073)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter4.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter4.ris).
 
@@ -343,7 +348,8 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 **Chapter 5. Pathways towards a Sustainable Future**\
 DOI: [https://doi.org/10.5281/zenodo.3832099](https://doi.org/10.5281/zenodo.3832099)
 
-> Chan, K. M. A., Agard, J., Liu, J., Dutra De Aguiar, A. P., Armenteras Pascual, D., Boedhihartono, A. K., Cheung, W. W. L., Hashimoto, S., Hernández-Pedraza, G. C., Hickler, T., Jetzkowitz, J., Kok, M., Murray-Hudson, M., O’Farrell, P., Satterfield, T., Saysel, A. K., Seppelt, R., Strassburg, B., Xue, D., Selomane, O., Balint, L., and A. Mohamed. (2019). Chapter 5. Pathways towards a Sustainable Future. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 767-874). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. DOI: [http://doi.org/10.5281/zenodo.3832099](http://doi.org/10.5281/zenodo.3832099)
+> Chan, K. M. A., Agard, J., Liu, J., Dutra De Aguiar, A. P., Armenteras Pascual, D., Boedhihartono, A. K., Cheung, W. W. L., Hashimoto, S., Hernández-Pedraza, G. C., Hickler, T., Jetzkowitz, J., Kok, M., Murray-Hudson, M., O’Farrell, P., Satterfield, T., Saysel, A. K., Seppelt, R., Strassburg, B., Xue, D., Selomane, O., Balint, L., and A. Mohamed. (2019). Chapter 5. Pathways towards a Sustainable Future. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 767-874). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
+> DOI: [https://doi.org/10.5281/zenodo.3832099](http://doi.org/10.5281/zenodo.3832099)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter5.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter5.ris).
 
@@ -353,6 +359,6 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_As
 DOI: [https://doi.org/10.5281/zenodo.3832107](https://doi.org/10.5281/zenodo.3832107)
 
 > Razzaque, J., Visseren-Hamakers, I. J., McElwee, P., Rusch, G. M., Kelemen, E., Turnhout, E., Williams, M. J., Gautam, A. P., Fernandez-Llamazares, A., Chan, I., Gerber, L. R., Islar, M., Karim, S., Lim, M., Liu, J., Lui, G., Mohammed, A., Mungatana, E., and Muradian R. (2019). Chapter 6. Options for Decision Makers. In: Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (pp. 875-1028). Brondízio, E. S., Settele, J., Díaz, S., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. \
-> DOI: [http://doi.org/10.5281/zenodo.3832107](http://doi.org/10.5281/zenodo.3832107)
+> DOI: [https://doi.org/10.5281/zenodo.3832107](http://doi.org/10.5281/zenodo.3832107)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Bib/Global\_Assessment\_Chapter6.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global\_Assessment/Ris/Global\_Assessment\_Chapter6.ris).
