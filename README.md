@@ -16,10 +16,10 @@ In order to maintain a consistent style and voice throughout our documentation p
 
 Our documentation site is built using [GitBook](https://github.com/GitbookIO/gitbook/). GitBook uses Markdown as its file format.
 
-* All files should end in `.md`. They should be all-lower-case and match the title of the page, or in some cases an abbridged version of it.
+* All files should end in `.md`. They should be all-lower-case and match the title of the page, or in some cases an abridged version of it.
 * All pages should start with a title, denoted with # (first level header).
 * Subsections within a page are encouraged, and should use ## for a 2nd level and ### for a 3rd level. Do not have more than 3 levels of header.
-* Inline code statements, file names, and keys that would appear in a file should use backticks `like this`.
+* Inline code statements, file names, and keys that would appear in a file should use backticks like this `` ` ``.
 * Always use inline links.
 * Do not hard-wrap prose text. Set your text editor to soft wrapping.
 * Internal links should be absolute (starting with `/`) and link to a file ending in `.md`, not `.html`. That makes them easier to find when needed to update.

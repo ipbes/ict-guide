@@ -10,7 +10,7 @@ description: Technical Guideline Series
 _For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
 
 Version: 1.0 \
-****Last Updated: 19 August 2022
+Last Updated: 19 August 2022
 
 DOI: [10.5281/zenodo.6882518](https://doi.org/10.5281/zenodo.6882518)
 

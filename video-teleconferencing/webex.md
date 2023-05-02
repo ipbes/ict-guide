@@ -104,7 +104,7 @@ You can start the meeting either from the email you have received or signing in 
 Breakout sessions can be used to place your attendees into smaller groups. Detailed information on how to create sessions, assign attendees to them, etc. can be found [here](https://help.webex.com/en-us/8cckd2/Manage-Breakout-Sessions-in-Cisco-Webex-Training).
 
 * If you create breakout sessions automatically, attendees will be assigned randomly. You need to create session's manually and identify presenters and participants for each breakout sessions.
-* At any time during a session you can specify that attendees can start breakout sessions with all _attendees/participants, only the session host, only the presenter_ or **** _any other attendee privately_**.** You can remove breakout session privileges at any time.
+* At any time during a session you can specify that attendees can start breakout sessions with all _attendees/participants, only the session host, only the presenter_ or _any other attendee privately_**.** You can remove breakout session privileges at any time.
 * There are four breakout session privileges that can be granted to all attendees: _host, presenter, panelists, all attendees._
 * The host or the presenter always have all breakout session privileges, regardless of the breakout session privileges that other attendees have.&#x20;
 

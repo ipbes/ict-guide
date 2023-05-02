@@ -1,25 +1,25 @@
 ---
-description: Please contact ipbes.support@ipbes.net if you have any questions
+description: >-
+  MS Teams is a workspace for real-time collaboration and communication,
+  meetings, file and app sharing, and even the occasional emoji! All in one
+  place, all in the open, all accessible to everyone.
+cover: ../.gitbook/assets/download.png
+coverY: 0
 ---
 
 # Microsoft Teams
 
-## **What is Microsoft Teams?**
-
-### Important links
-
-1. Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer\&postJsllMsg=true\&maskLevel=20\&market=en-gb) to watch the welcome video
-2. Click [here](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7) to see Microsoft Teams training videos
-
-## Sign in to Teams
-
 {% hint style="info" %}
-Microsoft Teams doesn’t currently support signing in with multiple accounts. The app supports only a single signed-in account.&#x20;
+Please contact ipbes.registration@ipbes.net if you have any questions
 {% endhint %}
 
-### How to sign in to teams
+## Download Teams
 
-1. Start Teams
+Download and install Teams for any platform (iOS, Android, Windows Desktop) for desktop and mobile at the following link: [https://www.microsoft.com/en-us/microsoft-teams/download-app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+## Sign in and get started
+
+1. Start Teams.
    1. In Windows, click **Start.** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) > **Microsoft Teams**.
    2. On Mac, go to the **Applications** folder and click **Microsoft Teams**.
    3. On mobile, tap the **Teams** icon.
@@ -100,7 +100,7 @@ In the library you can upload existing files or create new ones. When you upload
 There are two primary ways to upload existing files into your library. Both methods start by going to the files folder for your channel and both methods, by default, upload copies of your files to the channel file folder.
 
 * **Drag and drop** - Using your mouse, drag the file from where it's currently located and drop it on the Teams window among the files.&#x20;
-* **Upload** - Select **Upload**, **** then select the file (or files) you'd like to upload, and select **Open**.
+* **Upload** - Select **Upload**, then select the file (or files) you'd like to upload, and select **Open**.
 
 ![Create or upload a new file to your channel's files library](https://support.content.office.net/en-us/media/950207d4-6fca-4c7e-91f9-6cae2575088f.png)
 
@@ -210,10 +210,7 @@ To see who’s in a group chat, hover over the number of participants in the cha
 
 ![Participants list in a chat header](https://support.content.office.net/en-us/media/e399d02d-539f-4799-a140-3396a7941ff9.png)
 
-### Send and read
+## Important links
 
-### Group Chats
-
-### Find and filter
-
-## OneNote
+1. Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer\&postJsllMsg=true\&maskLevel=20\&market=en-gb) to watch the welcome video
+2. Click [here](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7) to see Microsoft Teams training videos

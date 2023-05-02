@@ -7,7 +7,7 @@ description: For email & distribution lists, sharing, configuring settings, and 
 #### Important links:&#x20;
 
 {% embed url="https://support.google.com/a/answer/9400082#adminconsole" %}
-_Source:_ [_Google_](https://support.google.com/groups/?hl=en#topic=9216)__
+_Source:_ [_Google_](https://support.google.com/groups/?hl=en#topic=9216)
 {% endembed %}
 
 ## What is Google Groups?

@@ -4,7 +4,7 @@ description: Technical Guideline Series
 
 # Part 1 - Conversion to the Robinson Projection
 
-****
+
 
 **Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
