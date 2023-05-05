@@ -55,9 +55,11 @@
   * [Meetings](https://support.microsoft.com/en-us/office/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
   * [Chat](https://support.microsoft.com/en-us/office/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8)
 * [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
+  * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/SharePoint\_quickstart\_guide.pdf)
   * [Sign in to SharePoint](https://support.microsoft.com/en-us/office/sign-in-to-sharepoint-324a89ec-e77b-4475-b64a-13a0c14c45ec)
   * [Collaborate in SharePoint](https://support.microsoft.com/en-us/office/collaborate-in-sharepoint-0c5c3345-0a61-4532-971c-5a1e0970fde3)
-* [OneDrive for Business](collaboration/onedrive-for-business.md)
+* [OneDrive for Business](collaboration/onedrive-for-business/README.md)
+  * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/onedrive\_quickstart\_guide.pdf)
 * [Google Groups](collaboration/google-groups.md)
 
 ## Website

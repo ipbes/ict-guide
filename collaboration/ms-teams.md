@@ -32,12 +32,13 @@ Microsoft Teams is a collaboration workspace that helps your team stay organized
 * Mobile app available for chat and meetings across devices
 * Complete online chat and meetings solution, including recording and screen sharing
 * Integrated with Office 365 apps such as Word, SharePoint, OneNote, etc. &#x20;
-* Files are stored in SharePoint document libraries and therefore searchable and accessible via SharePoint online and OneDrive app
+* Files are stored in SharePoint document libraries and, therefore searchable and accessible via SharePoint Online and OneDrive app
 * Customizable workspace with tabs of frequently used files and apps
 
-## Download Teams <a href="#download-teams" id="download-teams"></a>
+## Access to Microsoft Teams <a href="#download-teams" id="download-teams"></a>
 
-Download and install Teams for any platform (iOS, Android, Windows Desktop) for desktop and mobile at the following link: [https://www.microsoft.com/en-us/microsoft-teams/download-app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+* [Download Teams](https://aka.ms/getteams) for your desktop, iOS, or Android.
+* Or just use Teams on the web at [https://teams.microsoft.com](https://teams.microsoft.com/).
 
 ## Sign in and get started
 
