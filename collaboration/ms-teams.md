@@ -13,7 +13,7 @@ coverY: 0
 Please contact ipbes.registration@ipbes.net if you have any questions
 {% endhint %}
 
-## Download Teams
+## Download Teams <a href="#download-teams" id="download-teams"></a>
 
 Download and install Teams for any platform (iOS, Android, Windows Desktop) for desktop and mobile at the following link: [https://www.microsoft.com/en-us/microsoft-teams/download-app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
