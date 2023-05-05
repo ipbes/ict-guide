@@ -48,10 +48,13 @@
 
 ## Collaboration
 
-* [Microsoft Teams](collaboration/ms-teams/README.md)
+* [Microsoft Teams](collaboration/ms-teams.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/teams\_qs.pdf)
-  * [Teams & Channel](collaboration/ms-teams/teams-and-channel.md)
-* [Microsoft SharePoint](collaboration/microsoft-sharepoint/README.md)
+  * [Joining Teams & Channel](collaboration/ms-teams/joining-teams-and-channel.md)
+  * [Files and documents](https://support.microsoft.com/en-us/office/explore-the-files-list-in-teams-287ba970-2bdf-473d-a2da-76247ea4cf8f)
+  * [Meetings](https://support.microsoft.com/en-us/office/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
+  * [Chat](https://support.microsoft.com/en-us/office/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8)
+* [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
   * [Sign in to SharePoint](https://support.microsoft.com/en-us/office/sign-in-to-sharepoint-324a89ec-e77b-4475-b64a-13a0c14c45ec)
   * [Collaborate in SharePoint](https://support.microsoft.com/en-us/office/collaborate-in-sharepoint-0c5c3345-0a61-4532-971c-5a1e0970fde3)
 * [OneDrive for Business](collaboration/onedrive-for-business.md)

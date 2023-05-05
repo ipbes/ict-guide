@@ -3,7 +3,7 @@ description: >-
   A cloud-based service used to store, organize, share, and access information
   from any device. There are two types of SharePoint site templates: Team site
   for collaboration and Communication site for
-cover: ../../.gitbook/assets/sharepoint2013-banner.webp
+cover: ../.gitbook/assets/sharepoint2013-banner.webp
 coverY: 0
 ---
 
