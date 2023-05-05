@@ -3,6 +3,8 @@ description: >-
   Slack is a messaging app for business that connects people to the information
   they need. By bringing people together to work as one unified team, Slack
   transforms how organizations communicate.
+cover: ../.gitbook/assets/download (1).png
+coverY: 0
 ---
 
 # Slack

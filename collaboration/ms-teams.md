@@ -3,7 +3,7 @@ description: >-
   MS Teams is a workspace for real-time collaboration and communication,
   meetings, file and app sharing, and even the occasional emoji! All in one
   place, all in the open, all accessible to everyone.
-cover: ../.gitbook/assets/download (2).png
+cover: ../.gitbook/assets/download (3).png
 coverY: 0
 ---
 
