@@ -9,12 +9,6 @@ coverY: 0
 
 # Microsoft Teams
 
-{% hint style="info" %}
-Please contact ipbes.registration@ipbes.net if you have any questions
-
-For more information on MS Teams, please visit: [https://support.microsoft.com/en-us/teams](https://support.microsoft.com/en-us/teams)
-{% endhint %}
-
 ## Introduction
 
 Microsoft Teams is a collaboration workspace that helps your team stay organized through team chats, audio, video conferencing, and content sharing all in one place. Its integration with Office 365 apps allows users to simultaneously collaborate, edit, and share documents across apps such as Word and SharePoint Online. Any documents shared in Teams will be automatically saved in SharePoint Online.
