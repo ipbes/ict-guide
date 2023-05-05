@@ -67,7 +67,7 @@
 
 ## Website
 
-* [Account](website/account.md)
+* [User account](website/account.md)
 * [Navigation and search](website/navigation.md)
 * [Search](website/search.md)
 * [Forms](website/webforms.md)

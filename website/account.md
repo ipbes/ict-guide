@@ -1,27 +1,27 @@
-# Account
+---
+description: A user account is required to use various features of the website
+---
 
-## Website account set up and access
+# User account
 
-{% hint style="info" %}
-A user account is required to use various features of the website
-{% endhint %}
+## Setting up and access&#x20;
 
-An account can be created by visiting [https://www.ipbes.net/user/register](https://www.ipbes.net/user/register) and entering required information. The following information is requested at the time of registration: username, email address, salutation, first name, middle name, last name, job title, affiliation, about, mailing list subscription, and security question. Once accounts are created, users can login to provide additional information. Account verification can take up to 24-48 hours.
+An account can be created by filling out the form at the following link [https://www.ipbes.net/user/register](https://www.ipbes.net/user/register). The following information is requested at the time of registration: _username, email address, salutation, first name, middle name, last name, job title, affiliation, about, mailing list subscription, and security question_.&#x20;
 
-All registered users have a user dashboard which can be accessed after logging in by clicking on your username at the top right or by typing /user at the end of the site’s URL i.e. [https://www.ipbes.net/user](https://www.ipbes.net/user). Once you’ve accessed the login page, you can log in with your account information. We suggest bookmarking the page for quick access. The user dashboard will contain the name, photo and biography of the user. It will also contain all the IPBES roles assigned to the user, groups, form submissions and Policy Support content created by the user.
+Once accounts are created, users can [login](https://www.ipbes.net/user/login) to provide additional information.&#x20;
 
-## Register an account
+All registered users have a dashboard that can be accessed after logging in by clicking on your username at the top right or typing /user at the end of the site’s URL, i.e. [https://www.ipbes.net/user](https://www.ipbes.net/user). Please bookmark the page for quick access. The user dashboard will contain the user's name, photo and biography. It will also contain all the IPBES roles assigned to the user, groups, form submissions and other content created by the user.
+
+### Register an account
 
 1. Go to login [https://ipbes.net/user/register](https://ipbes.net/user/register)
-2. Submit the form by clicking on 'create new account'
+2. Submit the form by clicking on 'create a new account
 
 ![](../.gitbook/assets/account\_create.jpg)
 
 ### Networking and subscriptions
 
 Subscribe to the IPBES mailing list to stay updated. Note that you can unsubscribe any time by clicking the unsubscribe link in the notifications or by logging in to your profile and unchecking the box below.
-
-![](<../.gitbook/assets/image (9).png>)
 
 ### Login/logout
 
