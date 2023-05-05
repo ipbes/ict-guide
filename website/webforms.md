@@ -1,8 +1,8 @@
 ---
-description: Application form
+description: Application, registration etc.
 ---
 
-# Webforms
+# Forms
 
 ## Submitting a new form
 
@@ -10,9 +10,8 @@ description: Application form
 2. Open the registration link
 3. Fill the form and click submit.
 
-## View and edit an existing form
+## View and edit an existing form.
 
-1. Login to your your web [profile](https://ipbes.net/user)
-2. Navigate to Application forms
+1. Login to your web [profile](https://ipbes.net/user)
+2. Navigate to the forms.
 3. Select the form to edit
-

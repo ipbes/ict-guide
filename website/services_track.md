@@ -5,23 +5,22 @@ description: >-
   science.
 ---
 
-# TRACK
+# Track
 
-## Submit
+## Submit an entry
 
 Here is a link to the TRACK submission portal: [https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
 
-![](../.gitbook/assets/track_page.jpg)
+![](../.gitbook/assets/track\_page.jpg)
 
-![TRACK submission form and submit button](../.gitbook/assets/track_page_1.jpg)
+![TRACK submission form and submit button](../.gitbook/assets/track\_page\_1.jpg)
 
 ## View
 
-The IPBES impact tracking database \(TRACK\) is available on [https://ipbes.net/impact-tracking-view](https://ipbes.net/impact-tracking-view)
+The IPBES impact tracking database (TRACK) is available on [https://ipbes.net/impact-tracking-view](https://ipbes.net/impact-tracking-view)
 
-![](../.gitbook/assets/track_page_3.jpg)
+![](../.gitbook/assets/track\_page\_3.jpg)
 
 ## Contact
 
 Send an email with the subject line “TRACK: [media@ipbes.net](mailto:media@ipbes.net)
-

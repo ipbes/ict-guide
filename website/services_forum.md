@@ -1,6 +1,8 @@
-# IPBES Forum
+---
+description: The IPBES forum
+---
 
-The IPBES forum
+# Forum
 
 ## Participate in a forum
 
@@ -46,4 +48,3 @@ Plagiarism is bad. Don't do it.
 ### **English only**
 
 We currently only support English discussions. Non-English comments and discussions will be removed.
-
