@@ -1,13 +1,19 @@
+---
+description: >-
+  The perfect team tool, Unite Mail lets you check calendars, retrieve contacts,
+  and set up meetings from any device.
+---
+
 # Microsoft Outlook
 
 {% hint style="info" %}
-This guidance is for the IPBES secretariat
+This guidance is for the IPBES secretariat.
 {% endhint %}
 
-## How to add a new account quickly
+## How to add a new account to your desktop app
 
 1. Select **File** > **Add Account**.
-2. Enter your email address and click **connect**
+2. Enter your email address and click **connect.**
 
 ![](<../.gitbook/assets/image (17) (1) (3) (1) (1) (1).png>)
 
