@@ -11,6 +11,8 @@ coverY: 0
 
 {% hint style="info" %}
 Please contact ipbes.registration@ipbes.net if you have any questions
+
+For more information on MS Teams, please visit: [https://support.microsoft.com/en-us/teams](https://support.microsoft.com/en-us/teams)
 {% endhint %}
 
 ### Introduction
