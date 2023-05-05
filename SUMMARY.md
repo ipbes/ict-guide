@@ -48,12 +48,14 @@
 
 ## Collaboration
 
-* [Microsoft Teams](collaboration/ms-teams.md)
-* [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
+* [Microsoft Teams](collaboration/ms-teams/README.md)
+  * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/teams\_qs.pdf)
+  * [Teams & Channel](collaboration/ms-teams/teams-and-channel.md)
+* [Microsoft SharePoint](collaboration/microsoft-sharepoint/README.md)
+  * [Sign in to SharePoint](https://support.microsoft.com/en-us/office/sign-in-to-sharepoint-324a89ec-e77b-4475-b64a-13a0c14c45ec)
+  * [Collaborate in SharePoint](https://support.microsoft.com/en-us/office/collaborate-in-sharepoint-0c5c3345-0a61-4532-971c-5a1e0970fde3)
 * [OneDrive for Business](collaboration/onedrive-for-business.md)
 * [Google Groups](collaboration/google-groups.md)
-* [Confluence](collaboration/confluence.md)
-* [Microsoft FindTime](collaboration/microsoft-findtime.md)
 
 ## Website
 
