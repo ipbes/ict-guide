@@ -2,6 +2,8 @@
 description: >-
   The perfect team tool, Unite Mail lets you check calendars, retrieve contacts,
   and set up meetings from any device.
+cover: ../../.gitbook/assets/download.png
+coverY: 0
 ---
 
 # Microsoft Outlook
@@ -15,7 +17,7 @@ This guidance is for the IPBES secretariat.
 1. Select **File** > **Add Account**.
 2. Enter your email address and click **connect.**
 
-![](<../.gitbook/assets/image (17) (1) (3) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (3) (1) (1) (1).png>)
 
 1. **\*\*Enter your email address and click** Connect\*\*
 2. **\*\*If prompted, enter your password again, then select** OK **>** Finish\*\* to start using your email account in Outlook

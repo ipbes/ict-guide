@@ -42,7 +42,8 @@
 
 ## Mailing and messaging
 
-* [Microsoft Outlook](mailing-and-messaging/microsoft-outlook.md)
+* [Microsoft Outlook](mailing-and-messaging/microsoft-outlook/README.md)
+  * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/outlook\_qs.pdf)
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
