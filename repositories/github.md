@@ -2,17 +2,17 @@
 
 ## Introduction
 
-Almost all text on GitHub is processed through a markup language called Markdown. It is a way to style text on the web, by controlling the display of the document; formatting words as bold or italic, adding images and creating lists. Mostly, Markdown is just regular text with a few non-alphabetic characters, such as # or \*. More information on Markdown can be found here:  [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
+Almost all text on GitHub is processed through a markup language called Markdown. It is a way to style text on the web by controlling the display of the document, formatting words as bold or italic, adding images and creating lists. Mostly, Markdown is just regular text with a few non-alphabetic characters, such as # or \*. More information on Markdown can be found here: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
 
 ## Getting started
 
-### Request creation of a repository
+### Request the creation of a repository
 
 Please fill in [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Xtvls0QpN0iZ9XSIrOVDGRjPVLkvpFxHt2K19TYogsBUNVJXQUpQWVFUQ0M0RzNGN0c0U1cxQjBXVi4u) to request a repository to be created for you under the IPBES community.
 
 ## Public vs Private repositories
 
-It is possible to restrict the access to a repository by choosing the visibility: public (accessible to everyone on the internet) or private (only accessible to you and people you explicitly share access with).
+It is possible to restrict access to a repository by choosing the visibility: public (accessible to everyone on the internet) or private (only accessible to you and people you explicitly share access with).
 
 ## Documenting your projects
 

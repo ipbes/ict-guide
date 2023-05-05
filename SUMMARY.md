@@ -46,14 +46,6 @@
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
-## Video/teleconferencing
-
-* [Introduction to video/teleconferencing](video-teleconferencing/introduction-to-video-teleconferencing.md)
-* [MS Teams meetings and calls](video-teleconferencing/ms-teams.md)
-* [ZOOM](video-teleconferencing/zoom.md)
-* [Webex](video-teleconferencing/webex.md)
-* [KUDO](video-teleconferencing/kudo.md)
-
 ## Collaboration
 
 * [Microsoft Teams](collaboration/ms-teams.md)
