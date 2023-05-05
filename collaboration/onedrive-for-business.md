@@ -1,4 +1,9 @@
-# OneDrive for Business
+---
+cover: ../.gitbook/assets/download (1).jpeg
+coverY: 0
+---
+
+# Microsoft OneDrive
 
 **Difference between OneDrive for Business and SharePoint Online Site**
 
