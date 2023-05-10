@@ -16,7 +16,7 @@ When sharing items with another Zotero user, select Zotero RDF with files and no
 
 <figure><img src="../../.gitbook/assets/zotero_export_library.jpg" alt=""><figcaption><p>Exporting an entire library</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2 (1).jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zotero_export_library_format_zoterordf2.jpg" alt=""><figcaption><p>Select format (Zotero RDF) including notes, files and annotations</p></figcaption></figure>
 
 ### Deleting multiple attachments
 
@@ -56,7 +56,7 @@ Please use this workflow when the assessment has been approved and there will be
 
 Once you have finalized the clean up of the library you should change the library settings to limit modifications. The library "Group Type" should then be made public.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Library settings at the end of an assessment. Only group admins can add,edit or remove items or files</p></figcaption></figure>
 
 ### Useful plugins
 

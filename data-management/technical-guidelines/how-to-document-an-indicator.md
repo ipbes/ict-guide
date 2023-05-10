@@ -60,7 +60,7 @@ Ensuring that others can understand the methodology and repeat the workflow of t
 For the habitat protection indexes, these recommendations were followed while developing the workflow. The workflow was created using open source software, R, instead of ArcGIS Pro as this ensured consistency in processing the data and there is no requirement to buy a licence to use the workflow. All scripts used to process the original datasets and to calculate the indexes can be found within the associated GitHub folder, linked respectively within the data availability and code availability sections of the publication. To enable reusability, the workflow is also structured in a user-friendly way so that the entire process can be run using one R script. Finally, figure 5 (shown below) within the publication provides an overview of the workflow to explain what each script does and how it fits into the overall process of creating the indexes.
 {% endhint %}
 
-![](../../.gitbook/assets/Figure\_2)
+![](<../../.gitbook/assets/Figure\_2 (1)>)
 
 ### C. Outputs
 
@@ -84,7 +84,7 @@ These guidelines are followed within our example.
 
 In general, the associated publication should provide all required information to reproduce the results, including a link to the workflow repository and final dataset.
 
-![](../../.gitbook/assets/Figure\_3)
+![](<../../.gitbook/assets/Figure\_3 (1)>)
 
 ## III. IPBES Process
 

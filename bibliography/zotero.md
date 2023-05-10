@@ -89,7 +89,7 @@ Information for a given item is displayed in the right panel when you click on a
 
 Make sure you are sign in with the same email address that has been invited to an assessments library.
 
-![Linking an online account with the Zotero desktop app.](<../.gitbook/assets/image (24).png>)
+![Linking an online account with the Zotero desktop app.](<../.gitbook/assets/image (24) (2).png>)
 
 ### Config 2: Sync libraries
 
@@ -118,7 +118,7 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 1. Under Miscellaneous, uncheck the box for “Automatically tag items with keywords and subject headings” (**Figure 4**)
 
-<img src="../.gitbook/assets/image (5).png" alt="Disabling automatic tags." data-size="original">
+<img src="../.gitbook/assets/image (5) (3).png" alt="Disabling automatic tags." data-size="original">
 
 ### Config 4: Configure style language
 
