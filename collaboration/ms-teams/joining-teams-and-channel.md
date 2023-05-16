@@ -12,10 +12,14 @@ Here are the steps:
 2. You will receive a Microsoft invitation from the United Nations to access our applications. The email will be from “_uniteidentity\_noreply@un.org_”. Kindly accept that invitation within 24 hours.
 3. You will then receive a second invitation to join the Teams & channel from Microsoft Teams. The message will read, "_Anne added you to the MEA IPBES "Assessment name" team_".
 
+<figure><img src="../../.gitbook/assets/MS teams email.png" alt=""><figcaption><p>Microsoft Teams invite</p></figcaption></figure>
+
 ### **To switch to a different organization’s MS Teams account:**
 
 1. Click on your profile picture in the upper right corner.
 2. You will now see a list of the organizations you’ve been invited to.
+
+<figure><img src="../../.gitbook/assets/Switch.png" alt=""><figcaption><p>Switch between organizations in Teams</p></figcaption></figure>
 
 {% hint style="info" %}
 If you experience any technical issues, kindly notify the respective technical support unit.
