@@ -51,7 +51,7 @@
 
 * [Microsoft Teams](collaboration/ms-teams.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/teams\_qs.pdf)
-  * [Joining MS Teams & Channels](collaboration/ms-teams/joining-teams-and-channel.md)
+  * [Joining Teams & Channels](collaboration/ms-teams/joining-teams-and-channels.md)
   * [Files and documents](collaboration/ms-teams/files-and-documents.md)
   * [Meetings](https://support.microsoft.com/en-us/office/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
   * [Chat](https://support.microsoft.com/en-us/office/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8)
