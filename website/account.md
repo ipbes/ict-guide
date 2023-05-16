@@ -2,7 +2,9 @@
 description: A user account is required to use various features of the website
 ---
 
-# User account
+# IPBES Website
+
+## User account
 
 ## Setting up and access&#x20;
 

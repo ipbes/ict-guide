@@ -68,8 +68,8 @@
 
 ## Website
 
-* [User account](website/account.md)
-* [Navigation and search](website/navigation.md)
+* [IPBES Website](website/account.md)
+* [Navigation](website/navigation.md)
 * [Search](website/search.md)
 * [Forms](website/webforms.md)
 * [Track](website/services\_track.md)
