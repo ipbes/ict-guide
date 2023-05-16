@@ -26,6 +26,4 @@ The expert search page is available on [https://ipbes.net/experts](https://ipbes
 
 ![Click on "About" and then select "Experts"](../.gitbook/assets/experts\_1.jpg)
 
-![Experts search page](../.gitbook/assets/experts\_2.jpg)
-
 ![Search for experts by name, nationality, deliverable or nominating government](../.gitbook/assets/experts\_3.jpg)
