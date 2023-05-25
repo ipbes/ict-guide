@@ -62,6 +62,7 @@
 * [Microsoft OneDrive](collaboration/onedrive-for-business.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/OneDrive%20QS.pdf)
   * [Manage files](https://support.microsoft.com/en-us/office/manage-files-and-folders-in-onedrive-94c8a731-c774-468e-97a1-5f038bdf330d?ui=en-us\&rs=en-us\&ad=us)
+  * [Sync files](collaboration/onedrive-for-business/sync-files.md)
   * [Collaborate](https://support.office.com/en-us/article/collaborate-in-onedrive-for-business-586df57b-fdae-439c-ae5b-71cbe5bb0d4c?ui=en-US\&rs=en-US\&ad=US)
   * [Work on the go](https://support.microsoft.com/en-us/office/work-on-the-go-with-onedrive-8ce30c76-e27b-4e55-9050-082393954213?ui=en-us\&rs=en-us\&ad=us)
 * [Google Groups](collaboration/google-groups.md)
