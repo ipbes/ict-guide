@@ -1,4 +1,4 @@
-# Joining MS Teams & Channels
+# Joining Teams & Channels
 
 ## MEA IPBES - "_team name_" Teams & Channel
 
@@ -10,7 +10,7 @@ Here are the steps:
 
 1. Please provide a Microsoft Office 365 work or school email account to be invited as a user to Microsoft Teams. Send an email to the secretariat: [ipbes.registration@ipbes.net](mailto:ipbes.registration@ipbes.net).
 2. You will receive a Microsoft invitation from the United Nations to access our applications. The email will be from “_uniteidentity\_noreply@un.org_”. Kindly accept that invitation within 24 hours.
-3. You will then receive a second invitation to join the Teams & channel from Microsoft Teams. The message will read, "_Anne added you to the MEA IPBES "Assessment name" team_".
+3. You will then receive a second invitation to join the Teams & channel from Microsoft Teams. The email will be from "_noreply@emeaemail.teams.microsoft.com_". The message's subject will read, "_You have been added to a team in Microsoft Teams_".
 
 <figure><img src="../../.gitbook/assets/MS teams email.png" alt=""><figcaption><p>Microsoft Teams invite</p></figcaption></figure>
 
