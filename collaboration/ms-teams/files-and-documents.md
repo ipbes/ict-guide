@@ -26,7 +26,7 @@ _Watch this video for a quick tour of the Files list. (source: Microsoft)_
   From there you can also access your cloud storage files.
 {% endtab %}
 
-{% tab title="Anroid" %}
+{% tab title="Android" %}
 ### To view files in a specific chat or channel  <a href="#id0eddbbbdd" id="id0eddbbbdd"></a>
 
 * Tap Files at the top of the conversation.
