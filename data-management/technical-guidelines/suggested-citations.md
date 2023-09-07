@@ -59,20 +59,20 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 
 ### Chapter 3
 
-**Chapter 3: Drivers of biodiversity change affecting biological invasions**\
+**Chapter 3: Drivers of change in nature affecting biological invasions**\
 DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
-> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers of biodiversity change affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers of change in nature affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter3.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter3.ris).
 
 ### Chapter 4
 
-**Chapter 4: Impacts of biological invasions on nature, nature’s contributions to people, and good quality of life**\
+**Chapter 4: Impacts of invasive alien species on nature, nature’s contributions to people, and good quality of life**\
 DOI: [https://doi.org/10.5281/zenodo.7430731](https://doi.org/10.5281/zenodo.7430731)
 
-> Bacher, S., Galil, B. S., Nuñez, M. A., Ansong, M., Cassey, P., Dehnen-Schmutz, K., Fayvush, G., Hiremath, A. J., Ikegami, M., Martinou, A. F., McDermott, S. M., Preda, C., Vilà, M., Weyl, O. L. F., Fernandez, R. D., and Ryan-Colton, E. (2023). Chapter 4: Impacts of biological invasions on nature, nature’s contributions to people, and good quality of life. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> Bacher, S., Galil, B. S., Nuñez, M. A., Ansong, M., Cassey, P., Dehnen-Schmutz, K., Fayvush, G., Hiremath, A. J., Ikegami, M., Martinou, A. F., McDermott, S. M., Preda, C., Vilà, M., Weyl, O. L. F., Fernandez, R. D., and Ryan-Colton, E. (2023). Chapter 4: Impacts of invasive alien species on nature, nature’s contributions to people, and good quality of life. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.7430731](https://doi.org/10.5281/zenodo.7430731)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter4.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter4.ris).
@@ -89,10 +89,10 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 
 ### Chapter 6
 
-**Chapter 6: Governance and policy options for the prevention and control of biological invasions**\
+**Chapter 6: Governance and policy options for the management of biological invasions**\
 DOI: [https://doi.org/10.5281/zenodo.7430747](https://doi.org/10.5281/zenodo.7430747)
 
-> McGeoch, M. A., Ordonez, A., Howard, P. L., Groom, Q. J., Shrestha, B. B., Fernandez, M., Brugnoli, E., Bwalya, B., Byun, C., Ksenofontov, S., Ojaveer, H., Simberloff, D., Mungi, N. A., and Rono, B. (2023). Chapter 6: Governance and policy options for the prevention and control of biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> McGeoch, M. A., Ordonez, A., Howard, P. L., Groom, Q. J., Shrestha, B. B., Fernandez, M., Brugnoli, E., Bwalya, B., Byun, C., Ksenofontov, S., Ojaveer, H., Simberloff, D., Mungi, N. A., and Rono, B. (2023). Chapter 6: Governance and policy options for the management of biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.7430747](https://doi.org/10.5281/zenodo.7430747)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter6.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter6.ris).
