@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by the technical support unit of knowledge and data**
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 3.0\
 Last Updated: April 19th 2023

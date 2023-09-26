@@ -7,7 +7,7 @@ description: Technical Guideline Series
 **Prepared by Joy Kumagai and Peter Bates**\
 **Reviewed by Aidin Niamir, the Task Force on Knowledge and Data and the Task Force on Indigenous and Local Knowledge**
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net) _and_ [_ilk.tsu.ipbes@unesco.org_](mailto:ilk.tsu.ipbes@unesco.org)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de) _and_ [_ilk.tsu.ipbes@unesco.org_](mailto:ilk.tsu.ipbes@unesco.org)
 
 Version: 1.0\
 Last Updated: 18 July 2022

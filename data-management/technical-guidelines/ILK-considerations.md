@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by The Technical Support Unit and Task Force on Knowledge and Data and the Technical Support Unit and Task Force on Indigenous and Local Knowledge**&#x20;
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net) _and_ [_ilk.tsu.ipbes@unesco.org_](mailto:ilk.tsu.ipbes@unesco.org)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de) _and_ [_ilk.tsu.ipbes@unesco.org_](mailto:ilk.tsu.ipbes@unesco.org)
 
 Version: 1.1 \
 Last Updated: 14 July 2022

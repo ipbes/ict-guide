@@ -7,7 +7,7 @@ description: Technical Guideline Series
 **Prepared by Joy Kumagai and Aidin Niamir - IPBES Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by the Task Force on Knowledge and Data (Hanno Seebens, Rainer Krug, Gregoire Dubois, Matea Vukelić, and Xubin Pan)**
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.0 \
 Last Updated: 19 August 2022

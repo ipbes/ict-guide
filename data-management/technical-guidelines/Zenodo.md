@@ -8,7 +8,7 @@ description: Technical Guideline Series
 
 **Reviewed by the Task Force on Knowledge and Data and Benedict Omare - Information Management Officer**
 
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.1 \
 Last Updated: 14 July 2022

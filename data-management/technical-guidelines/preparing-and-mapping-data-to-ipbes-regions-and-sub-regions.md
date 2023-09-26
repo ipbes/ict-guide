@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-_For any inquires please contact_ [_tsu.data@ipbes.net_](mailto:tsu.data@ipbes.net)
+_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 2.3\
 Last Updated: 15 August 2022
