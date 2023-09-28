@@ -578,4 +578,4 @@ plot(rnorm(100), main = "Example Graph")                                # Plot y
 dev.off()
 ```
 
-Thank you for your time. If you have any suggestions on further content or file format types you would like to see covered please contact us at the technical support unit at [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net).
+Thank you for your time. If you have any suggestions on further content or file format types you would like to see covered please contact us at the technical support unit at [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
