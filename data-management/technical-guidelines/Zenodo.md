@@ -207,4 +207,4 @@ Mexico <- data %>% filter(ISO_3 == "MEX")
 plot(Mexico[,1], main = "Mexico")
 ```
 
-For any questions please feel free to contact us at [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net). If you have any Zenodo specific questions they may be answered on their [frequently asked question page](https://help.zenodo.org/).
+For any questions please feel free to contact us at [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de). If you have any Zenodo specific questions they may be answered on their [frequently asked question page](https://help.zenodo.org/).
