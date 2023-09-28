@@ -138,7 +138,7 @@ Long form
 
 _The designations employed and the presentation of material on the maps used in the assessment do not imply the expression of any opinion whatsoever on the part of IPBES concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. These maps have been prepared or used for the sole purpose of facilitating the assessment of the broad biogeographical areas represented therein and for purposes of representing scientific data spatially._
 
-For more information on how to display disputed or contentious boundary lines and territories, please contact the TSU on knowledge and data ([tsu.data@ipbes.net](mailto:tsu.data@ipbes.net))
+For more information on how to display disputed or contentious boundary lines and territories, please contact the TSU on knowledge and data ([aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de))
 
 ## III. Country Borders
 
