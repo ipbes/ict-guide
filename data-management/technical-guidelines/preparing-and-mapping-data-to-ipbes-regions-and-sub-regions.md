@@ -319,4 +319,4 @@ plot(data_subregion[,2], main = "Total population (millions) in 2018 per sub-reg
 
 ![](<../../.gitbook/assets/unnamed-chunk-20-1 (4).png>)
 
-Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
