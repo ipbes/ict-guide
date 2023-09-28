@@ -218,6 +218,6 @@ Here we also include some popular resources for global and country scale spatial
 * Marine regions: [https://www.marineregions.org/downloads.php](https://www.marineregions.org/downloads.php)
 * Coast lines, land, and ocean boundaries: [https://www.naturalearthdata.com/downloads/](https://www.naturalearthdata.com/downloads/)
 
-Your feeback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+Your feeback on this content is welcome. Let us know what other useful material would you like to see here by emailing [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 \*The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL >3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information [here](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)

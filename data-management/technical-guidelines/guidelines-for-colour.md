@@ -162,4 +162,4 @@ ggplot(land) +
 * Tool to visualise colours as someone with different types of colour blindness: [https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
 * colourBlindness Package guide: [https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
 
-Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).

@@ -90,7 +90,7 @@ In general, the associated publication should provide all required information t
 
 Within IPBES, it is important that if any expert team develops an indicator, the associated technical support unit informs the technical support unit on knowledge and data. The technical support unit on knowledge and data can ensure that these steps are followed and all input data are accessible and stored in case the original source of the information is removed, enabling reuse by future assessments. Increasing transparency in the process of creating an indicator ensures consistency, allowing the scientific community to repeat workflows, improve upon them, and test different scenarios. Over time this process will build trust for the indicator and encourage their use to help inform policy and action.
 
-Your feedback on this content is welcome. Let us know what other useful material you would like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net).
+Your feedback on this content is welcome. Let us know what other useful material you would like to see here by emailing [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
 
 **References**
 

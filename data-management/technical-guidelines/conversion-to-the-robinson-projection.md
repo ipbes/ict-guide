@@ -142,6 +142,6 @@ text(subset(labs, !labs$islon), lab = parse(text = labs$lab[!labs$islon]), pos =
 
 ![](<../../.gitbook/assets/unnamed-chunk-10-1 (2).png>)
 
-Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [tsu.data@ipbes.net](mailto:tsu.data@ipbes.net)
+Your feedback on this content is welcome. Let us know what other useful material would you like to see here by emailing [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
 
 \*The warnings of discarding the datum but preserving the `+towgs1984 = values` stem from an update from PROJ4 to PRROJ6 but is not worriesome in this case. The `+datum=` part is depreciated from GDAL >3 and sf, rgdal, and raster packages use GDAL to read files. There is a stackoverflow thread with more information [here](https://stackoverflow.com/questions/63727886/proj4-to-proj6-upgrade-and-discarded-datum-warnings)
