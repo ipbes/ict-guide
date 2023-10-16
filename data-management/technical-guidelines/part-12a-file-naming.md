@@ -12,7 +12,7 @@ _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.nia
 Version: 1.0 \
 Last Updated: 16 October 2023
 
-DOI: [10.5281/zenodo.10004406](https://doi.org/10.5281/zenodo.6882518)
+DOI: [10.5281/zenodo.10004405](https://zenodo.org/doi/10.5281/zenodo.10004405)
 
 The IPBES assessment process is a lengthy and complex process, spanning over multiple years and involving many contributors and products. It is therefore important to easily track and find files related to the assessment. Here, an IPBES specific file name scheme for the assessments is being proposed.
 

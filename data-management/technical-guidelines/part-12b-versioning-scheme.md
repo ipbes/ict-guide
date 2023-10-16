@@ -12,7 +12,7 @@ _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.nia
 Version: 1.0 \
 Last Updated: 16 October 2023
 
-DOI: [10.5281/zenodo.10004408](https://doi.org/10.5281/zenodo.6882518)
+DOI: [10.5281/zenodo.10004407](https://zenodo.org/doi/10.5281/zenodo.10004407)
 
 The IPBES assessment process is a lengthy and complex process, spanning over multiple years and involving many contributors. It is therefore important to track the versions of all files related to the assessment. Here, an IPBES specific versioning scheme for its assessments is being proposed.
 

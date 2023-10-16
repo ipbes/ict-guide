@@ -12,7 +12,7 @@ _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.nia
 Version: 1.0 \
 Last Updated: 16 October 2023
 
-DOI: [10.5281/zenodo.10004410](https://doi.org/10.5281/zenodo.6882518)
+DOI: [10.5281/zenodo.10004409](https://zenodo.org/doi/10.5281/zenodo.10004409)
 
 Benefit sharing, by giving credit to those who contribute by properly acknowledging them, is important within IPBES. It is therefore important that the technical support units for assessments compile accurate information on the experts and maintain such information in a transparent and comprehensive manner.
 
