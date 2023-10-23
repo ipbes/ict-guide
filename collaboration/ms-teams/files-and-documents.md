@@ -42,9 +42,9 @@ By default, OneDrive cloud storage will be available. Depending on policies set 
 {% endtab %}
 {% endtabs %}
 
-## Edit Word documents in Teams <a href="#edit-document" id="edit-document"></a>
+## Edit an Office file in Microsoft Teams <a href="#page-header" id="page-header"></a>
 
-To edit a Word document directly in Microsoft Teams, first, open a document and select More options  ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png). You will then see options for how you can instantly open and edit your document. Any changes you make will save automatically.
+Open and edit a file directly in Teams on the desktop or, if you prefer, quickly access the file's desktop or web app to make your changes there.
 
 To edit Word documents in Teams:
 
@@ -53,9 +53,13 @@ To edit Word documents in Teams:
 3.  Select and open the Word document you'd like to edit.
 
     _**Note**: By default, the document will open directly in Teams, but when choosing your file, you can select More options_  ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) _in the file's row, then select Open in > Word desktop or Browser to open in a different window._
-4. To continue editing in Word for web, select More options  ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) in the document and select Open in Browser.\
-   \
-   ![Select the More options menu, next to the Close button.](https://support.content.office.net/en-us/media/d2ae9d9d-1830-47e9-b4d7-dc45488f1b7a.png)
+4. To continue editing in Word for web, select More options  ![More options button](https://support.content.office.net/en-us/media/d6c70643-162c-4414-954a-9bcb33ee4bc5.png) in the document and select Open in Browser.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/teams_1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Document sharing and co-authoring <a href="#document-authoring" id="document-authoring"></a>
 
