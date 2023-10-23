@@ -42,7 +42,9 @@ By default, OneDrive cloud storage will be available. Depending on policies set 
 {% endtab %}
 {% endtabs %}
 
-## Document sharing and co-authoring <a href="#page-header" id="page-header"></a>
+## Document sharing and co-authoring <a href="#document-authoring" id="document-authoring"></a>
+
+### Share a document <a href="#share-document" id="share-document"></a>
 
 When you share your document with others and give them permission to edit, everyone's changes are made in the same document.
 
@@ -89,3 +91,31 @@ _Watch this video for a quick tour of sharing and co-authoring documents. (sourc
 {% hint style="info" %}
 **Note**: If you aren't signedin to a Mail provider, you will need to sign in.
 {% endhint %}
+
+### Collaborate on Word documents with real-time co-authoring <a href="#page-header" id="page-header"></a>
+
+When someone shares a Word document with you, the email you receive includes a link that opens the document in your web browser: in Word for the web. Select **Edit Document** > **Edit in Browser**.
+
+![Select Edit in Browser to edit in Word for the web](https://support.content.office.net/en-us/media/e6a16b70-ffea-4946-84fc-49a53d6e276f.png)
+
+If anyone else is working on the document, you'll see their presence and the changes they're making. We call this coauthoring, or real-time collaboration.
+
+![Real-time collaboration](https://support.content.office.net/en-us/media/af81dfe6-f370-4609-8934-d9feb4ac8a1a.png)
+
+From here, if you'd rather work in your Word app, switch from **Editing** to **Open in Desktop App**, near the top of the window.
+
+![Open in Desktop App](https://support.content.office.net/en-us/media/3512828e-ba43-4386-85de-aa0d194d8893.png)
+
+> _Watch more_ [_here_](https://www.microsoft.com/en-us/videoplayer/embed/RE4CObj?pid=ocpVideo1-innerdiv-oneplayer\&postJsllMsg=true\&maskLevel=20\&reporting=true\&market=en-us)_. (source: Microsoft)_
+
+You'll still be coauthoring, as long as you're a Microsoft 365 subscriber, using one of these versions of Word:
+
+* Word 2016 for Windows
+* Word 2016 for Mac
+* Word on a mobile device (Android, iOS, or Windows)
+
+If you're using an older version of Word, or if you're not a subscriber, you can still edit the document at the same time others are working in it, but you won't have real-time collaboration. To see others' changes and share yours, you'll have to save the document from time to time.
+
+**Documents with Macros (.docm)**
+
+If your document contains macros (.docm), you can still edit and collaborate. You can open and edit the content like any other document, including running macros. If you need to edit the macro code, simply check out the file, edit the code, and check it back in.
