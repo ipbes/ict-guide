@@ -46,6 +46,8 @@ By default, OneDrive cloud storage will be available. Depending on policies set 
 
 When you share your document with others and give them permission to edit, everyone's changes are made in the same document.
 
+{% tabs %}
+{% tab title="Windows" %}
 {% embed url="https://www.microsoft.com/en-us/videoplayer/embed/RE1TwOk?market=en-us&maskLevel=20&pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&reporting=true" %}
 _Watch this video for a quick tour of sharing and co-authoring documents. (source: Microsoft)_
 {% endembed %}
@@ -60,3 +62,30 @@ _Watch this video for a quick tour of sharing and co-authoring documents. (sourc
 4.  Type a message if you want, and select **Send**﻿.
 
     The people you're sharing with will get mail from you, with a link to your document.
+{% endtab %}
+
+{% tab title="Web" %}
+1. In the top right corner, above the ribbon, click Share.﻿
+2. Enter email addresses of the people you want to share with, and make choices for permission you want to allow.
+3.  Type a message if you want, and click Send﻿.
+
+    The people you're sharing with will get mail from you, with a link to your document.
+{% endtab %}
+
+{% tab title="macOS" %}
+1. In the upper right corner, select Share.
+2. &#x20;Select Save to save the document to the cloud to share.
+3.  Select Send a Copy.
+
+    Note: You can select to send the copy as a Word Document, PDF, or HTML.
+4.  Select Email as Attachment.
+
+    Note: You also have the option to select to share with Outlook,AirDrop, Mail, Messages, Notes, and More (any extensions you have installed on your Mac).
+5. Choose a Mail account provider.
+6. Complete the email with invitees, add an optional note, and send.
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+**Note**: If you aren't signedin to a Mail provider, you will need to sign in.
+{% endhint %}
