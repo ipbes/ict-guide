@@ -1,16 +1,22 @@
+---
+description: Guest invitation process from Teams
+---
+
 # Joining Teams & Channels
 
 ## MEA IPBES - "_team name_" Teams & Channel
 
-The secretariat has set up a Microsoft Teams/SharePoint collaboration workspace under the United Nations tenant and will invite experts to the different channels relevant to their chapters.
+The secretariat has set up a Microsoft Teams/SharePoint collaboration workspace under the United Nations tenant and will invite experts as 'Guests' to the different channels relevant to their chapters.
 
 ### How to join the teams & channels
 
 Here are the steps:
 
-1. Please provide a Microsoft Office 365 work or school email account to be invited as a user to Microsoft Teams. Send an email to the secretariat: [ipbes.registration@ipbes.net](mailto:ipbes.registration@ipbes.net).
-2. You will receive a Microsoft invitation from the United Nations to access our applications. The email will be from “_uniteidentity\_noreply@un.org_”. Kindly accept that invitation within 24 hours.
-3. You will then receive a second invitation to join the Teams & channel from Microsoft Teams. The email will be from "_noreply@emeaemail.teams.microsoft.com_". The message's subject will read, "_You have been added to a team in Microsoft Teams_".
+1. Please provide a Microsoft Office 365 work or school email account to be invited as a user to Microsoft Teams. Send an email to the secretariat: [mea-ipbes-registration@un.org](mailto:mea-ipbes-registration@un.org).
+2. Next, the MS Teams owner will add you to a Team.
+3. You will then receive a welcome email from the team owner with information about the team and what to expect now that you have been added. The email will be from "[_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com)." The message's subject will read, "_You have been added to a team in Microsoft Teams_."
+4. &#x20;Please accept the invitation by clicking on the link in the invitation. Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
+5. After accepting the invitation, you can participate in teams and channels, receive and respond to channel messages, access files in channels, participate in chats, join meetings, collaborate on documents, and more.
 
 <figure><img src="../../.gitbook/assets/MS teams email.png" alt=""><figcaption><p>Microsoft Teams invite</p></figcaption></figure>
 
