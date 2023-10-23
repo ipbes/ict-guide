@@ -41,3 +41,22 @@ _Watch this video for a quick tour of the Files list. (source: Microsoft)_
 By default, OneDrive cloud storage will be available. Depending on policies set by your IT admin, you may be able to connect other cloud storage services to Teams.
 {% endtab %}
 {% endtabs %}
+
+## Document sharing and co-authoring <a href="#page-header" id="page-header"></a>
+
+When you share your document with others and give them permission to edit, everyone's changes are made in the same document.
+
+{% embed url="https://www.microsoft.com/en-us/videoplayer/embed/RE1TwOk?market=en-us&maskLevel=20&pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&reporting=true" %}
+_Watch this video for a quick tour of sharing and co-authoring documents. (source: Microsoft)_
+{% endembed %}
+
+1. In the top right corner, above the ribbon, click **Share > Share**.﻿\
+   \
+   ![MS Share Document button](https://support.content.office.net/en-us/media/e96e0d2f-d26d-41bf-9ab7-d900d4aa6eed.png)
+2.  Save your document in OneDrive if it's not already there.
+
+    _**Note**: The Share window displays if your document is not currently saved in OneDrive. Select the OneDrive option, then name your document and select OK._
+3. Enter email addresses of the people you want to share with and make choices for permission you want to allow.
+4.  Type a message if you want, and select **Send**﻿.
+
+    The people you're sharing with will get mail from you, with a link to your document.

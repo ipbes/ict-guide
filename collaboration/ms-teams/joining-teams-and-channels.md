@@ -10,7 +10,7 @@ The secretariat has set up a Microsoft Teams/SharePoint collaboration workspace 
 
 With guest access, you will have access to teams, documents in channels, resources, chats, and applications. Anyone with a business or consumer email account, such as Outlook, Gmail, or others, can participate as a guest in Teams.
 
-Please provide a Microsoft Office 365 work or school email account to be invited as a user to Microsoft Teams. Send an email to the secretariat: [mea-ipbes-registration@un.org](mailto:mea-ipbes-registration@un.org).
+Please provide a Microsoft Office 365 work or school email account to be added as a guest user. Send an email to the secretariat: [mea-ipbes-registration@un.org](mailto:mea-ipbes-registration@un.org).
 
 ### How to join the teams & channels <a href="#join-teams" id="join-teams"></a>
 
@@ -20,7 +20,7 @@ Here are the steps:
 After a guest is added to a team, it may take a few hours before they have access.
 {% endhint %}
 
-1. When you are invited to join a team, you will receive a welcome email message from the team owner. The email will be from "[_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com)." The message's subject will read, "_You have been added to a team in Microsoft Teams_." - _see the screenshot below_.
+1. When you are invited to join a team, you will receive a welcome email invitation that includes some information about joining Teams and what the guest experience is like. The email will be from "[_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com)." The message's subject will read, "_You have been added to a team in Microsoft Teams_." - _see the screenshot below_.
 2. &#x20;Please accept the invitation by clicking on the link in the invitation. Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
 3. After accepting the invitation, you can participate in teams and channels, receive and respond to channel messages, access files in channels, participate in chats, join meetings, collaborate on documents, and more.
 
