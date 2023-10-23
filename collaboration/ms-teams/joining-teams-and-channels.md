@@ -8,6 +8,8 @@ description: Guest invitation process from Teams
 
 The secretariat has set up a Microsoft Teams/SharePoint collaboration workspace under the United Nations tenant and will invite experts as 'Guests' to the different channels relevant to their chapters.
 
+With guest access, you will have access to teams, documents in channels, resources, chats, and applications. Anyone with a business or consumer email account, such as Outlook, Gmail, or others, can participate as a guest in Teams.
+
 ### How to join the teams & channels
 
 Here are the steps:
@@ -30,5 +32,5 @@ Here are the steps:
 {% hint style="info" %}
 If you experience any technical issues, kindly notify the respective technical support unit.
 
-Report other technical issues to the secretariat at the following email: [ipbes.registration@ipbes.net](mailto:ipbes.registration@ipbes.net).
+Report other technical issues to the secretariat at the following email: [mea-ipbes-registration@un.org](mailto:mea-ipbes-registration@un.org).
 {% endhint %}
