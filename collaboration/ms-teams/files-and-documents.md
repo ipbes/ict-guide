@@ -8,6 +8,8 @@ To learn more, see [Files in Microsoft Teams.](https://support.microsoft.com/en-
 
 {% tabs %}
 {% tab title="Desktop" %}
+To access and share files, use the Files tab and folders since document links may not work with guests.
+
 Select Files ![Files button](https://support.content.office.net/en-us/media/cd548e57-56f2-46b6-a9a9-88a7fc7ae90c.png) on the left side of Teams for quick access to all your files. Watch the video below to learn more:
 
 {% embed url="https://www.microsoft.com/en-us/videoplayer/embed/RE2Mxst?market=en-us&maskLevel=20&pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&reporting=true" fullWidth="false" %}
