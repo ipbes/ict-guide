@@ -59,10 +59,10 @@ Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_
 
 ### Chapter 3
 
-**Chapter 3: Drivers of change in nature affecting biological invasions**\
+**Chapter 3: Drivers affecting biological invasions**\
 DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
-> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers of change in nature affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
+> Hulme, P. E., Ikeda, T., Vandvik, V., Blanchard, R., Camacho-Cervantes, M., Herrera, I., Koyama, A., Morales, C. L., Munishi, L. K., Pallewatta, P. K. T. N. S., Per, E., Pergl, J., Ricciardi, A., and Xavier, R. O. (2023). Chapter 3: Drivers affecting biological invasions. In: Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., and Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.7430727](https://doi.org/10.5281/zenodo.7430727)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Bib/Invasive\_Alien\_Species\_Assessment\_Chapter3.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Invasive\_Alien\_Species\_Assessment/Ris/Invasive\_Alien\_Species\_Assessment\_Chapter3.ris).
