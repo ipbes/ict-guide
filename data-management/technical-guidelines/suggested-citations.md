@@ -8,7 +8,7 @@ description: Technical Guideline Series
 
 _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
-Version: 4.0\
+Version: 4.1\
 Last Updated: October 25th 2023
 
 DOI: [https://doi.org/10.5281/zenodo.5783347](https://doi.org/10.5281/zenodo.5783347)
