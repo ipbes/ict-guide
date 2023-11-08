@@ -38,8 +38,8 @@ IPBES: The acronym IPBES should be always present (in capital letters)
 | Methodological assessment regarding the diverse conceptualization of multiple values of nature and its benefits, including biodiversity and ecosystem functions and services | Values assessment                    | VA           |
 | Thematic assessment of the sustainable use of wild species                                                                                                                   | Sustainable use assessment           | SUA          |
 | Thematic assessment of invasive alien species and their control                                                                                                              | Invasive alien species assessment    | IAS          |
-| Thematic assessment of the interlinkages among biodiversity, water, food and health                                                                                          | Nexus assessment                     | NEX          |
-| Thematic assessment of the underlying causes of biodiversity loss, determinants of transformative change and options for achieving the 2050 vision for biodiversity          | Transformative change assessment     | TfC          |
+| Thematic assessment of the interlinkages among biodiversity, water, food and health                                                                                          | Nexus assessment                     | NXS          |
+| Thematic assessment of the underlying causes of biodiversity loss, determinants of transformative change and options for achieving the 2050 vision for biodiversity          | Transformative change assessment     | TCA          |
 | Methodological Assessment of the Impact and Dependence of Business on Biodiversity and Nature’s Contributions to People                                                      | Business and biodiversity assessment | BBA          |
 
 \[chapter]: chapter and subchapter number or “SPM”, e.g. “Ch5.2”. This is an optional field; if there is no chapter, use “\_\_” (i.e. two underscores) to keep the file name machine readable.
