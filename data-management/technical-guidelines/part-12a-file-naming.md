@@ -24,7 +24,7 @@ Apart from human understanding, the possibility to parse the file names automati
 
 The recommended naming of files is built up in a similar way as the IBAN codes used by banks, and the proposed file name convention for IPBES products is:
 
-**IPBES\_\[assessment abbreviation]**_**\[chapter]**_**\[document type]**_**\[short description]**_**\[version]**
+**IPBES\_\[assessment abbreviation]\_**_**\[chapter]\_**_**\[document type]\_**_**\[short description]\_**_**\[version]**
 
 In detail: **All sections are required to be filled in**.
 
