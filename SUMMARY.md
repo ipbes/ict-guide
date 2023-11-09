@@ -27,9 +27,6 @@
   * [Part 9 - Considerations When Working with Indigenous and Local Knowledge](data-management/technical-guidelines/ILK-considerations.md)
   * [Part 10 - Contributing Authors Template Email](data-management/technical-guidelines/contributing-authors-email.md)
   * [Part 11 - How to Document an Indicator](data-management/technical-guidelines/how-to-document-an-indicator.md)
-  * [Part 12A - File naming](data-management/technical-guidelines/part-12a-file-naming.md)
-  * [Part 12B - Versioning scheme](data-management/technical-guidelines/part-12b-versioning-scheme.md)
-  * [Part 12C - Experts list](data-management/technical-guidelines/part-12c-experts-list.md)
 
 ## Repositories
 
