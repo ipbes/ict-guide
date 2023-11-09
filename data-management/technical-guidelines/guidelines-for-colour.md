@@ -4,12 +4,12 @@ description: Technical Guideline Series
 
 # Part 4 - Guidelines for Colour
 
-**Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
-**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
+**Revised by Renske Gudde - Technical Support Unit (TSU) of Knowledge and Data**\
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data and Rainer M. Krug - IPBES Task Force on Knowledge and Data**\
 _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
-Version: 1.1\
-Last Updated: 15 July 2022
+Version: 1.2\
+Last Updated: 9 November 2023
 
 DOI: [10.5281/zenodo.6838820](https://doi.org/10.5281/zenodo.6838820)
 
@@ -34,9 +34,15 @@ Qualitative or categorical palettes have distinctive colours that are used to re
 
 ### _B. Colour Blind Friendly Palettes_
 
-When creating a map or figure, please choose colour schemes that are colour blind friendly. A very useful tool to visualise colours as someone with different types of colour blindness is available [here](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
+When creating a map or figure, please choose colour schemes that are colour blind friendly (more information about [colour palettes and colour blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) or about [colour schemes and contrasts](https://personal.sron.nl/\~pault/)). Printing a map or figure in black and white or grey tones are a good method to see how well the map or figure is interpretable without colour. Especially for maps, when areas without sufficient data are indicated, it is advisable to use a pattern instead of grey scales, because without the use of colour it can seem that there is a value for the data deficient areas.
 
-[This article](https://personal.sron.nl/\~pault/) by Paul Tol provides extensive colour palettes to choose from that are colour blind friendly and for qualitative, diverging, and sequential data. The high contrast colour scheme is particularly useful as it has been optimized for high contrast that will appear well in a monochromatic printout. Additionally, the package colorBlindness has tools to visualise the colour vision deficiency and useful palettes to choose from as well. A guide to the package is available [here](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)
+There are various apps to simulate colour blindness:
+
+1. [Sim Daldonism](https://michelf.ca/projects/sim-daltonism/), open source for **Mac and iOS**, to simulate various types of colour blindness
+2. [Color Oracle](https://colororacle.org), free available for **Windows, Linux and Mac**, focussing on the extreme forms of colour blindness (so that people with colour blindness that is less extreme or normal colour vision can also interpret the figures easily)
+3. [ColourSimulations](https://apps.microsoft.com/detail/9NBLGGH4385H?hl=en-us\&gl=US), real-time simulations of red-green colour-blindness for **Windows**.
+
+There is also an R-package [colorBlindness](https://cran.r-project.org/web/packages/colorBlindness/index.html) ([with its own guide](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html)) which provides a collection of safe colours for various types of figures and maps.
 
 ### _C. No rainbow colour palettes_
 
