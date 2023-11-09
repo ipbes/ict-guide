@@ -11,6 +11,10 @@
 
 * [Data and Knowledge Management Policy](data-management/data-management-policy.md)
 * [Data Management Tutorials](data-management/data-management-tutorials.md)
+* [Organisation of Work](data-management/organisation-of-work/README.md)
+  * [A - File naming](data-management/organisation-of-work/a-file-naming.md)
+  * [B - Versioning scheme](data-management/organisation-of-work/b-versioning-scheme.md)
+  * [C - Experts list](data-management/organisation-of-work/c-experts-list.md)
 * [Technical Guideline Series](data-management/technical-guidelines/README.md)
   * [Part 1 - Conversion to the Robinson Projection](data-management/technical-guidelines/conversion-to-the-robinson-projection.md)
   * [Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions](data-management/technical-guidelines/preparing-and-mapping-data-to-ipbes-regions-and-sub-regions.md)
