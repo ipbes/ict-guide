@@ -13,4 +13,4 @@ The O_rganisation of Work,_ consists of three separate parts:&#x20;
 
 These guidelines are intended to support the technical support units for the assessments, the other technical support units within IPBES and the assessment experts. Adopting these practices will increase the consistency and coherence within IPBES, and will facilitate the use of IPBES products for internal and external users.
 
-If interested, all source files are also available on our [GitHub](https://github.com/ipbesdata/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
+All source files are also available on our [GitHub](https://github.com/ipbesdata/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
