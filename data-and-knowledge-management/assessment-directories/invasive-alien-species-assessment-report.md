@@ -2,7 +2,7 @@
 
 **Preprared by Renske Gudde - TSU for data**
 
-**Reviewed by Rainer M. Krug - Task force for knowledge and data, Aidin Niamir - TSU for data, Tanara Renard Truong Van Tra - TSU for invasive alien species and Ryoko Kawakami - TSU for invasive alien species**
+**Reviewed by Rainer M. Krug - Task force for knowledge and data, Aidin Niamir - TSU for data, Tanara Renard Truong Van Nga - TSU for invasive alien species and Ryoko Kawakami - TSU for invasive alien species**
 
 _For any inquiries please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)\
 \
