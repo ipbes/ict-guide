@@ -37,7 +37,7 @@ You can now log into multiple work, school, and personal accounts using the new 
 
 You can return to your profile at any time to switch between accounts.&#x20;
 
-### **How to switch to a different organization’s Teams account:**
+### **How to switch to a different organization’s account**
 
 1. Click on your profile picture in the upper right corner.
 2. You will now see a list of the organizations you’ve been invited to.
