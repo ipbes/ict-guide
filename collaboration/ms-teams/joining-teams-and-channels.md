@@ -26,6 +26,17 @@ After a guest is added to a team, it may take a few hours before they have acces
 
 <figure><img src="../../.gitbook/assets/MS teams email.png" alt=""><figcaption><p>Microsoft Teams invite</p></figcaption></figure>
 
+### How to sign in to additional accounts
+
+The new version of Teams allows you to quickly and easily sign in to and switch between multiple accounts and organizations. Search and chat have been streamlined to offer more seamless collaboration opportunities.
+
+You can now log into multiple work, school, and personal accounts using the new Teams.&#x20;
+
+1. Select your profile picture in the top right of the Teams desktop client.
+2. Select Add another account and enter your credentials in the pop-up window.
+
+You can return to your profile at any time to switch between accounts.&#x20;
+
 ### **To switch to a different organization’s MS Teams account:**
 
 1. Click on your profile picture in the upper right corner.
