@@ -6,8 +6,8 @@
 
 _For any inquiries please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)\
 \
-Version 1.0\
-Last updated: 10 November 2023
+Version 1.1\
+Last updated: 12 December 2023
 
 DOI: [10.5281/zenodo.10103271](https://zenodo.org/doi/10.5281/zenodo.10103271)
 
@@ -17,12 +17,13 @@ This page is designed to help navigate through all the documents of the invasive
 
 1. [Full report](invasive-alien-species-assessment-report.md#full-report)
 2. [Summary for policymakers](invasive-alien-species-assessment-report.md#summary-for-policymakers)
-3. [Chapter 1](invasive-alien-species-assessment-report.md#chapter-1.-introducing-biological-invasions-and-the-ipbes-thematic-assessment-of-invasive-alien-spec)
-4. [Chapter 2](invasive-alien-species-assessment-report.md#chapter-2.-trends-and-status-of-alien-and-invasive-alien-species)
-5. [Chapter 3](invasive-alien-species-assessment-report.md#chapter-3.-drivers-affecting-biological-invasions)
-6. [Chapter 4](invasive-alien-species-assessment-report.md#chapter-4.-impacts-of-invasive-alien-species-on-nature-natures-contributions-to-people-and-good-qual)
-7. [Chapter 5](invasive-alien-species-assessment-report.md#chapter-5.-management-challenges-opportunities-and-lessons-learned)
-8. [Chapter 6](invasive-alien-species-assessment-report.md#chapter-6.-governance-and-policy-options-for-the-management-of-biological-invasions)
+3. [Factsheets](invasive-alien-species-assessment-report.md#factsheets)
+4. [Chapter 1](invasive-alien-species-assessment-report.md#chapter-1.-introducing-biological-invasions-and-the-ipbes-thematic-assessment-of-invasive-alien-spec)
+5. [Chapter 2](invasive-alien-species-assessment-report.md#chapter-2.-trends-and-status-of-alien-and-invasive-alien-species)
+6. [Chapter 3](invasive-alien-species-assessment-report.md#chapter-3.-drivers-affecting-biological-invasions)
+7. [Chapter 4](invasive-alien-species-assessment-report.md#chapter-4.-impacts-of-invasive-alien-species-on-nature-natures-contributions-to-people-and-good-qual)
+8. [Chapter 5](invasive-alien-species-assessment-report.md#chapter-5.-management-challenges-opportunities-and-lessons-learned)
+9. [Chapter 6](invasive-alien-species-assessment-report.md#chapter-6.-governance-and-policy-options-for-the-management-of-biological-invasions)
 
 #### **Full report**
 
@@ -37,6 +38,18 @@ This page is designed to help navigate through all the documents of the invasive
 [SPM](https://doi.org/10.5281/zenodo.7430692)
 
 [The figures, tables and captions used in the SPM](https://doi.org/10.5281/zenodo.8045527)
+
+#### **Factsheets**
+
+[Factsheet 1 - Invasive aline species: data on trends and impacts](https://zenodo.org/doi/10.5281/zenodo.10057013)
+
+[Factsheet 2 - The role of businesses in the management and governance of biological invasion](https://zenodo.org/doi/10.5281/zenodo.10057025)
+
+[Factsheet 3 - Invasive alien species affect protected areas and most natural ecosystems](https://zenodo.org/doi/10.5281/zenodo.10057029)
+
+[Factsheet 4 - Biological invasions on islands](https://zenodo.org/doi/10.5281/zenodo.10057031)
+
+[Factsheet 5 - Invasive alien species management and governance](https://zenodo.org/doi/10.5281/zenodo.10057035)
 
 #### **Chapter 1. Introducing biological invasions and the IPBES thematic assessment of invasive alien species and their control**
 
