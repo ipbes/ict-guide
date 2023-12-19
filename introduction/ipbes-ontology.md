@@ -2,9 +2,9 @@
 
 ### The IPBES Ontology
 
-**Prepared by Maral Dadvar - resource person for the IPBES task force on knowledge and data**
+**Prepared by Maral Dadvar - resource person for the IPBES task force on data and knowledge management**
 
-**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit for data and knowledge management**
 
 _For any inquires please contact_ [_aidin.niamir@senckenberg.de_](mailto:aidin.niamir@senckenberg.de)
 
@@ -36,11 +36,11 @@ This is the list of the namesspaces used in this ontology.
 
 
 
-| Namespace prefix | Namespace URI                         |
-| ---------------- | ------------------------------------- |
-| ipbes            | https://www.ontology.ipbes.net/report |
-| foaf             | http://xmlns.com/foaf/0.1/            |
-| skos             | http://www.w3.org/2004/02/skos/core#  |
+| Namespace prefix | Namespace URI                                                               |
+| ---------------- | --------------------------------------------------------------------------- |
+| ipbes            | [https://ontology.ipbes.net/report](https://ontology.ipbes.net/report)      |
+| foaf             | [http://xmlns.com/foaf/0.1/](http://xmlns.com/foaf/0.1/)                    |
+| skos             | [http://www.w3.org/2004/02/skos/core#](http://www.w3.org/2004/02/skos/core) |
 
 ### 3. The IPBES Ontology Visualisation
 
@@ -58,17 +58,17 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Report**
 
-| Class          |                                                                              |
-| -------------- | ---------------------------------------------------------------------------- |
-| _ipbes.Report_ | [http://www.ontology.ipbes.net/report](http://www.ontology.ipbes.net/report) |
+| Class          |                                                                      |
+| -------------- | -------------------------------------------------------------------- |
+| _ipbes.Report_ | [http://ontology.ipbes.net/report](http://ontology.ipbes.net/report) |
 
 <table><thead><tr><th width="452">Properties</th><th></th></tr></thead><tbody><tr><td><em>skos:prefLabel</em></td><td>The label that is preferred to be used for a chapter, sub-chapter , report or person</td></tr><tr><td><em>Skos:altLabel</em></td><td>Alternative writing format or language of the preferred label</td></tr><tr><td><em>ipbes:year</em></td><td>The publication year</td></tr><tr><td><em>ipbes:hasDoi</em></td><td>The DOI number</td></tr></tbody></table>
 
 #### **Chapter**
 
-| Class           |                                                                                      |
-| --------------- | ------------------------------------------------------------------------------------ |
-| _ipbes.Chapter_ | [http://www.ontology.ipbes.net/report/ch/](http://www.ontology.ipbes.net/report/ch/) |
+| Class           |                                                                              |
+| --------------- | ---------------------------------------------------------------------------- |
+| _ipbes.Chapter_ | [http://ontology.ipbes.net/report/ch/](http://ontology.ipbes.net/report/ch/) |
 
 | Properties         |                                                                                      |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -80,9 +80,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Subchapter**
 
-| Class              |                                                                                        |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| _ipbes.SubChapter_ | [http://www.ontology.ipbes.net/report/sch/](http://www.ontology.ipbes.net/report/sch/) |
+| Class              |                                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| _ipbes.SubChapter_ | [http://ontology.ipbes.net/report/sch/](http://ontology.ipbes.net/report/sch/) |
 
 | Properties             |                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------ |
@@ -96,9 +96,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Key message**
 
-| Class              |                                                                                        |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| _ipbes.KeyMessage_ | [http://www.ontology.ipbes.net/report/key/](http://www.ontology.ipbes.net/report/key/) |
+| Class              |                                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| _ipbes.KeyMessage_ | [http://ontology.ipbes.net/report/key/](http://ontology.ipbes.net/report/key/) |
 
 | Properties                       |                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
@@ -114,9 +114,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Reference**
 
-| Class             |                                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------- |
-| _ipbes.Reference_ | [http://www.ontology.ipbes.net/report/ref/](http://www.ontology.ipbes.net/report/ref/) |
+| Class             |                                                                                |
+| ----------------- | ------------------------------------------------------------------------------ |
+| _ipbes.Reference_ | [http://ontology.ipbes.net/report/ref/](http://ontology.ipbes.net/report/ref/) |
 
 | Properties             |                                                                   |
 | ---------------------- | ----------------------------------------------------------------- |
@@ -129,9 +129,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Person**
 
-| Class         |                                                                                              |
-| ------------- | -------------------------------------------------------------------------------------------- |
-| _foaf.Person_ | [http://www.ontology.ipbes.net/report/person/](http://www.ontology.ipbes.net/report/person/) |
+| Class         |                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------ |
+| _foaf.Person_ | [http://ontology.ipbes.net/report/person/](http://ontology.ipbes.net/report/person/) |
 
 <table><thead><tr><th width="248">Properties</th><th></th></tr></thead><tbody><tr><td><em>foaf:firstName</em></td><td>First name of the person</td></tr><tr><td><em>foaf:lastName</em></td><td>Family name of the person</td></tr><tr><td><em>skos:prefLabel</em></td><td>The label that is preferred to be used for a chapter, sub-chapter, report or person</td></tr><tr><td><em>ipbes:orcID</em></td><td>ORCID identifier of the person</td></tr><tr><td><em>ipbes:country</em></td><td>Country of residence of the person</td></tr><tr><td><em>ipbes:ca</em></td><td>Contributing authors in the stated chapter and report</td></tr><tr><td><em>ipbes:cl</em></td><td>Coordinating lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:fl</em></td><td>Fellows in the stated chapter and report</td></tr><tr><td><em>ipbes:cs</em></td><td>Co-chairs in the stated chapter and report</td></tr><tr><td><em>ipbes:la</em></td><td>Lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:re</em></td><td>Review editors in the stated chapter and report</td></tr></tbody></table>
 
