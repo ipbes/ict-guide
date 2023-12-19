@@ -5,7 +5,6 @@
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
-* [Page](introduction/page.md)
 * [IPBES Ontology](introduction/ipbes-ontology.md)
 * [Getting help](introduction/contact.md)
 

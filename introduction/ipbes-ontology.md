@@ -1,8 +1,8 @@
 # IPBES Ontology
 
-**Prepared by: Maral Dadvar and Aidin Niamir**
+**Prepared by Maral Dadvar and Aidin Niamir**
 
-**Contributed by: Dave Thau, Benedict Omare and Renske Gudde**
+**Contributors: Dave Thau, Benedict Omare and Renske Gudde**
 
 _For any inquires please contact_ [_aidin.niamir@senckenberg.de_](mailto:aidin.niamir@senckenberg.de)
 
@@ -31,11 +31,7 @@ The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Serv
 
 This is the list of the namesspaces used in this ontology.
 
-| Namespace prefix | Namespace URI                                                               |
-| ---------------- | --------------------------------------------------------------------------- |
-| ipbes            | [https://ontology.ipbes.net/report](https://ontology.ipbes.net/report)      |
-| foaf             | [http://xmlns.com/foaf/0.1/](http://xmlns.com/foaf/0.1/)                    |
-| skos             | [http://www.w3.org/2004/02/skos/core#](http://www.w3.org/2004/02/skos/core) |
+<table><thead><tr><th width="282">Namespace prefix</th><th>Namespace URI</th></tr></thead><tbody><tr><td>ipbes</td><td><a href="https://ontology.ipbes.net/report">https://ontology.ipbes.net/report</a></td></tr><tr><td>foaf</td><td><a href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</a></td></tr><tr><td>skos</td><td><a href="http://www.w3.org/2004/02/skos/core">http://www.w3.org/2004/02/skos/core#</a></td></tr></tbody></table>
 
 ### 3. The IPBES Ontology Description
 
@@ -53,7 +49,12 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | -------------- | -------------------------------------------------------------------- |
 | _ipbes.Report_ | [http://ontology.ipbes.net/report](http://ontology.ipbes.net/report) |
 
-<table><thead><tr><th width="452">Properties</th><th></th></tr></thead><tbody><tr><td><em>skos:prefLabel</em></td><td>The label that is preferred to be used for a chapter, sub-chapter , report or person</td></tr><tr><td><em>Skos:altLabel</em></td><td>Alternative writing format or language of the preferred label</td></tr><tr><td><em>ipbes:year</em></td><td>The publication year</td></tr><tr><td><em>ipbes:hasDoi</em></td><td>The DOI number</td></tr></tbody></table>
+| Properties       |                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| _skos:prefLabel_ | The label that is preferred to be used for a chapter, sub-chapter , report or person |
+| _Skos:altLabel_  | Alternative writing format or language of the preferred label                        |
+| _ipbes:year_     | The publication year                                                                 |
+| _ipbes:hasDoi_   | The DOI number                                                                       |
 
 #### **Chapter**
 
@@ -124,7 +125,19 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | ------------- | ------------------------------------------------------------------------------------ |
 | _foaf.Person_ | [http://ontology.ipbes.net/report/person/](http://ontology.ipbes.net/report/person/) |
 
-<table><thead><tr><th width="248">Properties</th><th></th></tr></thead><tbody><tr><td><em>foaf:firstName</em></td><td>First name of the person</td></tr><tr><td><em>foaf:lastName</em></td><td>Family name of the person</td></tr><tr><td><em>skos:prefLabel</em></td><td>The label that is preferred to be used for a chapter, sub-chapter, report or person</td></tr><tr><td><em>ipbes:orcID</em></td><td>ORCID identifier of the person</td></tr><tr><td><em>ipbes:country</em></td><td>Country of residence of the person</td></tr><tr><td><em>ipbes:ca</em></td><td>Contributing authors in the stated chapter and report</td></tr><tr><td><em>ipbes:cl</em></td><td>Coordinating lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:fl</em></td><td>Fellows in the stated chapter and report</td></tr><tr><td><em>ipbes:cs</em></td><td>Co-chairs in the stated chapter and report</td></tr><tr><td><em>ipbes:la</em></td><td>Lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:re</em></td><td>Review editors in the stated chapter and report</td></tr></tbody></table>
+| Properties       |                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| _foaf:firstName_ | First name of the person                                                            |
+| _foaf:lastName_  | Family name of the person                                                           |
+| _skos:prefLabel_ | The label that is preferred to be used for a chapter, sub-chapter, report or person |
+| _ipbes:orcID_    | ORCID identifier of the person                                                      |
+| _ipbes:country_  | Country of residence of the person                                                  |
+| _ipbes:ca_       | Contributing authors in the stated chapter and report                               |
+| _ipbes:cl_       | Coordinating lead authors in the stated chapter and report                          |
+| _ipbes:fl_       | Fellows in the stated chapter and report                                            |
+| _ipbes:cs_       | Co-chairs in the stated chapter and report                                          |
+| _ipbes:la_       | Lead authors in the stated chapter and report                                       |
+| _ipbes:re_       | Review editors in the stated chapter and report                                     |
 
 ### 5. References
 
