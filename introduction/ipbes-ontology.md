@@ -1,10 +1,8 @@
 # IPBES Ontology
 
-### The IPBES Ontology
+**Prepared by: Maral Dadvar and Aidin Niamir**
 
-**Prepared by Maral Dadvar - resource person for the IPBES task force on data and knowledge management**
-
-**Reviewed by Aidin Niamir - Head of the Technical Support Unit for data and knowledge management**
+**Contributed by: Dave Thau, Benedict Omare and Renske Gudde**
 
 _For any inquires please contact_ [_aidin.niamir@senckenberg.de_](mailto:aidin.niamir@senckenberg.de)
 
@@ -21,10 +19,9 @@ The ontology developed for representing intergovernmental reports and the broad 
 
 1. [Introduction](ipbes-ontology.md#1.-introduction)
 2. [Namespace Declarations](ipbes-ontology.md#2.-namespace-declarations)
-3. [The IPBES Ontology Visualisation](ipbes-ontology.md#3.-the-ipbes-ontology-visualisation)
-4. [The IPBES Ontology Description](ipbes-ontology.md#4.-the-ipbes-ontology-description)
-5. [Classes and Attributes](ipbes-ontology.md#5.-classes-and-attributes)
-6. [References](ipbes-ontology.md#6.-references)
+3. [The IPBES Ontology Description](ipbes-ontology.md#3.-the-ipbes-ontology-description)
+4. [Classes and Attributes](ipbes-ontology.md#4.-classes-and-attributes)
+5. [References](ipbes-ontology.md#5.-references)
 
 ### 1. Introduction
 
@@ -34,23 +31,17 @@ The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Serv
 
 This is the list of the namesspaces used in this ontology.
 
-
-
 | Namespace prefix | Namespace URI                                                               |
 | ---------------- | --------------------------------------------------------------------------- |
 | ipbes            | [https://ontology.ipbes.net/report](https://ontology.ipbes.net/report)      |
 | foaf             | [http://xmlns.com/foaf/0.1/](http://xmlns.com/foaf/0.1/)                    |
 | skos             | [http://www.w3.org/2004/02/skos/core#](http://www.w3.org/2004/02/skos/core) |
 
-### 3. The IPBES Ontology Visualisation
-
-<figure><img src="../.gitbook/assets/Ontology_Figure2.png" alt=""><figcaption><p>Figure visualising the IPBES ontology</p></figcaption></figure>
-
-### 4. The IPBES Ontology Description
+### 3. The IPBES Ontology Description
 
 The classes and properties used in IPBES ontology are created on the fly based on the information that we encounter and the concepts that we aimed to represent. However, the usage of the properties consistent and the coined URI’s are stable and unique. Currently our ontology consists of 6 classes, each representing a specific part of the data along with their corresponding properties.
 
-### 5. Classes and Attributes
+### 4. Classes and Attributes
 
 | Classes                            |                                      |                                            |                                             |                                          |                                    |
 | ---------------------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- | ---------------------------------------- | ---------------------------------- |
@@ -135,8 +126,8 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 <table><thead><tr><th width="248">Properties</th><th></th></tr></thead><tbody><tr><td><em>foaf:firstName</em></td><td>First name of the person</td></tr><tr><td><em>foaf:lastName</em></td><td>Family name of the person</td></tr><tr><td><em>skos:prefLabel</em></td><td>The label that is preferred to be used for a chapter, sub-chapter, report or person</td></tr><tr><td><em>ipbes:orcID</em></td><td>ORCID identifier of the person</td></tr><tr><td><em>ipbes:country</em></td><td>Country of residence of the person</td></tr><tr><td><em>ipbes:ca</em></td><td>Contributing authors in the stated chapter and report</td></tr><tr><td><em>ipbes:cl</em></td><td>Coordinating lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:fl</em></td><td>Fellows in the stated chapter and report</td></tr><tr><td><em>ipbes:cs</em></td><td>Co-chairs in the stated chapter and report</td></tr><tr><td><em>ipbes:la</em></td><td>Lead authors in the stated chapter and report</td></tr><tr><td><em>ipbes:re</em></td><td>Review editors in the stated chapter and report</td></tr></tbody></table>
 
-### 6. References
+### 5. References
 
-https://www.w3.org/2009/08/skos-reference/skos.html
+[https://www.w3.org/2009/08/skos-reference/skos.html](https://www.w3.org/2009/08/skos-reference/skos.html)
 
-http://xmlns.com/foaf/0.1/
+[http://xmlns.com/foaf/0.1/](http://xmlns.com/foaf/0.1/)
