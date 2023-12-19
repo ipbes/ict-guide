@@ -5,6 +5,8 @@
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
+* [Page](introduction/page.md)
+* [IPBES Ontology](introduction/ipbes-ontology.md)
 * [Getting help](introduction/contact.md)
 
 ## Data and Knowledge Management
@@ -89,3 +91,9 @@
 * [Content management](website/content-management/README.md)
   * [Content creation](website/content\_creation.md)
   * [Content administration](website/content\_administration.md)
+
+***
+
+* [Import](import.md)
+* [Import](import-1/README.md)
+  * [Technical Guideline Series](import-1/technical-guideline-series.md)
