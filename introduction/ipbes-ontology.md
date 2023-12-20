@@ -35,7 +35,7 @@ This is the list of the namesspaces used in this ontology.
 
 ### 3. The IPBES Ontology Description
 
-The classes and properties used in IPBES ontology are created on the fly based on the information that we encounter and the concepts that we aimed to represent. However, the usage of the properties consistent and the coined URI’s are stable and unique. Currently our ontology consists of 6 classes, each representing a specific part of the data along with their corresponding properties.
+The classes and properties used in IPBES ontology are created on the fly based on the information that we encounter and the concepts that we aimed to represent. However, the usage of the properties is consistent and the coined URI’s are stable and unique. Currently our ontology consists of 6 classes, each representing a specific part of the data along with their corresponding attributes.
 
 ### 4. Classes and Attributes
 
@@ -82,7 +82,7 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | _ipbes:Chapter_        | Link to the class Chapter of the sub-chapter                                         |
 | _ipbes:Report_         | Link to the class Report of the sub-chapter                                          |
 | _ipbes:KeyMessage_     | Link to the class KeyMessage for which the sub-chapter has been referred to          |
-| _ipbes:reference_      | Link to the class reference for the citations used in each subchapter                |
+| _ipbes:Reference_      | Link to the class reference for the citations used in each subchapter                |
 | _skos:prefLabel_       | The label that is preferred to be used for a chapter, sub-chapter , report or person |
 | _ipbes:hasDescription_ | The text that further describes the content                                          |
 
