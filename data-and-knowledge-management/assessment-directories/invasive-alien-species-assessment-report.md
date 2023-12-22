@@ -1,6 +1,6 @@
 # Invasive Alien Species Assessment Report
 
-**Preprared by Renske Gudde - TSU for data**
+**Prepared by Renske Gudde - TSU for data**
 
 **Reviewed by Rainer M. Krug - Task force for knowledge and data, Aidin Niamir - TSU for data, Tanara Renard Truong Van Nga - TSU for invasive alien species and Ryoko Kawakami - TSU for invasive alien species**
 
