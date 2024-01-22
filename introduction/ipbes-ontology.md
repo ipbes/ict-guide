@@ -7,7 +7,7 @@
 _For any inquires please contact_ [_aidin.niamir@senckenberg.de_](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.0\
-Last Updated: December 19th, 2023
+Last Updated: January 22nd, 2024
 
 DOI: [10.5281/zenodo.10404414](https://doi.org/10.5281/zenodo.10404414)
 
@@ -62,13 +62,13 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | --------------- | ---------------------------------------------------------------------------- |
 | _ipbes.Chapter_ | [http://ontology.ipbes.net/report/ch/](http://ontology.ipbes.net/report/ch/) |
 
-| Properties         |                                                                                      |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| _skos:prefLabel_   | The label that is preferred to be used for a chapter, sub-chapter , report or person |
-| _ipbes:Report_     | Link to the class Report of the chapter                                              |
-| _ipbes:hasDoi_     | The DOI number                                                                       |
-| _ipbes:identifier_ | The identifier of the chapter or sub-chapter or key message in the report            |
-| _foaf.Person_      | The list of persons who have a role in this chapter                                  |
+| Properties         |                                                                                     |
+| ------------------ | ----------------------------------------------------------------------------------- |
+| _skos:prefLabel_   | The label that is preferred to be used for a chapter, sub-chapter, report or person |
+| _ipbes:Report_     | Link to the class Report of the chapter                                             |
+| _ipbes:hasDoi_     | The DOI number                                                                      |
+| _ipbes:identifier_ | The identifier of the chapter or sub-chapter or key message in the report           |
+| _foaf.Person_      | The list of persons who have a role in this chapter                                 |
 
 #### **Subchapter**
 
@@ -129,6 +129,8 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | ---------------- | ----------------------------------------------------------------------------------- |
 | _foaf:firstName_ | First name of the person                                                            |
 | _foaf:lastName_  | Family name of the person                                                           |
+| _ipbes:Chapter_  | Link to the class Chapter in which the person has a role                            |
+| _ipbes:Report_   | Link to the class Report                                                            |
 | _skos:prefLabel_ | The label that is preferred to be used for a chapter, sub-chapter, report or person |
 | _ipbes:orcID_    | ORCID identifier of the person                                                      |
 | _ipbes:country_  | Country of residence of the person                                                  |
