@@ -49,12 +49,12 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | -------------- | -------------------------------------------------------------------- |
 | _ipbes.Report_ | [http://ontology.ipbes.net/report](http://ontology.ipbes.net/report) |
 
-| Properties       |                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------ |
-| _skos:prefLabel_ | The label that is preferred to be used for a chapter, sub-chapter , report or person |
-| _Skos:altLabel_  | Alternative writing format or language of the preferred label                        |
-| _ipbes:year_     | The publication year                                                                 |
-| _ipbes:hasDoi_   | The DOI number                                                                       |
+| Properties       |                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| _skos:prefLabel_ | The label that is preferred to be used for a chapter, sub-chapter, report or person |
+| _Skos:altLabel_  | Alternative writing format or language of the preferred label                       |
+| _ipbes:year_     | The publication year                                                                |
+| _ipbes:hasDoi_   | The DOI number                                                                      |
 
 #### **Chapter**
 
