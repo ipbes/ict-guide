@@ -34,6 +34,7 @@
   * [Values Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/values-assessment.md)
   * [Global Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/global-assessment.md)
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
+  * [Publicly available IPBES libraries](data-and-knowledge-management/assessment-directories/publicly-available-ipbes-libraries.md)
   * [Invasive Alien Species Assessment Report](data-and-knowledge-management/assessment-directories/invasive-alien-species-assessment-report.md)
 
 ## Repositories
