@@ -51,6 +51,10 @@ This page is designed to help navigate through all the documents of the invasive
 
 [Factsheet 5 - Invasive alien species management and governance](https://zenodo.org/doi/10.5281/zenodo.10057035)
 
+[Factsheet 6 - Biological invasions and stakeholder engagement](https://zenodo.org/doi/10.5281/zenodo.10057037)
+
+[Factsheet 7 - Climate change and biological invasions](https://zenodo.org/doi/10.5281/zenodo.10408375)
+
 #### **Chapter 1. Introducing biological invasions and the IPBES thematic assessment of invasive alien species and their control**
 
 [Chapter 1](https://doi.org/10.5281/zenodo.7430723)
