@@ -35,7 +35,7 @@
   * [Global Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/global-assessment.md)
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
   * [Underlying bibliographic data and research materials of the IPBES  assessment reports](data-and-knowledge-management/assessment-directories/underlying-bibliographic-data-and-research-materials-of-the-ipbes-assessment-reports.md)
-  * [Invasive Alien Species Assessment Report](data-and-knowledge-management/assessment-directories/invasive-alien-species-assessment-report.md)
+  * [Thematic assessment report on Invasive Alien Species and their Control](data-and-knowledge-management/assessment-directories/invasive-alien-species-assessment-report.md)
 
 ## Repositories
 
