@@ -13,7 +13,7 @@ DOI: [10.5281/zenodo.10103271](https://zenodo.org/doi/10.5281/zenodo.10103271)
 
 This page is designed to help navigate through all the documents of the invasive alien species assessment, such as the data management reports, figures and all accompanying documents.
 
-<figure><img src="../../.gitbook/assets/2023 COVER_ASSESSMENT_IAS_V8_FINAL.jpg" alt="" width="375"><figcaption><p>Cover of the Invasive Alien Species assessment report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023 COVER_ASSESSMENT_IAS_V8_FINAL.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Table of content
 
