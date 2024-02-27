@@ -5,8 +5,8 @@
 
 _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
-Version: 1.0 \
-Last Updated: 16 October 2023
+Version: 1.1 \
+Last Updated: 27 February 2024
 
 DOI: [10.5281/zenodo.10004405](https://zenodo.org/doi/10.5281/zenodo.10004405)
 
@@ -26,17 +26,27 @@ In detail: **All sections are required to be filled in**.
 
 IPBES: The acronym IPBES should be always present (in capital letters)
 
-\[assessment\_abbreviation]: the abbreviation of the assessment as was **approved during the scoping of the assessment**, e.g., IAS for invasive alien species, NEX for the Nexus, TfC for transformative change and BB for business and biodiversity (in capital letters).
+\[assessment\_abbreviation]: the abbreviation of the assessment as was **approved during the scoping of the assessment**, e.g., IAS for invasive alien species, NXS for the Nexus, TCA for transformative change and BBA for business and biodiversity (in capital letters).
 
 | Full Name                                                                                                                                                                    | Short Name                           | Abbreviation |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------ |
-| Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services                      | Global assessment                    | GA           |
+| Assessment report on pollinators, pollination and food production                                                                                                            | Pollinators assessment               | PPA          |
+| Methodological assessment report on scenarios and models of biodiversity and ecosystem services                                                                              | Scenarios and models assessment      | SCM          |
+| Regional assessment report on biodiversity and ecosystem services for Africa                                                                                                 | Africa assessment                    | AFA          |
+| Regional assessment report on biodiversity and ecosystem services for the Americas                                                                                           | Americas assessment                  | AMA          |
+| Regional assessment report on biodiversity and ecosystem services for Asia and the Pacific                                                                                   | Asia and the Pacific assessment      | APA          |
+| Regional assessment report on biodiversity and ecosystem services for Europe and Central Asia                                                                                | Europe and Central Asia assessment   | ECA          |
+| Assessment of land degradation and restoration                                                                                                                               | Land degradation assessment          | LDR          |
+| Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services                      | First global assessment              | GA1          |
 | Methodological assessment regarding the diverse conceptualization of multiple values of nature and its benefits, including biodiversity and ecosystem functions and services | Values assessment                    | VA           |
 | Thematic assessment of the sustainable use of wild species                                                                                                                   | Sustainable use assessment           | SUA          |
 | Thematic assessment of invasive alien species and their control                                                                                                              | Invasive alien species assessment    | IAS          |
 | Thematic assessment of the interlinkages among biodiversity, water, food and health                                                                                          | Nexus assessment                     | NXS          |
 | Thematic assessment of the underlying causes of biodiversity loss, determinants of transformative change and options for achieving the 2050 vision for biodiversity          | Transformative change assessment     | TCA          |
 | Methodological Assessment of the Impact and Dependence of Business on Biodiversity and Nature’s Contributions to People                                                      | Business and biodiversity assessment | BBA          |
+| Methodological assessment on monitoring biodiversity and nature’s contributions to people                                                                                    | Monitoring assessment                | MTA          |
+| Second global assessment of biodiversity and ecosystem services                                                                                                              | Second global assessment             | GA2          |
+| Methodological assessment of integrated biodiversity-inclusive spatial planning and ecological connectivity                                                                  | Spatial planning assessment          | SPC          |
 
 \[chapter]: chapter and subchapter number or “SPM”, e.g. “Ch5.2”. This is an optional field; if there is no chapter, use “\_\_” (i.e. two underscores) to keep the file name machine readable.
 
