@@ -7,7 +7,7 @@
 _For any inquires please contact_ [_aidin.niamir@senckenberg.de_](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.0\
-Last Updated: January 22nd, 2024
+Last Updated: February 27th, 2024
 
 DOI: [10.5281/zenodo.10404414](https://doi.org/10.5281/zenodo.10404414)
 
@@ -39,9 +39,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 ### 4. Classes and Attributes
 
-| Classes                            |                                      |                                            |                                             |                                          |                                    |
-| ---------------------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- | ---------------------------------------- | ---------------------------------- |
-| [Report](ipbes-ontology.md#report) | [Chapter](ipbes-ontology.md#chapter) | [Subchapter](ipbes-ontology.md#subchapter) | [KeyMessage](ipbes-ontology.md#key-message) | [Reference](ipbes-ontology.md#reference) | [Person](ipbes-ontology.md#person) |
+| Classes                            |                                      |                                            |                                             |                                                           |                                             |                                                |                                          |                                    |
+| ---------------------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------- |
+| [Report](ipbes-ontology.md#report) | [Chapter](ipbes-ontology.md#chapter) | [SubChapter](ipbes-ontology.md#subchapter) | [KeyMessage](ipbes-ontology.md#key-message) | [BackgroundMessage](ipbes-ontology.md#background-message) | [SubMessage](ipbes-ontology.md#sub-message) | [Illustration](ipbes-ontology.md#illustration) | [Reference](ipbes-ontology.md#reference) | [Person](ipbes-ontology.md#person) |
 
 #### **Report**
 
@@ -70,7 +70,7 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | _ipbes:identifier_ | The identifier of the chapter or sub-chapter or key message in the report           |
 | _foaf.Person_      | The list of persons who have a role in this chapter                                 |
 
-#### **Subchapter**
+#### **Sub-chapter**
 
 | Class              |                                                                                |
 | ------------------ | ------------------------------------------------------------------------------ |
@@ -88,9 +88,7 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Key message**
 
-| Class              |                                                                                |
-| ------------------ | ------------------------------------------------------------------------------ |
-| _ipbes.KeyMessage_ | [http://ontology.ipbes.net/report/key/](http://ontology.ipbes.net/report/key/) |
+<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.KeyMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/key/</a></td></tr></tbody></table>
 
 | Properties                       |                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
@@ -104,20 +102,65 @@ The classes and properties used in IPBES ontology are created on the fly based o
 | _ipbes:hasUnresolved_            | Level of confidence                                                                 |
 | _ipbes:hasInconclusive_          | Level of confidence                                                                 |
 
+#### **Background message**
+
+<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.BackgroundMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/bgm/</a></td></tr></tbody></table>
+
+| Properties                       |                                                                                     |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
+| _ipbes:SubMessage_               | Link to the sub-messages used in each background message                            |
+| _ipbes:identifier_               | The identifier of the chapter or sub-chapter or key message in the report           |
+| _ipbes:Report_                   | Link to the class Report of the key message                                         |
+| _skos:prefLabel_                 | The label that is preferred to be used for a chapter, sub-chapter, report or person |
+| _ipbes:hasDescription_           | The text that further describes the content                                         |
+| _ipbes:hasEstablishedIncomplete_ | Level of confidence                                                                 |
+| _ipbes:hasWellestablished_       | Level of confidence                                                                 |
+| _ipbes:hasUnresolved_            | Level of confidence                                                                 |
+| _ipbes:hasInconclusive_          | Level of confidence                                                                 |
+
+#### **Sub-message**
+
+<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.SubMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/subm/</a></td></tr></tbody></table>
+
+| Properties                       |                                                                                             |
+| -------------------------------- | ------------------------------------------------------------------------------------------- |
+| _ipbes:identifier_               | The identifier of the chapter or sub-chapter or key message in the report                   |
+| _ipbes:hasDescription_           | The text that further describes the content                                                 |
+| _ipbes:SubChapter_               | Link to class SubChapter. Use for subchapters mentioned in the sub-message.                 |
+| _ipbes:Illustration_             | Link to class Illustration. Used for mentioned tables, figures or boxes in the sub-message. |
+| _ipbes:hasEstablishedIncomplete_ | Level of confidence                                                                         |
+| _ipbes:hasWellestablished_       | Level of confidence                                                                         |
+| _ipbes:hasUnresolved_            | Level of confidence                                                                         |
+| _ipbes:hasInconclusive_          | Level of confidence                                                                         |
+
+#### **Illustration**
+
+| Class                |                                                                               |
+| -------------------- | ----------------------------------------------------------------------------- |
+| _ipbes.Illustration_ | [http://ontology.ipbes.net/report/il/](http://ontology.ipbes.net/report/ref/) |
+
+| Properties             |                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| _ipbes:identifier_     | The identifier of the chapter or sub-chapter or key message in the report           |
+| _skos:prefLabel_       | The label that is preferred to be used for a chapter, sub-chapter, report or person |
+| _ipbes:hasDescription_ | The text that further describes the content                                         |
+| _ipbes:hasDoi_         | The DOI number                                                                      |
+| _owl:sameAs_           | Link to other resources such as the zotero repository of the reference              |
+
 #### **Reference**
 
 | Class             |                                                                                |
 | ----------------- | ------------------------------------------------------------------------------ |
 | _ipbes.Reference_ | [http://ontology.ipbes.net/report/ref/](http://ontology.ipbes.net/report/ref/) |
 
-| Properties             |                                                                   |
-| ---------------------- | ----------------------------------------------------------------- |
-| _ipbes:Chapter_        | Link to the class Chapter in which the reference has been used    |
-| _ipbes:Report_         | Link to the class Report                                          |
-| _ipbes:SubChapter_     | Link to the class SubChapter in which the reference has been used |
-| _ipbes:zotero_         | Link to the zotero repository of the reference                    |
-| _ipbes:hasDescription_ | The text that further describes the content                       |
-| _ipbes:hasDoi_         | The DOI number                                                    |
+| Properties             |                                                                        |
+| ---------------------- | ---------------------------------------------------------------------- |
+| _ipbes:Chapter_        | Link to the class Chapter in which the reference has been used         |
+| _ipbes:Report_         | Link to the class Report                                               |
+| _ipbes:SubChapter_     | Link to the class SubChapter in which the reference has been used      |
+| _owl:sameAs_           | Link to other resources such as the zotero repository of the reference |
+| _ipbes:hasDescription_ | The text that further describes the content                            |
+| _ipbes:hasDoi_         | The DOI number                                                         |
 
 #### **Person**
 
