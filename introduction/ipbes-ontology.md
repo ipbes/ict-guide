@@ -88,7 +88,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Key message**
 
-<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.KeyMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/key/</a></td></tr></tbody></table>
+| Class              |                                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| _ipbes.KeyMessage_ | [http://ontology.ipbes.net/report/key/](http://ontology.ipbes.net/report/sch/) |
 
 | Properties                       |                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
@@ -104,7 +106,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Background message**
 
-<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.BackgroundMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/bgm/</a></td></tr></tbody></table>
+| Class                     |                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| _ipbes.BackgroundMessage_ | [http://ontology.ipbes.net/report/bgm/](http://ontology.ipbes.net/report/sch/) |
 
 | Properties                       |                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
@@ -120,7 +124,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 #### **Sub-message**
 
-<table><thead><tr><th width="198.99999999999997">Class</th><th></th></tr></thead><tbody><tr><td><em>ipbes.SubMessage</em></td><td><a href="http://ontology.ipbes.net/report/key/">http://ontology.ipbes.net/report/subm/</a></td></tr></tbody></table>
+| Class              |                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------- |
+| _ipbes.SubMessage_ | [http://ontology.ipbes.net/report/subm/](http://ontology.ipbes.net/report/sch/) |
 
 | Properties                       |                                                                                             |
 | -------------------------------- | ------------------------------------------------------------------------------------------- |
