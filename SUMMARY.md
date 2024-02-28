@@ -28,6 +28,7 @@
   * [Part 9 - Considerations When Working with Indigenous and Local Knowledge](data-and-knowledge-management/technical-guidelines/ilk-considerations.md)
   * [Part 10 - Contributing Authors Template Email](data-and-knowledge-management/technical-guidelines/contributing-authors-email.md)
   * [Part 11 - How to Document an Indicator](data-and-knowledge-management/technical-guidelines/how-to-document-an-indicator.md)
+  * [BETA: Snowballing for Literature](https://ipbes-data.github.io/IPBES\_TG\_Snowballing/)
 * [Citations of IPBES Assessments](data-and-knowledge-management/citations-of-ipbes-assessments/README.md)
   * [Invasive Alien Species Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/invasive-alien-species-assessment.md)
   * [Sustainable Use Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/sustainable-use-assessment.md)
