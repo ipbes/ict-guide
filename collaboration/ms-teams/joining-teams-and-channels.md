@@ -20,6 +20,11 @@ Here are the steps:
 After a guest is added to a team, it may take a few hours before they have access.
 {% endhint %}
 
+### Step 1: Accept invite to United Nations teams
+This first step adds you to the general United Nations directory as a guest user. An email invited will be received to invited guests from “uniteidentity_noreply@un.org”. Please check your junk e-mail folder in case the invitation has landed there. The invitation must be accepted within 24 hours – after which the invitation will expire. There will be a generic link to a united nations page. Please disregard that link.
+
+### Step 2: Join specific teams channel.
+The secretariat will invite guests to specific teams after they are added to the UN directory. 
 1. When you are invited to join a team, you will receive a welcome email invitation that includes some information about joining Teams and what the guest experience is like. The email will be from "[_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com)." The message's subject will read, "_You have been added to a team in Microsoft Teams_." - _see the screenshot below_.
 2. &#x20;Please accept the invitation by clicking on the link in the invitation. Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
 3. After accepting the invitation, you can participate in teams and channels, receive and respond to channel messages, access files in channels, participate in chats, join meetings, collaborate on documents, and more.
