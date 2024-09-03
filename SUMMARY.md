@@ -92,9 +92,3 @@
 * [Content management](website/content-management/README.md)
   * [Content creation](website/content-management/content\_creation.md)
   * [Content administration](website/content-management/content\_administration.md)
-
-***
-
-* [Import](import.md)
-* [Import](import-1/README.md)
-  * [Technical Guideline Series](import-1/technical-guideline-series.md)

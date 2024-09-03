@@ -1,5 +1,6 @@
 ---
 description: The IPBES forum
+hidden: true
 ---
 
 # Forum
