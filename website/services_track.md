@@ -5,7 +5,7 @@ description: >-
   science.
 ---
 
-# Track
+# TRACK
 
 ## Submit an entry
 
@@ -23,4 +23,4 @@ The IPBES impact tracking database (TRACK) is available on [https://ipbes.net/im
 
 ## Contact
 
-Send an email with the subject line “TRACK: [media@ipbes.net](mailto:media@ipbes.net)
+Send an email with the subject line “TRACK" to mea-ipbes-media@un.org
