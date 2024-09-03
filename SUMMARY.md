@@ -2,11 +2,6 @@
 
 * [IPBES ICT documentation](README.md)
 
-## Introduction
-
-* [Welcome](introduction/welcome.md)
-* [Getting help](introduction/contact.md)
-
 ## Data and Knowledge Management
 
 * [Policy](data-and-knowledge-management/data-management-policy.md)
