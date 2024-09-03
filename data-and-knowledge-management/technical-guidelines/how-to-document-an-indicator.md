@@ -43,7 +43,7 @@ It is essential to document where to find all the necessary inputs that go into 
 Following [table 2](https://www.nature.com/articles/s41597-022-01296-4/tables/2) (shown below) within our example publication, each input dataset is listed together with its reference, the date of access and the version used to calculate the indicator. This information should be associated with the publication of the indicator as, for example, a README file.
 {% endhint %}
 
-![](../../.gitbook/assets/Figure\_1)
+![](<../../.gitbook/assets/Figure\_1 (1)>)
 
 ### B. Development and presentation of the indicator workflow:
 
@@ -84,7 +84,7 @@ These guidelines are followed within our example.
 
 In general, the associated publication should provide all required information to reproduce the results, including a link to the workflow repository and final dataset.
 
-![](<../../.gitbook/assets/Figure\_3 (1)>)
+![](../../.gitbook/assets/Figure\_3)
 
 ## III. IPBES Process
 

@@ -59,7 +59,7 @@ To obtain a digital object identifier for an entry on Zenodo, please first log i
 
 Under the section _Basic information_, the first field asks for a digital object identifier and directly below the descriptive text there is a box named "Reserve DOI" (see figure 1). Once this button is pressed, the text box then automatically fills in with the assigned DOI. Once you save the draft entry, which requires filling in sections with a red asterisk next to them (which can be changed at a later date), this is the corresponding DOI to the draft upload.
 
-![Figure 1: Reserving a DOI on Zenodo](<../../.gitbook/assets/Figure1 (1)>)
+![Figure 1: Reserving a DOI on Zenodo](../../.gitbook/assets/Figure1)
 
 If creating a data management report, please include this reserved DOI at the top of the report and use the same drafted Zenodo entry for the data deposit package.
 
@@ -142,7 +142,7 @@ Each new release should create a new version of the Zenodo Upload, published aut
 
 For a descriptive step by step guide on this process, please visit the available [GitHub Guide on this topic here.](https://guides.github.com/activities/citable-code/) [This resource](https://genr.eu/wp/cite/#Release) is also helpful to understand how to create a new release that is synced between GitHub and Zenodo.
 
-![Figure 4: The Zenodo interface when your GitHub account is linked. The bottom of the image shows a repository and corresponding toggle switch](../../.gitbook/assets/Figure6\_GitHubLink)
+![Figure 4: The Zenodo interface when your GitHub account is linked. The bottom of the image shows a repository and corresponding toggle switch](<../../.gitbook/assets/Figure6\_GitHubLink (1)>)
 
 ## IV. How to share Zenodo entries
 
@@ -158,7 +158,7 @@ Generally, when sharing your Zenodo uploads please use the DOI that cites a spec
 
 One can find this additional DOI in the versions section of the published webpage of the upload. For example, when referring to the IPBES data management policy (figure 5) we use this doi: [10.5281/zenodo.3551078](https://doi.org/10.5281/zenodo.3551078)
 
-![Figure 5: Screen shot capturing the area of the Zenodo upload which specifies the DOI to use to cite all versions of the IPBES data management policy](../../.gitbook/assets/figure5\_cite\_all\_versions)
+![Figure 5: Screen shot capturing the area of the Zenodo upload which specifies the DOI to use to cite all versions of the IPBES data management policy](<../../.gitbook/assets/figure5\_cite\_all\_versions (1)>)
 
 ## V. How to download from Zenodo
 
@@ -166,7 +166,7 @@ One can find this additional DOI in the versions section of the published webpag
 
 To download files from Zenodo, all one needs to do is to navigate to the entry they would like to download, scroll down to the _Files_ section on the webpage, and press the button _download_ next to each of the files they would like to download (highlighted in Figure 6). This functionality can be very useful to quickly check files or to save locally and quickly. Resources uploaded to the IPBES community can be found on https://zenodo.org/communities/ipbes.
 
-![Figure 6: Example of available files and the download option from the IPBES Data Management Tutorials Zenodo record (https://doi.org/10.5281/zenodo.4020373)](<../../.gitbook/assets/Figure2 (1)>)
+![Figure 6: Example of available files and the download option from the IPBES Data Management Tutorials Zenodo record (https://doi.org/10.5281/zenodo.4020373)](../../.gitbook/assets/Figure2)
 
 ### B. Programmatically using R
 

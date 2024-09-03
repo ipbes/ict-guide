@@ -5,7 +5,6 @@
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
-* [IPBES Ontology](introduction/ipbes-ontology.md)
 * [Getting help](introduction/contact.md)
 
 ## Data and Knowledge Management
@@ -37,6 +36,11 @@
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
   * [Underlying bibliographic data and research materials of the IPBES  assessment reports](data-and-knowledge-management/assessment-directories/underlying-bibliographic-data-and-research-materials-of-the-ipbes-assessment-reports.md)
   * [Thematic assessment report on Invasive Alien Species and their Control](data-and-knowledge-management/assessment-directories/invasive-alien-species-assessment-report.md)
+  * [First global assessment report on biodiversity and ecosystem services](data-and-knowledge-management/assessment-directories/first-global-assessment-report-on-biodiversity-and-ecosystem-services.md)
+
+## Linked Open Data
+
+* [IPBES Ontology](linked-open-data/ipbes-ontology.md)
 
 ## Repositories
 
@@ -46,8 +50,8 @@
 
 ## Reference Manager <a href="#bibliography" id="bibliography"></a>
 
-* [Zotero](bibliography/zotero.md)
-  * [Zotero administration](bibliography/zotero-admin/zotero-admin.md)
+* [Zotero](bibliography/zotero/README.md)
+  * [Zotero administration](bibliography/zotero/zotero-admin.md)
 
 ## Literature access
 
@@ -56,24 +60,25 @@
 
 ## Mailing and messaging
 
-* [Microsoft Outlook](mailing-and-messaging/microsoft-outlook.md)
+* [Microsoft Outlook](mailing-and-messaging/microsoft-outlook/README.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/outlook\_qs.pdf)
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
 ## Collaboration
 
-* [Microsoft Teams](collaboration/ms-teams.md)
+* [Microsoft Teams](collaboration/ms-teams/README.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/teams\_qs.pdf)
   * [Joining Teams & Channels](collaboration/ms-teams/joining-teams-and-channels.md)
   * [Files and documents](collaboration/ms-teams/files-and-documents.md)
   * [Meetings](https://support.microsoft.com/en-us/office/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
   * [Chat](https://support.microsoft.com/en-us/office/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8)
-* [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
+  * [Troubleshooting Teams](collaboration/ms-teams/troubleshooting-teams.md)
+* [Microsoft SharePoint](collaboration/microsoft-sharepoint/README.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/SharePoint\_quickstart\_guide.pdf)
   * [Sign in to SharePoint](https://support.microsoft.com/en-us/office/sign-in-to-sharepoint-324a89ec-e77b-4475-b64a-13a0c14c45ec)
   * [Collaborate in SharePoint](https://support.microsoft.com/en-us/office/collaborate-in-sharepoint-0c5c3345-0a61-4532-971c-5a1e0970fde3)
-* [Microsoft OneDrive](collaboration/onedrive-for-business.md)
+* [Microsoft OneDrive](collaboration/onedrive-for-business/README.md)
   * [Quick Start Guide](https://www.ipbes.net/sites/default/files/2023-05/OneDrive%20QS.pdf)
   * [Manage files](https://support.microsoft.com/en-us/office/manage-files-and-folders-in-onedrive-94c8a731-c774-468e-97a1-5f038bdf330d?ui=en-us\&rs=en-us\&ad=us)
   * [Sync files](collaboration/onedrive-for-business/sync-files.md)
@@ -90,8 +95,8 @@
 * [Track](website/services\_track.md)
 * [Forum](website/services\_forum.md)
 * [Content management](website/content-management/README.md)
-  * [Content creation](website/content\_creation.md)
-  * [Content administration](website/content\_administration.md)
+  * [Content creation](website/content-management/content\_creation.md)
+  * [Content administration](website/content-management/content\_administration.md)
 
 ***
 

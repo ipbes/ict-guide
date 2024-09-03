@@ -373,7 +373,7 @@ filled.contour(lon,lat,elevation, color = terrain.colors, asp = 1)
 
 ###
 
-![](<../../.gitbook/assets/unnamed-chunk-20-1 (5).png>)
+![](<../../.gitbook/assets/unnamed-chunk-20-1 (1).png>)
 
 ### C. Resources and useful R packages for handling spatial data
 

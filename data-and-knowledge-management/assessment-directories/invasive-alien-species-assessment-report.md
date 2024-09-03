@@ -6,8 +6,8 @@
 
 _For any inquiries please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)\
 \
-Version 1.2\
-Last updated: 8 January 2024
+Version 1.3\
+Last updated: 18 April 2024
 
 DOI: [10.5281/zenodo.10103271](https://zenodo.org/doi/10.5281/zenodo.10103271)
 
@@ -26,7 +26,9 @@ This page is designed to help navigate through all the documents of the invasive
 * [Chapter 4](invasive-alien-species-assessment-report.md#chapter-4.-impacts-of-invasive-alien-species-on-nature-natures-contributions-to-people-and-good-qual)
 * [Chapter 5](invasive-alien-species-assessment-report.md#chapter-5.-management-challenges-opportunities-and-lessons-learned)
 * [Chapter 6](invasive-alien-species-assessment-report.md#chapter-6.-governance-and-policy-options-for-the-management-of-biological-invasions)
-* [Underlying bibliographic data and research materials](https://www.zotero.org/groups/2352922/ipbes\_invasive\_alien\_species\_assessment)
+* [Glossary](invasive-alien-species-assessment-report.md#glossary)
+* [Underlying bibliographic data and research materials](invasive-alien-species-assessment-report.md#underlying-bibliographic-data-and-research-material)
+* [Online learning tool](invasive-alien-species-assessment-report.md#online-learning-tool)
 
 #### **Full report**
 
@@ -38,6 +40,7 @@ This page is designed to help navigate through all the documents of the invasive
 
 * [SPM](https://doi.org/10.5281/zenodo.7430692)
 * [The figures, tables and captions used in the SPM](https://doi.org/10.5281/zenodo.8045527)
+* Translations of the SPM in [Arabic](https://zenodo.org/doi/10.5281/zenodo.11275414), [Chinese](https://zenodo.org/doi/10.5281/zenodo.11275103), [French](https://zenodo.org/doi/10.5281/zenodo.11274695), [Japanese](https://zenodo.org/doi/10.5281/zenodo.10844982), [Russian](https://zenodo.org/doi/10.5281/zenodo.11275190) and [Spanish](https://zenodo.org/doi/10.5281/zenodo.11274354)
 
 #### **Factsheets**
 
@@ -91,3 +94,15 @@ This page is designed to help navigate through all the documents of the invasive
 * [Figures, tables and captions](https://doi.org/10.5281/zenodo.8046442)
 * [Data management report for assessing invasive alien species governance options](https://doi.org/10.5281/zenodo.5762739)
 * [Data management report table of knowledge and data gaps](https://doi.org/10.5281/zenodo.7840018)
+
+#### Glossary
+
+* [IAS glossary](https://zenodo.org/doi/10.5281/zenodo.10990924)
+
+#### Underlying bibliographic data and research material
+
+* [IAS Zotero library](https://www.zotero.org/groups/2352922/ipbes\_ias)
+
+#### Online learning tool
+
+* [Online learning tool of the IAS assessment](https://www.ipbes.net/ias/learning)

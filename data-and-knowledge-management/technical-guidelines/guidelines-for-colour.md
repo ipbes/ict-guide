@@ -64,7 +64,7 @@ To display all of the prepared palettes within the RColorBrewer package run this
 RColorBrewer::display.brewer.all()
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-3-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-3-1 (2).png>)
 
 To display all of the colourblind friendly palettes run this:
 
@@ -72,7 +72,7 @@ To display all of the colourblind friendly palettes run this:
 RColorBrewer::display.brewer.all(colorblindFriendly = TRUE)
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-4-1 (6).png>)
+![](<../../.gitbook/assets/unnamed-chunk-4-1 (2).png>)
 
 If you would like to visualise a specific palette, specify the number of colours and the palette name.
 
@@ -80,7 +80,7 @@ If you would like to visualise a specific palette, specify the number of colours
 RColorBrewer::display.brewer.pal(n = 5, name = 'YlOrRd')
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-5-1 (9).png>)
+![](<../../.gitbook/assets/unnamed-chunk-5-1 (7).png>)
 
 [This article](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) provides a great overview on how to use the RColorBrewer package with these palettes integrated with ggplot with examples.
 
@@ -135,7 +135,7 @@ ggplot(cities) +
         panel.grid.major = element_line(color = "grey80")) # controls the grid line colour 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-8-1 (4).png>)
+![](<../../.gitbook/assets/unnamed-chunk-8-1 (3).png>)
 
 **Example 2: Categorical Data**\
 We now will use the land dataset and function scale\_fill\_brewer() to set the colour of the continents according to one of the qualitative palettes included in the RColorBrewer package.
@@ -151,7 +151,7 @@ ggplot(land) +
         panel.grid.major = element_line(color = "grey80")) 
 ```
 
-![](<../../.gitbook/assets/unnamed-chunk-9-1 (4).png>)
+![](../../.gitbook/assets/unnamed-chunk-9-1.png)
 
 ## III. Suggestions
 
