@@ -40,7 +40,7 @@ This page is designed to help navigate through all the documents of the invasive
 
 * [SPM](https://doi.org/10.5281/zenodo.7430692)
 * [The figures, tables and captions used in the SPM](https://doi.org/10.5281/zenodo.8045527)
-* Translations of the SPM in [Arabic](https://zenodo.org/doi/10.5281/zenodo.11275414), [Chinese](https://zenodo.org/doi/10.5281/zenodo.11275103), [French](https://zenodo.org/doi/10.5281/zenodo.11274695), [Japanese](https://zenodo.org/doi/10.5281/zenodo.10844982), [Russian](https://zenodo.org/doi/10.5281/zenodo.11275190) and [Spanish](https://zenodo.org/doi/10.5281/zenodo.11274354)
+* Translations of the SPM in [Arabic](https://zenodo.org/doi/10.5281/zenodo.11275414), [Chinese](https://zenodo.org/doi/10.5281/zenodo.11275103), [French](https://zenodo.org/doi/10.5281/zenodo.11274695), [Japanese](https://zenodo.org/doi/10.5281/zenodo.10844982), [Korean](https://zenodo.org/doi/10.5281/zenodo.10090349), [Russian](https://zenodo.org/doi/10.5281/zenodo.11275190) and [Spanish](https://zenodo.org/doi/10.5281/zenodo.11274354)
 
 #### **Factsheets**
 
