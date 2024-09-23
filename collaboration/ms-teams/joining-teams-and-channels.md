@@ -24,11 +24,9 @@ To join the TEAMS channels, you will receive two email invitations from the secr
 
 The first email will be from the United Nations, inviting you to access our applications. The email will be from [_uniteidentity\_noreply@un.org_](mailto:uniteidentity\_noreply@un.org). The message's subject will read, “_An invitation from the United Nations to access our applications_.” Click on the link to redeem your invitation. Please click on the link to accept the invitation within 24 hours.
 
-{% hint style="info" %}
 Note: Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
-{% endhint %}
 
-#### Step 2: An email invitation to join a specific team channel
+#### 2. An email invitation to join a specific team channel
 
 The secretariat will invite guests to specific teams after they are added to the UN directory.
 
