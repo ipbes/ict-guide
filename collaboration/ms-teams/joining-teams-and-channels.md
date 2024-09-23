@@ -22,17 +22,17 @@ To join the TEAMS channels, you will receive two email invitations from the secr
 
 #### 1. An email invitation to access United Nations applications
 
-The first email will be from the United Nations, inviting you to access our applications. The email will be from [_uniteidentity\_noreply@un.org_](mailto:uniteidentity\_noreply@un.org). The message's subject will read, “_An invitation from the United Nations to access our applications_.” Click on the link to redeem your invitation. Please click on the link to accept the invitation within 24 hours.
+The first email will be from the United Nations, inviting you to access our applications. The email will be from [_uniteidentity\_noreply@un.org_](mailto:uniteidentity\_noreply@un.org). The message's subject will read, "_An invitation from the United Nations to access our applications_." Click on the link in the email to redeem your invitation. **Please click on the link to accept the invitation within 24 hours.** Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
 
-Note: Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
+{% hint style="warning" %}
+After successfully redeeming your invitation, you will be redirected to the UN OICT website (https://xx.un.org). Please disregard this and wait for an email invitation to join a specific team's channel.&#x20;
+{% endhint %}
 
 #### 2. An email invitation to join a specific team channel
 
-The secretariat will invite guests to specific teams after they are added to the UN directory.
+Next, the secretariat will invite you to join the IPBES MS Teams. The second email will be a welcome email message from Microsoft TEAMS, which will include some information about the team.  The email will be from [_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com) and the message's subject will read, "_You have been added to a team in Microsoft Teams_." Please accept the invitation either via the Teams desktop application or by selecting Open Microsoft Teams in the email message. _See scrennshot below._
 
-The second email will be a welcome email message from MS TEAMS that includes some information about the team. You will receive this after being invited to join a Teams channel. The email will be from [_noreply@emeaemail.teams.microsoft.com_](mailto:noreply@emeaemail.teams.microsoft.com) and the message's subject will read, "_You have been added to a team in Microsoft Teams_." Please accept the invitation either via the Teams desktop application or by selecting Open Microsoft Teams in the email message.
-
-After accepting the invitation, you can participate in teams and channels, receive and respond to channel messages, access files in channels, participate in chats, join meetings, collaborate on documents, and more.
+After accepting the invitation, you can participate in Teams and channels, receive and respond to channel messages, access files in channels, participate in chats, join meetings, collaborate on documents, and more.
 
 <figure><img src="../../.gitbook/assets/MS teams email.png" alt=""><figcaption><p>Microsoft Teams invite</p></figcaption></figure>
 
