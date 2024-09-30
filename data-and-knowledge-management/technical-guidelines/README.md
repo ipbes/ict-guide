@@ -13,6 +13,7 @@ These technical guidelines on data management, handling, and delivery have been 
 9. [Considerations when Working with Indigenous and Local Knowledge ](https://ict.ipbes.net/data-management/technical-guidelines/ILK-considerations)
 10. [Contributing Authors Template Email ](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/contributing-authors-email)
 11. [How to Document an Indicator](how-to-document-an-indicator.md)
+12. [Snowballing for Literature](https://ipbes-data.github.io/IPBES\_TG\_Snowballing/IPBES\_TG\_Snowballing.html)
 
 If interested, all source files are available on my [GitHub](https://github.com/jkumagai96/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
