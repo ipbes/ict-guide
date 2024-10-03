@@ -39,9 +39,9 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 ### 4. Classes and Attributes
 
-| Classes                            |                                      |                                            |                                             |                                                           |                                             |                                                |                                          |              |                                    |
-| ---------------------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ------------ | ---------------------------------- |
-| [Report](ipbes-ontology.md#report) | [Chapter](ipbes-ontology.md#chapter) | [SubChapter](ipbes-ontology.md#subchapter) | [KeyMessage](ipbes-ontology.md#key-message) | [BackgroundMessage](ipbes-ontology.md#background-message) | [SubMessage](ipbes-ontology.md#sub-message) | [Illustration](ipbes-ontology.md#illustration) | [Reference](ipbes-ontology.md#reference) | KnowledgeGap | [Person](ipbes-ontology.md#person) |
+| Classes                            |                                      |                                            |                                             |                                                           |                                             |                                                |                                          |                                                |                                    |
+| ---------------------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ---------------------------------- |
+| [Report](ipbes-ontology.md#report) | [Chapter](ipbes-ontology.md#chapter) | [SubChapter](ipbes-ontology.md#subchapter) | [KeyMessage](ipbes-ontology.md#key-message) | [BackgroundMessage](ipbes-ontology.md#background-message) | [SubMessage](ipbes-ontology.md#sub-message) | [Illustration](ipbes-ontology.md#illustration) | [Reference](ipbes-ontology.md#reference) | [KnowledgeGap](ipbes-ontology.md#knowledgegap) | [Person](ipbes-ontology.md#person) |
 
 #### **Report**
 
@@ -163,7 +163,7 @@ The classes and properties used in IPBES ontology are created on the fly based o
 
 <table><thead><tr><th width="271">Properties</th><th></th></tr></thead><tbody><tr><td><em>ipbes:Chapter</em></td><td>Link to the class Chapter in which the reference has been used</td></tr><tr><td><em>ipbes:Report</em></td><td>Link to the class Report</td></tr><tr><td><em>ipbes:SubChapter</em></td><td>Link to the class SubChapter in which the reference has been used</td></tr><tr><td><em>owl:sameAs</em></td><td>Link to other resources such as the zotero repository of the reference</td></tr><tr><td><em>ipbes:hasDescription</em></td><td>The text that further describes the content</td></tr><tr><td><em>ipbes:hasDoi</em></td><td>The DOI number</td></tr></tbody></table>
 
-#### KnowledgeGap
+#### Knowledge gap
 
 | Class                |                                                                               |
 | -------------------- | ----------------------------------------------------------------------------- |
