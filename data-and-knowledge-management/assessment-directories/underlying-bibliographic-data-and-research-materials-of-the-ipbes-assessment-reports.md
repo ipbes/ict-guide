@@ -3,7 +3,7 @@
 * [Thematic Assessment Report on **Invasive Alien Species** and their Control](https://www.zotero.org/groups/2352922/ipbes\_invasive\_alien\_species\_assessment)
 * [Thematic Assessment Report on the **Sustainable Use** of Wild Species](https://www.zotero.org/groups/2344805/ipbes\_sua)
 * [Methodological Assessment Report on the Diverse **Values** and Valuation of Nature](https://www.zotero.org/groups/2345372/ipbes\_va)
-* [**Global** Assessment Report on Biodiversity and Ecosystem Services](https://www.zotero.org/groups/2333077/ipbes\_global\_assessment)
+* [**First Global** Assessment Report on Biodiversity and Ecosystem Services](https://www.zotero.org/groups/2333077/ipbes\_global\_assessment)
 * [Assessment Report on **Land Degradation** and Restoration](https://www.zotero.org/groups/2333076/ipbes\_landdegradation\_assessment)
 * [Regional Assessment Report on Biodiversity and Ecosystem Services for **Africa**](https://www.zotero.org/groups/2333070/ipbes\_africa\_regional\_assessment)
 * [Regional Assessment Report on Biodiversity and Ecosystem Services for the **Americas**](https://www.zotero.org/groups/2333011/ipbes\_americas\_regional\_assessment)
