@@ -22,10 +22,10 @@ To join the TEAMS channels, you will receive two email invitations from the secr
 
 #### 1. An email invitation to access United Nations applications
 
-The first email will be from the United Nations, inviting you to access our applications. The email will be from [_uniteidentity\_noreply@un.org_](mailto:uniteidentity\_noreply@un.org). The message's subject will read, "_An invitation from the United Nations to access our applications_." Click on the link in the email to redeem your invitation. **Please click on the link to accept the invitation within 24 hours.** Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
+The first email will be from the United Nations, inviting you to access our applications. The email will be from [_uniteidentity\_noreply@un.org_](mailto:uniteidentity_noreply@un.org). The message's subject will read, "_An invitation from the United Nations to access our applications_." Click on the link in the email to redeem your invitation. **Please click on the link to accept the invitation within 24 hours.** Guests who have a work or school account in Azure Active Directory can accept the invitation and authenticate directly. Other users are sent a one-time passcode to validate their identity (One-time passcode authentication is required).
 
 {% hint style="warning" %}
-After successfully redeeming your invitation, you will be redirected to the UN OICT website (https://xx.un.org). Please disregard this and wait for an email invitation to join a specific team's channel.&#x20;
+After successfully redeeming your invitation, you will be redirected to a UN website (https://xx.un.org). Please disregard this and wait for an email invitation to join a specific team's channel.&#x20;
 {% endhint %}
 
 #### 2. An email invitation to join a specific team channel
