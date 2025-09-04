@@ -27,7 +27,7 @@ DOI: [https://doi.org/10.5281/zenodo.11382215](https://doi.org/10.5281/zenodo.11
 
 Download the [BibTex file here](https://ipbesdata.github.io/Citations/Transformative_Change/Bib/Transformative_Change_Assessment_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Transformative_Change/Ris/Transformative_Change_Assessment_Full_Report.ris).
 
-### **Summary for policymakers**
+### **Summary for Policymakers**
 
 **Summary for Policymakers of the Thematic Assessment Report on the Underlying Causes of Biodiversity Loss and the Determinants of Transformative Change and Options for Achieving the 2050 Vision for Biodiversity of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services** \
 DOI: [https://doi.org/10.5281/zenodo.11382230](https://doi.org/10.5281/zenodo.11382230)
@@ -99,7 +99,7 @@ DOI: [https://doi.org/10.5281/zenodo.13850054](https://doi.org/10.5281/zenodo.13
 
 Download the [BibTex file here](https://ipbesdata.github.io/Citations/Nexus/Bib/Nexus_Assessment_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Nexus/Ris/Nexus_Assessment_Full_Report.ris).
 
-### **Summary for Policy Makers**
+### **Summary for Policymakers**
 
 **Summary for Policymakers of the Thematic Assessment Report on the Interlinkages among Biodiversity, Water, Food and Health of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services** \
 DOI: [https://doi.org/10.5281/zenodo.13850289](https://doi.org/10.5281/zenodo.13850289)
@@ -154,7 +154,7 @@ Download the [BibTex file here](https://ipbesdata.github.io/Citations/Nexus/Bib/
 **Chapter 5: Options for delivering sustainable approaches** \
 DOI: [https://doi.org/10.5281/zenodo.13850309](https://doi.org/10.5281/zenodo.13850309)
 
-> Ricketts, T. H., Herrero, M., Smith, P., Alonso Roldán, V., Barrios, E., Dasgupta, P., DeClerck, F., Kumar, R., McFarlane, R. A., Paukert, C., Singh, P. K., Lavorel, S., Aboubakrine, M. W. M., Aguiar S., Akamani, K., Benedek, Z., Campbell, D., Castro-Díaz, R., Chaplin-Kramer, R., Cherubini, F., das Neves, C. G., De La Cruz, P., Díaz-José, J., Dunnett, S., Santos, M. J., Gupta, H., Gyawali, D., Handa, C., Hill, S., Hori, M., Ito, A., Joshi, G. R., Keune, H., Khan, S., Koltz, A. M., Kouame, A. A., Kuiken, T., Kulmala, S., Lalika, M., Lee, K.-C., Llope, M., Mácová, K., Melo, F., Milano, F. A., Minaverry, C. M., Morand, S., Mustafa, M. A., Rafa, N., Rai, K. K., Reuben, R. C., Rosado-May, F. J., Samoilys M., Sandin, L., Simatele, M. D., Sivadas, D., Spierenburg, M., Tirado, M. C., Twongyirwe, R., Vale, M. M., Williams, D. R., Xu, X., and van Huysen, T. L. (2024). Chapter 5: Options for delivering sustainable approaches. In: Thematic Assessment Report on the Interlinkages among Biodiversity, Water, Food and Health of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Harrison, P. A., McElwee, P. D., and van Huysen, T. L. (eds.). IPBES secretariat, Bonn, Germany. \
+> Ricketts, T. H., Herrero, M., Smith, P., Alonso Roldán, V., Barrios, E., Dasgupta, P., DeClerck, F., Kumar, R., McFarlane, R. A., Paukert, C., Singh, P. K., Lavorel, S., Aboubakrine, M. W. M., Aguiar S., Akamani, K., Benedek, Z., Campbell, D., Castro-Díaz, R., Chaplin-Kramer, R., Cherubini, F., das Neves, C. G., De La Cruz, P., Díaz-José, J., Duchková, H., Dunnett, S., Santos, M. J., Gupta, H., Gyawali, D., Handa, C., Hill, S., Hori, M., Ito, A., Joshi, G. R., Keune, H., Khan, S., Koltz, A. M., Kouame, A. A., Kuiken, T., Kulmala, S., Lalika, M., Lee, K.-C., Llope, M., Mácová, K., Melo, F., Milano, F. A., Minaverry, C. M., Morand, S., Mustafa, M. A., Rafa, N., Rai, K. K., Reuben, R. C., Rosado-May, F. J., Samoilys M., Sandin, L., Simatele, M. D., Sivadas, D., Spierenburg, M., Tirado, M. C., Twongyirwe, R., Vale, M. M., Williams, D. R., Xu, X., and van Huysen, T. L. (2024). Chapter 5: Options for delivering sustainable approaches. In: Thematic Assessment Report on the Interlinkages among Biodiversity, Water, Food and Health of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Harrison, P. A., McElwee, P. D., and van Huysen, T. L. (eds.). IPBES secretariat, Bonn, Germany. \
 > DOI: [https://doi.org/10.5281/zenodo.13850309](https://doi.org/10.5281/zenodo.13850309)
 
 Download the [BibTex file here](https://ipbesdata.github.io/Citations/Nexus/Bib/Nexus_Assessment_Chapter5.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Nexus/Ris/Nexus_Assessment_Chapter5.ris).
