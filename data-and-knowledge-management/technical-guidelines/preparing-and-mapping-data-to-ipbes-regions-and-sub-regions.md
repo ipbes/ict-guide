@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+&#xNAN;_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 2.3\
 Last Updated: 15 August 2022
@@ -31,7 +31,7 @@ library(graticule) # for mapping
 
 ### _A. Downloading FAO data_
 
-The first step is to download the FAO data using the FAOSTAT package. The url can be found in FAO STAT’s data description file [here.](http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets\_E.xml)
+The first step is to download the FAO data using the FAOSTAT package. The url can be found in FAO STAT’s data description file [here.](http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.xml)
 
 ```
 FAOSTAT::download_faostat_bulk("http://fenixservices.fao.org/faostat/static/bulkdownloads/Population_E_All_Data_(Normalized).zip", getwd())
@@ -63,7 +63,7 @@ Now, we can inspect the contents downloaded with the function content()
 View(content(record)) # view displays the output in a human readable form within R Studio
 ```
 
-![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](../../.gitbook/assets/view\_content\_zendodo\_record.png)
+![The picture above shows the resulting R Studio window which displays what was downloaded in a human readable form.](../../.gitbook/assets/view_content_zendodo_record.png)
 
 This information we received contains metadata for the record, and within this we can find the specific URL to download the IPBES regions and sub-regions shapefile. We then use this URL and the function GET() to download the shapefile.
 

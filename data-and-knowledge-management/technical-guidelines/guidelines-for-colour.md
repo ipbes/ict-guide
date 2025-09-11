@@ -6,7 +6,7 @@ description: Technical Guideline Series
 
 **Revised by Renske Gudde - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data and Rainer M. Krug - IPBES Task Force on Knowledge and Data**\
-_For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+&#xNAN;_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.2\
 Last Updated: 9 November 2023
@@ -34,7 +34,7 @@ Qualitative or categorical palettes have distinctive colours that are used to re
 
 ### _B. Colour Blind Friendly Palettes_
 
-When creating a map or figure, please choose colour schemes that are colour blind friendly (more information about [colour palettes and colour blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) or about [colour schemes and contrasts](https://personal.sron.nl/\~pault/)). Printing a map or figure in black and white or grey tones are a good method to see how well the map or figure is interpretable without colour. Especially for maps, when areas without sufficient data are indicated, it is advisable to use a pattern instead of grey scales, because without the use of colour it can seem that there is a value for the data deficient areas.
+When creating a map or figure, please choose colour schemes that are colour blind friendly (more information about [colour palettes and colour blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) or about [colour schemes and contrasts](https://personal.sron.nl/~pault/)). Printing a map or figure in black and white or grey tones are a good method to see how well the map or figure is interpretable without colour. Especially for maps, when areas without sufficient data are indicated, it is advisable to use a pattern instead of grey scales, because without the use of colour it can seem that there is a value for the data deficient areas.
 
 There are various apps to simulate colour blindness:
 
@@ -46,9 +46,9 @@ There is also an R-package [colorBlindness](https://cran.r-project.org/web/packa
 
 ### _C. No rainbow colour palettes_
 
-Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/\~pault/) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
+Rainbow colour schemes are interpreted by humans to have sharp artificial boundaries that are not representative of the underlying data. [Crameri et al. 2020 covers](https://doi.org/10.1038/s41467-020-19160-7) in more detail the current problems involving the use of colour in science communication. An example of this is presented in the figure below taken from [this article](https://personal.sron.nl/~pault/) where geoid height is displayed using a sunset scheme and then a traditional rainbow scheme. Large jumps in the data are interpreted within the lines of light blue and yellow that are not inherent within the data.
 
-![](<../../.gitbook/assets/color\_comparison\_figure (3).png>)
+![](<../../.gitbook/assets/color_comparison_figure (3).png>)
 
 Figure 2: Map illustrating the differences of interpretation of data displayed with a sunset palette scheme and the traditional rainbow palette.
 

@@ -5,7 +5,7 @@ These technical guidelines have been prepared by the technical support unit on k
 Version: 1.0\
 DOI: [https://zenodo.org/doi/10.5281/zenodo.10004399](https://zenodo.org/doi/10.5281/zenodo.10004399)
 
-The O_rganisation of Work,_ consists of three separate parts:&#x20;
+The &#x4F;_&#x72;ganisation of Work,_ consists of three separate parts:&#x20;
 
 * [A - File Naming Convention](a-file-naming.md),&#x20;
 * [B - Versioning Scheme](b-versioning-scheme.md) and&#x20;

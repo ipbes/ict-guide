@@ -24,13 +24,13 @@ Zotero should operate the same whether you are using Windows or macOS, although 
 **macOS**, upper left corner: Click Zotero > Preferences > Sync tab
 {% endhint %}
 
-[https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero)
+[https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_install\_zotero](https://www.zotero.org/support/quick_start_guide#how_do_i_install_zotero)
 
 ### Launch Zotero
 
-[https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero](https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero)
+[https://www.zotero.org/support/quick\_start\_guide#how\_do\_i\_open\_zotero](https://www.zotero.org/support/quick_start_guide#how_do_i_open_zotero)
 
-![](https://lh3.googleusercontent.com/CvRvENAkHu2Lc01hOTMVWLq6tkXVtsMDmWqXHS4cAJS6mi\_v2V-FIyEyoGOQG5W4PsZTC6Lx6HnMQ\_xp8KAZsX152RhuC64DjmTp599ko-eGOO9ppGobks93HqlSvF\_DokAiFPmk)
+![](https://lh3.googleusercontent.com/CvRvENAkHu2Lc01hOTMVWLq6tkXVtsMDmWqXHS4cAJS6mi_v2V-FIyEyoGOQG5W4PsZTC6Lx6HnMQ_xp8KAZsX152RhuC64DjmTp599ko-eGOO9ppGobks93HqlSvF_DokAiFPmk)
 
 Zotero can be opened from your operating system's dock or file manager like any other program
 
@@ -128,9 +128,9 @@ Consider syncing only the libraries you use. This will minimize bandwidth requir
 
 ### Option 1: Add item by identifier (recommended method)
 
-![](https://lh4.googleusercontent.com/Brvh4bF2mM6QrwqBCUjoayFrhjvF0bdrKMWRgsbOW1YOwMd8OQgaSHx-svytBz8Yr0EPvFBGck7-Km\_HiVLHQbE8JutiEbUlnDiumejLjCS5Dmt2tcArgDWrFMaY1GdUB40nou62)
+![](https://lh4.googleusercontent.com/Brvh4bF2mM6QrwqBCUjoayFrhjvF0bdrKMWRgsbOW1YOwMd8OQgaSHx-svytBz8Yr0EPvFBGck7-Km_HiVLHQbE8JutiEbUlnDiumejLjCS5Dmt2tcArgDWrFMaY1GdUB40nou62)
 
-Zotero can[ add items automatically](https://www.zotero.org/support/getting\_stuff\_into\_your\_library#add\_item\_by\_identifier) using their an ISBN number, Digital Object Identifier (DOI), or PubMed ID. This is done by clicking the Add Item by Identifier button (![](https://lh3.googleusercontent.com/5lCwJPGGSY5xQo5XjT9D0XZSjc\_MQkBddB9F\_FmL3MGrMutz7S7IWHYQkHcLyX3jWOPP9\_n9uAzvb7KXxyacHA1ZwJR\_XJVA99Tcb3UBycaRaFruu\_GWKohoc2yJV2SBFnim-mqm)) in the Zotero toolbar, typing in the ID number, and clicking OK. You can even paste or enter (press Shift+Enter for a larger box) a list of such identifiers at once
+Zotero can[ add items automatically](https://www.zotero.org/support/getting_stuff_into_your_library#add_item_by_identifier) using their an ISBN number, Digital Object Identifier (DOI), or PubMed ID. This is done by clicking the Add Item by Identifier button (![](https://lh3.googleusercontent.com/5lCwJPGGSY5xQo5XjT9D0XZSjc_MQkBddB9F_FmL3MGrMutz7S7IWHYQkHcLyX3jWOPP9_n9uAzvb7KXxyacHA1ZwJR_XJVA99Tcb3UBycaRaFruu_GWKohoc2yJV2SBFnim-mqm)) in the Zotero toolbar, typing in the ID number, and clicking OK. You can even paste or enter (press Shift+Enter for a larger box) a list of such identifiers at once
 
 ### Option 2: Add item using the Zotero connector
 
@@ -161,9 +161,9 @@ A webpage can be saved even if Zotero does not recognize the information on it �
 
 ### Option 3: Add item manually
 
-![](https://lh4.googleusercontent.com/gaXjM4-jeVHJzunEcBgr0gS1\_t15sIi009yafOyZSRQGGoOnvHeNL98OwnLJH9FXbe7sedxyq93BKYJQNtm9sNYnHJwjOGKLf5P\_NYV7kXN2jHj7m-v9eOZ4Y7qQcuJsJQPtRkxk)
+![](https://lh4.googleusercontent.com/gaXjM4-jeVHJzunEcBgr0gS1_t15sIi009yafOyZSRQGGoOnvHeNL98OwnLJH9FXbe7sedxyq93BKYJQNtm9sNYnHJwjOGKLf5P_NYV7kXN2jHj7m-v9eOZ4Y7qQcuJsJQPtRkxk)
 
-Items can be[ added manually](https://www.zotero.org/support/getting\_stuff\_into\_your\_library#manually\_adding\_and\_editing\_items) by clicking the green New Item (![](https://lh6.googleusercontent.com/WugT6Z9drtU8od8O4Nh0OhHmbtTxPieHCklTy79VyANybBmhFsPzjN7wVkZbTd347Ebe\_byeyshnStUwMZmdLx1R6y\_1hY1hoa13Wn4Nsim\_FhI5Gl3GNYBHEWojIKZgbje2BL4d)) button in the Zotero toolbar, then selecting the appropriate item type. Metadata can then be added by hand in the right-hand pane. Apart from the versatility this provides, it is important for adding primary documents.
+Items can be[ added manually](https://www.zotero.org/support/getting_stuff_into_your_library#manually_adding_and_editing_items) by clicking the green New Item (![](https://lh6.googleusercontent.com/WugT6Z9drtU8od8O4Nh0OhHmbtTxPieHCklTy79VyANybBmhFsPzjN7wVkZbTd347Ebe_byeyshnStUwMZmdLx1R6y_1hY1hoa13Wn4Nsim_FhI5Gl3GNYBHEWojIKZgbje2BL4d)) button in the Zotero toolbar, then selecting the appropriate item type. Metadata can then be added by hand in the right-hand pane. Apart from the versatility this provides, it is important for adding primary documents.
 
 ## Citing
 
@@ -225,7 +225,7 @@ To filter items in the current display by tag, click on the tag or tags you woul
 You will need the Zotero Tag plug in for this ([https://github.com/windingwind/zotero-tag](https://github.com/windingwind/zotero-tag))
 
 * Download the latest release (.xpi file) from the [Releases Page](https://github.com/windingwind/zotero-tag/releases)\
-  _Note_ If you're using Firefox as your browser, right click the xpi and select "Save As.."
+  &#xNAN;_&#x4E;ote_ If you're using Firefox as your browser, right click the xpi and select "Save As.."
 * In Zotero click "Tools" in the top menu bar and then click "Add-ons"
 * Go to the Extensions page and then click the gear icon in the top right.
 * Select Install Add-on from file.
@@ -283,7 +283,7 @@ If you use the Zotero word processor plugin to add citations to your document an
 3. Select File → Download as → Microsoft Word (.docx) and save the converted file.
 4. Open the downloaded file in Word and click Refresh in the Zotero plugin to continue using the document.
 
-For more information please refer to [https://www.zotero.org/support/kb/moving\_documents\_between\_word\_processors](https://www.zotero.org/support/kb/moving\_documents\_between\_word\_processors)
+For more information please refer to [https://www.zotero.org/support/kb/moving\_documents\_between\_word\_processors](https://www.zotero.org/support/kb/moving_documents_between_word_processors)
 
 ## Generating a bibliography list
 
@@ -320,9 +320,9 @@ There is a Zotero open citation dialog box – try minimizing any open windows o
 
 List of Zotero documentation: [https://www.zotero.org/support/](https://www.zotero.org/support/)
 
-Help and troubleshooting: [https://www.zotero.org/support/getting\_help](https://www.zotero.org/support/getting\_help)
+Help and troubleshooting: [https://www.zotero.org/support/getting\_help](https://www.zotero.org/support/getting_help)
 
-Frequently Asked Questions: [https://www.zotero.org/support/frequently\_asked\_questions](https://www.zotero.org/support/frequently\_asked\_questions)
+Frequently Asked Questions: [https://www.zotero.org/support/frequently\_asked\_questions](https://www.zotero.org/support/frequently_asked_questions)
 
 Knowledge base: [https://www.zotero.org/support/kb](https://www.zotero.org/support/kb)
 

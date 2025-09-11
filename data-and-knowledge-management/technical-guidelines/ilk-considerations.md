@@ -15,7 +15,7 @@ DOI: [10.5281/zenodo.6834183](https://doi.org/10.5281/zenodo.6834183)
 
 ## <mark style="color:green;">I. Introduction</mark>
 
-The purpose of this technical guideline is to provide practical guidance for all IPBES authors and technical support units on how to work with and document Indigenous and Local Knowledge (ILK**\***) within IPBES. All IPBES experts working with ILK are expected to follow the requirements in the [IPBES data and knowledge management policy](https://doi.org/10.5281/zenodo.3551078) and free, prior, and informed consent (FPIC) as laid out in the [IPBES methodological guidance on recognizing and working with indigenous and local knowledge](https://ipbes.net/sites/default/files/inline-files/IPBES\_ILK\_MethGuide.pdf).
+The purpose of this technical guideline is to provide practical guidance for all IPBES authors and technical support units on how to work with and document Indigenous and Local Knowledge (IL&#x4B;**\***) within IPBES. All IPBES experts working with ILK are expected to follow the requirements in the [IPBES data and knowledge management policy](https://doi.org/10.5281/zenodo.3551078) and free, prior, and informed consent (FPIC) as laid out in the [IPBES methodological guidance on recognizing and working with indigenous and local knowledge](https://ipbes.net/sites/default/files/inline-files/IPBES_ILK_MethGuide.pdf).
 
 The policy specifically requires all experts to follow the [CARE principles for indigenous data governance](https://www.gida-global.org/care) (Collective benefit, Authority control, Responsibility and Ethics) and the [FAIR guiding principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable and Reusable). The policy is also built upon the concept of open science, reflected within the [UNESCO recommendation on open science](https://en.unesco.org/science-sustainable-future/open-science/recommendation). IPBES experts are also required to follow the IPBES process for adhering to the FPIC principles when working with ILK. Please refer to the methodological guidance which provides a detailed process for ensuring that FPIC principles are followed for assessments.
 
@@ -27,7 +27,7 @@ This guideline provides both practical advice and key considerations on how to a
 
 There are some challenges for moving towards full FPIC, CARE, and FAIR alignment in IPBES products and their underlying processes, particularly:
 
-* Indigenous peoples and local communities (IPLCs**\*\***), like all other knowledge and data owners, do not have final consent over the findings of the assessments, as assessment findings are intended to be based on a process of reviewing available evidence.
+* Indigenous peoples and local communities (IPLC&#x73;**\*\***), like all other knowledge and data owners, do not have final consent over the findings of the assessments, as assessment findings are intended to be based on a process of reviewing available evidence.
 * Most IPBES products are only available online and additionally only in English, with the exception of assessments’ SPMs and some additional products. Therefore, full accessibility and findability of IPBES products for many IPLCs is not achieved within the standard IPBES distribution channels.
 * Where authors rely on existing materials (including peer-review publications, grey literature and other sources) to work with ILK, it may not always be possible to know if FPIC principles were followed during the development of that literature, or to verify the veracity and reliability of the materials.
 
@@ -49,7 +49,7 @@ The following activities and processes aim to enhance accessibility of IPBES pro
 
 * Final assessments and associated IPBES products are publicly available online;
 * IPLCs who contributed to the Assessments will be notified of their approval and online publication;
-* Specific materials are developed to make assessment findings more accessible to IPLCs. For example, the document [Key messages of relevance for IPLCs from the global assessment](https://ipbes.net/sites/default/files/inline-files/ILK\_KeyMessages\_IPBES\_GlobalAssessment\_final\_ENGLISH\_lo-res.pdf);
+* Specific materials are developed to make assessment findings more accessible to IPLCs. For example, the document [Key messages of relevance for IPLCs from the global assessment](https://ipbes.net/sites/default/files/inline-files/ILK_KeyMessages_IPBES_GlobalAssessment_final_ENGLISH_lo-res.pdf);
 * Webinars and other events are held around these materials to enhance their outreach and uptake;
 * IPBES will also aim to work with other organisations, including the BES-Net programme, to further develop outreach and communication materials in multiple languages.
 
@@ -109,14 +109,14 @@ Where possible, IPBES authors should send contributing authors the parts of the 
 
 Finalised dialogue reports are openly available and published as open access on Zenodo.
 
-Data management reports**\*\*\*** should be used to document the process of working with other sources of ILK to enhance transparency. For data management reports that include descriptions of all ILK sources, a section describing the following for each source should be included:
+Data management report&#x73;**\*\*\*** should be used to document the process of working with other sources of ILK to enhance transparency. For data management reports that include descriptions of all ILK sources, a section describing the following for each source should be included:
 
 * _Published materials_ - If there were concerns identified including those described in section III - B, describe what steps were taken to address the concerns and the outcome. Rejected materials should be listed;
 * _Unpublished materials_ - Describe what steps were taken to store these materials and to follow the process of FPIC. Additionally, include the agreed terms of use and access, appropriate accreditation, and how these materials can be found and accessed in the future;
 * _Contributions_ - If there were concerns raised, describe what steps were taken to address the concerns and the outcome.
 
-**\***The IPBES core glossary gives the following definition; “indigenous and local knowledge systems are social and ecological knowledge practices and beliefs pertaining to the relationship of living beings, including people, with one another and with their environments.” See https://www.ipbes.net/glossary/indigenous-local-knowledge-systems&#x20;
+**\***&#x54;he IPBES core glossary gives the following definition; “indigenous and local knowledge systems are social and ecological knowledge practices and beliefs pertaining to the relationship of living beings, including people, with one another and with their environments.” See https://www.ipbes.net/glossary/indigenous-local-knowledge-systems&#x20;
 
-**\*\***The IPBES glossary gives the following definition: Indigenous peoples and local communities (IPLCs) are, typically, ethnic groups who are descended from and identify with the original inhabitants of a given region, in contrast to groups that have settled, occupied or colonized the area more recently. IPBES does not intend to create or develop new definitions of what constitutes “indigenous peoples and local communities". See https://ipbes.net/glossary/indigenous-peoples-local-communities. Chapter 1 of the IPBES Global Assessment, and IPBES ILK methods guide also provide further detail and discussion.
+**\*\***&#x54;he IPBES glossary gives the following definition: Indigenous peoples and local communities (IPLCs) are, typically, ethnic groups who are descended from and identify with the original inhabitants of a given region, in contrast to groups that have settled, occupied or colonized the area more recently. IPBES does not intend to create or develop new definitions of what constitutes “indigenous peoples and local communities". See https://ipbes.net/glossary/indigenous-peoples-local-communities. Chapter 1 of the IPBES Global Assessment, and IPBES ILK methods guide also provide further detail and discussion.
 
-**\*\*\***For more information on data management tutorials, Chapter 3 of the IPBES data management tutorials reviews the topic in detail, which is available here: https://doi.org/10.5281/zenodo.4014792
+**\*\*\***&#x46;or more information on data management tutorials, Chapter 3 of the IPBES data management tutorials reviews the topic in detail, which is available here: https://doi.org/10.5281/zenodo.4014792
