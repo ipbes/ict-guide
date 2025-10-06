@@ -24,6 +24,7 @@
   * [Part 11 - How to Document an Indicator](data-and-knowledge-management/technical-guidelines/how-to-document-an-indicator.md)
   * [Part 12 - Snowballing for Literature](https://ipbes-data.github.io/IPBES_TG_Snowballing/IPBES_TG_Snowballing.html)
 * [Citations of IPBES Assessments](data-and-knowledge-management/citations-of-ipbes-assessments/README.md)
+  * [Business and Biodiversity Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/business-and-biodiversity-assessment.md)
   * [Transformative Change Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/transformative-change-assessment.md)
   * [Nexus Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/nexus-assessment.md)
   * [Invasive Alien Species Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/invasive-alien-species-assessment.md)
