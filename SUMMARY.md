@@ -20,7 +20,7 @@
   * [Part 7 - How to Cite IPBES Assessment Reports](data-and-knowledge-management/technical-guidelines/suggested-citations.md)
   * [Part 8 - Guidelines for the delivery of figures](data-and-knowledge-management/technical-guidelines/figures.md)
   * [Part 9 - Considerations When Working with Indigenous and Local Knowledge](data-and-knowledge-management/technical-guidelines/ilk-considerations.md)
-  * [Part 10 - Contributing Authors Template Email](data-and-knowledge-management/technical-guidelines/contributing-authors-email.md)
+  * [Part 10 - Contributing Authors Template Email considering ILK](data-and-knowledge-management/technical-guidelines/contributing-authors-email.md)
   * [Part 11 - How to Document an Indicator](data-and-knowledge-management/technical-guidelines/how-to-document-an-indicator.md)
   * [Part 12 - Snowballing for Literature](https://ipbes-data.github.io/IPBES_TG_Snowballing/IPBES_TG_Snowballing.html)
 * [Citations of IPBES Assessments](data-and-knowledge-management/citations-of-ipbes-assessments/README.md)
