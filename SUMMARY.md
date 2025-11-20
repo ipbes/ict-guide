@@ -44,6 +44,14 @@
 * [IPBES Ontology](ipbes-ontology-and-linked-open-data/ipbes-ontology.md)
 * [Linked Open Data](ipbes-ontology-and-linked-open-data/linked-open-data.md)
 
+## Further Guidance
+
+* [Software](further-guidance/software.md)
+* [FAIR and CARE](further-guidance/fair-and-care.md)
+* [Literature search](further-guidance/literature-search.md)
+* [Retracted references](further-guidance/retracted-references.md)
+* [Use of AI](further-guidance/use-of-ai.md)
+
 ## Repositories
 
 * [GitHub](repositories/github.md)

@@ -1,0 +1,9 @@
+# Use of AI
+
+There are various forms of artificial intelligence, and many could potentially play a role during the assessment process. For example, texts could be translated from a native language to English or from English to a native language, and AI can even make sure that cultural differences can be ‘translated’, AI can help with coding or the creation of figures and graphs, summarise texts or generate information.
+
+Artificial intelligence is possibly much more ingrained than expected, for example, many spelling checkers are based on artificial intelligence. This means that programs based on artificial intelligence keep getting better, as they are improved by corrections from users and improvements from training data, but also, that these programs train on your data, which is a potential threat to the confidentiality of the assessment drafts.&#x20;
+
+There are many different types of artificial intelligence, and for the most common ones, use cases are included in the Code of Practice for the ethical and responsible use of AI.&#x20;
+
+In short, the authors are always responsible for the assessment and should be able to explain and defend everything. There are risks associated with using AI, specifically, AI may be wrong or wrongly interpreted, AI is known to hallucinate, where it makes up results, sometimes including fake references (which may seem real, but don’t exist), and not always adding references where necessary, which could result in plagiarism issues. Additionally, confidentiality may be breached when AI uses the provided information to train their models. All in all, it is possible to use some forms of AI, but remain cautious. In case of any doubts, contact the technical support unit for data and knowledge management ([aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)).&#x20;
