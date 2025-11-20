@@ -39,9 +39,10 @@
   * [Assessment report on the diverse values and valuation of nature](https://ipbes-data.github.io/IPBES_Assessment_Directories/VA/index.html)
   * [First global assessment report on biodiversity and ecosystem services](https://ipbes-data.github.io/IPBES_Assessment_Directories/GA1/index.html)
 
-## Linked Open Data
+## IPBES Ontology and Linked Open Data
 
-* [IPBES Ontology](linked-open-data/ipbes-ontology.md)
+* [IPBES Ontology](ipbes-ontology-and-linked-open-data/ipbes-ontology.md)
+* [Linked Open Data](ipbes-ontology-and-linked-open-data/linked-open-data.md)
 
 ## Repositories
 
