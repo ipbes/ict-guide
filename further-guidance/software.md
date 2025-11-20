@@ -4,9 +4,7 @@
 
 IPBES adopted Zotero as its reference manager: it is free to use, it allows large groups to work together, and an intuitive plugin in Microsoft Word allows for easy linkage of the references in documents.
 
-References can be added to Zotero using the magic wand, using various identifiers, such as doi, ISBN, PubMed ids (PMIDs) or arXiv ids:
-
-References can also be added manually (using the ‘add file’ symbol on the left of the magic wand):
+References can be added to Zotero using the magic wand, using various identifiers, such as doi, ISBN, PubMed ids (PMIDs) or arXiv ids, or manually (using the ‘add file’ symbol on the left of the magic wand).
 
 The dropdown menu shows the different options of documents that can be added, except for ‘website’. When adding a website, choose any other option, and change it to website when entering the other information (it is the very last option in the drop down menu). Add as much metadata as possible, and make sure that an identifier is added (such as a url, as for references with a doi or isbn, it is advised to use the magic wand, so that all metadata is added automatically). &#x20;
 
