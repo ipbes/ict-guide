@@ -18,7 +18,7 @@ The ontology developed for representing intergovernmental reports and the broad 
 ### Table of content
 
 1. [Introduction](ipbes-ontology.md#id-1.-introduction)
-2. [Namespace Declarations](ipbes-ontology.md#id-2.-namespace-declarations)
+2. [Namespace Declaration](ipbes-ontology.md#id-2.-namespace-declarations)
 3. [The IPBES Ontology Description](ipbes-ontology.md#3.-the-ipbes-ontology-description)
 4. [Classes and Attributes](ipbes-ontology.md#4.-classes-and-attributes)
 5. [References](ipbes-ontology.md#id-5.-references)
