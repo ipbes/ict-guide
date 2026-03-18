@@ -7,5 +7,6 @@ These assessment directories have been propared by the technical support unit fo
 * [Values Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Values%20Assessment)
 * [Sustainable Use Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Sustainable%20Use%20Assessment)
 * [First Global Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Global%20Assessment%201)
+* [Land Degradation Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Land%20Degradation%20and%20Restoration%20Assessment)
 
 All source files are also available on our [GitHub](https://github.com/IPBES-Data/IPBES_LOD/tree/main). For any questions, feedback, or suggestions for future guidelines, contact [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
