@@ -24,12 +24,9 @@ The DRAFT follows the following scheme:
 
 &#x20; 0\.  [for versions leading up to the first order draft](b-versioning-scheme.md#draft-0)
 
-1. [for final version of FOD and for versions leading up to the SOD](b-versioning-scheme.md#draft-1)\
-
-2. [for final version of SOD and for version leading up to the TOD\
-   ](b-versioning-scheme.md#draft-2)
-3. [for final version of TOD and for versions leading up to the Plenary\
-   ](b-versioning-scheme.md#draft-3)
+1. [for final version of FOD and for versions leading up to the SOD](b-versioning-scheme.md#draft-1)<br>
+2. [for final version of SOD and for version leading up to the TOD<br>](b-versioning-scheme.md#draft-2)
+3. [for final version of TOD and for versions leading up to the Plenary<br>](b-versioning-scheme.md#draft-3)
 4. [for final versions as submitted to the Plenary for approval and for requested edits](b-versioning-scheme.md#draft-4)
 
 &#x20; _Drafts 5 - 9 are reserved for any potential versions between the version submitted to the Plenary_ \

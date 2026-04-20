@@ -4,8 +4,7 @@ One of the pillars of the [IPBES Data and Knowledge Management Policy](https://d
 
 &#x20;
 
-\
-
+<br>
 
 <figure><img src="https://www.ipbes.net/azblob/files/styles/xs_480/azblob/inline-images/BeFAIRandCARE.png.webp?itok=b4fH1L7b" alt=""><figcaption></figcaption></figure>
 

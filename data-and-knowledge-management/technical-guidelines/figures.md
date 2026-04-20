@@ -43,8 +43,7 @@ Depending on the type of figure, there are different items that need to be part 
   * Upload the native/original file of the figure (e.g. powerpoint file).
   * Upload the figure in an open format and high resolution (600 dpi).
   * Assign the license ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC BY](https://creativecommons.org/licenses/by/4.0/)). Divergent licenses need to be approved by TSU K\&D.
-  * Upload the caption in a separate text file together with the figure. The caption should contain the DOI of the figure and [disclaimer](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/cartographic-guidelines#ii.-disclaimers) where necessary. Please see [our guidance](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/Zenodo#b.-how-to-reserve-a-doi) on how to reserve a DOI before publishing.\
-
+  * Upload the caption in a separate text file together with the figure. The caption should contain the DOI of the figure and [disclaimer](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/cartographic-guidelines#ii.-disclaimers) where necessary. Please see [our guidance](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/Zenodo#b.-how-to-reserve-a-doi) on how to reserve a DOI before publishing.<br>
 * **Data driven figures**
   * Upload the workflows/scripts that were used to create the figure.
   * Upload the data sources themselves or specify the references to the data sources underlying the figure in the associated data management report, which can be included in the same repository.
@@ -61,8 +60,7 @@ Depending on the type of figure, there are different items that need to be part 
     * The source of the figure is cited properly in the Zotero library.
     * The figure has been reviewed for compliance with the IPBES guidelines, specifically the figure is color-blind friendly and if country borders are included, they follow [UN guidance](https://doi.org/10.5281/zenodo.5883632). If the figure is not compliant, options are explored to adapt the figure.
     * The figure is in high resolution (600 dpi or vector format).
-    * The caption has a [disclaimer](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/cartographic-guidelines#ii.-disclaimers) where necessary.\
-
+    * The caption has a [disclaimer](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/cartographic-guidelines#ii.-disclaimers) where necessary.<br>
 * **Adapted figures (modified)**
   * Upload the figure in an [open format](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/file-formats) and in high resolution (600 dpi or vector format).
   * Upload the caption in a separate text file together with the figure. The caption should contain the DOI of the figure and [disclaimer](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/cartographic-guidelines#ii.-disclaimers) where necessary. Please see [our guidance](https://ict.ipbes.net/ipbes-ict-guide/data-management/technical-guidelines/Zenodo#b.-how-to-reserve-a-doi) on how to reserve a DOI before publishing.
@@ -78,18 +76,18 @@ In this section, examples for each type of figure are provided with links to the
 
 ### Original schematic figure
 
-![Chapter 5 of the Values Assessment - Figure 5.4](../../.gitbook/assets/VA\_figure5.4)
+![Chapter 5 of the Values Assessment - Figure 5.4](../../.gitbook/assets/VA_figure5.4)
 
 The data deposit package associated with this figure can be found here: [https://doi.org/10.5281/zenodo.4359655](https://doi.org/10.5281/zenodo.4359655)
 
 ### **Original data driven figure**
 
-![Chapter 4 of the Values Assessment - Figure 4.15](../../.gitbook/assets/VA\_figure4.15)
+![Chapter 4 of the Values Assessment - Figure 4.15](../../.gitbook/assets/VA_figure4.15)
 
 The data deposit package associated with this figure can be found here: [https://doi.org/10.5281/zenodo.6468917](https://doi.org/10.5281/zenodo.6468917)
 
 ### **Adapted figure**
 
-![Chapter 3 of the Sustainable Use Assessment - Figure 3.21](../../.gitbook/assets/SU\_figure3.21)
+![Chapter 3 of the Sustainable Use Assessment - Figure 3.21](../../.gitbook/assets/SU_figure3.21)
 
 The data deposit package associated with this figure can be found here: [https://doi.org/10.5281/zenodo.6453019](https://doi.org/10.5281/zenodo.6453019)
