@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # IPBES ICT documentation
 
 ## Introduction
@@ -40,16 +44,16 @@ You can also reach us through the relevant technical support units of assessment
 
 ### Address
 
-IPBES Secretariat&#x20;
+IPBES Secretariat
 
-10th floor&#x20;
+10th floor
 
-Platz der Vereinten, Nationen 1&#x20;
+Platz der Vereinten, Nationen 1
 
 53113 Bonn (Germany)
 
-[![twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/IPBES) [![facebook icon](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/ipbes) [![github icon](http://i.imgur.com/0o48UoR.png)](https://github.com/ipbes)<img src=".gitbook/assets/icons8-linkedin-24.png" alt="https://linkedin.com/company/ipbes" data-size="line"><img src=".gitbook/assets/icons8-instagram-24.png" alt="https://instagram.com/ipbes_ " data-size="original">
+[![twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/IPBES) [![facebook icon](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/ipbes) [![github icon](http://i.imgur.com/0o48UoR.png)](https://github.com/ipbes)<img src=".gitbook/assets/icons8-linkedin-24.png" alt="https://linkedin.com/company/ipbes" data-size="line"><img src=".gitbook/assets/icons8-instagram-24.png" alt="https://instagram.com/ipbes_" data-size="original">
 
 ## Zenodo
 
-[https://zenodo.org/communities/?p=ipbes ](https://zenodo.org/communities/?p=ipbes)
+[https://zenodo.org/communities/?p=ipbes](https://zenodo.org/communities/?p=ipbes)
