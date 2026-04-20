@@ -1,36 +1,27 @@
-# Data and Knowledge Management Policy
+# Policy
 
 {% hint style="info" %}
-Download the latest version of the IPBES data management policy on  [https://doi.org/10.5281/zenodo.3551078](https://doi.org/10.5281/zenodo.3551078)
+Download the latest version (version 2.2) of the IPBES data management policy on  [https://doi.org/10.5281/zenodo.3551078](https://doi.org/10.5281/zenodo.3551078)
 {% endhint %}
 
 ## Objectives
 
 The data and knowledge management policy serves to ensure that data and knowledge is managed correctly and consistently throughout IPBES, and is maintained to the highest possible standard. Specific objectives include the following:
 
-* To ensure that data and knowledge produced during IPBES research activities, within assessments as well as assessment overarching, follow the FAIR and CARE principles;&#x20;
-* To ensure inclusivity and benefit sharing at all stages of the creation and distribution of IPBES products as well as access of all involved stakeholders and producers to the final IPBES products;&#x20;
-* To provide a framework for all IPBES entities, including technical support units and experts, to fulfil their responsibilities with respect to management, handling, preservation, and distribution of data and knowledge and generated data within the platform;&#x20;
-* To guide the experts to fulfil their responsibilities to develop one or more data and knowledge management reports which fulfil the requirements of this policy;&#x20;
-* To provide a suggested workflow for long term storage and preservation of IPBES products to the experts;&#x20;
-* To promote the usage of open-source software to enable users to recreate and use IPBES products without limitations
+* To ensure that data and knowledge produced during IPBES knowledge synthesis activities follow legal obligations and the FAIR and CARE principles;
+* To ensure that IPBES products are openly available and designed so they are accessible, to the maximum extent possible, allowing all scientists, IPBES members, IPLCs and other stakeholders to use them and consequently derive and share the benefits from them;&#x20;
+* To give full consideration to the use of advances in data technology, in particular AI (see also the Code of Practice for AI);
+* To provide guidance to all IPBES entities to fulfil their responsibilities with respect to the management, handling, preservation and distribution of data and knowledge, generated data, and IPBES products within the Platform;
+* To provide guidance for the long-term storage and preservation of IPBES products;
+* To promote the usage of open-source software to enable users to recreate and use IPBES products without limitations;
+* To guide the IPBES experts to fulfil their responsibilities to develop the necessary data and knowledge management reports (DMRs), which fulfil the requirements of the policy and support consistency, transparency and accountability in data practices.
 
 ## Principles
 
-* Open science: promotes the generation of knowledge through collaboration based on free and open access to knowledge, information, and data
-  * Accessibility: the free and open access to its deliverables and to the material on which they are based
-  * Inclusivity and benefit sharing: the co-operation in research and acceptance of the resulting products
-
-## Highlights
-
-* Includes the full incorporation of indigenous and local knowledge throughout the policy
-* Includes the requirement that IPBES products follow the FAIR and CARE principles&#x20;
-* Details specific provisions on reporting as well as accessibility, inclusivity, and benefit sharing&#x20;
-* Contains inputs and feedback from all Task Forces in IPBES&#x20;
-* Covers wide range of disciplines and different types of data&#x20;
-* Defines responsibilities and roles&#x20;
-* Includes commitment to support experts to follow the policy and to adopt their own data management reports&#x20;
-* Promotes transparency and reproducibility
+* FAIR and CARE principles should be followed to the fullest extent possible, in line with the commitment to open science and accessibility, transparency and reproducibility;
+* IPBES products and associated knowledge synthesis relating to IPLCs or their knowledge should follow the IPBES approach to recognising and working with ILK;
+* International, regional and national law should be complied with, which includes access and benefit-sharing, sovereign rights over genetic resources, rights of privacy, intellectual property rights, data governance regulations and confidentiality duties. If necessary, IPBES products should be anonymised before long-term storage and publication;
+* IPBES experts are encouraged to take advantage of advances in data technologies and to make best use of these digital tools throughout the assessment process. These technologies should be used responsibly, with particular attention to ethics, transparency and underlying biases.
 
 ## Contact
 
