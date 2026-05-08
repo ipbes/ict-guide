@@ -13,7 +13,7 @@ Last Updated: May 8th 2025
 
 DOI: [https://doi.org/10.5281/zenodo.5783347](https://doi.org/10.5281/zenodo.5783347)
 
-This technical guideline is a resource for everyone to cite previous IPBES assessments starting with the IPBES Global Assessment. BibTeX and RIS files are available to download beneath each citation. Assessments approved at each future Plenary session will be added to the list. Suggested citations are created by the assessments.
+This technical guideline is a resource for everyone wanting to cite IPBES assessments. BibTeX and RIS files are available to download beneath each citation. Assessments approved at each future Plenary session will be added to the list. Suggested citations are created by the assessments.
 
 ## I. Business and Biodiversity Assessment
 
