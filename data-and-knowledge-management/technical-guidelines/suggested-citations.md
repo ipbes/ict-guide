@@ -8,8 +8,8 @@ description: Technical Guideline Series
 
 _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
-Version: 6.0\
-Last Updated: October 6th 2025
+Version: 7.0\
+Last Updated: May 8th 2025
 
 DOI: [https://doi.org/10.5281/zenodo.5783347](https://doi.org/10.5281/zenodo.5783347)
 
