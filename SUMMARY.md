@@ -36,6 +36,8 @@
   * [Regional Assessment for Asia and the Pacific](data-and-knowledge-management/citations-of-ipbes-assessments/regional-assessment-for-asia-and-the-pacific.md)
   * [Regional Assessment for Europe and Central Asia](data-and-knowledge-management/citations-of-ipbes-assessments/regional-assessment-for-europe-and-central-asia.md)
   * [Land Degradation Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/land-degradation-assessment.md)
+  * [Pollinators Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/pollinators-assessment.md)
+  * [Scenarios and Models Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/scenarios-and-models-assessment.md)
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
   * [Underlying bibliographic data and research materials of the IPBES assessment reports](data-and-knowledge-management/assessment-directories/underlying-bibliographic-data-and-research-materials-of-the-ipbes-assessment-reports.md)
   * [Thematic assessment report of the underlying causes of biodiversity loss and the determinants of transformative change and options for achieving the 2050 vision for biodiversity](https://ipbes-data.github.io/IPBES_Assessment_Directories/TCA/index.html)

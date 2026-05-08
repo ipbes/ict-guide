@@ -23,3 +23,5 @@ This is a resource for everyone wanting to cite IPBES assessments. BibTeX and RI
 10. [Regional Assessment for Asia and the Pacific](regional-assessment-for-asia-and-the-pacific.md)
 11. [Regional Assessment for Europe and Central Asia](regional-assessment-for-europe-and-central-asia.md)
 12. [Land Degradation Assessment](land-degradation-assessment.md)
+13. [Pollinators Assessment](pollinators-assessment.md)
+14. [Scenarios and Models Assessment](scenarios-and-models-assessment.md)
