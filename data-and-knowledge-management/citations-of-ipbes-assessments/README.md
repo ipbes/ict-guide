@@ -4,8 +4,8 @@
 
 _For any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
-Version: 6.0\
-Last Updated: October 6th 2025
+Version: 7.0\
+Last Updated: May 8th 2026
 
 DOI: [https://doi.org/10.5281/zenodo.5783347](https://doi.org/10.5281/zenodo.5783347)
 
@@ -18,3 +18,7 @@ This is a resource for everyone to cite previous IPBES assessments starting with
 5. [Sustainable Use Assessment](sustainable-use-assessment.md)
 6. [Values Assessment](values-assessment.md)
 7. [Global Assessment](global-assessment.md)
+8. [Regional Assessment for Africa](regional-assessement-for-africa.md)
+9. [Regional Assessment for the Americas](regional-assessment-for-the-americas.md)
+10. [Regional Assessment for Asia and the Pacific](regional-assessment-for-asia-and-the-pacific.md)
+11. [Regional Assessment for Europe and Central Asia](regional-assessment-for-europe-and-central-asia.md)
