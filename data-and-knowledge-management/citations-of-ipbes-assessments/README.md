@@ -9,7 +9,7 @@ Last Updated: May 8th 2026
 
 DOI: [https://doi.org/10.5281/zenodo.5783347](https://doi.org/10.5281/zenodo.5783347)
 
-This is a resource for everyone to cite previous IPBES assessments starting with the IPBES Global Assessment. BibTeX and RIS files are available to download beneath each citation. Assessments approved at each future Plenary session will be added to the list. Suggested citations are created by the assessments.
+This is a resource for everyone wanting to cite IPBES assessments. BibTeX and RIS files are available to download beneath each citation. Assessments approved at each future Plenary session will be added to the list. Suggested citations are created by the assessments.
 
 1. [Business and Biodiversity Assessment](business-and-biodiversity-assessment.md)
 2. [Transformative Change Assessment](transformative-change-assessment.md)
@@ -22,3 +22,4 @@ This is a resource for everyone to cite previous IPBES assessments starting with
 9. [Regional Assessment for the Americas](regional-assessment-for-the-americas.md)
 10. [Regional Assessment for Asia and the Pacific](regional-assessment-for-asia-and-the-pacific.md)
 11. [Regional Assessment for Europe and Central Asia](regional-assessment-for-europe-and-central-asia.md)
+12. [Land Degradation Assessment](land-degradation-assessment.md)
