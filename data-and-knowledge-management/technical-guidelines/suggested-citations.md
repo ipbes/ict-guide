@@ -677,3 +677,145 @@ DOI: [https://doi.org/10.5281/zenodo.3832107](https://doi.org/10.5281/zenodo.383
 > DOI: [https://doi.org/10.5281/zenodo.3832107](http://doi.org/10.5281/zenodo.3832107)
 
 Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Global_Assessment/Bib/Global_Assessment_Chapter6.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Global_Assessment/Ris/Global_Assessment_Chapter6.ris).
+
+
+
+## VII. Global Assessment
+
+### **Full report**
+
+**The IPBES Regional assessment report on biodiversity and ecosystem services for Africa**\
+DOI: [https://doi.org/10.5281/zenodo.3236066](https://doi.org/10.5281/zenodo.3236066)
+
+> IPBES (2018). The IPBES Regional assessment report on biodiversity and ecosystem services for Africa. Archer, E., Dziba, L., Mulongoy, K. J., Maoela, M. A., and Walters, M. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3236066](https://doi.org/10.5281/zenodo.3236066)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Africa/Bib/Regional_Asessment_Africa_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Africa/Ris/Regional_Assessment_Africa_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Africa of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3236188](https://doi.org/10.5281/zenodo.3236188)
+
+> IPBES (2018). Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Africa. Archer, E., Dziba, L., Mulongoy, K. J., Maoela, M. A., Walters, M., Biggs, R., Cormier-Salem, M.-C., DeClerck, F., Diaw, M. C., Dunham, A. E.,Failler, P., Gordon, C., Harhash, K. A., Kasisi, R., Kizito, F., Nyingi, W. D., Oguge, N., Osman-Elasha, B., Stringer, L. C., Tito de Moralis, L., Assogbadjo, A., Egoh, B. N., Halmy, M. W., Heubach, K., Mensah, A., Pereira, L., and Sitas, N. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3236188](https://doi.org/10.5281/zenodo.3236188)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Africa/Bib/Regional_Assessment_Africa_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Africa/Ris/Regional_Assessment_Africa_SPM.ris).
+
+## IX. Regional Assessment for the Americas
+
+### **Full report**
+
+**The IPBES Regional assessment report on biodiversity and ecosystem services for the Americas**\
+DOI: [https://doi.org/10.5281/zenodo.3236252](https://doi.org/10.5281/zenodo.3236252)
+
+> IPBES (2018). The IPBES Regional assessment report on biodiversity and ecosystem services for the Americas. Rice, J., Seixas, C. S., Zaccagnini, M. E., Bedoya-Gaitán, M., and Valderrama, N. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3236252](https://doi.org/10.5281/zenodo.3236252)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Americas/Bib/Regional_Assessment_Americas_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Americas/Ris/Regional_Assessment_Americas_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for the Americas of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3236291](https://doi.org/10.5281/zenodo.3236291)
+
+> IPBES (2018). Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for the Americas of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Rice, J., Seixas, C. S., Zaccagnini, M. E., Bedoya-Gaitán, M., Valderrama, N., Anderson, C. B., Arroyo, M. T. K., Bustamante, M., Cavender-Bares, J., Diaz-de-Leon, A., Fennessy, S., García Márquez, J. R., Carcia, K., Helmer, E. H., Herrera, B., Klatt, B., Ometo, J. P., Rodríguez Osuna, V., Scarano, F. R., Schill, S., and Farinaci, J. S. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3236291](https://doi.org/10.5281/zenodo.3236291)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Americas/Bib/Regional_Assessment_Americas_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Americas/Ris/Regional_Assessment_Americas_SPM.ris).
+
+## X. Regional Assessment for Asia and the Pacific
+
+### **Full report**
+
+**The IPBES Regional assessment report on biodiversity and ecosystem services for Asia and the Pacific**\
+DOI: [https://doi.org/10.5281/zenodo.3237373](https://doi.org/10.5281/zenodo.3237373)
+
+> IPBES (2018). The IPBES Regional assessment report on biodiversity and ecosystem services for Asia and the Pacific. Karki, M., Senaratna Sellamuttu, S., Okayasu, S., and Suzuki, W. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237373](https://doi.org/10.5281/zenodo.3237373)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Asia_Pacific/Bib/Regional_Assessment_Asia_Pacific_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Asia_Pacific/Ris/Regional_Assessment_Asia_Pacific_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Asia and the Pacific of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3237382](https://doi.org/10.5281/zenodo.3237382)
+
+> IPBES (2018). Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Asia and the Pacific of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Karki, M., Senaratna Sellamuttu, S., Okayasu, S., Suzuki, W., Acosta, L. A., Alhafedh, Y., Anticamara, J. A., Ausseil, A. G., Davies, K., Gasparatos, A., Gundimeda, H.,Faridah-Hanum, I., Kohsaka, R., Kumar, R., Managi, S., Wu, N., Rajvanshi, A., Rawat, G. S., Riordan, P., Sharma, S, Virk, A.,Wang, C., Yahara, T., and Youn, Y. C. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237382](https://doi.org/10.5281/zenodo.3237382)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Asia_Pacific/Bib/Regional_Assessment_Asia_Pacific_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Asia_Pacific/Ris/Regional_Assessment_Asia_Pacific_SPM.ris).
+
+## XI. Regional Assessment for Europe and Central Asia
+
+### **Full report**
+
+**The IPBES Regional assessment report on biodiversity and ecosystem services for Europe and Central Asia**\
+DOI: [https://doi.org/10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
+
+> IPBES (2018). The IPBES Regional assessment report on biodiversity and ecosystem services for Europe and Central Asia. Rounsevell, M., Fischer, M., Torre-Marin Rando, A., and Mader, A. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Europe_Central_Asia/Bib/Regional_Assessment_Europe_Central_Asia_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Europe_Central_Asia/Ris/Regional_Assessment_Europe_Central_Asia_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Europe and Central Asia of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3237467](https://doi.org/10.5281/zenodo.3237467)
+
+> IPBES (2018). Summary for policymakers of the regional assessment report on biodiversity and ecosystem services for Europe and Central Asia of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Fischer, M., Rounsevell, M., Torre-Marin Rando, A., Mader, A., Church, M., Elbakidze, V., Elias, T., Hahn, P. A., Harrison, P. A., Hauck, J., Martín-López, B., Ring, I., Sandström, C., Sousa Pinto, I., Visconti, P., Zimmermann, N. E., and Christie, M. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237467](https://doi.org/10.5281/zenodo.3237467)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Europe_Central_Asia/Bib/Regional_Assessment_Europe_Central_Asia_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Regional_Assessment_Europe_Central_Asia/Ris/Regional_Assessment_Europe_Central_Asia_SPM.ris).
+
+## XII. Land degradation Assessment
+
+### **Full report**
+
+**The IPBES Assessment Report on Land Degradation and Restoration**\
+DOI: https://doi.org/10.5281/zenodo.3237392
+
+> IPBES (2018). The IPBES Assessment Report on Land Degradation and Restoration. Montanarella, L., Scholes, R., and Brainich, A. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237392](https://doi.org/10.5281/zenodo.3237392)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Land_Degradation/Bib/Land_Degradation_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Land_Degradation/Ris/Land_Degradation_Full_Report.ris).
+
+**Summary for Policy Makers**
+
+**Summary for policymakers of the assessment report on land degradation and restoration of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3237410](https://doi.org/10.5281/zenodo.3237410)
+
+> IPBES (2018). Summary for policymakers of the assessment report on land degradation and restoration of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Scholes, R., Montanarella, L., Brainich, A., Barger, N., ten Brink, B., Cantele, M., Erasmus, B., Fisher, J., Gardner, T., Holland, T. G., Kohler, F., Kotiaho, J. S., Von Maltitz, G., Nangendo, G., Pandit, R., Parrotta, J., Potts, M. D., Prince, S., Sankaran, M., and Willemen, L. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3237410](https://doi.org/10.5281/zenodo.3237410)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Land_Degradation/Bib/Land_Degradation_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Land_Degradation/Ris/Land_Degradation_SPM.ris).
+
+## XIII. Pollinators Assessment
+
+### **Full report**
+
+**The Assessment Report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on Pollinators, Pollination and Food Production**\
+DOI: [https://doi.org/10.5281/zenodo.3402856](https://doi.org/10.5281/zenodo.3402856)
+
+> IPBES (2016). The Assessment Report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on Pollinators, Pollination and Food Production. Potts, S. G., Imperatriz-Fonesca, V. L., and Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3402856](https://doi.org/10.5281/zenodo.3402856)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Pollinators/Bib/Pollinators_Assessment_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Pollinators/Ris/Pollinators_Assessment_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for Policymakers of the Assessment Report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on Pollinators, Pollination and Food Production**\
+DOI: [https://doi.org/10.5281/zenodo.2616457](https://doi.org/10.5281/zenodo.2616457)
+
+> IPBES (2016). Summary for Policymakers of the Assessment Report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on Pollinators, Pollination and Food Production. Potts, S. G., Imperatriz-Fonseca, V. L., Ngo, H. T., Biesmeijer, J. C., Breeze, T. D., Dicks, L. V., Garibaldi, L. A., Hill, R., Settele, J., Vanbergen, A. J., Aizen, M. A., Cunningham, S. A., Eardley, C., Freitas, B. M., Gallai, N., Kevan, P. G., Kovács-Hostyánszki, A., Kwapong, P. K., Li, J., Li, X., Martins, D. J., Nates-Parra, G., Pettis, J. S., Rader, R., and Viana, B. F. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.2616457](https://doi.org/10.5281/zenodo.2616457)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Pollinators/Bib/Pollinators_Assessment_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Pollinators/Ris/Pollinators_Assessment_SPM.ris).
+
+## XIV. Scenarios and Models Assessment
+
+### **Full report**
+
+**The methodological assessment report on scenarios and models of biodiversity and ecosystem services**\
+DOI: [https://doi.org/10.5281/zenodo.3235428](https://doi.org/10.5281/zenodo.3235428)
+
+> IPBES (2016). The methodological assessment report on scenarios and models of biodiversity and ecosystem services. Ferrier, S., Ninan, K. N., Leadley, P., Alkemade, R., Acosta, L. A., Akçakaya, H. R., Brotons, L., Cheung, W. W. L., Christensen, V., Harhash, K. A., and Kabubo-Mariara, J., Lundquist, C., Obersteiner, M., Perira, H. M., Peterson, G., Pichs-Madruga, R., Ravindranath, N., Rondinini, C., and Wintle, B. A. (eds). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3235428](https://doi.org/10.5281/zenodo.3235428)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Scenarios_and_Models_Assessment/Bib/Scenarios_and_Models_Full_Report.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Scenarios_and_Models_Assessment/Ris/Scenarios_and_Models_Full_Report.ris).
+
+### **Summary for Policy Makers**
+
+**Summary for policymakers of the methodological assessment report of scenarios and models of biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services**\
+DOI: [https://doi.org/10.5281/zenodo.3235274](https://doi.org/10.5281/zenodo.3235274)
+
+> IPBES (2016). Summary for policymakers of the methodological assessment report of scenarios and models of biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Ferrier, S., Ninan, K. N., Leadley, P., Alkemade, R., Acosta, L. A., Akçakaya, H. R., Brotons, L., Cheung, W. W. L., Christensen, V., Harhash, K. A., Kabubo-Mariara, J., Lundquist, C., Obersteiner, M., Perira, H. M., Peterson, G., Pichs-Madruga, R., Ravindranath, N., Rondinini, C., and Wintle, B. A. (eds.). IPBES secretariat, Bonn, Germany. DOI: [https://doi.org/10.5281/zenodo.3235274](https://doi.org/10.5281/zenodo.3235274)
+
+Download the [BibTeX file here](https://ipbesdata.github.io/Citations/Scenarios_and_Models_Assessment/Bib/Scenarios_and_Models_SPM.bib). Download the [RIS file here](https://ipbesdata.github.io/Citations/Scenarios_and_Models_Assessment/Ris/Scenarios_and_Models_SPM.ris).
