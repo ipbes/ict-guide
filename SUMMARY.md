@@ -39,12 +39,12 @@
   * [Pollinators Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/pollinators-assessment.md)
   * [Scenarios and Models Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/scenarios-and-models-assessment.md)
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
-  * [Underlying bibliographic data and research materials of the IPBES assessment reports](data-and-knowledge-management/assessment-directories/underlying-bibliographic-data-and-research-materials-of-the-ipbes-assessment-reports.md)
   * [Thematic assessment report of the underlying causes of biodiversity loss and the determinants of transformative change and options for achieving the 2050 vision for biodiversity](https://ipbes-data.github.io/IPBES_Assessment_Directories/TCA/index.html)
   * [Thematic assessment report on invasive alien species and their control](https://ipbes-data.github.io/IPBES_Assessment_Directories/IAS/index.html)
   * [Assessment report on the sustainable use of wild species](https://ipbes-data.github.io/IPBES_Assessment_Directories/SUA/index.html)
   * [Assessment report on the diverse values and valuation of nature](https://ipbes-data.github.io/IPBES_Assessment_Directories/VA/index.html)
   * [First global assessment report on biodiversity and ecosystem services](https://ipbes-data.github.io/IPBES_Assessment_Directories/GA1/index.html)
+* [Underlying evidence of the IPBES reports](data-and-knowledge-management/underlying-evidence-of-the-ipbes-reports.md)
 
 ## Ontology and Linked Open Data
 

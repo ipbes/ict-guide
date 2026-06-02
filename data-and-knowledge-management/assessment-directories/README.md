@@ -8,6 +8,6 @@ These assessment directories have been propared by the technical support unit fo
 * [Sustainable Use Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/SUA/index.html)
 * [First Global Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/GA1/index.html)
 
-The publicly available libraries for approved IPBES assessments and the IPBES ILK library can be found can be found [here](underlying-bibliographic-data-and-research-materials-of-the-ipbes-assessment-reports.md).
+The publicly available libraries for approved IPBES assessments and the IPBES ILK library can be found can be found [here](/broken/pages/Lc6LSYw67hWfcvCBDFrJ).
 
 All source files are also available on our [GitHub](https://github.com/ipbesdata/Technical-Guideline-Series). For any questions, feedback, or suggestions for future guidelines, contact [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de).
