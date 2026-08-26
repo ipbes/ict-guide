@@ -39,6 +39,8 @@
   * [Pollinators Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/pollinators-assessment.md)
   * [Scenarios and Models Assessment](data-and-knowledge-management/citations-of-ipbes-assessments/scenarios-and-models-assessment.md)
 * [Assessment Directories](data-and-knowledge-management/assessment-directories/README.md)
+  * [Methodological assessment report on the impact of business and biodiversity and nature's contributions to people](https://ipbes-data.github.io/IPBES_Assessment_Directories/BBA/index.html)
+  * [Thematic assessment report on interlinkages among biodiversity, water, food and health](https://ipbes-data.github.io/IPBES_Assessment_Directories/NXS/index.html)
   * [Thematic assessment report of the underlying causes of biodiversity loss and the determinants of transformative change and options for achieving the 2050 vision for biodiversity](https://ipbes-data.github.io/IPBES_Assessment_Directories/TCA/index.html)
   * [Thematic assessment report on invasive alien species and their control](https://ipbes-data.github.io/IPBES_Assessment_Directories/IAS/index.html)
   * [Assessment report on the sustainable use of wild species](https://ipbes-data.github.io/IPBES_Assessment_Directories/SUA/index.html)

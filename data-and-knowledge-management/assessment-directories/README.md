@@ -2,6 +2,8 @@
 
 These assessment directories have been propared by the technical support unit for data, and reviewed by the task force on knowledge and data and the technical support unit for invasive alien species.
 
+* [Business and Biodiversity Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/BBA/index.html)
+* [Nexus Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/NXS/index.html)
 * [Transformative Change Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/TCA/index.html)
 * [Invasive Alien Species Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/IAS/index.html)
 * [Values Assessment](https://ipbes-data.github.io/IPBES_Assessment_Directories/VA/index.html)
