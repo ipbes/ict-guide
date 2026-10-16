@@ -6,4 +6,6 @@ A literature platform that is transparent and produces reproducible results, is 
 
 Searches can be done based on keywords, or references that were cited in literature that are highlighted by the experts based on expert knowledge. Automatic searches based on citations is called snowballing, which can go backwards (all references that were cited in a keypaper, and the references that were cited in those papers, etc. or forward, discovering all literature that cited the keypaper.
 
-To assist snowball searches, a dedicated technical guideline was developed: [Technical guideline on snowball searches and literature analyses using OpenAlex](https://ipbes-data.github.io/IPBES_TG_Snowballing/).
+To assist snowball searches, a dedicated technical guideline was developed: [Technical guideline on snowball searches and literature analyses using OpenAlex](https://ipbes-data.github.io/IPBES_TG_Snowballing/).\
+To assist literature searches a [white paper on Open Alex](https://ipbes-data.github.io/IPBES_WP_OpenAlex/IPBES_WP_OpenAlex.html) was written, and a [Google Drive folder with webinar materials](https://drive.google.com/drive/folders/13ld1pVBnTZrOiyxS1s_oa3BTv3KPvvR0) was developed.
+
