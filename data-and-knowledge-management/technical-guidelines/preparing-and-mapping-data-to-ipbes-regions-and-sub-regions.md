@@ -1,12 +1,13 @@
 ---
 description: Technical Guideline Series
+hidden: true
 ---
 
 # Part 2 - Preparing and Mapping Data to IPBES Regions and Sub-regions
 
 **Prepared by Joy Kumagai - Technical Support Unit of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-&#xNAN;_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 2.3\
 Last Updated: 15 August 2022

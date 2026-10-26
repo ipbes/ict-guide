@@ -2,11 +2,11 @@
 description: Technical Guideline Series
 ---
 
-# Part 4 - Guidelines for Colour
+# Guidelines for Colour
 
 **Revised by Renske Gudde - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data and Rainer M. Krug - IPBES Task Force on Knowledge and Data**\
-&#xNAN;_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 1.2\
 Last Updated: 9 November 2023

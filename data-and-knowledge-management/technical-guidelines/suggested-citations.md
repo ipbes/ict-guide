@@ -1,5 +1,6 @@
 ---
 description: Technical Guideline Series
+hidden: true
 ---
 
 # Part 7 - How to Cite IPBES Assessment Reports

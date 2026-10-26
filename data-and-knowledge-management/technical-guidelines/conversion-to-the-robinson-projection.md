@@ -1,5 +1,6 @@
 ---
 description: Technical Guideline Series
+hidden: true
 ---
 
 # Part 1 - Conversion to the Robinson Projection
@@ -8,7 +9,7 @@ description: Technical Guideline Series
 
 **Prepared by Joy Kumagai - Technical Support Unit (TSU) of Knowledge and Data**\
 **Reviewed by Aidin Niamir - Head of the Technical Support Unit of Knowledge and Data**\
-&#xNAN;_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+_&#x46;or any inquires please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
 
 Version: 2.1\
 Last Updated: 15 July 2022
