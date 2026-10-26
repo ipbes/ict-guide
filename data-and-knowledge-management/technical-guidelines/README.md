@@ -2,7 +2,7 @@
 
 These technical guidelines on data management, handling, and delivery have been prepared by the technical support unit on knowledge and data and reviewed by the task force on knowledge and data.
 
-* [Map guidelines for IPBES experts](map-guidelines-for-ipbes-experts.md)
+* [Map guidelines for IPBES experts](https://ict.ipbes.net/ipbes-ict-guide/data-and-knowledge-management/technical-guidelines/map-guidelines-for-ipbes-experts)
 * [Guidelines for Colour](https://ict.ipbes.net/geoinformation/technical-guidelines/guidelines-for-colour)
 * [File Formats](https://ict.ipbes.net/data-management/technical-guidelines/file-formats)
 * [How to Upload to and Download from Zenodo](https://ict.ipbes.net/data-management/technical-guidelines/Zenodo)
