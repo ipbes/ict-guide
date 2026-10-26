@@ -14,7 +14,7 @@ Version 1.0
 
 Last updated: 26 October 2026
 
-DOI:
+DOI: [10.5281/zenodo.23662892](https://doi.org/10.5281/zenodo.23662892)
 
 #### Use(fulness) of maps
 
