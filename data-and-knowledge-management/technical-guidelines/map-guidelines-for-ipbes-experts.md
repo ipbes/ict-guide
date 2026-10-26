@@ -1,4 +1,20 @@
+---
+description: Technical Guideline Series
+---
+
 # Map guidelines for IPBES experts
+
+**Developed by Annabell Macphee and Renske Gudde**
+
+**Reviewed by Aidin Niamir - Head of the Technical Support Unit of Data and Knowledge Management**
+
+_For any inquiries, please contact_ [aidin.niamir@senckenberg.de](mailto:aidin.niamir@senckenberg.de)
+
+Version 1.0
+
+Last updated: 26 October 2026
+
+DOI:
 
 #### Use(fulness) of maps
 
