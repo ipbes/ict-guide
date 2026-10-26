@@ -41,7 +41,7 @@ When country borders are necessary, please contact the data tsu for advice ([aid
 #### &#x20;R and RStudio
 
 To use the script developed to create maps for IPBES products, R and RStudio are needed. They can be downloaded at [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) or [https://posit.co/downloads](https://posit.co/downloads)\
-R and RStudio are commonly used for statistical analysis and are free to download. Once downloaded, a tutorial script on basic map creation can be downloaded here. Default options are included in the script, such as the use of the Equal Earth projection, the inclusion of all continents including Antarctica and a colour blind-friendly colour scheme. The script can be adjusted to work with any relevant vector or raster data and can be updated to suit any personal preferences.
+R and RStudio are commonly used for statistical analysis and are free to download. Once downloaded, a [tutorial script on basic map creation can be downloaded here](https://github.com/IPBES-Data/TG_Maps_Equal_Earth_Projection). Default options are included in the script, such as the use of the Equal Earth projection, the inclusion of all continents including Antarctica and a colour blind-friendly colour scheme. The script can be adjusted to work with any relevant vector or raster data and can be updated to suit any personal preferences.
 
 #### _A. Cartographic Elements_
 
